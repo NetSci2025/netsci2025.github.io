@@ -1,0 +1,4 @@
+buttons:
+  - text: Submit an abstract
+    url: /calls
+    disabled: false

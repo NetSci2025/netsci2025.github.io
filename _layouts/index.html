@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% include header.html %}
+
+
+
+<main class="my-4">
+    <div class="container-fluid hero-image" style="background-image: url('{{ site.baseurl }}/assets/images/maastricht.jpg'); height: 800px; background-size: cover;">
+        <div class="hero-text">
+            <h1 class="display-3 extra-bold">{{ page.title }}</h1>
+            <p class="lead bold">{{ description }}</p>
+            <div>
+                {% assign buttons = site.data.index.buttons %}
+                {% for button in buttons %}
+                <a href="{{ button.url }}" class="btn btn-primary btn-lg">{{ button.text }}</a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-5 bg-gray-2 rounded p-4">
+        {{ content }}
+    </div>
+
+</main>
+
+<!-- {% include footer.html %} -->
+
+
+

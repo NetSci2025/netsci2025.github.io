@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% include header.html %}
+
+<style>
+    main {
+        padding-top: 70px;
+    }
+</style>
+
+<main class="my-4">
+    <div class="container">
+        {% if page.title == "Calls" %}
+        <h1 class="display-5">Call for Abstracts</h1>
+        {% else %}
+        <h1 class="display-5">{{ page.title }}</h1>
+        {% endif %}
+        <div class="row">
+        <div class="mt-12">
+            {% assign buttons = site.data.calls.buttons %}
+            {% for button in buttons %}
+            <a href="{{ button.url }}" class="btn btn-primary btn-lg">{{ button.text }}</a>
+            {% endfor %}
+
+        </div>
+    </div>
+        <div class="row">
+            <div class="col-md-12">
+                {{ content }}
+            </div>
+        </div>
+        <hr class="my-4">
+
+    </div>
+</main>
+
+<!-- {% include footer.html %} -->
+
+
+
+
+

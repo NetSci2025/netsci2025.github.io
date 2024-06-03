@@ -1,0 +1,44 @@
+groups:
+  - title: Scientific committee
+    columns: false
+    members:
+      - name: Leto
+        surname: Peel
+        email: l.peel@maastrichtuniversity.nl
+      - name: Michael
+        surname: Schaub
+      - name: Luis
+        surname: Rocha
+      - name: Clara
+        surname: Stegehuis
+      - name: Daniele
+        surname: Marinazzo
+      - name: Javier
+        surname: Garcia-Bernardo
+      - name: Natasa
+        surname: Conrad
+      - name: Christian
+        surname: Bick
+      - name: Alexandre
+        surname: Bovet
+      - name: Caterina
+        surname: De Bacco
+      - name: Adriana
+        surname: Iamnitchi
+      - name: Timoteo
+        surname: Carletti
+      - name: Aida
+        surname: Abiad Monge
+      - name: Fariba
+        surname: Karimi
+      - name: Ivan
+        surname: Kryven
+      - name: Harald
+        surname: Schmidt
+  # - title: Local organizer
+  #   columns: false
+  #   members:
+  #     - name: Pygoscelis
+  #       surname: Papua
+  #       email: gentoo@pengu.in
+
