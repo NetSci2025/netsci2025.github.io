@@ -2,7 +2,7 @@
 layout: contributors
 title: Organizers
 description: List of organizers
-navorder: 4
+navorder: 3
 ---
 
 <!-- ### Scientific committee
