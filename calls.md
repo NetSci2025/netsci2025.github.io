@@ -5,6 +5,12 @@ description: Schedule of talks and activities
 navorder: 1
 ---
 
+## Call for abstracts
+To be announced
+
+## Call for satellites
+To be announced
+
 
 ## Important dates 
 - Abstract Submission: TBA
@@ -13,7 +19,7 @@ navorder: 1
 
 
 
-## NetSci
+<!-- ## NetSci
 
 The International School and Conference on Network Science, NetSci, is the flagship conference on Complex Networks promoted by the Network Science Society. It brings under one umbrella a wide variety of leading researchers, practitioners, and stakeholders with a direct interest in **Network Science**, from Physics to Computer Science, Biology, Social Sciences, Economics, and Technological and Communication Networks, among others. The conference focuses on interdisciplinary research on all aspects of network science and modeling, ranging from foundational works to applications in various disciplines.
 
@@ -63,7 +69,7 @@ English is the official language of the conference. As a result, all papers must
 ### Authors List
 
 The authors' name(s) and affiliation(s) appear below the title in capital and lower case letters. NetSci Committee does not perform blind reviews, so be sure to include the author list in your submitted paper. Papers with multiple authors and affiliations may require two or more lines for this information. The order of the authors on the document should exactly match in number and order the authors typed into the online submission form.
-Submit your abstract
+Submit your abstract -->
 
 <!-- ### Before you begin the submission process, please prepare the following information:
 
@@ -83,7 +89,7 @@ You will receive an automated email with your submission summary, your abstract 
 The Secretariat will process your request and send you an official confirmation
 
  -->
-
+<!-- 
 ## Broad Topics
 
 1. Higher-Order Networks;
@@ -116,7 +122,7 @@ The Secretariat will process your request and send you an official confirmation
 28. Linguistic Networks;
 29. Synchronization and control;
 30. Network Science and Education;
-31. Network medicine.
+31. Network medicine. -->
 
 <!-- ## How to Apply
 

@@ -4,7 +4,6 @@ groups:
     members:
       - name: Leto
         surname: Peel
-        email: l.peel@maastrichtuniversity.nl
       - name: Michael
         surname: Schaub
       - name: Luis

@@ -5,6 +5,8 @@ description: List of organizers
 navorder: 3
 ---
 
+If you have any questions, please do not hesitate to contact us: [netsci2025@gmail.com](mailto:netsci2025@gmail.com)
+
 <!-- ### Scientific committee
 <div class="row">
   <div class="col-md-4">

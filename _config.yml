@@ -1,9 +1,16 @@
 title: NetSci 2025
 description: International School and Conference on Network Science
 
-# Online
+url: https://NetSci2025.github.io/test
+
+# Locally
 baseurl: ""
-url: https://NetSci2025.github.io
+#remote_theme: piazzai/jekyll-nagymaros
+
+# Online
+#baseurl: "/test"
+#theme: jekyll-nagymaros
+
 
 copyright: Place Holder
 indexing: true
