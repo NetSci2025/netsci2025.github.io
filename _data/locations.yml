@@ -2,11 +2,11 @@ center: 50.8484, 5.6888
 zoom: 13
 
 markers:
-  - title: Forum 100, 6229 GV Maastricht
-    text: MECC
+  - title: Congress center (MECC)
+    text: Forum 100, 6229 GV Maastricht
     latlng: 50.8387222, 5.7121196
-  - title: Tongersestraat 53, 6211 LM Maastricht
-    text: School of business and economics maastricht
+  - title: School of business and economics maastricht (SBE)
+    text: Tongersestraat 53, 6211 LM Maastricht
     latlng: 50.8449465, 5.6848629
 
 areas:
