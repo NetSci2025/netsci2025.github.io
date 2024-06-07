@@ -4,36 +4,52 @@ groups:
     members:
       - name: Leto
         surname: Peel
-      - name: Michael
-        surname: Schaub
-      - name: Luis
-        surname: Rocha
-      - name: Clara
-        surname: Stegehuis
-      - name: Daniele
-        surname: Marinazzo
-      - name: Javier
-        surname: Garcia-Bernardo
-      - name: Natasa
-        surname: Conrad
-      - name: Christian
-        surname: Bick
-      - name: Alexandre
-        surname: Bovet
-      - name: Caterina
-        surname: De Bacco
+        affiliation: Maastricht University
       - name: Adriana
         surname: Iamnitchi
+        affiliation: Maastricht University
+      - name: Michael
+        surname: Schaub
+        affiliation: RWTH Aachen University
+      - name: Luis E C
+        surname: Rocha
+        affiliation: Ghent University
+      - name: Clara
+        surname: Stegehuis
+        affiliation: Twente University
+      - name: Daniele
+        surname: Marinazzo
+        affiliation: Ghent University 
+      - name: Javier
+        surname: Garcia-Bernardo
+        affiliation: Utrecht University
+      - name: Natasa
+        surname: Conrad
+        affiliation: Zuse Institute Berlin
+      - name: Christian
+        surname: Bick
+        affiliation: Vrije Universiteit Amsterdam
+      - name: Alexandre
+        surname: Bovet
+        affiliation: University of Zurich
+      - name: Caterina
+        surname: De Bacco
+        affiliation: Max Planck Institute for Intelligent Systems
       - name: Timoteo
         surname: Carletti
+        affiliation: University of Namur
       - name: Aida
         surname: Abiad Monge
+        affiliation: Eindhoven University of Technology
       - name: Fariba
         surname: Karimi
+        affiliation: Graz University of Technology
       - name: Ivan
         surname: Kryven
+        affiliation: Utrecht University
       - name: Harald
         surname: Schmidt
+        affiliation: Maastricht University
   # - title: Local organizer
   #   columns: false
   #   members:
