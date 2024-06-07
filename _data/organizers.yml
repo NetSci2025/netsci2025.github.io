@@ -24,7 +24,7 @@ groups:
         surname: Garcia-Bernardo
         affiliation: Utrecht University
       - name: Natasa
-        surname: Conrad
+        surname: Djurdjevac Conrad
         affiliation: Zuse Institute Berlin
       - name: Christian
         surname: Bick
@@ -39,7 +39,7 @@ groups:
         surname: Carletti
         affiliation: University of Namur
       - name: Aida
-        surname: Abiad Monge
+        surname: Abiad
         affiliation: Eindhoven University of Technology
       - name: Fariba
         surname: Karimi
@@ -47,9 +47,6 @@ groups:
       - name: Ivan
         surname: Kryven
         affiliation: Utrecht University
-      - name: Harald
-        surname: Schmidt
-        affiliation: Maastricht University
   # - title: Local organizer
   #   columns: false
   #   members:
