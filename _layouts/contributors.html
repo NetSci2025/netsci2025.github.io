@@ -68,7 +68,7 @@ main {
                 <!-- {% assign members = group.members | sort_natural: 'surname' %} -->
                 {% assign members = group.members %}
                 {% for member in members %}
-                {% assign full = member.name | append: ' ' | append: member.surname %}
+                {% assign full = member.name | append: ' ' | append: member.surname | append: ' (' | append: member.affiliation | append: ')' %}
                 {% if member.email %}
                 <li class="fw-light"><a href="mailto:{{ member.email }}">{{ full }}</a></li>
                 {% else %}
