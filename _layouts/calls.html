@@ -53,8 +53,10 @@ layout: default
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
                 <!-- Render the "Broad Topics" section only in the sidebar -->
-                {% assign broad_topics_section = content_parts[1] | split: '## How to Apply' %}
-                {{ broad_topics_section[0] | markdownify }}
+                {% if content_parts.size > 1 %}
+                    {% assign broad_topics_section = content_parts[1] | split: '## How to Apply' %}
+                    {{ broad_topics_section[0] | markdownify }}
+                {% endif %}
             </div>
         </div>
 
@@ -62,13 +64,16 @@ layout: default
 
         <!-- Display remaining content after Broad Topics -->
         <div class="container mt-4">
-            {{ broad_topics_section[1] | markdownify }}
+            {% if broad_topics_section.size > 1 %}
+                {{ broad_topics_section[1] | markdownify }}
+            {% endif %}
         </div>
 
     </div>
 </main>
 
 <!-- {% include footer.html %} -->
+
 
 
 
