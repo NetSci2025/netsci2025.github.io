@@ -45,7 +45,6 @@ layout: default
         <div class="content-container">
             <!-- Main content column -->
             <div class="main-content">
-                <!-- Render content up to Broad Topics -->
                 {% assign content_parts = content | split: '**Broad Topics**' %}
                 {{ content_parts[0] | markdownify }}
             </div>
@@ -53,21 +52,17 @@ layout: default
             <!-- Sidebar for Broad Topics -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
-                <!-- Display Broad Topics -->
-                {% if content_parts.size > 1 %}
-                {{ content_parts[1] | split: '##' | first | markdownify }}
-                {% endif %}
+                {% assign broad_topics_content = content_parts[1] | split: '##' | first %}
+                {{ broad_topics_content | markdownify }}
             </div>
         </div>
 
         <hr class="my-4">
 
-        <!-- Render remaining content after Broad Topics -->
+        <!-- Display remaining content after Broad Topics -->
         <div class="container mt-4">
-            {% if content_parts.size > 1 %}
             {% assign remaining_content = content_parts[1] | split: '##' %}
             {{ remaining_content[1..-1] | join: '##' | markdownify }}
-            {% endif %}
         </div>
 
     </div>
