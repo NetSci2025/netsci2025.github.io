@@ -53,20 +53,19 @@ layout: default
         <div class="content-container">
             <!-- Main content column -->
             <div class="main-content">
-                {{ content | split: '**Broad Topics**' | first | markdownify }}
+                {{ content | split: 'Broad Topics' | first | markdownify }}
             </div>
 
             <!-- Sidebar column for Broad Topics -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
-                {{ content | split: '**Broad Topics**' | last | markdownify }}
+                {{ content | split: 'Broad Topics' | last | markdownify }}
             </div>
         </div>
 
         <hr class="my-4">
     </div>
 </main>
-
 
 <!-- {% include footer.html %} -->
 
