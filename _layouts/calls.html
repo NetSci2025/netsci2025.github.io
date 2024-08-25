@@ -54,20 +54,20 @@ layout: default
             <!-- Main content column -->
             <div class="main-content">
                 <!-- Display everything up to "Broad Topics" -->
-                {{ content | split: 'Broad Topics' | first | markdownify }}
+                {% assign main_content = content | split: 'Broad Topics' %}
+                {{ main_content[0] | markdownify }}
 
                 <!-- Display everything after "Broad Topics" -->
-                {% assign remaining_content = content | split: 'Broad Topics' | last %}
-                {{ remaining_content | markdownify }}
+                {% assign remaining_content = main_content[1] | split: '##' %}
+                {% assign remaining_sections = remaining_content[1..-1] %}
+                {{ remaining_sections | join: '##' | markdownify }}
             </div>
 
             <!-- Sidebar column for Broad Topics -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
                 <!-- Only display "Broad Topics" section -->
-                {% assign broad_topics_content = content | split: 'Broad Topics' | last %}
-                {% assign broad_topics_content = broad_topics_content | split: '##' | first %}
-                {{ broad_topics_content | markdownify }}
+                {{ remaining_content[0] | markdownify }}
             </div>
         </div>
 
