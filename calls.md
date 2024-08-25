@@ -12,8 +12,7 @@ The International School and Conference on Network Science, NetSci, is the flags
 We are looking forward to seeing the best of your new insights into network science at the International School and Conference on Network Science 2025, in Maastricht, the Netherlands, to be held from July 2 to 6, 2025. The conference focuses on interdisciplinary research on all aspects of network science and modeling, ranging from foundational works to applications in various disciplines.
   
 
-**Broad Topics**
-
+## Broad Topics
 1. Higher-Order Networks;
 2. Temporal Networks;
 3. Multilayer Networks;
