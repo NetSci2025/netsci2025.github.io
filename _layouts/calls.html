@@ -40,33 +40,33 @@ layout: default
         {% else %}
         <h1 class="display-5">{{ page.title }}</h1>
         {% endif %}
-        
+
         <!-- Start of the content split logic -->
         <div class="content-container">
             <!-- Main content column -->
             <div class="main-content">
-                <!-- Extract the content before Broad Topics -->
-                {% assign sections = content | split: '## Broad Topics' %}
-                {{ sections[0] | markdownify }}
+                <!-- Extract content before "Broad Topics" -->
+                {% assign before_broad_topics = content | split: '## Broad Topics' %}
+                {{ before_broad_topics[0] | markdownify }}
             </div>
 
             <!-- Sidebar for Broad Topics -->
             <div class="sidebar">
-                {% if sections.size > 1 %}
+                {% if before_broad_topics.size > 1 %}
                     <h2 class="h5">Broad Topics</h2>
-                    <!-- Render only the Broad Topics content -->
-                    {% assign broad_topics_sections = sections[1] | split: '##' %}
-                    {{ broad_topics_sections[0] | markdownify }}
+                    <!-- Extract and render only the "Broad Topics" content -->
+                    {% assign after_broad_topics = before_broad_topics[1] | split: '## ' %}
+                    {{ after_broad_topics[0] | markdownify }}
                 {% endif %}
             </div>
         </div>
 
         <hr class="my-4">
 
-        <!-- Render the remaining content after Broad Topics -->
+        <!-- Render the remaining content after Broad Topics in single column -->
         <div class="container mt-4">
-            {% if broad_topics_sections.size > 1 %}
-                {{ broad_topics_sections[1..-1] | join: '##' | markdownify }}
+            {% if after_broad_topics.size > 1 %}
+                {{ after_broad_topics[1..-1] | join: '## ' | markdownify }}
             {% endif %}
         </div>
 
@@ -74,6 +74,7 @@ layout: default
 </main>
 
 <!-- {% include footer.html %} -->
+
 
 
 
