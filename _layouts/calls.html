@@ -41,15 +41,17 @@ layout: default
         <h1 class="display-5">{{ page.title }}</h1>
         {% endif %}
         
-        <!-- Call for abstracts and Broad Topics section -->
+        <!-- Extract the part before "Broad Topics" -->
+        {% assign content_parts = content | split: '**Broad Topics**' %}
+        
+        <!-- Main content and sidebar columns -->
         <div class="content-container">
-            <!-- Main content column -->
+            <!-- Main content column (content before "Broad Topics") -->
             <div class="main-content">
-                {% assign content_parts = content | split: '**Broad Topics**' %}
                 {{ content_parts[0] | markdownify }}
             </div>
 
-            <!-- Sidebar for Broad Topics -->
+            <!-- Sidebar column for Broad Topics -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
                 {% assign broad_topics_content = content_parts[1] | split: '##' | first %}
