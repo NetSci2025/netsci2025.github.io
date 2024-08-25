@@ -41,31 +41,32 @@ layout: default
         <h1 class="display-5">{{ page.title }}</h1>
         {% endif %}
         
+        <!-- Start of the content split logic -->
         <div class="content-container">
             <!-- Main content column -->
             <div class="main-content">
-                <!-- Render all content before the "Broad Topics" section -->
-                {% assign content_before_broad_topics = content | split: '## Broad Topics' %}
-                {{ content_before_broad_topics[0] | markdownify }}
+                <!-- Extract the content before Broad Topics -->
+                {% assign sections = content | split: '## Broad Topics' %}
+                {{ sections[0] | markdownify }}
             </div>
 
-            <!-- Sidebar column for Broad Topics -->
+            <!-- Sidebar for Broad Topics -->
             <div class="sidebar">
-                <h2 class="h5">Broad Topics</h2>
-                <!-- Render only the "Broad Topics" content in the sidebar -->
-                {% if content_before_broad_topics.size > 1 %}
-                    {% assign broad_topics_and_after = content_before_broad_topics[1] | split: '## How to Apply' %}
-                    {{ broad_topics_and_after[0] | markdownify }}
+                {% if sections.size > 1 %}
+                    <h2 class="h5">Broad Topics</h2>
+                    <!-- Render only the Broad Topics content -->
+                    {% assign broad_topics_sections = sections[1] | split: '##' %}
+                    {{ broad_topics_sections[0] | markdownify }}
                 {% endif %}
             </div>
         </div>
 
         <hr class="my-4">
 
-        <!-- Display remaining content after Broad Topics -->
+        <!-- Render the remaining content after Broad Topics -->
         <div class="container mt-4">
-            {% if broad_topics_and_after.size > 1 %}
-                {{ broad_topics_and_after[1] | markdownify }}
+            {% if broad_topics_sections.size > 1 %}
+                {{ broad_topics_sections[1..-1] | join: '##' | markdownify }}
             {% endif %}
         </div>
 
@@ -73,6 +74,7 @@ layout: default
 </main>
 
 <!-- {% include footer.html %} -->
+
 
 
 
