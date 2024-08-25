@@ -58,17 +58,16 @@ layout: default
 
                 <!-- Display remaining content after "Broad Topics" -->
                 {% assign remaining_content = content | split: '**Broad Topics**' | last %}
-                {% assign remaining_sections = remaining_content | split: '##' %}
-                
-                {% for section in remaining_sections offset:1 %}
-                    <h2>##{{ section | markdownify }}</h2>
-                {% endfor %}
+                {{ remaining_content | split: '**How to Apply**' | last | markdownify }}
             </div>
 
             <!-- Sidebar column for Broad Topics -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
-                {{ content | split: '**Broad Topics**' | last | split: '##' | first | markdownify }}
+                <!-- Extract only the "Broad Topics" content -->
+                {% assign broad_topics_content = content | split: '**Broad Topics**' | last %}
+                {% assign broad_topics_content = broad_topics_content | split: '##' | first %}
+                {{ broad_topics_content | markdownify }}
             </div>
         </div>
 
