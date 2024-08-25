@@ -60,22 +60,23 @@ layout: default
             <!-- Sidebar column for "Broad Topics" -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
-                {{ main_content[1] | split: '##' | first | markdownify }}
+                {% assign broad_topics_content = main_content[1] | split: '##' %}
+                {{ broad_topics_content[0] | markdownify }}
             </div>
         </div>
 
         <!-- Restore to single column for remaining content -->
-        <div class="mt-4">
-            {{ main_content[1] | remove_first: main_content[1] | markdownify }}
+        <div class="container mt-4">
+            {{ broad_topics_content[1..-1] | join: '##' | markdownify }}
         </div>
 
         <hr class="my-4">
     </div>
-</
-
 </main>
 
 <!-- {% include footer.html %} -->
+
+
 
 
 
