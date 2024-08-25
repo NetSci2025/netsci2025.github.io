@@ -66,7 +66,8 @@ layout: default
 
         <!-- Display remaining content in full width -->
         <div class="container mt-4">
-            {{ main_content[1] | split: '##' | last | markdownify }}
+            {% assign remaining_content = main_content[1] | split: '##' %}
+            {{ remaining_content[1..-1] | join: '##' | markdownify }}
         </div>
 
         <hr class="my-4">
@@ -74,6 +75,7 @@ layout: default
 </main>
 
 <!-- {% include footer.html %} -->
+
 
 
 
