@@ -53,13 +53,22 @@ layout: default
         <div class="content-container">
             <!-- Main content column -->
             <div class="main-content">
-                {{ content | split: 'Broad Topics' | first | markdownify }}
+                <!-- Display everything up to "Broad Topics" -->
+                {{ content | split: '**Broad Topics**' | first | markdownify }}
+
+                <!-- Display remaining content after "Broad Topics" -->
+                {% assign remaining_content = content | split: '**Broad Topics**' | last %}
+                {% assign remaining_sections = remaining_content | split: '##' %}
+                
+                {% for section in remaining_sections offset:1 %}
+                    <h2>##{{ section | markdownify }}</h2>
+                {% endfor %}
             </div>
 
             <!-- Sidebar column for Broad Topics -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
-                {{ content | split: 'Broad Topics' | last | markdownify }}
+                {{ content | split: '**Broad Topics**' | last | split: '##' | first | markdownify }}
             </div>
         </div>
 
@@ -68,6 +77,7 @@ layout: default
 </main>
 
 <!-- {% include footer.html %} -->
+
 
 
 
