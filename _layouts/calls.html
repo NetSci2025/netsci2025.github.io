@@ -9,6 +9,28 @@ layout: default
     main {
         padding-top: 70px;
     }
+    /* Flexbox layout to split content into two columns */
+    .content-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .main-content {
+        flex: 0 0 65%; /* Left side content takes up 65% */
+        padding-right: 20px;
+    }
+    .sidebar {
+        flex: 0 0 30%; /* Right side content takes up 30% */
+        background-color: #f8f9fa; /* Optional: Add a background color */
+        padding-left: 20px;
+    }
+    @media (max-width: 768px) {
+        .main-content, .sidebar {
+            flex: 0 0 100%; /* On small screens, both columns take up 100% width */
+            padding-right: 0;
+            padding-left: 0;
+        }
+    }
 </style>
 
 <main class="my-4">
@@ -19,23 +41,32 @@ layout: default
         <h1 class="display-5">{{ page.title }}</h1>
         {% endif %}
         <div class="row">
-        <div class="mt-12">
-            {% assign buttons = site.data.calls.buttons %}
-            {% for button in buttons %}
-            <a href="{{ button.url }}" class="btn btn-primary btn-lg">{{ button.text }}</a>
-            {% endfor %}
-
-        </div>
-    </div>
-        <div class="row">
-            <div class="col-md-12">
-                {{ content }}
+            <div class="mt-12">
+                {% assign buttons = site.data.calls.buttons %}
+                {% for button in buttons %}
+                <a href="{{ button.url }}" class="btn btn-primary btn-lg">{{ button.text }}</a>
+                {% endfor %}
             </div>
         </div>
-        <hr class="my-4">
 
+        <!-- Main content and sidebar columns -->
+        <div class="content-container">
+            <!-- Main content column -->
+            <div class="main-content">
+                {{ content | split: '**Broad Topics**' | first | markdownify }}
+            </div>
+
+            <!-- Sidebar column for Broad Topics -->
+            <div class="sidebar">
+                <h2 class="h5">Broad Topics</h2>
+                {{ content | split: '**Broad Topics**' | last | markdownify }}
+            </div>
+        </div>
+
+        <hr class="my-4">
     </div>
 </main>
+
 
 <!-- {% include footer.html %} -->
 
