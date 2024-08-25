@@ -66,11 +66,13 @@ layout: default
 
         <!-- Restore to single column for remaining content -->
         <div class="mt-4">
-            {{ main_content[1] | split: '##' | last | markdownify }}
+            {{ main_content[1] | remove_first: main_content[1] | markdownify }}
         </div>
 
         <hr class="my-4">
     </div>
+</
+
 </main>
 
 <!-- {% include footer.html %} -->
