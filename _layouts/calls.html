@@ -60,20 +60,19 @@ layout: default
             <!-- Sidebar column for Broad Topics -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
-                {{ main_content[1] | split: '##' | first | markdownify }}
+                {% assign broad_topics_content = main_content[1] | split: '##' %}
+                {{ broad_topics_content[0] | markdownify }}
             </div>
         </div>
 
         <hr class="my-4">
 
         <!-- Display remaining content after Broad Topics -->
-        <div class="row">
-            <div class="col-md-12">
-                <!-- Only display content after 'Broad Topics' -->
-                {% assign remaining_content = main_content[1] | split: '##' %}
-                {{ remaining_content[1..-1] | join: '##' | markdownify }}
-            </div>
+        <div class="container mt-4">
+            <!-- Ensure only content after Broad Topics is displayed -->
+            {{ broad_topics_content[1..-1] | join: '##' | markdownify }}
         </div>
+
     </div>
 </main>
 
