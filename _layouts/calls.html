@@ -33,6 +33,7 @@ layout: default
     }
 </style>
 
+
 <main class="my-4">
     <div class="container">
         {% if page.title == "Calls" %}
@@ -50,31 +51,32 @@ layout: default
         </div>
 
         <!-- Main content and sidebar columns -->
+        {% assign content_parts = content | split: 'Broad Topics' %}
         <div class="content-container">
             <!-- Main content column -->
             <div class="main-content">
-                {% assign main_content = content | split: 'Broad Topics' %}
-                {{ main_content[0] | markdownify }}
+                {{ content_parts[0] | markdownify }}
             </div>
 
             <!-- Sidebar column for Broad Topics -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
-                {% assign broad_topics_content = main_content[1] | split: '##' %}
-                {{ broad_topics_content[0] | markdownify }}
+                {{ content_parts[1] | split: '##' | first | markdownify }}
             </div>
         </div>
 
         <hr class="my-4">
 
         <!-- Display remaining content after Broad Topics -->
-        <div class="container mt-4">
-            <!-- Ensure only content after Broad Topics is displayed -->
-            {{ broad_topics_content[1..-1] | join: '##' | markdownify }}
+        <div class="row">
+            <div class="col-md-12">
+                {% assign remaining_content = content_parts[1] | split: '##' %}
+                {{ remaining_content[1..-1] | join: '##' | markdownify }}
+            </div>
         </div>
-
     </div>
 </main>
+
 
 <!-- {% include footer.html %} -->
 
