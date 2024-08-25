@@ -49,30 +49,32 @@ layout: default
             </div>
         </div>
 
-        <!-- Main content and sidebar columns for "Call for abstracts" and "Broad Topics" -->
+        <!-- Main content and sidebar columns -->
         <div class="content-container">
-            <!-- Main content column for "Call for abstracts" -->
+            <!-- Main content column -->
             <div class="main-content">
-                {% assign main_content = content | split: 'Broad Topics' %}
-                {{ main_content[0] | markdownify }}
+                {{ content | split: 'Broad Topics' | first | markdownify }}
             </div>
 
-            <!-- Sidebar column for "Broad Topics" -->
+            <!-- Sidebar column for Broad Topics -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
-                {% assign broad_topics_content = main_content[1] | split: '##' %}
-                {{ broad_topics_content[0] | markdownify }}
+                {{ content | split: 'Broad Topics' | last | markdownify }}
             </div>
-        </div>
-
-        <!-- Restore to single column for remaining content -->
-        <div class="container mt-4">
-            {{ broad_topics_content[1..-1] | join: '##' | markdownify }}
         </div>
 
         <hr class="my-4">
+
+        <!-- Display remaining content after Broad Topics -->
+        <div class="row">
+            <div class="col-md-12">
+                {% assign remaining_content = content | split: 'Broad Topics' | last %}
+                {{ remaining_content | markdownify }}
+            </div>
+        </div>
     </div>
 </main>
+
 
 <!-- {% include footer.html %} -->
 
