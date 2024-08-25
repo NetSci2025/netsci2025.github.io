@@ -33,7 +33,6 @@ layout: default
     }
 </style>
 
-
 <main class="my-4">
     <div class="container">
         {% if page.title == "Calls" %}
@@ -51,17 +50,25 @@ layout: default
         </div>
 
         <!-- Main content and sidebar columns -->
-        {% assign content_parts = content | split: 'Broad Topics' %}
         <div class="content-container">
             <!-- Main content column -->
             <div class="main-content">
-                {{ content_parts[0] | markdownify }}
+                {% capture main_content %}
+                    {{ content }}
+                {% endcapture %}
+
+                <!-- Extract content before "Broad Topics" -->
+                {% assign before_broad_topics = main_content | split: '**Broad Topics**' | first %}
+                {{ before_broad_topics | markdownify }}
             </div>
 
             <!-- Sidebar column for Broad Topics -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
-                {{ content_parts[1] | split: '##' | first | markdownify }}
+                <!-- Extract only "Broad Topics" section -->
+                {% assign broad_topics_section = main_content | split: '**Broad Topics**' | last %}
+                {% assign broad_topics_content = broad_topics_section | split: '##' | first %}
+                {{ broad_topics_content | markdownify }}
             </div>
         </div>
 
@@ -70,13 +77,13 @@ layout: default
         <!-- Display remaining content after Broad Topics -->
         <div class="row">
             <div class="col-md-12">
-                {% assign remaining_content = content_parts[1] | split: '##' %}
-                {{ remaining_content[1..-1] | join: '##' | markdownify }}
+                <!-- Extract remaining content after "Broad Topics" -->
+                {% assign remaining_content = broad_topics_section | split: '##' | last %}
+                {{ remaining_content | markdownify }}
             </div>
         </div>
     </div>
 </main>
-
 
 <!-- {% include footer.html %} -->
 
