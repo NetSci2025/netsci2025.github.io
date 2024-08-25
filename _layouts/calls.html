@@ -53,13 +53,14 @@ layout: default
         <div class="content-container">
             <!-- Main content column -->
             <div class="main-content">
-                {{ content | split: 'Broad Topics' | first | markdownify }}
+                {% assign main_content = content | split: 'Broad Topics' %}
+                {{ main_content[0] | markdownify }}
             </div>
 
             <!-- Sidebar column for Broad Topics -->
             <div class="sidebar">
                 <h2 class="h5">Broad Topics</h2>
-                {{ content | split: 'Broad Topics' | last | markdownify }}
+                {{ main_content[1] | split: '##' | first | markdownify }}
             </div>
         </div>
 
@@ -68,15 +69,16 @@ layout: default
         <!-- Display remaining content after Broad Topics -->
         <div class="row">
             <div class="col-md-12">
-                {% assign remaining_content = content | split: 'Broad Topics' | last %}
-                {{ remaining_content | markdownify }}
+                <!-- Only display content after 'Broad Topics' -->
+                {% assign remaining_content = main_content[1] | split: '##' %}
+                {{ remaining_content[1..-1] | join: '##' | markdownify }}
             </div>
         </div>
     </div>
 </main>
 
-
 <!-- {% include footer.html %} -->
+
 
 
 
