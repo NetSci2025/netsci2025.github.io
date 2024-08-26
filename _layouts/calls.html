@@ -62,6 +62,18 @@ layout: default
     }
 </style>
 
+<!-- Use JavaScript to remove semicolons, periods -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const listItems = document.querySelectorAll('.bullet-list li');
+    listItems.forEach(function(item) {
+        // Remove trailing periods and arrows
+        item.textContent = item.textContent.replace(/[.;→]+$/, '');
+    });
+});
+</script>
+
+
 <main class="my-4">
     <div class="container">
         <h1 class="display-5">{{ page.title }}</h1>
