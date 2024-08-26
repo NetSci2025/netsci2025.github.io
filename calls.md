@@ -18,38 +18,39 @@ and Communication Networks, among others.
 We are looking forward to seeing the best of your new insights into network science at the International School and Conference on Network Science 2025, in Maastricht, the Netherlands, to be held from June 2 to 6, 2025. The conference focuses on interdisciplinary research on all aspects of network science and modeling, ranging from foundational works to applications in various disciplines.  
   
 
-## Broad Topics
-1. Higher-Order Networks;
-2. Temporal Networks;
-3. Multilayer Networks;
-4. Spatial Networks;
-5. Adaptive Networks;
-6. Signed Networks;
-7. Models Of Networks;
-8. Dynamics On Networks;
-9. Critical Phenomena In Networks;
-10. Network Geometry;
-11. Statistical Analysis Of Networks And Inference;
-12. Graph Machine Learning;
-13. Network Measures And Metrics;
-14. Network Resilience;
-15. Network Control;
-16. Ethics And Fairness In Network Analysis;
-17. Network Data Collection;
-18. Network Visualization;
-19. Network Epidemiology;
-20. Brain Networks;
-21. Ecological Networks;
-22. Financial Networks;
-23. Mobility Networks;
-24. Biological Networks;
-25. Social Network;
-26. Technological Networks;
-27. Cultural And Historical Network Analysis;
-28. Linguistic Networks;
-29. Synchronization and control;
-30. Network Science and Education;
-31. Network medicine. 
+## Topics
+- Higher-Order Networks
+- Temporal Networks
+- Multilayer Networks
+- Spatial Networks
+- Adaptive Networks
+- Signed Networks
+- Models Of Networks
+- Dynamics On Networks
+- Critical Phenomena In Networks
+- Network Geometry
+- Statistical Analysis Of Networks And Inference
+- Graph Machine Learning
+- Network Measures And Metrics
+- Network Resilience
+- Network Control
+- Ethics And Fairness In Network Analysis
+- Network Data Collection
+- Network Visualization
+- Network Epidemiology
+- Brain Networks
+- Ecological Networks
+- Financial Networks
+- Mobility Networks
+- Biological Networks
+- Social Network
+- Technological Networks
+- Cultural And Historical Network Analysis
+- Linguistic Networks
+- Synchronization and control
+- Network Science and Education
+- Network medicine
+ 
 
 
 ## How to Apply
