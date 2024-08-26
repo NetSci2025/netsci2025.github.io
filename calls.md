@@ -1,10 +1,11 @@
 ---
 layout: calls
 title: Calls
-description: Schedule of talks and activities
+description: Calls for contributions
 navorder: 1
 ---
 
+## 
 
 ## Call for abstracts
 NetSci, the International School and Conference on Network Science, is the flagship conference of the Network Science
