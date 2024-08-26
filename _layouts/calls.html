@@ -41,37 +41,63 @@ layout: default
         <h1 class="display-5">{{ page.title }}</h1>
         {% endif %}
 
-        <!-- Start of the content split logic -->
+        <!-- Main content and sidebar columns -->
         <div class="content-container">
             <!-- Main content column -->
             <div class="main-content">
-                <!-- Extract content before "Broad Topics" -->
-                {% assign before_broad_topics = content | split: '## Broad Topics' %}
-                {{ before_broad_topics[0] | markdownify }}
+                {{ content | split: 'Broad Topics' | first | markdownify }}
             </div>
 
-            <!-- Sidebar for Broad Topics -->
+            <!-- Sidebar column for Broad Topics -->
             <div class="sidebar">
-                {% if before_broad_topics.size > 1 %}
-                    <h2 class="h5">Broad Topics</h2>
-                    <!-- Extract and render only the "Broad Topics" content -->
-                    {% assign after_broad_topics = before_broad_topics[1] | split: '## ' %}
-                    {{ after_broad_topics[0] | markdownify }}
-                {% endif %}
+            <h2 class="h5">Broad Topics</h2>
+            {% assign sidebar_content = content | split: 'How to Apply' | first | split: 'Broad Topics' | last %}
+            {% assign sidebar_content_cleaned = sidebar_content | remove: '</h2>' %}
+            {{ sidebar_content_cleaned | markdownify }}
             </div>
         </div>
 
         <hr class="my-4">
 
-        <!-- Render the remaining content after Broad Topics in single column -->
-        <div class="container mt-4">
-            {% if after_broad_topics.size > 1 %}
-                {{ after_broad_topics[1..-1] | join: '## ' | markdownify }}
-            {% endif %}
+        <!-- Single column layout for remaining content -->
+        {% assign remaining_content = content | split: 'How to Apply' | last %}
+        {% assign call_for_satellites_content = remaining_content | split: 'Call for satellites' %}
+        {% assign how_to_apply_content = call_for_satellites_content[0] | replace: '</h2>', '' %}
+        {% assign call_for_satellites_and_dates = call_for_satellites_content[1] %}
+        
+        <!-- Split Call for Satellites and Important Dates -->
+        {% assign satellites_and_dates_split = call_for_satellites_and_dates | split: 'Important dates' %}
+        {% assign call_for_satellites_only = satellites_and_dates_split[0] | replace: '</h2>', '' %}
+        {% assign important_dates_only = satellites_and_dates_split[1] | replace: '</h2>', '' %}
+
+        <!-- How to Apply Section -->
+        <div class="row">
+            <div class="col-md-12">
+                <h2>How to Apply</h2>
+                {{ how_to_apply_content | markdownify }}
+            </div>
         </div>
 
+        <hr class="my-4">
+        <!-- Call for Satellites Section -->
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Call for satellites</h2>
+                {{ call_for_satellites_only | markdownify }}
+            </div>
+        </div>
+
+        <hr class="my-4">
+        <!-- Important Dates Section -->
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Important dates</h2>
+                {{ important_dates_only | markdownify }}
+            </div>
+        </div>
     </div>
 </main>
+
 
 <!-- {% include footer.html %} -->
 
