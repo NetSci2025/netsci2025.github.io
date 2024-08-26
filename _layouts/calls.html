@@ -24,6 +24,35 @@ layout: default
         background-color: #f8f9fa; /* Optional: Add a background color */
         padding-left: 20px;
     }
+
+
+    /* Remove bullets from the Topics list */
+    .bullet-list {
+        list-style-type: none; /* Remove bullet points */
+        padding-left: 0; /* Remove left padding */
+    }
+
+    .bullet-list li {
+        list-style-type: disc !important; /* Force bullet point style */
+        margin-bottom: 5px; /* Add spacing between list items */
+    }
+
+    .bullet-list li:last-child {
+    visibility: hidden; /* Completely hide the last item */
+    }
+
+    /* Adjust the spacing of horizontal lines */
+    hr.my-4 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    /* Force hiding of automatically generated horizontal line */
+    .main-content hr:first-of-type {
+        display: none; /* Hide the first horizontal line */
+    }
+
+    
     @media (max-width: 768px) {
         .main-content, .sidebar {
             flex: 0 0 100%; /* On small screens, both columns take up 100% width */
@@ -35,72 +64,59 @@ layout: default
 
 <main class="my-4">
     <div class="container">
-        {% if page.title == "Calls" %}
-        <h1 class="display-5">Calls and submission guidelines</h1>
-        {% else %}
         <h1 class="display-5">{{ page.title }}</h1>
-        {% endif %}
+        <!-- Keep only this horizontal line -->
+        <hr class="my-4">
 
         <!-- Main content and sidebar columns -->
         <div class="content-container">
-            <!-- Main content column -->
+            <!-- Main content column for Call for abstracts and How to Apply -->
             <div class="main-content">
-                {{ content | split: 'Broad Topics' | first | markdownify }}
-            </div>
+                {% assign main_content_without_topics = content | split: 'Topics' | first %}
+                {{ main_content_without_topics | markdownify }}
 
-            <!-- Sidebar column for Broad Topics -->
-            <div class="sidebar">
-            <h2 class="h5">Broad Topics</h2>
-            {% assign sidebar_content = content | split: 'How to Apply' | first | split: 'Broad Topics' | last %}
-            {% assign sidebar_content_cleaned = sidebar_content | remove: '</h2>' %}
-            {{ sidebar_content_cleaned | markdownify }}
-            </div>
-        </div>
-
-        <hr class="my-4">
-
-        <!-- Single column layout for remaining content -->
-        {% assign remaining_content = content | split: 'How to Apply' | last %}
-        {% assign call_for_satellites_content = remaining_content | split: 'Call for satellites' %}
-        {% assign how_to_apply_content = call_for_satellites_content[0] | replace: '</h2>', '' %}
-        {% assign call_for_satellites_and_dates = call_for_satellites_content[1] %}
-        
-        <!-- Split Call for Satellites and Important Dates -->
-        {% assign satellites_and_dates_split = call_for_satellites_and_dates | split: 'Important dates' %}
-        {% assign call_for_satellites_only = satellites_and_dates_split[0] | replace: '</h2>', '' %}
-        {% assign important_dates_only = satellites_and_dates_split[1] | replace: '</h2>', '' %}
-
-        <!-- How to Apply Section -->
-        <div class="row">
-            <div class="col-md-12">
+                <!-- Add How to Apply section -->
+                <hr class="my-4">
                 <h2>How to Apply</h2>
-                {{ how_to_apply_content | markdownify }}
+                {% assign how_to_apply_content = content | split: 'How to Apply' | last | split: 'Call for satellites' | first %}
+                {{ how_to_apply_content | remove: '</h2>' | markdownify }} <!-- Remove extra </h2> -->
+            </div>
+
+            <!-- Sidebar column for Topics -->
+            <div class="sidebar">
+                <h2 class="h5">Topics</h2>
+                <ul class="bullet-list"> <!-- Use unordered list style -->
+                {% assign topics_content = content | split: 'Topics' | last | split: 'Call for satellites' | first %}
+                {{ topics_content | remove: '</h2>' | markdownify }} <!-- Ensure no erroneous </h2> -->
+                </ul>
             </div>
         </div>
 
         <hr class="my-4">
+        
         <!-- Call for Satellites Section -->
         <div class="row">
             <div class="col-md-12">
                 <h2>Call for satellites</h2>
-                {{ call_for_satellites_only | markdownify }}
+                {% assign call_for_satellites_content = content | split: 'Call for satellites' | last | split: 'Important dates' | first %}
+                {{ call_for_satellites_content | remove: '</h2>' | markdownify }} <!-- Ensure no erroneous </h2> -->
             </div>
         </div>
 
         <hr class="my-4">
+        
         <!-- Important Dates Section -->
         <div class="row">
             <div class="col-md-12">
                 <h2>Important dates</h2>
-                {{ important_dates_only | markdownify }}
+                {% assign important_dates_content = content | split: 'Important dates' | last %}
+                {{ important_dates_content | remove: '</h2>' | markdownify }} <!-- Ensure no erroneous </h2> -->
             </div>
         </div>
     </div>
 </main>
 
-
 <!-- {% include footer.html %} -->
-
 
 
 
