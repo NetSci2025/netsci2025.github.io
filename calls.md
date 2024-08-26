@@ -7,9 +7,13 @@ navorder: 1
 
 
 ## Call for abstracts
-The International School and Conference on Network Science, NetSci, is the flagship conference on Complex Networks promoted by the Network Science Society. It brings under one umbrella a wide variety of leading researchers, practitioners, and stakeholders with a direct interest in **Network Science**, from Physics to Computer Science, Biology, Social Sciences, Economics, and Technological and Communication Networks, among others. The conference focuses on interdisciplinary research on all aspects of network science and modeling, ranging from foundational works to applications in various disciplines.
-​
-We are looking forward to seeing the best of your new insights into network science at the International School and Conference on Network Science 2025, in Maastricht, the Netherlands, to be held from July 2 to 6, 2025. The conference focuses on interdisciplinary research on all aspects of network science and modeling, ranging from foundational works to applications in various disciplines.
+NetSci, the International School and Conference on Network Science, is the flagship conference of the Network Science
+Society. It brings under one umbrella a wide variety of leading researchers, practitioners, and stakeholders with a direct
+interest in **Network Science**, from Physics to Computer Science, Biology, Social Sciences, Economics, and Technological
+and Communication Networks, among others. 
+
+
+We are looking forward to seeing the best of your new insights into network science at the International School and Conference on Network Science 2025, in Maastricht, the Netherlands, to be held from June 2 to 6, 2025. The conference focuses on interdisciplinary research on all aspects of network science and modeling, ranging from foundational works to applications in various disciplines.  
   
 
 ## Broad Topics
