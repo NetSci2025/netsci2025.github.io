@@ -48,13 +48,19 @@ We are looking forward to seeing the best of your new insights into network scie
 
 ## How to Apply
 We invite you to submit a one-page abstract including one (mandatory) descriptive figure and references by **December 9, 2024**.
-We welcome submissions for the following presentation formats: **contributed talks** (regular presentations for parallel sessions), **lightning talks** (shorter presentations for plenary sessions) and **posters**.
+We welcome submissions for the following presentation formats: 
+**contributed talks** (regular presentations for parallel sessions), 
+**lightning talks** (shorter presentations for plenary sessions), 
+and **posters**.
+
 During the submission process, please indicate your preferred presentation format.
 We look forward to receiving your submissions! 
 
+
 **Abstract Requirements**:
 
-One-page abstracts should include text, one figure with caption and [selected] references. Each submission should be submitted in Adobe's Portable Document Format (PDF) and formatted using the provided abstract template. You can see a sample abstract here(mailto:netsci2025@gmail.com).
+One-page abstracts should include text, one figure with caption and [selected] references. Each submission should be submitted in Adobe's Portable Document Format (PDF) and formatted using the provided abstract template. You can see a sample abstract <a href="https://github.com/user-attachments/files/16743747/NetSci2025_sample_abstract.pdf" download>here</a>.
+
 Accepted abstracts require in-person presentation by one author, who can present a maximum of one accepted abstract, and must register by the early-bird registration deadline.
 
 
