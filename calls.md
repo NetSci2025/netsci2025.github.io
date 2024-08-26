@@ -70,10 +70,9 @@ To be announced
 
 
 ## Important dates 
-- **Abstract submission deadline (no planned extension)**: 9 December, 2024
-- **Abstract reviewing deadline**: 12 January, 2025
+- **Abstract submission deadline**: 9 December, 2024
 - **Abstract notification**: 24 January, 2025
-- **Conference**: June 2nd to 6th, 2025
+- **Conference dates**: June 2 to 6, 2025
 
 
 
