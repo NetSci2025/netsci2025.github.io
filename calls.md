@@ -53,6 +53,7 @@ During the submission process, please indicate your preferred presentation forma
 We look forward to receiving your submissions! 
 
 **Abstract Requirements**:
+
 One-page abstracts should include text, one figure with caption and [selected] references. Each submission should be submitted in Adobe's Portable Document Format (PDF) and formatted using the provided abstract template. You can see a sample abstract here(mailto:netsci2025@gmail.com).
 Accepted abstracts require in-person presentation by one author, who can present a maximum of one accepted abstract, and must register by the early-bird registration deadline.
 
