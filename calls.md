@@ -54,6 +54,9 @@ We are looking forward to seeing the best of your new insights into network scie
 
 
 ## How to Apply
+
+**The submission system will open soon**.
+
 We invite you to submit a one-page abstract including one (mandatory) descriptive figure and references by **December 9, 2024**.
 We welcome submissions for the following presentation formats: 
 **contributed talks** (regular presentations for parallel sessions), 
