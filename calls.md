@@ -83,7 +83,7 @@ These satellite events are full-day or half-day meetings with a focus on a speci
 
 All network science related subjects are welcome.  
 
-## How to submit a proposal  
+**How to submit a proposal**  
 
 We invite the community to submit a proposal for a satellite symposium. The proposal must contain:
 * **Title**: descriptive title of the satellite
@@ -92,7 +92,7 @@ We invite the community to submit a proposal for a satellite symposium. The prop
 * **Format**: number of speakers, expected number of participants, length/duration (0.5 or 1 day), preliminary program, and number of participants at previous editions if applicable
 * **Preliminary list of speakers**: listing confirmed or pre-contacted speakers will be an advantage during the review
 
-Submit a single PDF file (maximum 2 pages) by email to: netsci2025satellites@gmail.com  
+Submit a single PDF file (maximum 2 pages) by email to: [netsci2025satellites@gmail.com](mailto:netsci2025satellites@gmail.com)  
 Incomplete or longer proposals will be automatically discarded  
 
 **Submission Deadline: 02 December 2024**
