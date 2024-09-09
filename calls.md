@@ -83,7 +83,7 @@ These satellite events are full-day or half-day meetings with a focus on a speci
 
 All network science related subjects are welcome.  
 
-**How to submit a proposal**  
+### How to submit a proposal  
 
 We invite the community to submit a proposal for a satellite symposium. The proposal must contain:
 * **Title**: descriptive title of the satellite
