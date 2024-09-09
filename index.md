@@ -19,7 +19,7 @@ NetSci, the International School and Conference on Network Science, is the flags
 - **Abstract submission deadline**: 9 December, 2024
 - **Abstract notification**: 24 January, 2025
 - **Early bird registration deadline**: 25 February, 2025
-- **Conference Dates**: June 2nd to 6th 2025
+- **Conference Dates**: June 2 to 6 2025
 
 
 ## Discover Maastricht
