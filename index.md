@@ -15,6 +15,7 @@ NetSci, the International School and Conference on Network Science, is the flags
 
 
 ## Important dates 
+- **Satellite proposal deadline**: 2 December, 2024
 - **Abstract submission deadline**: 9 December, 2024
 - **Abstract notification**: 24 January, 2025
 - **Early bird registration deadline**: 25 February, 2025
