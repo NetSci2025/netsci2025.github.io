@@ -47,6 +47,9 @@ groups:
       - name: Ivan
         surname: Kryven
         affiliation: Utrecht University
+      - name: Tjeerd
+        surname: Boonstra
+        affiliation: Maastricht University
   # - title: Local organizer
   #   columns: false
   #   members:
