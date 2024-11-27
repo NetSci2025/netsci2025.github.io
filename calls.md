@@ -73,7 +73,7 @@ One-page abstracts should include text, one figure with caption and [selected] r
 
 Accepted abstracts require in-person presentation by one author, who can present a maximum of one accepted abstract in the main conference, and must register by the early-bird registration deadline.
 
-Any questions about abstract submissions can be sent to: [netsci2025satellites@gmail.com](netsci2025abstracts@gmail.com)
+Any questions about abstract submissions can be sent to: [netsci2025abstracts@gmail.com](netsci2025abstracts@gmail.com)
 
 
 ## Call for satellites  
