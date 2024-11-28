@@ -1,0 +1,119 @@
+plenary:
+
+
+  - name: Lenka Zdeborová
+    title: "Statistical Physics of Computation"
+    subtitle: ""
+    affiliation: "Associate Professor of Physics and Computer Science, EPFL & Head of the Statistical Physics of Computation Laboratory"
+    description: >
+      Lenka Zdeborová is a Professor of Physics and Computer Science at École Polytechnique Fédérale de Lausanne, 
+      where she leads the Statistical Physics of Computation Laboratory. She received a PhD in physics from the University of Paris-Sud 
+      and Charles University in Prague in 2008. She spent two years in the Los Alamos National Laboratory as the Director's Postdoctoral Fellow. 
+      Between 2010 and 2020, she was a researcher at CNRS, working in the Institute of Theoretical Physics in CEA Saclay, France. 
+      In 2014, she was awarded the CNRS bronze medal, in 2016 Philippe Meyer prize in theoretical physics and an ERC Starting Grant, 
+      in 2018 the Irène Joliot-Curie prize, in 2021 the Gibbs lectureship of AMS and the Neuron Fund award. 
+      Lenka's expertise is in the application of concepts from statistical physics, such as advanced mean field methods, the replica method, 
+      and related message-passing algorithms, to problems in machine learning, signal processing, inference, and optimization. 
+      She enjoys erasing the boundaries between theoretical physics, mathematics and computer science.
+    image: /assets/images/speakers/lenka_zdeborova.PNG
+
+
+
+  - name: Michael Macy
+    title: "The Shallowness of Deep Division"
+    subtitle: ""
+    affiliation: ""
+    description: >
+      Michael Macy is Distinguished Professor of Arts and Sciences at Cornell and Director of the Social Dynamics Lab.
+      With support from the U.S. National Science Foundation, Google, Yahoo! Research, DARPA, IARPA, and the Korean National Research Foundation,
+      his research team has used computational models, online laboratory experiments, and digital traces of device-mediated interaction
+      to explore enigmatic social patterns, including network “wormholes,” diurnal rhythms, racial discrimination on Airbnb, lifestyle politics,
+      the polarization of science, network mobility, and partisan unpredictability.
+    image: /assets/images/speakers/michael_macy.png
+
+  - name: Jari Saramaki
+    title: "Networks in Time and Space"
+    subtitle: ""
+    affiliation: ""
+    description: >
+      Professor Jari Saramäki studies the dynamics of complex systems through temporal networks. 
+      His research combines theory and data to examine dynamic phenomena from social interaction patterns 
+      to the spread of information and diseases.
+    image: /assets/images/speakers/jari_saramaki.png
+
+  - name: Linda Douw
+    title: "Multiscale Network Neuroscience:"
+    subtitle: "Connecting cells to circuits to networks in brain tumor patients"
+    affiliation: "Associate Professor, Amsterdam UMC & Head of the Multiscale Network Neuroscience Lab"
+    description: >
+      Linda Douw discovered network neuroscience during the final phase of her Master in Clinical Neuropsychology in Amsterdam. 
+      She continued to do a PhD on "Neural networks and brain tumors: the interplay between tumor, cognition, and epilepsy" at VU University Medical Center, which she finished in 2010.
+      She then moved to Boston (US) for a postdoc at the Martinos Center for Biomedical Imaging (MGH/MIT/Harvard Medical School), 
+      further investigating multimodal network approaches to better understand brain tumors and epilepsy. 
+      In 2014, she moved back to Amsterdam to start her own lab, now called "Multiscale Network Neuroscience".
+      She is currently an associate professor in the department of Anatomy and Neurosciences of the Amsterdam UMC, 
+      and leads a multidisciplinary research team. More information on the team's work can be found on www.multinetlab.com.
+    image: /assets/images/speakers/linda_douw.png
+
+  - name: Iza Romanowska
+    title: "Can the Past Save Our Future?"
+    subtitle: ""
+    affiliation: ""
+    description: >
+      Iza Romanowska is a complexity scientist working at the intersection of computational and social sciences. 
+      Together with the team at the Social Resilience Lab, she applies computational methods to explore why some communities thrived for millennia 
+      while others succumbed to the first major crisis. Her expertise lies in agent-based modelling, a simulation technique used to understand the 
+      dynamics of ancient and modern socio-environmental systems. A graduate of the Institute for Complex System Simulation at the University of Southampton, 
+      she previously led the Social Science Simulation and Digital Humanities Research Group at the Barcelona Supercomputing Center before moving up north 
+      to Aarhus University, Denmark. Currently, she splits her time between the ERC project The Model City. Drivers and Mechanism of Urban Resilience and 
+      training the next generation of agent-based modellers in historical sciences.
+    image: /assets/images/speakers/iza_romanovska.png
+
+  
+  - name: Sonia Kefi
+    title: "How Ecological Systems Respond to Stress"
+    subtitle: ""
+    affiliation: ""
+    description: >
+      Sonia Kéfi is a researcher at the Centre National de la Recherche Scientifique (CNRS) and based at the Institut des Sciences de l’Evolution de Montpellier (ISEM), France. 
+      She is an ecologist interested in ecosystem complexity and how the architecture of ecological systems drives emergent properties such as stability and resilience. 
+      She combines theoretical models and data analysis from various ecosystems to address these questions.
+    image: /assets/images/speakers/sonia_kefi.png
+
+
+# focus-session:
+#   - name: Speaker A
+#     title: Speaker A Title
+#     description: Description for Speaker A.
+#     image: /assets/images/speakers/speakerA.png
+
+school:
+  - name: Huijuan Wang
+    title: "Temporal Higher-order Networks"
+    subtitle: ""
+    affiliation: "Associate Professor, TU Delft & Co-founder NetSci NL & Chair NPCS & Board Member NetSci"
+    description: >
+      Dr. Huijuan Wang is an Associate Professor in the department of Intelligent Systems at Delft University of Technology. 
+      Her research focuses on Network Data Science. She develops methodologies to model, control and predict dynamic processes 
+      on time-evolving complex networks. Her work addresses diverse applications, ranging from viral spreading, opinion interactions, 
+      social and financial contagion, cascades of failures to the organization of criminal activities. Dr. Wang has been a visiting 
+      scientist in the Department of Physics at Boston University (2011-2019), as well as in the Departments of Electrical Engineering 
+      at Stanford (2015) and Princeton (2022) Universities. She is the Co-Founder of the Dutch Network Science Society and serves 
+      as the Chair of the Netherlands Platform for Complex Systems. In addition, she is a board member of the Network Science Society 
+      and has been on the organizing board of the Conference on Complex Networks and its Applications since 2017.
+    image: /assets/images/speakers/huijuan_wang.PNG
+
+  - name: Manlio De Domenico
+    title: "Network Science in a Complex World:"
+    subtitle: "Broken, Lost and Future Links"
+    affiliation: "Associate Professor, UniPD & Head of CoMuNe Lab & President of CSS/Italy & Co-founder and Co-Director of MSCX"
+    description: >
+      Manlio De Domenico is Associate Professor of Physics at the University of Padua, where he directs the Complex Multilayer Networks Lab. 
+      He is also Director of the Padua Center for Network Medicine, President of the Italian Chapter of the Complex Systems Society, 
+      co-founder and co-Director of the Mediterranean School of Complex Networks. His research explores collective phenomena in natural 
+      and artificial interdependent systems, with significant contributions to multilayer network modeling and analysis, applying these methods 
+      in biology, medicine, and epidemiology. His interdisciplinary work spans human mobility, disease spreading, connectomics, and network 
+      resilience, driving advancements in systems biology, systems medicine, and computational epidemiology. He has received prestigious awards, 
+      including the IUPAP Young Scientist Award in Statistical Physics and the German Physical Society's Young Scientist Award. 
+      He is also a prominent science communicator, leading initiatives like *Complexity Explained* and the #ComplexityThoughts newsletter.
+    image: /assets/images/speakers/manlio_de_domenico.PNG
