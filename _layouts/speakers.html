@@ -6,87 +6,144 @@ layout: default
 {% include header.html %}
 
 <style>
-    .navbar {
-        position: fixed;
-        top: 0;
-        width: 100%;
-        z-index: 1000;
-        background-color: #f8f9fa;
-        left: 0;
-        right: 0;
-        margin: 0 auto;
-        padding-left: 50px;  
-        padding-right: 40px; 
-    }
+/* General Layout */
+main {
+    padding-top: 70px;
+}
 
-    main {
-        padding-top: 70px;
-    }
+.speakers-section {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #f9f9f9;
+}
 
-    .speakers-section {
-        text-align: center;
-        background-color: #1c1c3c;
-        color: white;
-        padding: 50px 0;
-    }
+.speakers-section h2 {
+    margin-bottom: 30px;
+    font-family: "Open Sauce", sans-serif;
+    color: #030305;
+}
 
-    .speakers-content {
-        background-color: #1c1c3c;
-        color: white;
-        padding: 20px;
-        border-radius: 5px;
-    }
+/* Card Layout */
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 35px 15px;
+    padding: 0 40px;
+    justify-items: center;
+}
 
-    .speaker-card {
-        display: inline-block;
-        margin: 15px;
-        background-color: #1c1c3c;
-        color: white;
-        border-radius: 5px;
-        overflow: hidden;
-        width: 250px;
-        text-align: center;
-    }
+.speaker-card {
+    background-color: white;
+    border-radius: 8px;
+    width: 450px; 
+    text-align: center;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
-    .speaker-card img {
-        width: 100%;
-        height: auto;
-    }
+/* Image Styling */
+.speaker-card img {
+    max-width: 220px; 
+    height: 220px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
 
-    .speaker-card h3 {
-        margin: 15px 0 5px 0;
-    }
+/* Speaker Name */
+.speaker-card .speaker-name {
+    font-family: "Open Sauce", sans-serif;
+    font-size: 1.8rem; 
+    font-weight: bold;
+    color: #fc1b06;
+    margin-bottom: 15px;
+}
 
-    .speaker-card p {
-        margin: 0 0 10px 0;
-    }
+/* Red Line */
+.speaker-card .red-line {
+    width: 50px;
+    height: 3px;
+    background-color: #fc1b06;
+    margin: 10px auto;
+}
+
+/* Title */
+.speaker-card .title {
+    font-family: "Open Sauce", sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #030305;
+    margin-bottom: 5px;
+    text-align: left;
+    width: 100%; 
+}
+
+/* Subtitle */
+.speaker-card .subtitle {
+    font-family: "Open Sauce", sans-serif;
+    font-size: 1rem;
+    color: #353535;
+    margin-bottom: 15px;
+    text-align: left;
+    width: 100%; 
+}
+
+/* Description */
+.speaker-card .description {
+    font-family: "Open Sauce", sans-serif;
+    font-size: 0.9rem;
+    color: #353535;
+    line-height: 1.5;
+    text-align: left;
+    margin-top: 10px;
+}
+
 </style>
 
-<main class="my-4">
-    <div class="speakers-section">
-        <div class="container mt-5 speakers-content">
-            {{ content }}
-        </div>
 
-        <div class="speaker-card">
-            <img src="{{ site.baseurl }}/assets/images/tony_selby.png" alt="Tony Selby">
-            <h3>TBA</h3>
-            <p>TBD</p>
+<main>
+    <!-- Plenary Speakers Section -->
+    <section class="speakers-section">
+        <h2>{{ page.plenary_title }}</h2>
+        <div class="card-container">
+            {% for speaker in site.data.speakers.plenary %}
+            <div class="speaker-card">
+                <p class="speaker-name">{{ speaker.name }}</p>
+                <img src="{{ site.url }}{{ speaker.image }}" alt="Picture of {{ speaker.name }}">
+                <p class="title">{{ speaker.title }}</p>
+                {% if speaker.subtitle %}
+                <p class="subtitle">{{ speaker.subtitle }}</p>
+                {% endif %}
+                <div class="red-line"></div>
+                <p class="description">{{ speaker.description }}</p>
+            </div>
+            {% endfor %}
         </div>
-        <div class="speaker-card">
-            <img src="{{ site.baseurl }}/assets/images/rachel_froust.png" alt="Rachel Froust">
-            <h3>TBA</h3>
-            <p>TBD</p>
-        </div>
-        <div class="speaker-card">
-            <img src="{{ site.baseurl }}/assets/images/maria_sassoon.png" alt="Maria Sassoon">
-            <h3>TBA</h3>
-            <p>TBD</p>
-        </div>
-    </div>
+    </section>
 
+    <!-- School Speakers Section -->
+    <section class="speakers-section">
+        <h2>{{ page.school_title }}</h2>
+        <div class="card-container">
+            {% for speaker in site.data.speakers.school %}
+            <div class="speaker-card">
+                <p class="speaker-name">{{ speaker.name }}</p>
+                <img src="{{ site.url }}{{ speaker.image }}" alt="Picture of {{ speaker.name }}">
+                <p class="title">{{ speaker.title }}</p>
+                {% if speaker.subtitle %}
+                <p class="subtitle">{{ speaker.subtitle }}</p>
+                {% endif %}
+                <div class="red-line"></div>
+                <p class="description">{{ speaker.description }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
 </main>
 
-<!-- {% include footer.html %} -->
 
 
+{% include footer.html %}
