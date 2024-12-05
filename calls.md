@@ -57,7 +57,7 @@ We are looking forward to seeing the best of your new insights into network scie
 
 **Submit your abstract via the Microsoft CMT submission system [HERE](https://cmt3.research.microsoft.com/NETSCI2025)**.
 
-We invite you to submit a one-page abstract including one (mandatory) descriptive figure and references by **December 9, 2024**.
+We invite you to submit a one-page abstract including one (mandatory) descriptive figure and references by the end of **December 9, 2024 (anywhere on earth)**.
 We welcome submissions for the following presentation formats: 
 **contributed talks** (regular presentations in parallel sessions), 
 **lightning talks** (shorter presentations in plenary sessions), 
@@ -104,7 +104,7 @@ Expected notification of acceptance: 16 December 2024
 
 ## Important dates 
 - **Satellite proposal deadline**: 2 December, 2024
-- **Abstract submission deadline**: 9 December, 2024
+- **Abstract submission deadline**: 9 December, 2024 (anywhere on earth)
 - **Abstract notification**: 24 January, 2025
 - **Conference dates**: June 2 to 6, 2025
 
