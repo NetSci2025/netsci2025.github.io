@@ -11,7 +11,7 @@ permalink: /practical_information/
 For information about the city of Maastricht, the venue and hotels, visit [this page](../maastricht)
 
 
-# Arriving in Maastricht by plane
+## Arriving in Maastricht by plane
 
 For optimal connectivity and convenience, we recommend the following airports, all within three hours of Maastricht by public transport (see train information below):
 
@@ -56,7 +56,7 @@ For more information and to make a reservation, please click on the link below.
 
 ---
 
-# Arriving in Maastricht by train
+## Arriving in Maastricht by train
 
 **"Maastricht-Central"** and **"Maastricht-Randwyck"** station are part of the national and international railway network. There are frequent trains to Maastricht Central Station, which is also connected to the national and international rail network. For an overview or to book these trains, please visit the website of [NS International] (https://www.nsinternational.nl).
 
