@@ -1,8 +1,10 @@
 ---
 layout: contributors
-title: Organizers
-description: List of organizers
-navorder: 4
+title: Committees
+description: List of committees
+parent: About NetSci2025
+navorder: 2
+permalink: /committees/
 ---
 
 <!-- If you have any questions, please do not hesitate to contact us: [netsci2025@gmail.com](mailto:netsci2025@gmail.com) -->
