@@ -70,40 +70,26 @@
  
 
     <script>
-            document.addEventListener('DOMContentLoaded', function () {
-            const baseUrl = "{{ site.url }}"; 
-            const links = document.querySelectorAll('.navbar-nav a'); 
+            const dropdowns = document.querySelectorAll('.nav-item.dropdown');
+            
+            dropdowns.forEach((dropdown) => {
+                let hideTimeout;
+            
+                dropdown.addEventListener('mouseenter', () => {
+                    clearTimeout(hideTimeout);
+                    const dropdownMenu = dropdown.querySelector('.dropdown-menu');
+                    dropdownMenu.style.visibility = 'visible';
+                    dropdownMenu.style.opacity = '1';
+                });
+            
+                dropdown.addEventListener('mouseleave', () => {
+                    const dropdownMenu = dropdown.querySelector('.dropdown-menu');
+                    hideTimeout = setTimeout(() => {
+                        dropdownMenu.style.visibility = 'hidden';
+                        dropdownMenu.style.opacity = '0';
+                    }, 2000); 
+                });
+            });
 
-            links.forEach(link => {
-        
-                const relativePath = link.getAttribute('href');
-                if (relativePath && !relativePath.startsWith('http') && !relativePath.startsWith(baseUrl)) {
-                    link.href = baseUrl + relativePath;
-                }
-            });
-        });
-
-        
-        // JavaScript for handling dropdown timeout
-        const dropdowns = document.querySelectorAll('.nav-item.dropdown');
-        
-        dropdowns.forEach((dropdown) => {
-            let hideTimeout;
-        
-            dropdown.addEventListener('mouseenter', () => {
-                clearTimeout(hideTimeout);
-                const dropdownMenu = dropdown.querySelector('.dropdown-menu');
-                dropdownMenu.style.visibility = 'visible';
-                dropdownMenu.style.opacity = '1';
-            });
-        
-            dropdown.addEventListener('mouseleave', () => {
-                const dropdownMenu = dropdown.querySelector('.dropdown-menu');
-                hideTimeout = setTimeout(() => {
-                    dropdownMenu.style.visibility = 'hidden';
-                    dropdownMenu.style.opacity = '0';
-                }, 2000); // 2-second delay before hiding
-            });
-        });
     </script>
 </header>
