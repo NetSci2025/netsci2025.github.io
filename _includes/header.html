@@ -11,10 +11,16 @@
 
     
     .dropdown-menu {
-    visibility: visible !important;
-    opacity: 1 !important;
-    display: block !important;
-    transition: opacity 0.3s ease;
+    display: none; 
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0.3s, opacity 0.3s ease;
+    }
+
+    .dropdown:hover .dropdown-menu {
+    display: block; 
+    visibility: visible;
+    opacity: 1;
     }
 
 
