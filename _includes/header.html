@@ -1,3 +1,18 @@
+<style>
+    .navbar .navbar-nav {
+        padding-left: 30px; 
+        padding-right: 20px; 
+    }
+
+    
+    .navbar .navbar-brand {
+        padding-left: 30px; 
+    }
+
+</style>
+
+
+
 <header class="bg-{{ site.data.skin.header.bg | default: 'gray-4' }}">
     <div class="container">
         <nav class="navbar navbar-expand-sm">
@@ -8,21 +23,72 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navigation">
-                <div class="navbar-nav">
+                <ul class="navbar-nav">
                     {% assign links = site.pages | sort: 'navorder' %}
                     {% for link in links %}
-                    {% if link.navorder %}
-                    {% assign current = link.name | split: '.' | first %}
-                    {% assign href = link.url | prepend: site.url %}
-                    {% if page.layout == current %}
-                    <a class="nav-link active" aria-current="page" href="{{ href }}">{{ link.title }}</a>
-                    {% else %}
-                    <a class="nav-link" href="{{ href }}">{{ link.title }}</a>
-                    {% endif %}
-                    {% endif %}
+                        {% if link.navorder %}
+                            {% if link.has_children %}
+                                <!-- parent page -->
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="#" id="{{ link.title | downcase }}Dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        {{ link.title }}
+                                    </a>
+                                    <ul class="dropdown-menu" aria-labelledby="{{ link.title | downcase }}Dropdown">
+                                        {% assign children = site.pages | where: "parent", link.title | sort: "navorder" %}
+                                        {% for child in children %}
+                                            <li><a class="dropdown-item" href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+                                        {% endfor %}
+                                    </ul>
+                                </li>
+                            {% elsif link.parent == null %}
+                                <!-- single page -->
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
+                                </li>
+                            {% endif %}
+                        {% endif %}
                     {% endfor %}
-                </div>
+                </ul>
             </div>
         </nav>
     </div>
+ 
+
+    <script>
+            document.addEventListener('DOMContentLoaded', function () {
+            const baseUrl = "{{ site.url }}"; 
+            const links = document.querySelectorAll('.navbar-nav a'); 
+
+            links.forEach(link => {
+        
+                const relativePath = link.getAttribute('href');
+                if (relativePath && !relativePath.startsWith('http') && !relativePath.startsWith(baseUrl)) {
+                    link.href = baseUrl + relativePath;
+                }
+            });
+        });
+
+        
+        // JavaScript for handling dropdown timeout
+        const dropdowns = document.querySelectorAll('.nav-item.dropdown');
+        
+        dropdowns.forEach((dropdown) => {
+            let hideTimeout;
+        
+            dropdown.addEventListener('mouseenter', () => {
+                clearTimeout(hideTimeout);
+                const dropdownMenu = dropdown.querySelector('.dropdown-menu');
+                dropdownMenu.style.visibility = 'visible';
+                dropdownMenu.style.opacity = '1';
+            });
+        
+            dropdown.addEventListener('mouseleave', () => {
+                const dropdownMenu = dropdown.querySelector('.dropdown-menu');
+                hideTimeout = setTimeout(() => {
+                    dropdownMenu.style.visibility = 'hidden';
+                    dropdownMenu.style.opacity = '0';
+                }, 2000); // 2-second delay before hiding
+            });
+        });
+    </script>
 </header>
