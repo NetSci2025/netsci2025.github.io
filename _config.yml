@@ -11,6 +11,9 @@ baseurl: ""
 #baseurl: ""
 #theme: jekyll-nagymaros
 
+include:
+  - assets
+
 
 copyright: Place Holder
 indexing: true
