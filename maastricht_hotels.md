@@ -10,7 +10,7 @@ permalink: /maastricht/
 For information on how to get to Maastricht visit [this page](../practical_information)
 
 
-# Maastricht
+## Maastricht
 
 Maastricht is located in the southeast of the Netherlands, near the borders of Belgium and Germany. As a city, it is one of the oldest in the Netherlands with historic architecture and a thriving community.
 
@@ -20,14 +20,16 @@ Maastricht is located in the southeast of the Netherlands, near the borders of B
 </div>
 
 
-## Venue: MECC Maastricht
+----
+### Venue: MECC Maastricht
 
 We are excited to announce that NetSci2025 will be held at **MECC Maastricht**, a premier venue renowned for its state-of-the-art facilities and exceptional service. Located in the vibrant city of Maastricht, MECC Maastricht offers a versatile environment suitable for a wide range of events. The venue is easily accessible by various modes of transportation, including car, train, and plane, ensuring a convenient journey for all attendees.
 
 The main entrance of MECC Maastricht is located at **Forum 100, 6229 GV Maastricht [Get directions](https://www.google.com/maps/dir//Forum+100,+6231+SB+Maastricht/@50.8378029,5.7106924,17z), The Netherlands**. For more information, you can contact them at **+31 (0)43 38 38 383** or visit their [official website](https://mecc.nl).
 
 
-## Accomodation
+----
+### Accomodation
 
 **MECC Hotel Services** is the official housing partner for NetSci 2025. They will be happy to assist you in finding and booking your preferred hotel accommodation. In close consultation with the organization, MECC Hotel Services has reserved options in various hotels in Maastricht and the surrounding area at very competitive rates: **No extra costs, no reservation fees!**
 
@@ -38,6 +40,8 @@ If you have questions or prefer assistance with bookings, contact MECC Hotel Ser
 **Phone**: +31 433 83 83 61  
 
 [**Book here**](https://mecc.b-com.hosting/CommunityPortal/ProgressivePortal/NETSCI2025/App/Views/InformationPage/View.aspx?InformationPageID=715)
+
+----
 
 
 ## How to get to the venue (MECC Maastricht)
@@ -62,7 +66,6 @@ Show your NetSci 2025 conference badge when getting on the bus and you can use t
 
 [Plan your public transportation here**](https://9292.nl)
 
----
 
 ### By car
 
