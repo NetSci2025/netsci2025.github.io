@@ -58,7 +58,7 @@ For more information and to make a reservation, please click on the link below.
 
 ## Arriving in Maastricht by train
 
-**"Maastricht-Central"** and **"Maastricht-Randwyck"** station are part of the national and international railway network. There are frequent trains to Maastricht Central Station, which is also connected to the national and international rail network. For an overview or to book these trains, please visit the website of [NS International] (https://www.nsinternational.nl).
+**"Maastricht-Central"** and **"Maastricht-Randwyck"** station are part of the national and international railway network. There are frequent trains to Maastricht Central Station, which is also connected to the national and international rail network. For an overview or to book these trains, please visit the website of [NS International](https://www.nsinternational.nl).
 
 ### Travel information:
 
