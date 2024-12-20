@@ -1,0 +1,37 @@
+full_day:
+  title: Full Day
+  first_column:
+    - Science of Science
+    - HONS (Higher Order and AI)
+    - NetBioMed
+    - Network Neuroscience
+    - Software and Data to support Network Science
+  second_column:
+    - Network Geometry
+    - TEN (Temporal and Evolving Networks)
+    - FLSCN (Supply Chain)
+    - SINM (Stat Inference for Network Models)
+    - TopoNets
+
+half_day:
+  title: Half Day
+  first_column:
+    - Women in Network Science
+    - DAGshop
+    - FinEcoNets
+    - HISTONET
+    - NetRG (Renormalization)
+    - Physical networks
+    - Criminal Complexity
+    - Modelling dynamic networks
+    - EpiMob
+  second_column:
+    - "Science of Connections: Urban Mobility and Health"
+    - Patient wellbeing
+    - CPIN (Critical Phenomena in Networks)
+    - Sustainable Development Goals
+    - MIX-NEXT (Multiscale networks)
+    - FRIENDS (signed edges)
+    - Algorithmic fairness
+    - Understudied Networks in Computational Social Science
+    - NetSciEd Network Science and Education
