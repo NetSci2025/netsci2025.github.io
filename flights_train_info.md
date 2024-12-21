@@ -51,8 +51,8 @@ Depending on the average number of arrivals, taxis, minivans and coaches are ava
 
 For more information and to make a reservation, please click on the link below.
 
-<!-- [**Book your shuttle here**](#)   -->
-(WILL BE PROVIDED SOON)
+[**Book your shuttle here**](https://gotomaastricht.eu/netsci2025/)
+
 
 ---
 
