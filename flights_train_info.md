@@ -37,9 +37,10 @@ You will reach the booking platform via this [link](https://www.lufthansa.com/ev
 
 **NB: Please enable pop-ups permanently in your browser while booking, otherwise the window in the booking platform will not open.**
 
+![](assets/images/LufthansaGroup.png){:width="400px"} 
+
 
 ### Shuttle Service from the Airport
-
 
 We offer a shuttle service from and to **Brussels Zaventem Airport** and **Düsseldorf International Airport** to the doorstep of your hotel.
 
