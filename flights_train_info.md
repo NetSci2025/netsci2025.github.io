@@ -31,14 +31,11 @@ Several other airports also offer efficient train connections to Maastricht:
 
 ### Special fares with the Lufthansa Group airlines
 
-We offer discounts on flights with Lufthansa Group airlines: Austrian Airlines, Lufthansa, SWISS, Brussels Airlines and Eurowings. You can access the booking platform by clicking on the button below and entering the event code (WILL BE PROVIDED SOON). The discounted fares will be displayed automatically.
+The Lufthansa Group airlines bring people together - every day, all around the world. The global route network of Austrian Airlines, Lufthansa, SWISS, Brussels Airlines and Eurowings offers optimal connection and combination options, so you will benefit from quick and direct flights to the event.
 
-**NB:** Please enable pop-ups in your browser when booking, otherwise the booking platform window will not open.
+You will reach the booking platform via this [link](https://www.lufthansa.com/event/netsci-2025-jun). The reduced fares are automatically displayed.
 
-For more information and to make a reservation, please click the link below.
-
-<!-- [**Book your flight here using Lufthansa**](#) -->
-(WILL BE PROVIDED SOON)
+**NB: Please enable pop-ups permanently in your browser while booking, otherwise the window in the booking platform will not open.**
 
 
 ### Shuttle Service from the Airport
