@@ -93,7 +93,11 @@ layout: default
                 <ul>
                     {% for item in site.data.satellites.full_day.first_column %}
                     <li>
+                        {% if item.url %}
                         <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+                        {% else %}
+                        {{ item.name }}
+                        {% endif %}
                     </li>
                     {% endfor %}
                 </ul>
@@ -102,7 +106,11 @@ layout: default
                 <ul>
                     {% for item in site.data.satellites.full_day.second_column %}
                     <li>
+                        {% if item.url %}
                         <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+                        {% else %}
+                        {{ item.name }}
+                        {% endif %}
                     </li>
                     {% endfor %}
                 </ul>
@@ -116,7 +124,11 @@ layout: default
                 <ul>
                     {% for item in site.data.satellites.half_day.first_column %}
                     <li>
+                        {% if item.url %}
                         <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+                        {% else %}
+                        {{ item.name }}
+                        {% endif %}
                     </li>
                     {% endfor %}
                 </ul>
@@ -125,7 +137,11 @@ layout: default
                 <ul>
                     {% for item in site.data.satellites.half_day.second_column %}
                     <li>
+                        {% if item.url %}
                         <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+                        {% else %}
+                        {{ item.name }}
+                        {% endif %}
                     </li>
                     {% endfor %}
                 </ul>
@@ -133,5 +149,6 @@ layout: default
         </div>
     </div>
 </main>
+
 
 {% include footer.html %}
