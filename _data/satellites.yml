@@ -3,36 +3,47 @@ full_day:
   first_column:
     - name: Science of Science
       url: https://netscisci.github.io
-    - HONS (Higher Order and AI)
-    - NetBioMed
-    - Network Neuroscience
-    - Software and Data to support Network Science
+    - name: HONS (Higher Order and AI)
+    - name: NetBioMed
+      url: https://netbiomed2025.github.io
+    - name: Network Neuroscience
+    - name: Software and Data to support Network Science
+      url: https://netsci.nascol.net
   second_column:
-    - Network Geometry
-    - TEN (Temporal and Evolving Networks)
-    - FLSCN (Supply Chain)
-    - SINM (Stat Inference for Network Models)
-    - TopoNets
+    - name: Network Geometry
+    - name: TEN (Temporal and Evolving Networks)
+      url: https://sites.google.com/view/tenet-netsci/home
+    - name: FLSCN (Supply Chain)
+      url: https://sites.google.com/view/flscn2025
+    - name: SINM (Stat Inference for Network Models)
+      url: https://sinm.network
+    - name: TopoNets
 
 half_day:
   title: Half Day
   first_column:
-    - Women in Network Science
-    - DAGshop
-    - FinEcoNets
-    - HISTONET
-    - NetRG (Renormalization)
-    - Physical networks
-    - Criminal Complexity
-    - Modelling dynamic networks
-    - EpiMob
+    - name: Women in Network Science
+    - name: DAGshop
+      url: https://www.dagshop.xyz/
+    - name: FinEcoNets
+      url: https://sites.google.com/view/fineconets-netsci2025
+    - name: HISTONET
+    - name: NetRG (Renormalization)
+    - name: Physical networks
+    - name: Criminal Complexity
+    - name: Modelling dynamic networks
+    - name: EpiMob
   second_column:
-    - "Science of Connections: Urban Mobility and Health"
-    - Patient wellbeing
-    - CPIN (Critical Phenomena in Networks)
-    - Sustainable Development Goals
-    - MIX-NEXT (Multiscale networks)
-    - FRIENDS (signed edges)
-    - Algorithmic fairness
-    - Understudied Networks in Computational Social Science
-    - NetSciEd Network Science and Education
+    - name: "Science of Connections: Urban Mobility and Health"
+      url: https://mobilityhealthnetworks.github.io
+    - name: Patient wellbeing
+      url: https://sites.google.com/view/netsci-health-2025
+    - name: CPIN (Critical Phenomena in Networks)
+    - name: Sustainable Development Goals
+      url: https://sites.google.com/view/netsci4sdgs25/home
+    - name: MIX-NEXT (Multiscale networks)
+    - name: FRIENDS (signed edges)
+      url: https://signet-friends.github.io
+    - name: Algorithmic fairness
+    - name: Understudied Networks in Computational Social Science
+    - name: NetSciEd Network Science and Education
