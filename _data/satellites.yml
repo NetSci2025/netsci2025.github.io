@@ -1,7 +1,8 @@
 full_day:
   title: Full Day
   first_column:
-    - Science of Science
+    - name: Science of Science
+      url: https://netscisci.github.io
     - HONS (Higher Order and AI)
     - NetBioMed
     - Network Neuroscience
