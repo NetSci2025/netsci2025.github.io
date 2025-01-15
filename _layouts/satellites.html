@@ -111,14 +111,18 @@ layout: default
             <div class="column">
                 <ul>
                     {% for item in site.data.satellites.half_day.first_column %}
-                    <li>{{ item }}</li>
+                    <li>
+                        <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+                    </li>
                     {% endfor %}
                 </ul>
             </div>
             <div class="column">
                 <ul>
                     {% for item in site.data.satellites.half_day.second_column %}
-                    <li>{{ item }}</li>
+                    <li>
+                        <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+                    </li>
                     {% endfor %}
                 </ul>
             </div>
