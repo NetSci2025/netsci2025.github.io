@@ -43,9 +43,9 @@ half_day:
       url: https://www.ci.inf.usi.ch/netsci-bernoulli
     - name: "Epidemic control: From mobility data to public health (EpiMob)"
       url: https://epimob.weebly.com
-  second_column:
     - name: "The Science of Connections: Urban Mobility and Health Network"
       url: https://mobilityhealthnetworks.github.io
+  second_column:
     - name: Network Medicine
       url: https://sites.google.com/view/netsci-health-2025
     - name: Critical Phenomena In Networks (CPIN)
