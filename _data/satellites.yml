@@ -8,7 +8,7 @@ full_day:
     - name: Networks in Biology and Medicine (NetBioMed)
       url: https://netbiomed2025.github.io
     - name: Network Neuroscience
-      url:https://networkneuroscience.github.io
+      url: https://networkneuroscience.github.io
     - name: Software and Data for Supporting Network Science
       url: https://netsci.nascol.net
   second_column:
