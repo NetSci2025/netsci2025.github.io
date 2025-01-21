@@ -33,7 +33,7 @@ Several other airports also offer efficient train connections to Maastricht:
 
 The Lufthansa Group airlines bring people together - every day, all around the world. The global route network of Austrian Airlines, Lufthansa, SWISS, Brussels Airlines and Eurowings offers optimal connection and combination options, so you will benefit from quick and direct flights to the event.
 
-You will reach the booking platform via this [link](https://www.lufthansa.com/event/netsci-2025-jun). The reduced fares are automatically displayed.
+You will reach the booking platform via this [link](https://www.lufthansa.com/content/lh/markets/nl/en/event/netsci-2025-jun). The reduced fares are automatically displayed.
 
 **NB: Please enable pop-ups permanently in your browser while booking, otherwise the window in the booking platform will not open.**
 
