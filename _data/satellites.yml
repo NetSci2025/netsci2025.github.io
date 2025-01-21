@@ -12,7 +12,7 @@ full_day:
     - name: Software and Data for Supporting Network Science
       url: https://netsci.nascol.net
   second_column:
-    - name: Network Geometry: Theory and Applications
+    - name: "Network Geometry: Theory and Applications"
     - name: TEmporal NETworks (TENET)
       url: https://sites.google.com/view/tenet-netsci/home
     - name: 2nd NetSci Satellite on Firm-Level Supply Chain Networks (FLSCN)
@@ -25,7 +25,7 @@ full_day:
 half_day:
   title: Half Day
   first_column:
-    - name: The future of Network Science: WiNS @ NetSci
+    - name: "The future of Network Science: WiNS @ NetSci"
       url: https://tinyurl.com/tpajjdz9
     - name: A Workshop on Directed Acyclic Graphs (DAGshop)
       url: https://www.dagshop.xyz/
@@ -52,7 +52,7 @@ half_day:
       url: https://www.gesis.org/cpin
     - name: Network Science for the Sustainable Development Goals
       url: https://sites.google.com/view/netsci4sdgs25/home
-    - name: Multiscale & Integrative compleX Networks: EXperiments & Theories (MIX-NEXT)
+    - name: "Multiscale & Integrative compleX Networks: EXperiments & Theories (MIX-NEXT)"
       url: https://manliodedomenico.com/MIXNEXT2025/
     - name: Frameworks, Research and applIcations in complEx Networks (FRIENDS) with signeD edgeS
       url: https://signet-friends.github.io
