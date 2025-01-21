@@ -29,7 +29,7 @@ half_day:
       url: https://tinyurl.com/tpajjdz9
     - name: A Workshop on Directed Acyclic Graphs (DAGshop)
       url: https://www.dagshop.xyz/
-    - name: XII Workshop Economic & Financial Networks (FinEcoNets)
+    - name: "XII Workshop Economic & Financial Networks (FinEcoNets)"
       url: https://sites.google.com/view/fineconets-netsci2025
     - name: Historical Networks (HISTONET)
       url: https://historicalnetworkresearch.github.io/netsci-maastricht
@@ -41,7 +41,7 @@ half_day:
       url: https://criminalcomplexity.weebly.com
     - name: Modelling Dynamic Networks
       url: https://www.ci.inf.usi.ch/netsci-bernoulli
-    - name: Epidemic control: From mobility data to public health (EpiMob)
+    - name: "Epidemic control: From mobility data to public health (EpiMob)"
       url: https://epimob.weebly.com
   second_column:
     - name: "The Science of Connections: Urban Mobility and Health Network"
