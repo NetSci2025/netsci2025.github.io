@@ -11,8 +11,20 @@ legend:
       color: grey-6
     - name: Other Activities
       color: green-6
+    - name: Satellites
+      color: pink-6
 
 days:
+  - name: Mon 2 June 2025
+    events:
+      - time: 09:00 - 17:00
+        title: NetSci Satellites
+        category: Satellites
+  - name: Tue 3 June 2025
+    events:
+      - time: 09:00 - 17:00
+        title: NetSci Satellites
+        category: Satellites
   - name: Wed 4 June 2025
     events:
       - time: 09:00 - 09:45
