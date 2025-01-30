@@ -25,7 +25,7 @@ Maastricht is located in the southeast of the Netherlands, near the borders of B
 
 We are excited to announce that NetSci2025 will be held at **MECC Maastricht**, a premier venue renowned for its state-of-the-art facilities and exceptional service. Located in the vibrant city of Maastricht, MECC Maastricht offers a versatile environment suitable for a wide range of events. The venue is easily accessible by various modes of transportation, including car, train, and plane, ensuring a convenient journey for all attendees.
 
-The main entrance of MECC Maastricht is located at **Forum 100, 6229 GV Maastricht [Get directions](https://www.google.com/maps/dir//Forum+100,+6231+SB+Maastricht/@50.8378029,5.7106924,17z), The Netherlands**. For more information, you can contact them at **+31 (0)43 38 38 383** or visit their [official website](https://mecc.nl).
+The main entrance of MECC Maastricht is located at **Forum 100, 6229 GV Maastricht [Get directions](https://www.google.com/maps/dir//Forum+100,+6231+SB+Maastricht/@50.8378029,5.7106924,17z){:target="_blank"}, The Netherlands**. For more information, you can contact them at **+31 (0)43 38 38 383** or visit their [official website](https://mecc.nl){:target="_blank"}.
 
 
 ----
@@ -39,7 +39,7 @@ If you have questions or prefer assistance with bookings, contact MECC Hotel Ser
 **Email**: mhs@mecc.nl  
 **Phone**: +31 433 83 83 61  
 
-[**Book here**](https://mecc.b-com.hosting/CommunityPortal/ProgressivePortal/NETSCI2025/App/Views/InformationPage/View.aspx?InformationPageID=715)
+[**Book here**](https://mecc.b-com.hosting/CommunityPortal/ProgressivePortal/NETSCI2025/App/Views/InformationPage/View.aspx?InformationPageID=715){:target="_blank"}
 
 ----
 
@@ -56,7 +56,7 @@ MECC Maastricht is a 30-40 minutes walk from the city center.
 
 The **Maastricht-Randwyck train station** is located 250 meters from the MECC Maastricht and is connected to an international rail network. It's a 5-minute walk from the station to the venue. There are regular connections from Maastricht Central Station
 
-For more information, please visit [NS](https://www.ns.nl/).
+For more information, please visit [NS](https://www.ns.nl/){:target="_blank"}.
 
 #### Bus
 
@@ -64,7 +64,7 @@ A bus runs every five minutes from Maastricht city center or Maastricht Central 
 
 Show your NetSci 2025 conference badge when getting on the bus and you can use the public transport for free. This is only valid during the NetSci 2025 conference (June 4-6).
 
-[Plan your public transportation here**](https://9292.nl)
+[Plan your public transportation here**](https://9292.nl){:target="_blank"}
 
 
 ### By car
@@ -78,10 +78,10 @@ As you approach Maastricht, you will see 'MECC' on the highway signs directing y
 
 ----
 
-Congress center (MECC): Forum 100, 6229 GV Maastricht. [Get directions](https://www.google.com/maps/dir//Forum+100,+6231+SB+Maastricht/@50.8378029,5.7106924,17z)
+Congress center (MECC): Forum 100, 6229 GV Maastricht. [Get directions](https://www.google.com/maps/dir//Forum+100,+6231+SB+Maastricht/@50.8378029,5.7106924,17z){:target="_blank"}
 
-Faculty of Arts and Social Sciences (FASOS): Grote Gracht 90, 6211 SZ Maastricht. [Get directions](https://www.google.com/maps/dir//Grote+Gracht+90,+6211+SZ+Maastricht/@50.846862,5.690682,17z)
+Faculty of Arts and Social Sciences (FASOS): Grote Gracht 90, 6211 SZ Maastricht. [Get directions](https://www.google.com/maps/dir//Grote+Gracht+90,+6211+SZ+Maastricht/@50.846862,5.690682,17z){:target="_blank"}
 
-Faculty of Engineering and Science (FES): Paul-Henri Spaaklaan 1, 6229 EN Maastricht. [Get directions](https://www.google.com/maps/dir//Paul-Henri+Spaaklaan+1,+6229+EN+Maastricht/@50.850237,5.688502,17z)
+Faculty of Engineering and Science (FES): Paul-Henri Spaaklaan 1, 6229 EN Maastricht. [Get directions](https://www.google.com/maps/dir//Paul-Henri+Spaaklaan+1,+6229+EN+Maastricht/@50.850237,5.688502,17z){:target="_blank"}
 
-Faculty of Psychology and Neuroscience (FPN): Universiteitssingel 40, 6229 ER Maastricht. [Get directions](https://www.google.com/maps/dir//Universiteitssingel+40,+6229+ER+Maastricht/@50.847927,5.686637,17z)
+Faculty of Psychology and Neuroscience (FPN): Universiteitssingel 40, 6229 ER Maastricht. [Get directions](https://www.google.com/maps/dir//Universiteitssingel+40,+6229+ER+Maastricht/@50.847927,5.686637,17z){:target="_blank"}

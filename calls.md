@@ -7,8 +7,15 @@ navorder: 2
 
   
 ---  
+### You can still submit abstracts to the NetSci Satellites, which take place in the first two days of the conference. Click [here](/satellites) to explore the Satellites. 
+
+
+--- 
+
 
 ## Call for abstracts
+Note: the call of abstract for the main conference is closed. You can still submit abstracts to the [NetSci Satellites](/satellites).
+
 NetSci, the International School and Conference on Network Science, is the flagship conference of the Network Science
 Society. It brings under one umbrella a wide variety of leading researchers, practitioners, and stakeholders with a direct
 interest in **Network Science**, from Physics to Computer Science, Biology, Social Sciences, Economics, and Technological
@@ -76,7 +83,7 @@ Accepted abstracts require in-person presentation by one author, who can present
 Any questions about abstract submissions can be sent to: [netsci2025abstracts@gmail.com](netsci2025abstracts@gmail.com)
 
 
-## Call for satellites  
+## Call for satellites--CLOSED
 
 **NetSci 2025 will host several Satellite Symposia on June 2 and 3, before the main conference.**  
 
@@ -103,10 +110,11 @@ Expected notification of acceptance: 16 December 2024
 
 
 ## Important dates 
-- **Satellite proposal deadline**: 2 December, 2024
-- **Abstract submission deadline**: 9 December, 2024 (anywhere on earth)
-- **Abstract notification**: 24 January, 2025
-- **Conference dates**: June 2 to 6, 2025
+- ~~**Satellite proposal deadline**: 2 December, 2024~~
+- ~~**Abstract submission deadline**: 9 December, 2024~~
+- ~~**Abstract notification**: 24 January, 2025~~
+- **Early bird [registration](/registration) deadline**: 25 February, 2025
+- **Conference Dates**: June 2 to 6 2025
 
 
 

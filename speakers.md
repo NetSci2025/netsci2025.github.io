@@ -2,7 +2,7 @@
 layout: speakers
 title: Speakers
 description: Speakers overview
-parent: About NetSci2025
+parent: Program
 navorder: 1
 permalink: /speakers/
 plenary_title: Plenary Speakers

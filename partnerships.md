@@ -7,10 +7,11 @@ permalink: /partnerships/
 ---
 
 ## Platinium sponsors
-[![Maastricht Convention Bureau](/assets/images/sponsors/Maastricht_Conv_Bureau.jpg){:width="400px"}](https://www.maastrichtconventionbureau.com/)
+[![Maastricht Convention Bureau](/assets/images/sponsors/Maastricht_Conv_Bureau.jpg){:width="400px"}](https://www.maastrichtconventionbureau.com/){:target="_blank"}
 
 ---
 ---
+
 
 ## Gold sponsors
 <div style="display: flex; justify-content: left; gap: 20px; align-items: center; text-align: center;">

@@ -1,4 +1,4 @@
 buttons:
-  - text: Submit an abstract
-    url: /calls
+  - text: Early bird registration open
+    url: /registration
     disabled: false
