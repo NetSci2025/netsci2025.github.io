@@ -7,14 +7,14 @@ navorder: 2
 
   
 ---  
-### You can still submit abstracts to the NetSci Satellites, which take place in the first two days of the conference. Click [here](/satellites) to explore the Satellites. 
+### You can still submit abstracts to the NetSci Satellites, which take place in the first two days of the conference. Click [here](/satellites) to explore the satellites. 
 
 
 --- 
 
 
 ## Call for abstracts
-Note: the call of abstract for the main conference is closed. You can still submit abstracts to the [NetSci Satellites](/satellites).
+Note: the call for abstracts for the main conference is closed. You can still submit abstracts to the [NetSci Satellites](/satellites).
 
 NetSci, the International School and Conference on Network Science, is the flagship conference of the Network Science
 Society. It brings under one umbrella a wide variety of leading researchers, practitioners, and stakeholders with a direct
