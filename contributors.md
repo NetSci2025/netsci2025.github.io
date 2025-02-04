@@ -10,7 +10,7 @@ permalink: /committees/
 
 ### Contact information
 
-If you have any questions, please do not hesitate to contact us: [netsci2025@gmail.com](mailto:netsci2025@gmail.com)
+If you have any questions, please do not hesitate to contact us: [helpdesk@klinkhamergroup.com](mailto:helpdesk@klinkhamergroup.com)
 
 <!-- ### Scientific committee
 <div class="row">
