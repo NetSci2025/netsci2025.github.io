@@ -37,6 +37,18 @@ permalink: /partnerships/
 </div>
 
 
+---
+
+## Bronze sponsors
+
+<div style="display: flex; justify-content: left; gap: 20px; align-items: center; text-align: center;">
+    <a href="https://appliednetsci.springeropen.com/" target="_blank">
+        <img src="/assets/images/sponsors/ANS.png" alt="Applied Network Science" style="width: 150px;">
+    </a>
+    
+</div>
+
+
 <!-- [![Gold Sponsor 1](https://odissei-soda.nl/images/logos/soda_logo.svg){:width="150px"}](https://odissei-soda.nl) -->
 
 <!-- ---
