@@ -9,7 +9,7 @@ permalink: /registration/
 
 
 
-The NetSci conference registration fee includes access to all conference sessions, networking events, and opportunities to present research. It also covers conference materials, coffee breaks, a welcome reception, and online access to proceedings. Satellites and social dinner require additional payments during the registration process.
+The NetSci conference registration fee includes access to all conference sessions, networking events, and opportunities to present research. It also covers conference materials, coffee breaks, a welcome reception, and online access to proceedings. The social dinner at Château Neercanne requires an additional payment during the registration process.
 
 You should receive a registration confirmation via email when you register online (along with a payment confirmation email from the payment processing site). If you do not receive your confirmation within a few minutes, please check your SPAM box or contact Klinkhamer conferences & events in writing through [helpdesk@klinkhamergroup.com](mailto:helpdesk@klinkhamergroup.com). 
 
