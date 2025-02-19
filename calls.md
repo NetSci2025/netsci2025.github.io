@@ -9,8 +9,7 @@ navorder: 2
 ---  
 
 
-## Call for abstracts
-Note: the call for abstracts for the main conference is closed. You can still submit abstracts to the [NetSci Satellites](/satellites).
+## Call for abstracts--CLOSED
 
 NetSci, the International School and Conference on Network Science, is the flagship conference of the Network Science
 Society. It brings under one umbrella a wide variety of leading researchers, practitioners, and stakeholders with a direct
