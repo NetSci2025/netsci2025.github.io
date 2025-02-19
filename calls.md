@@ -7,10 +7,6 @@ navorder: 2
 
   
 ---  
-### You can still submit abstracts to the NetSci Satellites, which take place in the first two days of the conference. Click [here](/satellites) to explore the satellites. 
-
-
---- 
 
 
 ## Call for abstracts
