@@ -79,7 +79,17 @@ document.addEventListener("DOMContentLoaded", function() {
         <h1 class="display-5">{{ page.title }}</h1>
         <!-- Keep only this horizontal line -->
         <hr class="my-4">
-
+                
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Call for travel support grants</h2>
+                {% assign call_for_travel_content = content | split: 'Call for travel support grants' | last | split: 'Call for satellites' | first %}
+                {{ call_for_travel_content | remove: '</h2>' | remove: '<h2>' | remove: '</h3>' | remove: '<h3>' | markdownify }}
+            </div>
+        </div>
+        
+        <hr class="my-4">
+        
         <!-- Main content and sidebar columns -->
         <div class="content-container">
             <!-- Main content column for Call for abstracts and How to Apply -->
@@ -126,20 +136,11 @@ document.addEventListener("DOMContentLoaded", function() {
                 {{ important_dates_content | remove: '</h2>' | markdownify }} 
             </div>
         </div>
-        
-        <hr class="my-4">
-                
-        <div class="row">
-            <div class="col-md-12">
-                <h2>Call for travel support grants</h2>
-                {% assign call_for_travel_content = content | split: 'Call for travel support grants' | last | split: 'Call for satellites' | first %}
-                {{ call_for_travel_content | remove: '</h2>' | remove: '<h2>' | remove: '</h3>' | remove: '<h3>' | markdownify }}
-            </div>
-        </div>
 
 
     </div>
 </main>
+
 
     
 
