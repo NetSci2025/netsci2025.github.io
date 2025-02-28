@@ -117,14 +117,27 @@ document.addEventListener("DOMContentLoaded", function() {
 
         <hr class="my-4">
         
+        
         <!-- Important Dates Section -->
         <div class="row">
             <div class="col-md-12">
                 <h2>Important dates</h2>
-                {% assign important_dates_content = content | split: 'Important dates' | last %}
-                {{ important_dates_content | remove: '</h2>' | markdownify }} <!-- Ensure no erroneous </h2> -->
+                {% assign important_dates_content = content | split: 'Important dates' | last | split: 'Call for travel' | first %}
+                {{ important_dates_content | remove: '</h2>' | markdownify }} 
             </div>
         </div>
+        
+        <hr class="my-4">
+        
+        <!-- Call for travel Section -->
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Call for travel</h2>
+                {% assign call_for_travel_content = content | split: 'Call for travel' | last | split: 'Call for satellites' | first %}
+                {{ call_for_travel_content | remove: '</h2>' | markdownify }} 
+            </div>
+        </div>
+
     </div>
 </main>
 
