@@ -129,12 +129,11 @@ document.addEventListener("DOMContentLoaded", function() {
         
         <hr class="my-4">
                 
-        <!-- Call for travel support grants Section -->
         <div class="row">
             <div class="col-md-12">
                 <h2>Call for travel support grants</h2>
                 {% assign call_for_travel_content = content | split: 'Call for travel support grants' | last | split: 'Call for satellites' | first %}
-                {{ call_for_travel_content | remove: '^support grants' | markdownify }} <!-- Remove 'support grants' -->
+                {{ call_for_travel_content | remove: '</h2>' | remove: '<h2>' | remove: '</h3>' | remove: '<h3>' | markdownify }}
             </div>
         </div>
 
