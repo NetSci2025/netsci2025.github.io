@@ -78,7 +78,7 @@ Accepted abstracts require in-person presentation by one author, who can present
 Any questions about abstract submissions can be sent to: [netsci2025abstracts@gmail.com](netsci2025abstracts@gmail.com)
 
 
-## Call for satellites--CLOSED
+## Call for satellites
 
 **NetSci 2025 will host several Satellite Symposia on June 2 and 3, before the main conference.**  
 
@@ -112,6 +112,11 @@ Expected notification of acceptance: 16 December 2024
 - **Conference Dates**: June 2 to 6 2025
 
 
+## Call for travel
+The NetSci organising committee is pleased to announce a limited number of travel grants to attend the conference. The goal is to support individuals for whom attendance would cause a financial burden, e.g., from low and middle-income countries, that require financial support for travel and conference costs in order to attend. Conference grants will typically be in the form of a reimbursement, up to a given amount, for economy-class flights, accommodation, visa costs, and/or health insurance.
+Grants will only be awarded to people with an accepted abstract submission to NetSci. 
+
+Applicants must fill out the form [here](https://forms.gle/sChqKjAf6LoWQwxa8).
 
 
 
