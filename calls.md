@@ -108,7 +108,7 @@ Expected notification of acceptance: 16 December 2024
 - ~~**Satellite proposal deadline**: 2 December, 2024~~
 - ~~**Abstract submission deadline**: 9 December, 2024~~
 - ~~**Abstract notification**: 24 January, 2025~~
-- **Early bird [registration](/registration) deadline**: 25 February, 2025
+- **Early bird [registration](/registration) deadline**: 6 March, 2025
 - **Conference Dates**: June 2 to 6 2025
 
 
