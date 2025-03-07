@@ -1,4 +1,4 @@
 buttons:
-  - text: Early bird registration open
+  - text: Registration open
     url: /registration
     disabled: false
