@@ -109,6 +109,8 @@ Expected notification of acceptance: 16 December 2024
 - ~~**Abstract submission deadline**: 9 December, 2024~~
 - ~~**Abstract notification**: 24 January, 2025~~
 - ~~**Early bird [registration](/registration) deadline**: 6 March, 2025~~
+- **Travel support application deadline**: 13 March, 2025
+- **Late breaking work submission deadline**: 2 April, 2025
 - **Conference Dates**: June 2 to 6 2025
 
 
@@ -119,6 +121,16 @@ Grants will only be awarded to people with an accepted abstract submission to Ne
 
 Applicants must fill out the form [here](https://forms.gle/sChqKjAf6LoWQwxa8).
 
+## Call for late breaking work
+
+We are pleased to announce a second call for abstracts for the NetSci community to submit their late-breaking work that can be presented during the poster session on Friday 6 June 2025. 
+
+Abstract submissions follow the same guidelines as in the original call for abstracts (see below). You can submit your abstract [HERE](https://cmt3.research.microsoft.com/NETSCI2025/Track/2/Submission/Create).
+
+Please note that priority will be given to those who are not already presenting at the main conference.
+
+**Deadline for submissions: 2 April 2025, 23:59 AOE**
+Acceptance notification: 14 April 2025
 
 
 <!-- ## NetSci
