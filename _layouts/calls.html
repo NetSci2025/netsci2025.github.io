@@ -79,7 +79,14 @@ document.addEventListener("DOMContentLoaded", function() {
         <h1 class="display-5">{{ page.title }}</h1>
         <!-- Keep only this horizontal line -->
         <hr class="my-4">
-
+        <div class="main-content">
+          {% assign before_late_breaking = content | split: 'Call for late breaking work' | first %}
+          {{ before_late_breaking | markdownify }}
+        </div>
+    
+        <hr class="my-4">
+        
+        <!-- Call for late breaking work -->
         <div class="row">
             <div class="col-md-12">
                 <h2>Call for late breaking work</h2>
@@ -89,7 +96,8 @@ document.addEventListener("DOMContentLoaded", function() {
         </div>
         
         <hr class="my-4">
-        
+
+        <!-- Call for travel support grants -->
         <div class="row">
             <div class="col-md-12">
                 <h2>Call for travel support grants</h2>
