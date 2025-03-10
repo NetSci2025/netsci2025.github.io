@@ -123,6 +123,7 @@ Abstract submissions follow the same guidelines as in the original call for abst
 Please note that priority will be given to those who are not already presenting at the main conference.
 
 **Deadline for submissions: 2 April 2025, 23:59 AOE**
+
 Acceptance notification: 14 April 2025
 
 ## Call for travel support grants
