@@ -121,7 +121,7 @@ Grants will only be awarded to people with an accepted abstract submission to Ne
 
 Applicants must fill out the form [here](https://forms.gle/sChqKjAf6LoWQwxa8).
 
-## Call for late breaking work
+## Call for late breaking work  
 
 We are pleased to announce a second call for abstracts for the NetSci community to submit their late-breaking work that can be presented during the poster session on Friday 6 June 2025. 
 
