@@ -83,10 +83,12 @@ document.addEventListener("DOMContentLoaded", function() {
         <div class="row">
             <div class="col-md-12">
                 <h2>Call for late breaking work</h2>
-                {% assign call_for_late_content = content | split: 'Call for late breaking work' | last | split: 'Call for satellites' | first %}
-                {{ call_for_travel_content | remove: '</h2>' | remove: '<h2>' | remove: '</h3>' | remove: '<h3>' | markdownify }}
+                {% assign call_for_late_content = content | split: 'Call for late breaking work' | last | split: 'Call for travel support grants' | first %}
+                {{ call_for_late_content | remove: '</h2>' | remove: '<h2>' | remove: '</h3>' | remove: '<h3>' | markdownify }}
             </div>
         </div>
+        
+        <hr class="my-4">
         
         <div class="row">
             <div class="col-md-12">
