@@ -83,7 +83,6 @@ document.addEventListener("DOMContentLoaded", function() {
         <!-- Call for late breaking work -->
         <div class="row">
             <div class="col-md-12">
-                <h2>Call for late breaking work</h2>
                 {% assign call_for_late_content = content | split: 'Call for late breaking work' | last | split: 'Call for travel support grants' | first %}
                 {{ call_for_late_content | markdownify }}
 
