@@ -133,6 +133,10 @@ Grants will only be awarded to people with an accepted abstract submission to Ne
 
 Applicants must fill out the form [here](https://forms.gle/sChqKjAf6LoWQwxa8).
 
+**Deadline for submissions: 13 March 2025, 23:59 AOE**
+
+Acceptance notification: 14 April 2025
+
 
 
 
