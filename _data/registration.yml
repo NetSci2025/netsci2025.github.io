@@ -3,16 +3,16 @@ registration:
   description: Register for NetSci 2025
   headers:
     - Registration type
-    - Early Bird (deadline is 24 Feb)
-    - Standard (after 24 Feb)
+    - Early Bird (deadline is 6 Mar)
+    - Standard (after 6 Mar)
   rows:
     - type: Satellite events only 
       early_bird: €300,00
       standard: €400,00
-    - type: Students (includes satellite events) 
+    - type: Students, PhD students (includes satellite events) 
       early_bird: €375,00
       standard: €475,00
-    - type: Post Doc Students (includes satellite events) 
+    - type: Post Doc (includes satellite events) 
       early_bird: €480,00 
       standard: €580,00
     - type: Academic (includes satellite events) 

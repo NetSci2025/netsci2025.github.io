@@ -77,15 +77,37 @@ document.addEventListener("DOMContentLoaded", function() {
 <main class="my-4">
     <div class="container">
         <h1 class="display-5">{{ page.title }}</h1>
-        <!-- Keep only this horizontal line -->
+        <!-- Keep only this horizontal line -->  
+
+        <hr class="my-4">
+        
+        <!-- Call for late breaking work -->
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Call for late breaking work</h2>
+                {% assign call_for_late_content = content | split: 'Call for late breaking work' | last | split: 'Call for travel support grants' | first %}
+                {{ call_for_late_content | remove: '</h2>' | remove: '<h2>' | remove: '</h3>' | remove: '<h3>' | markdownify }}
+            </div>
+        </div>
         <hr class="my-4">
 
+        <!-- Call for travel support grants -->
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Call for travel support grants</h2>
+                {% assign call_for_travel_content = content | split: 'Call for travel support grants' | last | split: 'How to Apply' | first %}
+                {{ call_for_travel_content | remove: '</h2>' | remove: '<h2>' | remove: '</h3>' | remove: '<h3>' | markdownify }}
+            </div>
+        </div>
+
+               
+        <hr class="my-4">
+        
         <!-- Main content and sidebar columns -->
         <div class="content-container">
             <!-- Main content column for Call for abstracts and How to Apply -->
             <div class="main-content">
-                {% assign main_content_without_topics = content | split: 'Topics' | first %}
-                {{ main_content_without_topics | markdownify }}
+
 
                 <!-- Add How to Apply section -->
                 <hr class="my-4">
@@ -106,10 +128,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
         <hr class="my-4">
         
-        <!-- Call for Satellites Section -->
+        <!-- Call for satellites--CLOSED -->
         <div class="row">
             <div class="col-md-12">
-                <h2>Call for satellites</h2>
+                <h2>Call for satellites--CLOSED</h2>
                 {% assign call_for_satellites_content = content | split: 'Call for satellites' | last | split: 'Important dates' | first %}
                 {{ call_for_satellites_content | remove: '</h2>' | markdownify }} <!-- Ensure no erroneous </h2> -->
             </div>
@@ -117,16 +139,22 @@ document.addEventListener("DOMContentLoaded", function() {
 
         <hr class="my-4">
         
+        
         <!-- Important Dates Section -->
         <div class="row">
             <div class="col-md-12">
                 <h2>Important dates</h2>
-                {% assign important_dates_content = content | split: 'Important dates' | last %}
-                {{ important_dates_content | remove: '</h2>' | markdownify }} <!-- Ensure no erroneous </h2> -->
+                {% assign important_dates_content = content | split: 'Important dates' | last | split: 'Call for late breaking work' | first %}
+                {{ important_dates_content | remove: '</h2>' | markdownify }} 
             </div>
         </div>
+
+
     </div>
 </main>
+
+
+    
 
 {% include footer.html %}
 
