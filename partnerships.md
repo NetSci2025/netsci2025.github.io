@@ -23,6 +23,9 @@ permalink: /partnerships/
     <a href="https://www.aps.org/" target="_blank">
         <img src="/assets/images/sponsors/APSLogo-RGB.png" alt="Advancing Physics" style="width: 200px;">
     </a>
+    <a href="https://BeyondTheEdge.network" target="_blank">
+        <img src="/assets/images/sponsors/BTE-logo-black.png" alt="MSCA-DN BeyondTheEdge" style="width: 250px;">
+    </a>
 </div>
 
 ---
@@ -33,7 +36,9 @@ permalink: /partnerships/
     <a href="https://odissei-data.nl/" target="_blank">
         <img src="/assets/images/sponsors/ODISSEI.png" alt="ODISSEI" style="width: 200px;">
     </a>
-    
+    <a href="https://mathplus.de" target="_blank">
+        <img src="/assets/images/sponsors/Math+Logo_RGB.jpg" alt="MATH+" style="width: 200px;">
+    </a>
 </div>
 
 
@@ -44,12 +49,6 @@ permalink: /partnerships/
 <div style="display: flex; justify-content: left; gap: 20px; align-items: center; text-align: center;">
     <a href="https://appliednetsci.springeropen.com/" target="_blank">
         <img src="/assets/images/sponsors/ANS.png" alt="Applied Network Science" style="width: 150px;">
-    </a>
-    <a href="https://BeyondTheEdge.network" target="_blank">
-        <img src="/assets/images/sponsors/BTE-logo-black.png" alt="MSCA-DN BeyondTheEdge" style="width: 150px;">
-    </a>
-    <a href="https://mathplus.de" target="_blank">
-        <img src="/assets/images/sponsors/Math+Logo_RGB.jpg" alt="MATH+" style="width: 150px;">
     </a>
     <a href="https://www.naxys.be" target="_blank">
         <img src="/assets/images/sponsors/LOGO_naxysGG2.jpg" alt="NAXYS" style="width: 150px;">
