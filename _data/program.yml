@@ -139,7 +139,7 @@ days:
   - name: Thu 5 June 2025
     events:
       - time: 09:00 - 09:45
-        title: "Invited Speaker 3: (Plenary) Lenka Zdeborová" 
+        title: "Invited Speaker 3: (Plenary) Lenka Zdeborová"
         category: Invited Speaker
       - time: 09:45 - 10:30
         title: Lightning 2
