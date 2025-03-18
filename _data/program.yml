@@ -106,7 +106,7 @@ days:
   - name: Wed 4 June 2025
     events:
       - time: 09:00 - 09:45
-        title: Invited Speaker 1
+        title: Invited Speaker 1: (Plenary) Sonia Kefi
         category: Invited Speaker
       - time: 09:45 - 10:30
         title: Lightning 1
@@ -130,7 +130,7 @@ days:
         title: Parallel 3
         category: Parallel
       - time: 17:45 - 18:30
-        title: Invited Speaker 2   
+        title: Invited Speaker 2: (Plenary) Jari Saramaki   
         category: Invited Speaker
       - time: 18:30 - 19:30 
         title: Welcome reception
@@ -139,7 +139,7 @@ days:
   - name: Thu 5 June 2025
     events:
       - time: 09:00 - 09:45
-        title: Invited Speaker 3 
+        title: Invited Speaker 3: (Plenary) Lenka Zdeborová 
         category: Invited Speaker
       - time: 09:45 - 10:30
         title: Lightning 2
@@ -163,7 +163,7 @@ days:
         title: Parallel 6
         category: Parallel
       - time: 17:45 - 18:30
-        title: Invited Speaker 4
+        title: Invited Speaker 4: (Plenary) Linda Douw (Chair: Chris Bick)
         category: Invited Speaker
       - time: 19:00 - 23:00
         title: Conference dinner
@@ -179,19 +179,19 @@ days:
         title: Coffee break + posters
         category: Break
       - time: 11:30 - 12:15
-        title: Invited speaker 5
+        title: Invited speaker 5: (Plenary) Iza Romanowska
         category: Invited Speaker
       - time: 12:15 - 13:45
         title: Lunch + posters
         category: Break
       - time: 13:45 - 15:45
         title: Focus sessions
-        category: Invited Speaker
+        category: Invited Speaker 
       - time: 15:45 - 16:15
         title: Coffee break 
         category: Break
       - time: 16:15 - 17:00
-        title: Invited Speaker 6
+        title: Invited Speaker 6: (Plenary) Michael Macy
         category: Invited Speaker
       - time: 17:00 - 18:00
         title: Closing
