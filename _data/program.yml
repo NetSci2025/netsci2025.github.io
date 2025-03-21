@@ -17,6 +17,12 @@ legend:
 days:
   - name: Mon 2 June 2025
     events:
+      - time: 08:30 - 12:30
+        title: "School Speaker: Manlio De Domenico"   
+        category: Invited Speaker
+      - time: 14:30 - 18:30
+        title: "School Speaker: Huijuan Wang"   
+        category: Invited Speaker
       - time: 08:30 - 18:30
         title: (Satellite) Networks in Science of Science
         category: Satellites
