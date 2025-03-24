@@ -150,6 +150,25 @@ main {
             {% endfor %}
         </div>
     </section>
+    
+    <!-- Focus Session Speakers Section -->
+    <section class="speakers-section">
+        <h2>{{ page.focus_session_title }}</h2>
+        <div class="card-container">
+            {% for speaker in site.data.speakers.focus-session %}
+            <div class="speaker-card">
+                <p class="speaker-name">{{ speaker.name }}</p>
+                <img src="{{ site.url }}{{ speaker.image }}" alt="Picture of {{ speaker.name }}">
+                <p class="title">{{ speaker.title }}</p>
+                {% if speaker.subtitle %}
+                <p class="subtitle">{{ speaker.subtitle }}</p>
+                {% endif %}
+                <div class="red-line"></div>
+                <p class="description">{{ speaker.description }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
 </main>
 
 
