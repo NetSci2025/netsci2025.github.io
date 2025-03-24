@@ -144,8 +144,8 @@ focus-session:
 
 
   - name: "Omid Ebrahimi"
-    title: "Towards precision in the diagnostic profiling of patients: leveraging psychometric networks and symptom dynamics in the assessment and treatment of mental disorders"
-    subtitle: ""
+    title: "Towards precision in the diagnostic profiling of patients: "
+    subtitle: "leveraging psychometric networks and symptom dynamics in the assessment and treatment of mental disorders"
     affiliation: "Oxford University"
     description: >
       My research focuses on the development and maintenance of common mental health disorders (i.e. depression and anxiety) using multi-level and systems-based approaches. In particular, I examine how critical incidents occurring at the national and global level (e.g., infectious disease outbreaks, climate change, and economic recession) impact the development of common mental disorders and can alter human behaviour.
