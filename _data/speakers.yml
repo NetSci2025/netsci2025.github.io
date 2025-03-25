@@ -123,7 +123,7 @@ school:
   #     (v) Open Access and transformative agreements
   #   image: /assets/images/speakers/Dillon_Eastoe_ioppublishing.jpg
 
-
+focus-session-title: "Focus Session Speakers"
 focus-session:
   - name: "Christof Schütte"
     title: "Emergence in Multiscale Social Networks"
