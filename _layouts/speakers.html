@@ -151,13 +151,33 @@ main {
         </div>
     </section>
     
-    <!-- Focus Session Speakers Section -->
+<!-- Focus Session: Network Dynamical Systems -->
+<section class="speakers-section">
+  <h2>Network dynamical systems</h2>
+  <div class="card-container">
+    {% for speaker in site.data.speakers.focus-session %}
+      {% if speaker.session == "Network dynamical systems" %}
+        <div class="speaker-card">
+          <p class="speaker-name">{{ speaker.name }}</p>
+          <img src="{{ site.url }}{{ speaker.image }}" alt="Picture of {{ speaker.name }}">
+          <p class="title">{{ speaker.title }}</p>
+          {% if speaker.subtitle %}
+            <p class="subtitle">{{ speaker.subtitle }}</p>
+          {% endif %}
+          <div class="red-line"></div>
+          <p class="description">{{ speaker.description }}</p>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+    <!-- Focus Session: Network Psychometrics -->
     <section class="speakers-section">
-      {% assign grouped_speakers = site.data.speakers.focus-session | group_by: "session" %}
-      {% for group in grouped_speakers %}
-        <h2>{{ group.name }}</h2>
-        <div class="card-container">
-          {% for speaker in group.items %}
+      <h2>Network psychometrics</h2>
+      <div class="card-container">
+        {% for speaker in site.data.speakers.focus-session %}
+          {% if speaker.session == "Network psychometrics" %}
             <div class="speaker-card">
               <p class="speaker-name">{{ speaker.name }}</p>
               <img src="{{ site.url }}{{ speaker.image }}" alt="Picture of {{ speaker.name }}">
@@ -168,10 +188,11 @@ main {
               <div class="red-line"></div>
               <p class="description">{{ speaker.description }}</p>
             </div>
-          {% endfor %}
-        </div>
-      {% endfor %}
+          {% endif %}
+        {% endfor %}
+      </div>
     </section>
+
 
 </main>
 
