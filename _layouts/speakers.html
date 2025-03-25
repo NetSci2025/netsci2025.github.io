@@ -154,9 +154,11 @@ main {
      
     <!-- Focus Session Speakers Section -->
     <section class="speakers-section">
+      <h1 class="main-title">{{ site.data.speakers.focus-session-title }}</h1>
+    
       {% assign grouped_speakers = site.data.speakers.focus-session | group_by: "session" %}
       {% for group in grouped_speakers %}
-        <h2>{{ group.name }}</h2>
+        <h3 class="session-title">{{ group.name }}</h3>
         <div class="card-container">
           {% for speaker in group.items %}
             <div class="speaker-card">
@@ -173,6 +175,7 @@ main {
         </div>
       {% endfor %}
     </section>
+
 
 
 
