@@ -153,22 +153,26 @@ main {
     
     <!-- Focus Session Speakers Section -->
     <section class="speakers-section">
-        <h2>{{ page.focus_session_title }}</h2>
+      {% assign grouped_speakers = site.data.speakers.focus-session | group_by: "session" %}
+      {% for group in grouped_speakers %}
+        <h2>{{ group.name }}</h2>
         <div class="card-container">
-            {% for speaker in site.data.speakers.focus-session %}
+          {% for speaker in group.items %}
             <div class="speaker-card">
-                <p class="speaker-name">{{ speaker.name }}</p>
-                <img src="{{ site.url }}{{ speaker.image }}" alt="Picture of {{ speaker.name }}">
-                <p class="title">{{ speaker.title }}</p>
-                {% if speaker.subtitle %}
+              <p class="speaker-name">{{ speaker.name }}</p>
+              <img src="{{ site.url }}{{ speaker.image }}" alt="Picture of {{ speaker.name }}">
+              <p class="title">{{ speaker.title }}</p>
+              {% if speaker.subtitle %}
                 <p class="subtitle">{{ speaker.subtitle }}</p>
-                {% endif %}
-                <div class="red-line"></div>
-                <p class="description">{{ speaker.description }}</p>
+              {% endif %}
+              <div class="red-line"></div>
+              <p class="description">{{ speaker.description }}</p>
             </div>
-            {% endfor %}
+          {% endfor %}
         </div>
+      {% endfor %}
     </section>
+
 </main>
 
 
