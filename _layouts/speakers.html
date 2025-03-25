@@ -109,6 +109,16 @@ main {
     margin-top: 10px;
 }
 
+.session-title {
+font-family: "Open Sauce", sans-serif;
+font-size: 1.2rem;
+font-weight: 500;
+color: #555;
+margin-bottom: 25px;
+margin-top: -10px;
+}
+
+
 </style>
 
 
@@ -154,7 +164,7 @@ main {
      
     <!-- Focus Session Speakers Section -->
     <section class="speakers-section">
-      <h1 class="main-title">{{ site.data.speakers.focus-session-title }}</h1>
+      <h2>{{ site.data.speakers.focus-session-title }}</h2>
     
       {% assign grouped_speakers = site.data.speakers.focus-session | group_by: "session" %}
       {% for group in grouped_speakers %}
