@@ -128,6 +128,7 @@ focus-session:
   - name: "Christof Schütte"
     title: "Emergence in Multiscale Social Networks"
     subtitle: ""
+    session: "Network dynamical systems"
     affiliation: "Freie Universitaet Berlin and Zuse Institute Berlin"
     description: >
       Christof Schütte studied Mathematics, Physics and Computer Science in Paderborn and got his doctorate in Mathematics in Berlin in 1994. He has held a full professorship for Scientific Computing at FU Berlin since 2000. In 2015 he became President of the Zuse Institute Berlin, and in 2021 the head of the National High-Performance Computing Alliance in Germany. His research activities focus on data-driven modelling, simulation and optimization of complex processes with applications mainly to the life and social sciences. Christof Schuette acted as chair of the DFG research center MATHEON and as chair of the Cluster of Excellence MATH+. 
@@ -137,6 +138,7 @@ focus-session:
   - name: "Riet Van Bork"
     title: "Measuring psychological constructs in the network framework"
     subtitle: ""
+    session: "Network psychometrics"
     affiliation: "University of Amsterdam"
     description: >
       I research the contrast between traditional latent variable frameworks (where attributes cause shared variance among observed variables) and network perspectives (where direct causal relations between observed variables form clusters representing psychological attributes). My work combines empirical comparisons of these models with philosophical exploration of statistical interpretation, questioning how we conceptualize common factors, random variables, and what constitutes "observed" variables in psychological measurement.
@@ -146,6 +148,7 @@ focus-session:
   - name: "Omid Ebrahimi"
     title: "Towards precision in the diagnostic profiling of patients: "
     subtitle: "leveraging psychometric networks and symptom dynamics in the assessment and treatment of mental disorders"
+    session: "Network psychometrics"
     affiliation: "Oxford University"
     description: >
       My research focuses on the development and maintenance of common mental health disorders (i.e. depression and anxiety) using multi-level and systems-based approaches. In particular, I examine how critical incidents occurring at the national and global level (e.g., infectious disease outbreaks, climate change, and economic recession) impact the development of common mental disorders and can alter human behaviour.
