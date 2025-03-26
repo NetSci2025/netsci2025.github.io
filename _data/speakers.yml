@@ -125,6 +125,15 @@ school:
 
 focus-session-title: "Focus Session Speakers"
 focus-session:
+  - name: "Tiago Pereira"
+    title: "Emergent hypernetworks in weakly coupled oscillators"
+    subtitle: ""
+    session: "Network dynamical systems"
+    affiliation: "Universidade de São Paulo"
+    description: >
+      Tiago Pereira is a Professor of Mathematics at the Universidade de São Paulo and a Visiting Professor at Imperial College London. His distinguished achievements include the International Incoming Marie Curie Fellowship, the Leverhulme Fellowship, and the Newton Advanced Fellowship from the Royal Society. He is a member of the Brazilian academy of sciences and a Bessel Fellow of the Humboldt Foundation and a Serrapilheira Fellowship recipient. Dr. Pereira received the Johannes Keppler Prize from the Brazilian Applied Mathematical Society in 2023 and the Marguerite Frank Award for Best Paper in 2022. In 2023, his student won Brazil's Best PhD Thesis in Applied Mathematics award. 
+    image: /assets/images/speakers/Tiago_Pereira.jpg
+
   - name: "Christof Schütte"
     title: "Emergence in Multiscale Social Networks"
     subtitle: ""
@@ -133,7 +142,6 @@ focus-session:
     description: >
       Christof Schütte studied Mathematics, Physics and Computer Science in Paderborn and got his doctorate in Mathematics in Berlin in 1994. He has held a full professorship for Scientific Computing at FU Berlin since 2000. In 2015 he became President of the Zuse Institute Berlin, and in 2021 the head of the National High-Performance Computing Alliance in Germany. His research activities focus on data-driven modelling, simulation and optimization of complex processes with applications mainly to the life and social sciences. Christof Schuette acted as chair of the DFG research center MATHEON and as chair of the Cluster of Excellence MATH+. 
     image: /assets/images/speakers/Christof_Schütte.png
-
 
   - name: "Riet Van Bork"
     title: "Measuring psychological constructs in the network framework"
