@@ -127,7 +127,7 @@ Expected notification of acceptance: 16 December 2024
 - ~~**Abstract submission deadline**: 9 December, 2024~~
 - ~~**Abstract notification**: 24 January, 2025~~
 - ~~**Early bird [registration](/registration) deadline**: 6 March, 2025~~
-- **Travel support application deadline**: 13 March, 2025
+- ~~**Travel support application deadline**: 13 March, 2025~~
 - **Late breaking work submission deadline**: 2 April, 2025
 - **Conference Dates**: June 2 to 6 2025
 
@@ -144,7 +144,7 @@ Please note that priority will be given to those who are not already presenting 
 
 Acceptance notification: 14 April 2025
 
-## Call for travel support grants
+## Call for travel support grants--CLOSED
 
 The NetSci organising committee is pleased to announce a limited number of travel grants to attend the conference. The goal is to support individuals for whom attendance would cause a financial burden, e.g., from low and middle-income countries, that require financial support for travel and conference costs in order to attend. Conference grants will typically be in the form of a reimbursement, up to a given amount, for economy-class flights, accommodation, visa costs, and/or health insurance.
 Grants will only be awarded to people with an accepted abstract submission to NetSci. 
