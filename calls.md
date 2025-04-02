@@ -8,24 +8,6 @@ navorder: 2
   
 ---  
 
-## Educational Video Competition (Deadline: May 1, 2025)
-
-We are proud to announce NetSci's upcoming Educational Video Competition. Submit your video clip to be screened at NetSci 2025 and enter a chance to win a prize.
-
-**The goal**: We seek to create a repository of short video clips on interesting, surprising, useful, or otherwise intriguing concepts in network science, aimed to increase the broad visibility and relevance of the field.  
-
-**Guidelines**: Clips should be entertaining, informative, and tailored to an educated non-professional viewer, who takes an interest in science. To participate please prepare a 2-3 minute video clip on a network concept of your choice. Feel free to choose topics that are close to your own research, or that you are personally passionate about. But keep in mind - this is aimed for a broad audience.
-
-* Best clips will be promoted by the Network Science Society on social media and screened at the NetSci 2025 conference
-* Top ranked submissions will receive an award at the conference.
-* All submissions will also be accessible at the NetSci website. 
-
-Not attending NetSci 2025? You can still participate, gain visibility and get a chance to win the prizes.
-
-Please submit using [this form](https://forms.gle/4ysHt8iMqmCjqjwU7)
-
-Questions? Email us at: netsci.education@gmail.com
-
 
 ## Call for abstracts--CLOSED
 
@@ -156,6 +138,23 @@ Applicants must fill out the form [here](https://forms.gle/sChqKjAf6LoWQwxa8).
 Acceptance notification: 14 April 2025
 
 
+## Educational Video Competition (Deadline: May 1, 2025)
+
+We are proud to announce NetSci's upcoming Educational Video Competition. Submit your video clip to be screened at NetSci 2025 and enter a chance to win a prize.
+
+**The goal**: We seek to create a repository of short video clips on interesting, surprising, useful, or otherwise intriguing concepts in network science, aimed to increase the broad visibility and relevance of the field.  
+
+**Guidelines**: Clips should be entertaining, informative, and tailored to an educated non-professional viewer, who takes an interest in science. To participate please prepare a 2-3 minute video clip on a network concept of your choice. Feel free to choose topics that are close to your own research, or that you are personally passionate about. But keep in mind - this is aimed for a broad audience.
+
+* Best clips will be promoted by the Network Science Society on social media and screened at the NetSci 2025 conference
+* Top ranked submissions will receive an award at the conference.
+* All submissions will also be accessible at the NetSci website. 
+
+Not attending NetSci 2025? You can still participate, gain visibility and get a chance to win the prizes.
+
+Please submit using [this form](https://forms.gle/4ysHt8iMqmCjqjwU7)
+
+Questions? Email us at: netsci.education@gmail.com
 
 
 <!-- ## NetSci
