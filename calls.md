@@ -112,31 +112,7 @@ Expected notification of acceptance: 16 December 2024
 - ~~**Travel support application deadline**: 13 March, 2025~~
 - **Late breaking work submission deadline**: 2 April, 2025
 - **Conference Dates**: June 2 to 6 2025
-
-
-## Call for late breaking work  
-
-We are pleased to announce a second call for abstracts for the NetSci community to submit their late-breaking work that can be presented during the poster session on Friday 6 June 2025. 
-
-Abstract submissions follow the same guidelines as in the original call for abstracts (see below). You can submit your abstract [HERE](https://cmt3.research.microsoft.com/NETSCI2025/Track/2/Submission/Create).
-
-Please note that priority will be given to those who are not already presenting at the main conference.
-
-**Deadline for submissions: 2 April 2025, 23:59 AOE**
-
-Acceptance notification: 14 April 2025
-
-## Call for travel support grants--CLOSED
-
-The NetSci organising committee is pleased to announce a limited number of travel grants to attend the conference. The goal is to support individuals for whom attendance would cause a financial burden, e.g., from low and middle-income countries, that require financial support for travel and conference costs in order to attend. Conference grants will typically be in the form of a reimbursement, up to a given amount, for economy-class flights, accommodation, visa costs, and/or health insurance.
-Grants will only be awarded to people with an accepted abstract submission to NetSci. 
-
-Applicants must fill out the form [here](https://forms.gle/sChqKjAf6LoWQwxa8).
-
-**Deadline for submissions: 13 March 2025, 23:59 AOE**
-
-Acceptance notification: 14 April 2025
-
+  
 
 ## Educational Video Competition (Deadline: May 1, 2025)
 
@@ -155,6 +131,34 @@ Not attending NetSci 2025? You can still participate, gain visibility and get a 
 Please submit using [this form](https://forms.gle/4ysHt8iMqmCjqjwU7)
 
 Questions? Email us at: netsci.education@gmail.com
+
+
+## Call for late breaking work  
+
+We are pleased to announce a second call for abstracts for the NetSci community to submit their late-breaking work that can be presented during the poster session on Friday 6 June 2025. 
+
+Abstract submissions follow the same guidelines as in the original call for abstracts (see below). You can submit your abstract [HERE](https://cmt3.research.microsoft.com/NETSCI2025/Track/2/Submission/Create).
+
+Please note that priority will be given to those who are not already presenting at the main conference.
+
+**Deadline for submissions: 2 April 2025, 23:59 AOE**
+
+Acceptance notification: 14 April 2025
+
+
+## Call for travel support grants--CLOSED
+
+The NetSci organising committee is pleased to announce a limited number of travel grants to attend the conference. The goal is to support individuals for whom attendance would cause a financial burden, e.g., from low and middle-income countries, that require financial support for travel and conference costs in order to attend. Conference grants will typically be in the form of a reimbursement, up to a given amount, for economy-class flights, accommodation, visa costs, and/or health insurance.
+Grants will only be awarded to people with an accepted abstract submission to NetSci. 
+
+Applicants must fill out the form [here](https://forms.gle/sChqKjAf6LoWQwxa8).
+
+**Deadline for submissions: 13 March 2025, 23:59 AOE**
+
+Acceptance notification: 14 April 2025
+
+
+
 
 
 <!-- ## NetSci
