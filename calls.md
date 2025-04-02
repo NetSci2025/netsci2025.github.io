@@ -22,7 +22,7 @@ We are proud to announce NetSci's upcoming Educational Video Competition. Submit
 
 Not attending NetSci 2025? You can still participate, gain visibility and get a chance to win the prizes.
 
-Please submit using [this form](link_to_be_added)
+Please submit using [this form](https://forms.gle/4ysHt8iMqmCjqjwU7)
 
 Questions? Email us at: netsci.education@gmail.com
 
