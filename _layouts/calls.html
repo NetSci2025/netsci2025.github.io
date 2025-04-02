@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", function() {
         <div class="row">
             <div class="col-md-12">
                 <h2>Educational Video Competition</h2>
-                {% assign educational_video_content = content | split: 'Educational Video Competition' | last | split: 'Call for late breaking work' | first %}
+                {% assign educational_video_content = content | split: 'Educational Video Competition (Deadline: May 1, 2025)' | last | split: 'Call for late breaking work' | first %}
                 {{ educational_video_content | remove: '</h2>' | remove: '<h2>' | remove: '</h3>' | remove: '<h3>' | markdownify }}
             </div>
         </div>
