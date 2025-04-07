@@ -17,7 +17,7 @@ More information will be provided soon.
 
 
 ## Social Dinner
-On Thursday 5th June 2025, immerse yourself in an unforgettable evening at the enchanting Château Neercanne. Perched gracefully on the border of Belgium and the Netherlands, this historic château offers the perfect setting to connect with colleagues and friends, both old and new. Savor a culinary journey of exquisite dishes, complemented by lively entertainment in a truly unique atmosphere. With its rich heritage and breathtaking surroundings, Château Neercanne promises to make this social dinner an event to remember. Tickets for this extraordinary evening are €85 per person, including VAT (can be bought when registering for the conference). 
+On Thursday 5th June 2025, immerse yourself in an unforgettable evening at the enchanting Château Neercanne. Perched gracefully on the border of Belgium and the Netherlands, this historic château offers the perfect setting to connect with colleagues and friends, both old and new. Savor a culinary journey of exquisite dishes, complemented by lively entertainment in a truly unique atmosphere. With its rich heritage and breathtaking surroundings, Château Neercanne promises to make this social dinner an event to remember. Tickets for this extraordinary evening can be bought via the [conference registration system](https://insight.klinkhamergroup.com/netsci2025/login){:target="_blank"}. 
 
 ---
 
