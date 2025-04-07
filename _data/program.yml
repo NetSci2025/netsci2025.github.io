@@ -145,7 +145,7 @@ days:
   - name: Thu 5 June 2025
     events:
       - time: 09:00 - 09:45
-        title: "Plenary Speaker: Lenka Zdeborová"
+        title: "Plenary Speaker: Iza Romanowska"
         category: Invited Speaker
       - time: 09:45 - 10:30
         title: Lightning 2
@@ -178,27 +178,21 @@ days:
         
   - name: Fri 6 June 2025
     events:
-      - time: 09:00 - 11:00
-        title: NSS Awards
-        category: Other Activities
-      - time: 11:00 - 11:30
-        title: Coffee break + posters
-        category: Break
-      - time: 11:30 - 12:15
-        title: "Plenary speaker: Iza Romanowska"
-        category: Invited Speaker
-      - time: 12:15 - 13:45
-        title: Lunch + posters
-        category: Break
-      - time: 13:45 - 15:45
-        title: Focus sessions
-        category: Invited Speaker 
-      - time: 15:45 - 16:15
-        title: Coffee break 
-        category: Break
-      - time: 16:15 - 17:00
+      - time: 09:00 - 10:00
         title: "Plenary Speaker: Michael Macy"
         category: Invited Speaker
-      - time: 17:00 - 18:00
+      - time: 10:00 - 10:30
+        title: Coffee break + posters
+        category: Break
+      - time: 10:30 - 12:30
+        title: NSS Awards
+        category: Other Activities
+      - time: 12:30 - 14:00
+        title: Lunch + posters
+        category: Break
+      - time: 14:00 - 16:00
+        title: Focus sessions
+        category: Invited Speaker 
+      - time: 16:00
         title: Closing
         category: Other Activities
