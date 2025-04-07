@@ -62,9 +62,9 @@ For more information and to make a reservation, please click on the link below.
 
 - From **Brussels Airport (Zaventem)**: The journey takes 1.5 to 3 hours, depending on the route and transfers. The airport train station is located under the terminal (basement level 1) near the arrival and departure halls. 
 - From **Düsseldorf Hbf**: The train takes approximately 2 hours 30 minutes.
-- From **Eindhoven Airport**: The journey takes approximately 2 hours, depending on the route and transfers. You will need to take a bus to the Eindhoven train station.
+- From **Eindhoven Airport**: The journey takes approximately 2 hours, depending on the route and transfers. You will need to take a local bus to the Eindhoven train station.
 - From **Schiphol Airport (Amsterdam)**: Direct trains to Maastricht take approximately 2.5 hours. The Schiphol train station is conveniently located just below the airport.
-
+- From **Charleroi Airport**: Direct buses take 2 hours. The bus company is [Flibco](https://www.flibco.com/en/shuttle/bus-maastricht-charleroi-airport)
 
 
 
