@@ -193,6 +193,6 @@ days:
       - time: 14:00 - 16:00
         title: Focus sessions
         category: Invited Speaker 
-      - time: 16:00
+      - time: 16:00 - 16:20
         title: Closing
         category: Other Activities
