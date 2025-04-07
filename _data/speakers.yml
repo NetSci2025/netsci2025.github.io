@@ -1,21 +1,21 @@
 plenary:
 
 
-  - name: Lenka Zdeborová
-    title: "Statistical Physics of Computation"
-    subtitle: ""
-    affiliation: "Associate Professor of Physics and Computer Science, EPFL & Head of the Statistical Physics of Computation Laboratory"
-    description: >
-      Lenka Zdeborová is a Professor of Physics and Computer Science at École Polytechnique Fédérale de Lausanne, 
-      where she leads the Statistical Physics of Computation Laboratory. She received a PhD in physics from the University of Paris-Sud 
-      and Charles University in Prague in 2008. She spent two years in the Los Alamos National Laboratory as the Director's Postdoctoral Fellow. 
-      Between 2010 and 2020, she was a researcher at CNRS, working in the Institute of Theoretical Physics in CEA Saclay, France. 
-      In 2014, she was awarded the CNRS bronze medal, in 2016 Philippe Meyer prize in theoretical physics and an ERC Starting Grant, 
-      in 2018 the Irène Joliot-Curie prize, in 2021 the Gibbs lectureship of AMS and the Neuron Fund award. 
-      Lenka's expertise is in the application of concepts from statistical physics, such as advanced mean field methods, the replica method, 
-      and related message-passing algorithms, to problems in machine learning, signal processing, inference, and optimization. 
-      She enjoys erasing the boundaries between theoretical physics, mathematics and computer science.
-    image: /assets/images/speakers/lenka_zdeborova.PNG
+  # - name: Lenka Zdeborová
+  #   title: "Statistical Physics of Computation"
+  #   subtitle: ""
+  #   affiliation: "Associate Professor of Physics and Computer Science, EPFL & Head of the Statistical Physics of Computation Laboratory"
+  #   description: >
+  #     Lenka Zdeborová is a Professor of Physics and Computer Science at École Polytechnique Fédérale de Lausanne, 
+  #     where she leads the Statistical Physics of Computation Laboratory. She received a PhD in physics from the University of Paris-Sud 
+  #     and Charles University in Prague in 2008. She spent two years in the Los Alamos National Laboratory as the Director's Postdoctoral Fellow. 
+  #     Between 2010 and 2020, she was a researcher at CNRS, working in the Institute of Theoretical Physics in CEA Saclay, France. 
+  #     In 2014, she was awarded the CNRS bronze medal, in 2016 Philippe Meyer prize in theoretical physics and an ERC Starting Grant, 
+  #     in 2018 the Irène Joliot-Curie prize, in 2021 the Gibbs lectureship of AMS and the Neuron Fund award. 
+  #     Lenka's expertise is in the application of concepts from statistical physics, such as advanced mean field methods, the replica method, 
+  #     and related message-passing algorithms, to problems in machine learning, signal processing, inference, and optimization. 
+  #     She enjoys erasing the boundaries between theoretical physics, mathematics and computer science.
+  #   image: /assets/images/speakers/lenka_zdeborova.PNG
 
 
 
