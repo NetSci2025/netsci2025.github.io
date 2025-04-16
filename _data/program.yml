@@ -65,7 +65,7 @@ days:
       - time: 14:30 - 17:30
         title: (Satellite) Network Medicine
         category: Satellites
-      - time: 14:30 - 17:30
+      - time: 14:30 - 16:00
         title: (Satellite) Networking and Clustering Network Scientists
         category: Satellites
 
