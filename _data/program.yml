@@ -65,6 +65,9 @@ days:
       - time: 14:30 - 18:30
         title: (Satellite) Network Medicine
         category: Satellites
+      - time: 14:30 - 18:30
+        title: (Satellite) Networking and Clustering Network Scientists
+        category: Satellites
 
   - name: Tue 3 June 2025
     events:
