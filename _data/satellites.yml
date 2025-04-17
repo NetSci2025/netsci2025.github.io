@@ -1,5 +1,5 @@
 full_day:
-  title: Full Day (9:30-17:30)
+  title: Full Day (8:30-18:30)
   first_column:
     - name: Networks in Science of Science
       url: https://netscisci.github.io
@@ -24,7 +24,7 @@ full_day:
       url: https://sites.google.com/view/toponets2025/home-page  
 
 half_day:
-  title: Half Day (9:30-12:30; 14:30-17:30)
+  title: Half Day (8:30-12:30; 14:30-18:30)
   first_column:
     - name: A Workshop on Directed Acyclic Graphs (DAGshop)
       url: https://www.dagshop.xyz/
