@@ -68,7 +68,10 @@ days:
       - time: 14:30 - 16:00
         title: (Satellite) Networking and Clustering Network Scientists
         category: Satellites
-
+      - time: 12:30 - 14:00
+        title: Lunch break
+        category: Break
+        
   - name: Tue 3 June 2025
     events:
       - time: 08:30 - 18:30
@@ -110,7 +113,9 @@ days:
       - time: 14:30 - 18:30
         title: (Satellite) Frameworks, Research and applIcations in complEx Networks (FRIENDS) with signeD edgeS
         category: Satellites
-
+      - time: 12:30 - 14:00
+        title: Lunch break
+        category: Break
         
   - name: Wed 4 June 2025
     events:
