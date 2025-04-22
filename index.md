@@ -20,7 +20,7 @@ NetSci, the International School and Conference on Network Science, is the flags
 - ~~**Abstract notification**: 24 January, 2025~~
 - ~~**Early bird [registration](/registration) deadline**: 25 February, 2025 (EXTENDED) 6 March 2025~~
 - ~~**Travel support application deadline**: 13 March, 2025~~
-- **Late breaking work submission deadline**: 2 April, 2025
+- ~~**Late breaking work submission deadline**: 2 April, 2025~~
 - **Conference Dates**: June 2 to 6 2025
 
 
