@@ -112,6 +112,21 @@ school:
       He is also a prominent science communicator, leading initiatives like *Complexity Explained* and the #ComplexityThoughts newsletter.
     image: /assets/images/speakers/manlio_de_domenico.PNG
 
+  - name: Joseph Lizier
+    title: "Inferring network models from multivariate time-series data"
+    subtitle: "Philosophy, approaches and considerations"
+    affiliation: "Associate Professor, School of Computer Science at The University of Sydney, director of the Centre for Complex Systems"
+    description: >
+      Associate Professor Joseph Lizier (PhD, 2010) is a member of the School of Computer Science at The University of Sydney (since 2015). 
+      His research studies the dynamics of information processing in biological and bio-inspired complex systems and networks, 
+      focussing both on fundamental theoretical advances as well as applications to neural systems and collective animal behaviour. 
+      He is a lead developer of the JIDT and IDTxl toolboxes for using information theory to characterise dynamics of information flows and 
+      effective structure of complex systems time-series. A/Prof. Lizier teaches into the University's Computer Science and Complex Systems degrees, 
+      and is a deputy director of the Centre for Complex Systems. He has held previous postdoctoral positions at CSIRO and Max Planck Institute Leipzig, 
+      and worked in the telecommunications industry for 10 years, including at Seeker Wireless and Telstra Research Laboratories..
+    image: /assets/images/speakers/joseph_lizir.jpg
+
+
   # - name: "Dillon Eastoe"
   #   title: "How to get published"
   #   subtitle: ""
