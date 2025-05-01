@@ -126,17 +126,17 @@ school:
       and worked in the telecommunications industry for 10 years, including at Seeker Wireless and Telstra Research Laboratories.
     image: /assets/images/speakers/joseph_lizier.png
 
-   - name: "Dillon Eastoe"
-     title: "How to get published"
-     subtitle: ""
-     affiliation: "IOP Publishing"
-     description: >
-       Dillon Eastoe is a Publisher at Institute of Physics (IOP) Publishing. He will present a session aimed at researchers working in network science and will give all the information you need to ensure the successful publication 
-       in academic research journals. The session will cover a range of topics including: (i) Choosing the right journal 
-       (ii) Writing your paper (iii) Peer Review and Publishing ethics (iv) Post-acceptance & post-publication guidance
-       (v) Open Access and transformative agreements
-     image: /assets/images/speakers/Dillon_Eastoe_ioppublishing.png
-
+  - name: "Dillon Eastoe"
+    title: "How to get published"
+    subtitle: ""
+    affiliation: "IOP Publishing"
+    description: >
+      Dillon Eastoe is a Publisher at Institute of Physics (IOP) Publishing. He will present a session aimed at researchers working in network science and will give all the information you need to ensure the successful publication 
+      in academic research journals. The session will cover a range of topics including: (i) Choosing the right journal 
+      (ii) Writing your paper (iii) Peer Review and Publishing ethics (iv) Post-acceptance & post-publication guidance
+      (v) Open Access and transformative agreements
+    image: /assets/images/speakers/Dillon_Eastoe_ioppublishing.png
+ 
 focus-session-title: "Focus Session Speakers"
 focus-session:
   - name: "Tiago Pereira"
