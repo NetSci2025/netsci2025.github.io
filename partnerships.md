@@ -53,6 +53,9 @@ permalink: /partnerships/
     <a href="https://www.naxys.be" target="_blank">
         <img src="/assets/images/sponsors/LOGO_naxysGG2.jpg" alt="NAXYS" style="width: 150px;">
     </a>
+    <a href="https://www.cambridge.org" target="_blank">
+        <img src="/assets/images/sponsors/cup.png" alt="Cambridge University Press" style="width: 150px;">
+    </a>
 
 </div>
 
