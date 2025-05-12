@@ -75,10 +75,13 @@ plenary:
     subtitle: ""
     affiliation: ""
     description: >
-      Sonia Kéfi is a researcher at the Centre National de la Recherche Scientifique (CNRS) and based at the Institut des Sciences de l’Evolution de Montpellier (ISEM), France. 
-      She is an ecologist interested in ecosystem complexity and how the architecture of ecological systems drives emergent properties such as stability and resilience. 
-      She combines theoretical models and data analysis from various ecosystems to address these questions.
-    image: /assets/images/speakers/sonia_kefi.png
+      Sonia Kéfi is an ecologist based at the Institut des Sciences de l’Évolution de Montpellier. She is a research director at the CNRS 
+      (Montpellier, France) and an external professor at the Santa Fe institute (NM, USA). Her work focuses on understanding the complexity 
+      and resilience of ecosystems, particularly how they respond to global changes, such as climate and land use changes. Combining mathematical 
+      modeling with empirical data analysis, she investigates the structure and dynamics of ecological networks---encompassing both feeding and non-feeding 
+      interactions---to uncover the mechanisms that stabilize or destabilize ecosystems. She is especially interested in developing early warning indicators
+      for critical ecological transitions.
+    image: /assets/images/speakers/sonia_kefi.jpeg
 
 
 school:
