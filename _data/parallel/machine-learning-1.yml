@@ -1,0 +1,161 @@
+session: Machine Learning 1
+slug: machine-learning-1
+talks:
+- Session name: Machine Learning 1
+  Talk Order: '1'
+  Abstract ID: '219'
+  Presenter: Malte Lüken
+  Talk title: Leveraging Interpretable Network Embeddings to Understand Populist Voting
+    Behavior in Population-Scale Registry Networks
+  Abstract: 'Complex social phenomena, such as polarization, often emerge from the
+    dynamics of social networks. However,studying these phenomena is challenging due
+    to the lack of representative network data. Recently, population-leveladministrative
+    networks from Statistics Netherlands have become available. These networks capture
+    connectionsbetween all 17 million individuals in the Netherlands through five
+    key social contexts: schools, families, workplaces,households, and close neighbors.
+    Moreover, population-level networks can be linked to representative surveys, containingindividual
+    information about values and behavior. While these networks have been shown to
+    correlate with simplecontagion phenomena such as epidemics, their value for understanding
+    complex phenomena remains unclear.In this work, we apply recent advances in graph
+    machine learning to address two key questions: (i) To what extentdoes network
+    structure predict populist voting behavior, and (ii) which network substructures
+    correlate with this behavior?Although the structural position of nodes (Fig. 1A)
+    can be compressed into low-dimensional embeddings (Fig. 1B),these are not directly
+    interpretable. To fill this gap, we use the DINE framework to identify interpretable
+    substructures(Fig. 1C–D) that are associated with populist voting behavior.The
+    substructures uncovered can provide intuitive explanations for the spread of complex
+    phenomena, for example,hubs which are connected through ”wide” bridges (Fig. 1D).
+    This allows domain experts to interpret and validate thelearned embeddings in
+    the specific social context. We make these substructures available to all researchers
+    using datafrom Statistics Netherlands. Our work contributes to network science
+    by expanding the understanding of how networkstructure shapes the diffusion of
+    behaviors and ideas and to social science by bridging computational approaches
+    withsociological theory to better understand the drivers of political behavior.'
+- Session name: Machine Learning 1
+  Talk Order: '2'
+  Abstract ID: '296'
+  Presenter: Lisi Qarkaxhija
+  Talk title: Graph Neural Networks for Developer Churn Prediction in OSS Collaboration
+    Networks
+  Abstract: 'Open Source Software (OSS) communities are key to innovation but often
+    face challenges retaining developers. High developer churn disrupts projects,
+    limits knowledge sharing, and undermines community stability. Predicting and understanding
+    churn is critical to fostering long-term engagement. This study explores the use
+    of Graph Neural Networks (GNNs) to analyze developers'' social environments and
+    improve retention strategies.We examined collaboration networks from 50 OSS projects,
+    covering diverse team sizes, topics, and programming languages. For each project,
+    we built co-editing networks where nodes represent developers and edges denote
+    changes in code ownership through shared edits. These dynamic, time-stamped, directed,
+    weighted, multi-edge graphs capture the evolution of interactions and collaborative
+    dynamics. Prior research shows these networks effectively reflect social structures
+    and knowledge transfer. Using network data from the first half of each project''s
+    timeline, we predicted developer churn in the second half.Our approach applies
+    GNNs to these networks without relying on external developer attributes. We evaluated
+    four models: a static GNN (GCN), a time-aware higher-order static GNN (DBGNN),
+    a time-aware node embedding (EVO), and a temporal GNN (TGN). By leveraging temporal
+    interaction patterns, we identified signals that indicate developers'' likelihood
+    to disengage.This work demonstrates the synergy between temporal network analysis,
+    higher-order models, and GNNs to address developer churn. It highlights how network-based
+    insights can tackle practical challenges in OSS communities.  We would be excited
+    to present our insights in a talk.'
+- Session name: Machine Learning 1
+  Talk Order: '3'
+  Abstract ID: '202'
+  Presenter: Riccardo Milocco
+  Talk title: Multi-Scale Node Embeddings for Graph Modeling and Generation
+  Abstract: 'Lying at the interface between Network Science and Machine Learning,
+    node embedding algorithms take a graph as input and encode its structure onto
+    output vectors that represent nodes in an abstract geometric space, enabling various
+    vector-based downstream tasks such as network modelling, data compression, link
+    prediction, and community detection. Two apparently unrelated limitations affect
+    these algorithms. On one hand, it is not clear what the basic operation defining
+    vector spaces, i.e. the vector sum, corresponds to in terms of the original nodes
+    in the network (see Figure (a)). On the other hand, while the same input network
+    can be represented at multiple levels of resolution by coarse-graining the constituent
+    nodes into arbitrary block-nodes, the relationship between node embeddings obtained
+    at different hierarchical levels is not understood. In Fig. (b), one can visualize
+    these drawbacks for LPCA [1], a representative of this class of model.Here [2],
+    building on recent results in network renormalization theory, we address these
+    two limitations at once and define a multiscale node embedding method that, upon
+    arbitrary coarse-grainings, ensures statistical consistency of the embedding vector
+    of a block-node with the sum of the embedding vectors of its constituent nodes.
+    We illustrate the power of this approach on two economic networks that can be
+    naturally represented at multiple resolution levels: namely, international trade
+    between (sets of) countries and input-output flows among (sets of) industries
+    in the Netherlands. We confirm the statistical consistency between networks retrieved
+    from coarse-grained node vectors and networks retrieved from sums of fine-grained
+    node vectors, a result that cannot be achieved by alternative methods.Several
+    key network properties, including a large number of triangles, are successfully
+    replicated already from embeddings of very low dimensionality, allowing for the
+    generation of faithful replicas of the original net. [...]'
+- Session name: Machine Learning 1
+  Talk Order: '4'
+  Abstract ID: '147'
+  Presenter: Runyue Wang
+  Talk title: 'Dirac-Equation Signal Processing: Physics Boosts Topological Machine
+    Learning'
+  Abstract: Topological signals are variables or features associated with both nodes
+    and edges of a network. Recently, in the context of Topological Machine Learning,
+    great attention has been devoted to signal processing of such topological signals.
+    Most of the previous topological signal processing algorithms treat node and edge
+    signals separately and work under the hypothesis that the true signal is smooth
+    and/or well approximated by a harmonic eigenvector of the Hodge-Laplacian, which
+    may be violated in practice. Here we propose the Dirac-equation signal processing
+    (DESP) that can efficiently reconstruct true signals on nodes and edges, also
+    if they are not smooth or harmonic, by processing them jointly. The proposed physics-inspired
+    algorithm is based on the spectral properties of the topological Dirac operator.
+    It leverages the mathematical structure of the topological Dirac equation to boost
+    the performance of the signal processing algorithm. We discuss how the relativistic
+    dispersion relation obeyed by the topological Dirac equation can be used to assess
+    the quality of the signal reconstruction. Finally, we demonstrate the improved
+    performance of the algorithm with respect to previous algorithms and show that
+    processing jointly nodes and edges allows to exploit all relevant information
+    present in the data across the different dimensions of the topological signal.
+    Specifically, we show that by considering the Iterated Dirac-equation signal processing
+    (IDESP) can also be used efficiently if the true signal is a non-trivial linear
+    combination of more than one eigenstate of the Dirac equation, as it generally
+    occurs for real signals.This work opens new perspectives in Artificial Intelligence
+    as this approach can be generalized to investigate signal processing on multiplex
+    networks. Moreover, the principles on which the DESP reside might allows to tackle
+    in the future the outstanding problem of oversmothing in topological deep learning.
+- Session name: Machine Learning 1
+  Talk Order: '5'
+  Abstract ID: '583'
+  Presenter: Olivia Courtney
+  Talk title: Fast Computation of the Barycenter Graph in the Spectral Domain
+  Abstract: The barycenter graph (or sample Fréchet mean) of a set of networks is
+    an essential location parameter at the core of almost every machine learning algorithm
+    working on networks. In this paper, we introduce a new algorithm to estimate the
+    graph barycenter which is computationally efficient, has reduced dimensionality,
+    and captures topological information of the training set on various scales. We
+    use the eigenvalues of the adjacency matrix to measure the proximity between graphs,
+    and parameterize the definition of the graph barycenter by approximating complex
+    networks using a stochastic block model (SBM). We provide theoretical justifications
+    for the algorithm's design using analysis from spectral graph theory of the eigenvalues
+    of the SBM. Extensive validation is performed on synthetic networks sampled from
+    true SBMs of various geometries, and our algorithm successfully recovers a Fréchet
+    mean converging to the population Fréchet mean associated with the generative
+    model. Additionally, we test the algorithm's robustness with non-SBM graphs exhibiting
+    community structure, and our results show that the algorithm converges in few
+    iterations, is computationally efficient, and that the parameters describing the
+    output sample Fréchet mean graph can quantify significant topological changes
+    in the real networks.
+- Session name: Machine Learning 1
+  Talk Order: '6'
+  Abstract ID: '65'
+  Presenter: Sadamori Kojaku
+  Talk title: Implicit degree bias in link prediction task
+  Abstract: Link prediction---a task of distinguishing actual hidden edges from random
+    unconnected node pairs---is one of the quintessential tasks in graph machine learning.
+    Despite being widely accepted as a universal benchmark and a downstream task for
+    representation learning, the link prediction benchmark's validity has rarely been
+    questioned. Here, we show that the common edge sampling procedure in the link
+    prediction task has an implicit bias toward high-degree nodes. This produces a
+    highly skewed evaluation that favors methods overly dependent on node degree.
+    In fact a ``null'' link prediction method based solely on node degree can yield
+    nearly optimal performance in this setting. We propose a degree-corrected link
+    prediction benchmark that offers a more reasonable assessment and better aligns
+    with the performance on the recommendation task. Finally, we demonstrate that
+    the degree-corrected benchmark can more effectively train graph machine-learning
+    models by reducing overfitting to node degrees and facilitating the learning of
+    relevant structures in graphs.

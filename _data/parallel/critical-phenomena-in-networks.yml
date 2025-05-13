@@ -1,0 +1,125 @@
+session: Critical Phenomena In Networks
+slug: critical-phenomena-in-networks
+talks:
+- Session name: Critical Phenomena In Networks
+  Talk Order: '1'
+  Abstract ID: '617'
+  Presenter: Gareth Baxter
+  Talk title: Complex Contagion on Random Highly Clustered Networks
+  Abstract: We study complex contagion on random networks with high clustering. We
+    focus on the homogeneous contagion rule, in which a node is infected if at least
+    two neighbours become infected. This case is representative of higher order interactions,
+    and demonstrates the significant effect of clustering on the contagion. Since
+    complex contagion is frequently used to model social adoption, and social networks
+    are characterised by high clustering, this is an important consideration.In locally
+    treelike networks, this process corresponds to bootstrap percolation. In such
+    networks one observes the continuous appearance of a giant component of infected
+    nodes, which may then be followed by a second discontinuous hybrid transition
+    with a large jump in contagion. However the initial infection required may be
+    large. However, when there are triangles present in the network which share an
+    edge, the contagion spreads directly between them. Clusters of triangles connected
+    in this way thus facilitate the spread of the contagion.We explored this complex
+    contagion on random highly clustered networks, generated using the fSTC random
+    network model. This model closes triads at random in a backbone network (which
+    can be chosen to be locally tree-like). Networks generated in this way contain
+    small motifs in similar distributions to real-world networks, and in particular
+    contain clusters of edge-adjacent triangles. The use of the fSTC random network
+    model allows a theoretical treatment, so we can calculate the size of the contagion,
+    the giant component and the critical thresholds using self-consistency equation
+    techniques.While the critical phenomena remain qualitatively the same, we find
+    the presence of clustering may move the network from a region without a discontinuous
+    transition to one where it is present. Most importantly, with significant clustering,
+    a large contagion may arise from a significantly smaller initial infection than
+    would occur in a comparable non-clustered network.
+- Session name: Critical Phenomena In Networks
+  Talk Order: '2'
+  Abstract ID: '298'
+  Presenter: Yérali Gandica
+  Talk title: Exploring Modular-to-Nested Transitions in Social Demonstrations
+  Abstract: In PDF
+- Session name: Critical Phenomena In Networks
+  Talk Order: '3'
+  Abstract ID: '332'
+  Presenter: Claudio Castellano
+  Talk title: 'Percolation in networks: beyond nearest neighbors'
+  Abstract: Standard percolation theory assumes that two active nodes belong to the
+    same cluster if there is a path of adjacent active nodes between them. More general
+    definitions are possible, with percolation clusters not necessarily coinciding
+    with topologically connected components. In Extended-Range Percolation the path
+    between two nodes in the same cluster may contain up to R-1 inactive consecutive
+    nodes.A generating function approach allows to solve exactly site percolation
+    on random locally treelike networks for small values of R, finding that not only
+    the percolation threshold depends on R, but that, on strongly heterogeneous networks,
+    also critical exponents are R-dependent. The combinatorial complexity of the approach
+    increases rapidly, because two active nodes may be in the same cluster even if
+    they are at distance larger than R, due to the presence of other active nodes,
+    acting as ``bridges'', located off the shortest path. This makes the approach
+    unsuitable for large R.The problem is solved by a message-passing approach which,
+    while reproducing the results already found for small values of R, allows for
+    a straightforward generalization to any value of R, taming the rapidly increasing
+    combinatorial complexity of the previous approach. The same message passing framework
+    allows to solve Extended-Range Percolation on more general substrates. The application
+    to multilayer networks leads to a rich phenomenology already on homogeneous networks,
+    due to the interplay between the extended range, which tends to increaserobustness
+    (it reduces the percolation threshold) and interdependence, which tends to decrease
+    robustness (it increases the percolation threshold). In particular, if active
+    nodes are interdependent but inactive nodes are not, Extended-Range percolation
+    in multilayer networks exhibits a phase-diagram characterized by two discontinuous
+    hybrid transitions with a reentrant nonpercolating phase.
+- Session name: Critical Phenomena In Networks
+  Talk Order: '4'
+  Abstract ID: '337'
+  Presenter: Silja Sormunen
+  Talk title: 'A new look at self-organized criticality in networks: from critical
+    points to manifolds'
+  Abstract: Self-organized criticality has often been depicted as a one-dimensional
+    process where one parameter is tuned to its critical value. This can severely
+    restrict the range of possible behaviors that an adaptive system can support.
+    However, the number of parameters is vast in most real-world systems such as the
+    human brain, where self-organized criticality has been suggested to play a role.
+    Therefore, the states of the system corresponding to criticality can be expected
+    to form a manifold in a high-dimensional parameter space. Hence, an adaptive system
+    may move along this critical manifold and explore its parameter space without
+    compromising the benefits of criticality.In our work (PRL 130, 188401), we demonstrated
+    for the first time the phenomenon of self-organized critical drift, where simple
+    adaptive rules drive a self-organizing system to drift on the critical manifold.
+    We illustrated the phenomenon in a neuro-inspired adaptive network, where the
+    network topology is shaped by the dynamics taking place on the network. Our results
+    show that the criticality hypothesis is more flexible than previously thought
+    – a system can remain at criticality while its structure continues to change.After
+    this initial discovery, the next step is to explore further the properties of
+    these manifolds. As an adaptive network moves along the manifold, it may drift
+    to a dynamically different regime, and if the critical manifolds associated with
+    different phase transitions intersect, the system may become critical in multiple
+    different ways at once. In our current work, we study an adaptive network self-organizing
+    to two different phase transitions (Hopf and Turing) and analyze how the system
+    properties change as the system drifts along these intersecting manifolds. Overall,
+    our work provides a novel perspective on how self-organizing systems move between
+    different topological and dynamical regimes while remaining critical, effectively
+    resolving many previous challenges in the field.
+- Session name: Critical Phenomena In Networks
+  Talk Order: '5'
+  Abstract ID: '343'
+  Presenter: Michael Coughlan
+  Talk title: Anomalous percolation in a dynamical network model for melt ponds on
+    sea ice
+  Abstract: We examine bond percolation in a dynamic network model for the evolution
+    of melt ponds on sea ice, where catchments for ponds are nodes and water fluxes
+    between these are edges. Fluxes along edges can change between states of no flow,
+    uni-directional flow, or bi-directional flow. Three different types of dynamic
+    bond percolation are identified, and, when analysed, all are found to be examples
+    of anomalous percolation, with calculated percolation thresholds that deviate
+    substantially from those of random percolation. One occurs during initial formation
+    of ponds and flooding of the floe. Another occurs during drainage, and a final
+    one can occur post drainage as parts of the ice surface are submerged below sea
+    level. Anomalous percolation occurs in each because the choices of edge changes
+    are not independent. Analysis of how independence is broken helps to develop an
+    understanding of the behaviour of the model and of pond systems. We find that
+    ponds that overflow into others before joining together help to spread water across
+    the floe and delay percolation. We find that percolation during drainage is strongly
+    dependent on the network topology, displaying hysteresis and a delayed breakup
+    of the network for lower levels of connectivity compared to classical percolation,
+    but hastened break-up for an underlying network with higher connectivity. Our
+    approach demonstrates how anomalous percolation can be used not just as a descriptor,
+    but as an analysis tool, providing insight into the mathematics of processes on
+    network models, and into the physics of the systems that these models represent.

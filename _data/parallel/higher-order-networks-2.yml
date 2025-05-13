@@ -1,0 +1,187 @@
+session: Higher order networks 2
+slug: higher-order-networks-2
+talks:
+- Session name: Higher order networks 2
+  Talk Order: '1'
+  Abstract ID: '393'
+  Presenter: Juni Schindler
+  Talk title: Topological autocorrelation in multiscale clusterings via 2-parameter
+    persistent homology
+  Abstract: In many areas of data science, networks have an intrinsic multiscale structure,
+    whereby meaningful descriptions exist at different levels of coarseness (or scales).
+    In such cases, it is desirable to go beyond clustering into a single partition
+    to find a (not necessarily hierarchical) sequence of partitions that captures
+    aspects of the data at multiple levels of resolution. A natural problem is then
+    to analyse and characterise such sequences of coarsening multiscale clusterings.
+    To enhance the interpretability for multiscale clusterings, we use multi-parameter
+    persistent homology (MPH) and introduce a 2-parameter filtration of abstract simplicial
+    complexes, termed Multiscale Clustering Bifiltration (MCbiF). The MCbiF captures
+    the “topological autocorrelation” of the history-dependent, non-stationary sequence
+    of non-hierarchical, coarsening partitions, and leads to rich algebraic invariants
+    like the 0- and 1-dimensional Hilbert functions. We illustrate the MCbiF with
+    an application to ensembles of graphs sampled stochastic block models with different
+    planted partition structure and find that our method both captures the hierarchy
+    of the models and recovers the ground-truth scales as “conflict-resolving” partitions.
+    To our knowledge, MCbiF is the first application of multiparameter persistence
+    to analyse multiscale networks. By disentangling the “aggregation history”  in
+    multiscale clusterings, MCbiF provides enhanced sensitivity and robustness to
+    characterise the higher-order interactions in non-hierarchical sequences of partitions.
+- Session name: Higher order networks 2
+  Talk Order: '2'
+  Abstract ID: '248'
+  Presenter: Chen Zhang
+  Talk title: Destination Prediction in Higher-Order Networks using Endpoint-Conditioned
+    Markov Chains
+  Abstract: Transportation systems are designed to address daily mobility needs, making
+    origin-destination demand a foundational concept in planning and operations. To
+    better represent and analyze these inherently nonlinear and self-evolving systems,
+    network models grounded in graph theory have been broadly employed. Recently,
+    with the increasing availability of path-based data, such as GPS trajectories,
+    higher-order network models have emerged as a powerful framework for capturing
+    memory effects in complex systems, leveraging dependencies across multiple prior
+    states to improve the accuracy of sequential predictions. Despite their advantages
+    in modeling these dependencies, higher-order networks often encounter limitations
+    in accurately predicting destinations, which is critical for enhancing the control
+    and optimization of transportation systems. To address this challenge, we propose
+    an innovative framework that combines the sequential modeling strengths of higher-order
+    networks with the contextual constraints introduced through endpoint-conditional
+    Markov chains, providing an efficient and effective solution for improved destination
+    prediction in transportation systems.
+- Session name: Higher order networks 2
+  Talk Order: '3'
+  Abstract ID: '530'
+  Presenter: Helder Pinto
+  Talk title: 'Assessment of High-Order Interactions in Dynamic Networks: An Approach
+    based on Conditional Information Rates'
+  Abstract: The traditional approach to network representation in complex systems
+    focuses primarily on quantifying the connections between pairs of system units.
+    However, higher-order interactions (HOIs), involving three or more units, often
+    play a critical role in shaping the collective behavior of the network. A commonly
+    used metric for quantifying HOIs is the Interaction Information Rate (IIR), which
+    can be positive (indicating redundancy) or negative (indicating synergy). As network
+    size grows, the number of possible node combinations increases exponentially,
+    creating significant computational challenges and making analysis more resource
+    intensive. To address this issue, an iterative approach is proposed to identify
+    subsets of network processes that form the most redundant or synergistic multiplets
+    relative to a predefined target process. The method begins by identifying the
+    most redundant or synergistic triplet—including the target process—using the IIR.
+    At each subsequent step, a new process is selected from the remaining network
+    processes (excluding those in the initial triplet) by maximizing or minimizing
+    a cost function based on conditional IIR. In each step, the statistical significance
+    of the conditional IIR value is assessed using the Iterative Amplitude Adjusted
+    Fourier Transform. If the value is statistically significant, the process is added
+    to the subset; otherwise, the procedure stops, and the previous subset is retained.
+    The feasibility of this approach is demonstrated through an illustrative simulation
+    of a network of coupled Gaussian processes.
+- Session name: Higher order networks 2
+  Talk Order: '4'
+  Abstract ID: '171'
+  Presenter: Samantha Dies
+  Talk title: Higher-Order Network Effects on Information Access Equality & Efficiency
+  Abstract: Early access to important information such as job opportunities and emergent
+    threats can provide large advantages to the person receiving the information.
+    If groups are systematically disadvantaged in their access to time-critical information,
+    existing socioeconomic inequalities can be perpetuated and exacerbated. While
+    information spreading on graphs and higher-order structures has been studied extensively,
+    the effects of the interplay between homophily and higher-order interactions on
+    time-critical information access remain poorly understood. Here, we study how
+    homophily and asymmetric transmission mechanisms influence fair access to information
+    in social systems. We introduce a maximum entropy model of hypergraphs with two
+    node groups in which connections are formed according to degree distribution and
+    edge-size-dependent homophily patterns. We use a stochastic, compartmental model
+    with group-specific transmission rates and non-linearity to model information
+    spread on synthetic and real-world hypergraphs. To quantify fairness in information
+    access, we introduce a new measure based on optimal transport and supplement our
+    analysis with several existing ones. We then leverage our insights to design interventions
+    that increase fairness. Overall, we find that the influence of hypergraph homophily
+    patterns and dynamics parameters are tightly intertwined. Inequality is largest
+    in high homophily scenarios that favor in-group transmission but persists under
+    symmetric transmission. Further, the presence of mixed homophily patterns improves
+    the equality of information access. Real-world hypergraphs exhibit qualitatively
+    similar patterns. Based on these results, we explore the efficacy of adjusting
+    contagion parameters and restructuring the hypergraph to improve information access
+    equality. Our findings highlight the importance of understanding the interplay
+    of higher-order interactions and homophily to quantify and combat inequality in
+    access to time-critical information.
+- Session name: Higher order networks 2
+  Talk Order: '5'
+  Abstract ID: '151'
+  Presenter: Leonardo Di Gaetano
+  Talk title: Dynamical Fluctuations of Random Walks in Higher-Order Networks
+  Abstract: Although higher-order interactions are known to affect the typical state
+    of dynamical processes giving rise to new collective behavior, how they drive
+    the emergence of rare events and fluctuations is still an open problem. We investigate
+    how fluctuations of a dynamical quantity of a random walk exploring a higher-order
+    network arise over time. In the quenched case, where the hypergraph structure
+    is fixed, through large deviation theory we show that the appearance of rare events
+    is hampered in nodes with many higher-order interactions, and promoted elsewhere.
+    Dynamical fluctuations are further boosted in an annealed scenario, where both
+    the diffusion process and higher-order interactions evolve in time. Here, extreme
+    fluctuations generated by optimal higher-order configurations can be predicted
+    in the limit of a saddle-point approximation. Our study lays the groundwork for
+    a wide and general theory of fluctuations and rare events in higher-order networks.
+- Session name: Higher order networks 2
+  Talk Order: '6'
+  Abstract ID: '176'
+  Presenter: Nicholas Landry
+  Talk title: Efficient sampling from the hypergraph configuration model
+  Abstract: 'Many empirical complex systems such as social interactions, email networks,
+    chemical reaction networks, and co-authorship networks contain interactions of
+    arbitrary size, known as higher-order interactions. In contrast to pairwise networks
+    which model all interactions as dyadic, hypergraphs are a natural modeling choice
+    for representing group interactions. The hypergraph configuration model is a random
+    model for generating synthetic hypergraphs with degree and edge-size heterogeneity
+    and is completely specified by the sequence of nodal degrees and interaction sizes
+    [1]. The predominant method for sampling these networks is starting from an empirical
+    network or constructed network and performing network operations such as double-edge
+    swaps to explore the space of possible networks.A critical shortcoming, however,
+    is the lack of heuristics or tests proving that the sampled hypergraph is sufficiently
+    close to being drawn from the configuration model. We present two advances that
+    make sampling from the hypergraph configuration model more robust: (1) we present
+    conditions for using the heuristic presented in Ref. [2] for constructing a non-loopy
+    hypergraph from degree and edge-size sequences fails, and (2) we calculate the
+    burn-in time and sampling gap for and ensemble of empirical hypergraphs and use
+    these calculations to derive heuristics for their values, similar to those calculated
+    in Ref. [3].These advances allow us to, for the first time, (1) predict compatible
+    parameters for power-law degree and edge size distributions and (2) empirically
+    simulate contagion processes on configuration model hypergraphs with exact degrees
+    and edge sizes. Our results provide important guidance for higher-order network
+    scientists simulating dynamical processes on heterogeneous higher-order networks.'
+- Session name: Higher order networks 2
+  Talk Order: '7'
+  Abstract ID: '280'
+  Presenter: Timothy LaRock
+  Talk title: Exploring the Non-uniqueness of Hypergraph Adjacency Matrices
+  Abstract: Hypergraphs are a common representation for network data featuring group
+    interactions. Researchers sometimes simplify hypergraph data by projecting it
+    back onto the set of nodes, constructing undirected multigraphs where a link is
+    placed between two nodes for each hyperedge they share. This co-occurence projection,
+    sometimes called the hypergraph adjacency matrix, is convenient because it facilitates
+    the generalization of pairwise network methods of analysis to hypergraphs. However,
+    it is known that the hypergraph adjacency matrix is not unique to a single hypergraph
+    and that non-isomorphic hypergraphs with the same adjacency matrix can exhibit
+    different dynamical behaviors. In this work, we explore the non-uniqueness of
+    hypergraph adjacency matrices numerically by providing an algorithm to enumerate
+    the isomorphism classes of hypergraphs that correspond to a given hypergraph adjacency
+    matrix. Here we show results for simple 3-uniform hypergraphs on 6 nodes, whch
+    can be fully enumerated, as well as approaches for finding results on larger and
+    more complex configurations via random sampling.
+- Session name: Higher order networks 2
+  Talk Order: '8'
+  Abstract ID: '62'
+  Presenter: Cosimo Agostinelli
+  Talk title: Higher-order similarity measures for hypergraphs comparison
+  Abstract: 'Higher-order networks have attracted significant interest for their capacity
+    to model systems beyond pairwise interactions, offering a more flexible and comprehensive
+    framework than traditional networks. A critical challenge in applying these structures
+    to complex systems is devising effective methods to measure their similarities.
+    While several similarity measures exist for pairwise networks, dedicated approaches
+    for higher-order ones remain scarce. To fill this gap, we propose two hypergraph
+    similarity measures: Hyper NetSimile and Hyperedge-Portrait Divergence, which
+    extend existing methodologies to higher-order structures. First, we demonstrate
+    the necessity of higher-order measures by conidering a scenario in which pairwise
+    measures would fail by definition. Then, we show that our methods effectively
+    group hypergraph models based on their generative mechanisms, as structures created
+    by the same process exhibit greater similarity. The measures we propose, derived
+    from a principled generalization of pairwise counter-parts, provide thus valuable
+    tools for assessing similarity between hypergraphs.'

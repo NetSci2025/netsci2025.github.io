@@ -1,0 +1,150 @@
+session: Mobiity and spatial networks 2
+slug: mobiity-and-spatial-networks-2
+talks:
+- Session name: Mobiity and spatial networks 2
+  Talk Order: '1'
+  Abstract ID: '304'
+  Presenter: Thomas Robiglio
+  Talk title: Inferential clustering reveals administrative boundaries in Austrian
+    migration networks
+  Abstract: Migration drives urbanization, segregation, and socioeconomic change,
+    yet internal migration remains underexplored compared to international migration.
+    Modeling human mobility as networks, where nodes represent geographic regions
+    and edges capture migration flows, enables the use of community detection methods
+    to reveal structural patterns.Using Austria’s 2021 internal migration data, we
+    applied the weighted Stochastic Block Model to uncover the modular structure of
+    migration flows. Detected communities closely align with administrative boundaries,
+    a novel finding validated through comparison with gravity model-based synthetic
+    networks. These results suggest that administrative divisions significantly influence
+    migration patterns beyond what mechanistic models predict.Extending this analysis
+    to other countries, we find varying degrees of alignment, indicating context-dependent
+    relationships between migration flows and administrative structures. This study
+    emphasizes the value of advanced network methods in understanding internal migration
+    dynamics.
+- Session name: Mobiity and spatial networks 2
+  Talk Order: '2'
+  Abstract ID: '207'
+  Presenter: Guangyuan Weng
+  Talk title: Unsupervised Embedding of Mobility Networks Reveals Invisible Barriers
+    in US Cities
+  Abstract: Borders are prevalent in cities, conditioning mobility and shaping people's
+    experience and sometimes aggravate social inequality through segregation. Past
+    studies of mobility borders are limited to qualitative observations, anecdotal
+    evidence, or static census data, providing only partial insights into how individuals
+    navigate and experience the city through movement across different regions. In
+    this work, we apply the unsupervised embedding method, specifically the skip-gram
+    word2vec model towards human trajectory data to fill this gap. The dense representations
+    of locations learned from word2vec model surpass traditional geographical metrics,
+    revealing how demographic factors such as income influence urban connectivity.
+    This approach allows us to identify 'borders' and 'bridges' that shape human mobility
+    patterns, offering insights into the complex interplay between geographical and
+    non-geographical factors. Our findings underscore the potential of data-driven
+    methods to inform more inclusive urban planning and policy-making, highlighting
+    the importance of considering both visible and invisible barriers in understanding
+    the spatial dynamics of urban environments.
+- Session name: Mobiity and spatial networks 2
+  Talk Order: '3'
+  Abstract ID: '466'
+  Presenter: Andrew Renninger
+  Talk title: Spanish heat waves curb discretionary mobility and alter work behavior
+    among the elderly
+  Abstract: Extreme heat is a growing problem in European countries with rising temperatures
+    and aging populations especially vulnerable to them. Research documents the consequences
+    of high temperatures for economic growth and public health, but the effect of
+    heat on the activities and behaviors that contribute to these consequences is
+    less clear; with greater understanding of how populations react to heat waves,
+    we can target policies to harden society against rising temperatures. Using rich
+    mobility data that allows us to stratify according to age, gender, class and the
+    type of activity, here we explore the consequences of extreme heat for mobility
+    in Spain. Activity falls by as much as 8% on hot days and as much as 20% on hot
+    afternoons, when temperatures are highest. People are less likely to forego frequent,
+    routine activities relative to infrequent ones—and least likely to miss work.
+    We identify significant differences across groups and activities, with the oldest
+    most likely to avoid travel to work while cutting back most on other activities
+    and the poorest are least likely to avoid travel to work—perhaps because they
+    are least able to afford missing it, or perhaps because they are least able to
+    work from home. Our results highlight the complex ways heat influences mobility
+    and suggests hidden costs, from decreased foot traffic for restaurants to increased
+    exposure to deleterious conditions for workers.
+- Session name: Mobiity and spatial networks 2
+  Talk Order: '4'
+  Abstract ID: '521'
+  Presenter: Matteo Mazzamurro
+  Talk title: A network study of road mobility in the Roman Empire
+  Abstract: This study presents the first network analysis of a spatially detailed
+    model of Roman roads, based on the most comprehensive and granular dataset to
+    date (Brughmans et al., 2024). At its peak, the Roman Empire spanned more than
+    5 million km^2 across Europe, North Africa, and the Middle East, supported by
+    an extensive transportation network that facilitated commerce, communication,
+    and military operations. Although rivers and seas provided efficient long-distance
+    transport, roads were essential for connecting inland areas and enabling effective
+    short- to mid-distance travel.We model the Empire's road networks, as well as
+    those of individual Roman provinces, as spatial graphs, with nodes corresponding
+    to settlements or road intersections and edges representing road segments. We
+    perform an exploratory network analysis. Roads are revealed to have low sinuosity
+    in general, supporting the long-held assumption that Roman roads were relatively
+    straight. The networks have small clustering coefficient, and vary in density
+    from region to region, with the Empire overall including 46% of the theoretically
+    possible road segments  (gamma index).We then estimate interurban traffic, a key
+    component of overall road use, using spatial interaction models, integrating settlement
+    population estimates with travel time estimates based on road length and terrain
+    slope (Fig.~1a). The models estimate higher traffic flows on road segments identified
+    by archaeologists as historically significant. These findings remain robust even
+    after the removal of up to 30\% of road segments classified as uncertain in the
+    archaeological literature (Fig.~1b). These insights into the structure of past
+    terrestrial mobility in Europe, North Africa, and the Middle East demonstrate
+    the effectiveness of network-based approaches in revealing Roman transportation
+    dynamics and are crucial for understanding the long-term development of mobility
+    in the area.
+- Session name: Mobiity and spatial networks 2
+  Talk Order: '5'
+  Abstract ID: '129'
+  Presenter: Malte Schröder
+  Talk title: Quantifying link importance and synergies in infrastructure networks
+  Abstract: Infrastructure networks are crucial for enabling human mobility across
+    almost all modes of transport. However, designing efficient transport networks
+    is a complex problem due to the mutual dependencies between the structure and
+    usage of the network. For example, improving one link in the network may alter
+    route choices of travelers and thereby also affect the usage and importance of
+    all other links. Understanding the synergies and the importance of individual
+    links is a fundamental prerequisite for efficient network extension planning.
+    Common route choice models, however, are often not well suited to this task. Shortest
+    path routing typically oversimplifies route choices and discrete choice models
+    require predefined routing options, not suitable for network planning tasks where
+    efficient routing options vary over time. Here, we analytically quantify the importance
+    of individual links and the synergy of multiple links in transport networks by
+    exploiting a recently proposed perturbed utility route choice model based on optimal
+    flow assignment. By describing the route changes in response to the improvement
+    of individual links as cycle flows in the network, we analytically track the optimal
+    flow solution and the changes in overall network quality. This enables us to directly
+    quantify the importance of individual links as the derivative of the total network
+    quality with respect to the change in link quality. Additionally, higher order
+    derivatives capture synergies between different links in the network. We apply
+    this approach to bike path network planning and demonstrate potential applications
+    to automatically generate efficient prioritization of bike path network extensions
+    and identify synergistic corridors for bike highways in urban street networks.Our
+    results may help to improve the quantitative evaluation of complex interactions
+    and synergies in transport and infrastructure networks and support efficient network
+    extension planning.
+- Session name: Mobiity and spatial networks 2
+  Talk Order: '6'
+  Abstract ID: '249'
+  Presenter: Xinhan Liu
+  Talk title: Probabilistic Model for Shortest Path Distances and Shortest Path Field
+    in Random Spatial Networks
+  Abstract: Random Spatial Networks (RSNs), including Random Geometric Graphs (RGG),
+    Soft RGG, and Gabriel Graphs, model systems embedded in physical space such as
+    communication and transportation networks. A fundamental challenge in RSNs is
+    understanding shortest path distances, which are crucial for optimizing routing
+    and analyzing network robustness.This study develops a probabilistic framework
+    for shortest path distances in RSNs. Using the Central Limit Theorem, we show
+    that the Euclidean distances of nodes at a shortest path distance t from a given
+    node u follow a normal distribution, N(μ_t, σ_t), with both μ_t and σ_t^2 growing
+    linearly with t. Explicit formulas for these parameters are provided for RGGs.
+    We establish a relationship between Euclidean and shortest path distances, enabling
+    computation of the probability:Pr[dist(u, v) = t | |u - v|] = Φ((|u - v| - μ_{t-1})
+    / σ_{t-1}) - Φ((|u - v| - μ_t) / σ_t),where Φ(x) is the cumulative distribution
+    function (CDF) of the standard normal distribution.Additionally, leveraging the
+    probabilistic relationship between shortest path components, we propose a shortest
+    path field model that predicts shortest path node distributions. This model, validated
+    through simulations, demonstrates high accuracy in RSNs with high average degree.

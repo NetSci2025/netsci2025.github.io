@@ -1,0 +1,206 @@
+session: Higher order networks 1
+slug: higher-order-networks-1
+talks:
+- Session name: Higher order networks 1
+  Talk Order: '1'
+  Abstract ID: '89'
+  Presenter: Annabel Davies
+  Talk title: Exploiting the higher-order structure of treatment-trial networks in
+    network meta-analysis
+  Abstract: Network meta-analysis (NMA) is a method to synthesize evidence from multiple
+    clinical trials comparing treatments for the same condition. The method derives
+    its name from a graphical representation of the data where nodes are treatments,
+    and edges represent comparisons between treatments in trials.1 However, traditional
+    NMA graphs are limited to pairwise comparisons and fail to represent higher-order
+    structures introduced by trials comparing more than two treatments. In reality,
+    NMA networks are hypergraphs with hyperedges (trials) that connect two or more
+    nodes (treatments) at once. They can be represented naturally as bipartite structures
+    where trials define a second type of node, and edges represent the arms of a trial,
+    connecting trial nodes to the treatment nodes they compare. An example is shown
+    in Fig 1(i).The bipartite structure of NMA and its potential insights have been
+    noted recently,2,3 but have yet to be explored in practice. In this work, I formalise
+    the bipartite framework for NMA and use this to examine the flow of information
+    through the network. Understanding how evidence from different trials combines
+    to estimate treatment effects is a key challenge for NMA. Previously, we showed
+    that the `flow of evidence' on the traditional NMA graph can be interpreted in
+    terms of the movement of a random walk (RW) on its edges.4 However, it is not
+    clear how these flows relate to the contributions of individual trials. To address
+    this limitation, I introduce a RW on the bipartite NMA graph. As shown in Fig
+    1(ii), this approach reveals how evidence flows through the arms of the trials.
+    Using a two-step higher-order RW model,5 I demonstrate that the evidence flows
+    on the traditional NMA graph can also be derived from a RW on the bipartite network.
+    This work represents the first application of higher-order network theory in the
+    context of NMA, providing new insights into the evidence structure and establishing
+    a foundation for future methodological advancements.
+- Session name: Higher order networks 1
+  Talk Order: '2'
+  Abstract ID: '358'
+  Presenter: Onkar Sadekar
+  Talk title: Explosive Cooperation in Social Dilemmas on Higher-Order Networks
+  Abstract: Understanding how cooperative behaviors can emerge from competitive interactions
+    is an open problem in biology and social sciences. While interactions are usually
+    modeled as pairwise networks, the units of many real-world systems can also interact
+    in groups of three or more. Here, we introduce a general framework to extend pairwise
+    games to higher-order networks. By studying social dilemmas on hypergraphs with
+    a tunable structure, we find an explosive transition to cooperation triggered
+    by a critical number of higher-order games. The associated bistable regime implies
+    that an initial critical mass of cooperators is also required for the emergence
+    of prosocial behavior. Our results show that higher-order interactions provide
+    a novel explanation for the survival of cooperation.
+- Session name: Higher order networks 1
+  Talk Order: '3'
+  Abstract ID: '348'
+  Presenter: Alberto Ceria
+  Talk title: The relevance of higher-order ties
+  Abstract: Higher-order networks effectively represent complex systems with group
+    interactions. Existing methods usually overlook therelative contribution of group
+    interactions (hyperlinks) of different sizes to the overall network structure.
+    Yet, this has manyimportant applications, especially when the network has meaningful
+    node labels. In this work, we propose a comprehensive methodology to precisely
+    measure the contribution of different orders to the overall network structure.
+    First, we propose the order contribution measure, which quantifies the contribution
+    of hyperlinks of different orders to the link weights (local scale), number of
+    triangles (mesoscale) and size of the largest connected component (global scale)
+    of the pairwise weighted network. Second, we propose the measure of order relevance,
+    which gives insights in how hyperlinks of different orders contribute to the considered
+    network property. Most interestingly, it enables an assessment of whether this
+    contribution is synergistic or redundant with respect to that of hyperlinks of
+    other orders. Third, to account for labels, we propose a metric of label group
+    balance to assess how hyperlinks of different orders connect label-induced groups
+    of nodes. We applied these metrics to a large-scale board interlock network and
+    scientific collaboration network, in which node labels correspond to geographical
+    location of the nodes. Experiments including a comparison with randomized null
+    models reveal how from the global level perspective, we observe synergistic contributions
+    of orders in the board interlock network, whereas in the collaboration network
+    there is more redundancy. The findings shed new light on social scientific debates
+    on the role of busy directors in globalbusiness networks and the connective effects
+    of large author teams in scientific collaboration networks.
+- Session name: Higher order networks 1
+  Talk Order: '4'
+  Abstract ID: '30'
+  Presenter: Giulia Preti
+  Talk title: The Effects of Higher-Order Structures in Social Systems
+  Abstract: 'Higher-order mathematical structures, such as hypergraphs, offer versatile
+    modeling capabilities surpassing traditional graph models limited to binary relations
+    between entities. Their adoption is motivated by the observation that real-world
+    scenarios often entail interactions among multiple entities. Directed hypergraphs
+    further enhance modeling by representing relations between sets of nodes.Random
+    graph null models are key tools in graph theory because they allow us to assess
+    the significance of observed properties and identify structural irregularities.
+    Despite a vast literature on graph ensembles, little attention has been devoted
+    to defining null models for directed hypergraphs and developing efficient algorithms
+    for sampling from them. Developing null models for directed hypergraphs brings
+    unique challenges due to their intricate entity relations, characterized by a
+    broader set of properties. Parameters such as the number of nodes, number of hyperedges,
+    head and tail sizes, and frequency of nodes within hyperedge heads or tails should
+    be considered.We study two micro-canonical null models and propose two efficient
+    Markov Chain Monte Carlo samplers based on Metropolis-Hastings. We demonstrate
+    the interdisciplinary applicability of our samplers by showcasing three use cases
+    in sociology, epidemiology, and economics, respectively: (i) we show the role
+    of higher-order structures in quantifying political group homophily by uncovering
+    an oscillatory behavior of increased homophily in opposition parties in the US
+    Congress across 40 years, (ii) we demonstrate that the disparities observed between
+    simulations of nonlinear SIS contagion processes in hyper-networks and theoretical
+    predictions can be explained when considering the higher-order joint degree distribution,
+    and (iii) we show that the main structural economic complexity indexes of countries
+    can be explained by local properties of the global trade network preserved by
+    the null models.'
+- Session name: Higher order networks 1
+  Talk Order: '5'
+  Abstract ID: '276'
+  Presenter: Gangmin Son
+  Talk title: Phase Transitions in the Simplicial Ising Model on Hypergraphs
+  Abstract: Here, we study the phase transitions in the simplicial Ising model on
+    hypergraphs, originally proposed in [1], in which the energy within each hyperedge
+    (group) is lowered only when all the member spins are unanimously aligned. The
+    Hamiltonian of the model is equivalent to a weighted sum of lower-order interactions,
+    evoking an Ising model defined on a simplicial complex. Using the Landau free
+    energy approach within the mean-field theory, we identify diverse phase transitions
+    depending on the sizes of hyperedges [2]. Specifically, when all hyperedges have
+    the same size $q$, the nature of the transitions shifts from continuous to discontinuous
+    at the tricritical point $q=4$, with the transition temperatures varying nonmonotonically,
+    revealing the ambivalent effects of group size $q$. Furthermore, if both pairwise
+    edges and hyperedges of size $q>2$ coexist in a hypergraph, novel scenarios emerge,
+    including mixed-order and double transitions, particularly for $q>8$. Adopting
+    the Bethe--Peierls method, we investigate the interplay between pairwise and higher-order
+    interactions in achieving global magnetization, illuminating the multiscale nature
+    of the higher-order dynamics. See the attached PDF for more details.[1] T. Robiglio,
+    M. Neri, D. Coppes, C. Agostinelli, F. Battiston, M. Lucas, and G. Petri, arXiv:2401.11588
+    (2024)[2] G. Son, D.-S. Lee, and K.-I. Goh, arXiv:2411.19080 (2024)
+- Session name: Higher order networks 1
+  Talk Order: '6'
+  Abstract ID: '387'
+  Presenter: Chester Tan
+  Talk title: Unifying higher-order sequence models with simplicial complexes, cell
+    complexes, and hypergraphs.   De Bruijn graphs as combinatorial complexes and
+    their topological neural networks.
+  Abstract: We contribute to the unification \cite{10.1038/s41567-019-0459-y} of higher-order
+    network models by unifying higher-order sequence models with combinatorial complexes.The
+    network science community, joining forces with algebraic topology, has made significant
+    progress in bridging simplicial complexes, cell complexes, and hypergraphs by
+    unifying them as combinatorial complexes \cite{10.48550/arXiv.2206.00606}.A notable
+    exception to this unification is higher-order sequence models.\cite{10.1145/3097983.3098145}
+    used De Bruijn graphs to construct higher-order and multi-order network models
+    of sequences and temporal graphs.We develop a framework to show that these higher-order
+    and multi-order network models can be represented as combinatorial complexes using
+    higher-order tensors.Our framework broadens the applications of higher-order networks,
+    topological data analysis, and topological deep learning communities to sequence
+    data.We use this unified framework to develop neural network-based generative
+    multi-order network models of sequences and generalize existing De Bruijn graph
+    neural networks \cite{10.48550/arXiv.2406.16552}.
+- Session name: Higher order networks 1
+  Talk Order: '7'
+  Abstract ID: '188'
+  Presenter: Quintino Francesco Lotito
+  Talk title: The microscale organization of directed hypergraphs
+  Abstract: 'Traditional network models focus on pairwise connections between nodes,
+    neglecting the complexities of systems where multiple units interact simultaneously.
+    Hypergraphs provide a framework for explicitly encoding higher-order interactions,
+    representing them as hyperedges connecting multiple nodes simultaneously. By preserving
+    group-based interactions, they improve our ability to understand the structures
+    and dynamics of systems with many-body interactions. Most research has so far
+    focused on undirected hypergraphs, which fail to capture the directional nature
+    of many real-world interactions. For example, in a metabolic reaction, a set of
+    reactants transforms into a set of products. Directed hypergraphs enhance modeling
+    by distinguishing between source and target sets in hyperedges. In this work,
+    we introduce measures and tools to characterize the microscale organization of
+    real-world directed hypergraphs. First, we discuss a decomposition into fundamental
+    interaction types: one-to-one, one-to-many, many-to-one and many-to-many. We analyze
+    empirical data to count the occurrences of each interaction type, and use this
+    information as a signature to compute differences in higher-order connectivity
+    patterns. Second, we propose new simple and computationally efficient definitions
+    for reciprocity for directed hypergraphs, namely exact, strong and weak higher-order
+    reciprocity, designed to capture different patterns of bi-directionality in empirical
+    data. Finally, we extend motif analysis to identify recurring interaction patterns
+    and extract the building blocks of directed hypergraphs. We validate our framework
+    on empirical datasets (Bitcoin transactions, e-mails, forum discussions, metabolic
+    and citation data) revealing structural principles behind the organization of
+    real-world systems, including the existence of mechanisms of feedback and reinforcement
+    in the information flow among system units, where pairwise interactions support
+    the action of groups, and vice versa.'
+- Session name: Higher order networks 1
+  Talk Order: '8'
+  Abstract ID: '585'
+  Presenter: Anatol Wegner
+  Talk title: Modeling networks motifs as higher-order interactions
+  Abstract: Synchronization is relevant in a wide range of disciplines. This phenomenon
+    is commonly studied using the Kuramoto model, which describes the dynamics of
+    a system of coupled oscillators with varying natural frequencies and sinusoidal
+    coupling. In electric power systems, the synchronization of generators is essential
+    for ensuring a reliable supply of electricity. The generator's dynamics is described
+    by a second order Kuramoto model where the sinusoidal coupling term gives the
+    flow of real power across transmission lines. Stable operation requires that phases
+    are locked and phase differences across lines must be below a certain bound $\gamma$,
+    a condition referred to as phase cohesiveness. Hence, it is of utmost interest
+    to understand when a network supports a phase cohesive state and when it does
+    not.In this contribution we introduce a novel approach to the synchronization
+    and phase cohesiveness problem based on mapping the fixed point equations to a
+    convex optimization problem. This approach allows us to systematically compute
+    all synchronized states where the phase difference across an edge does not exceed
+    $\pi/2$, including exotic states with loop flows. Furthermore, our approach sheds
+    light onto the  commonly used ``DC'' approximation, where the sinusoidal coupling
+    function is linearized. We derive rigorous bounds on the error introduced by the
+    linear approximation, obtaining a region of trust for individual lines. Based
+    on these results, we find a rigorous sufficient condition on the existence of
+    phase cohesive states that holds regardless of the underlying network topology.
+    We demonstrate our results for an adapted Matpower 30-bus test case.

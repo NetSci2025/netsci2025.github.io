@@ -1,0 +1,205 @@
+session: Social networks 1
+slug: social-networks-1
+talks:
+- Session name: Social networks 1
+  Talk Order: '1'
+  Abstract ID: '208'
+  Presenter: Robert Goldstone
+  Talk title: Multi-scale modularity in networks of agents that adapt to increase
+    their relevance
+  Abstract: 'Many biological, social, and economic systems evolve over time to exhibit
+    modularity at multiple scales. The current work aims at developing a model of
+    the formation of hierarchically organized modules in originally undifferentiated
+    systems. The specific question addressed by the generative modeling is:  can hierarchical
+    modularity emerge from vertices that simply adapt their outgoing edge weights
+    to other vertices so as to increase their relevance within the network?As a concrete
+    example for expository purposes, imagine that there 50 authors who are connected
+    to each other by a directed 50 X 50 matrix of continuously valued weights that
+    can be interpreted as the amount of readership traffic that each author sends
+    to every other author through their citations.  The following three steps are
+    taken: 1) Each agent calculates its steady-state readership traffic, 2A) random
+    Gaussian noise is added to each agent''s 50-length vector of outgoing weights
+    (e.g. transition probabilities), 3) The steady-state readership traffic is recalculated
+    and if it is greater than it was in Step 1, then the change to outgoing weights
+    is kept, otherwise it is reverted to the old weights.The simulations demonstrate
+    several phenomena related to the emergence of multiscale modules: 1) reciprocal
+    connections (when vertex A connects strongly to B, then B connects strongly to
+    A), 2) densely connected cliques above the dyadic level, 3) increasing modularity
+    and number of communities as the network evolves, and 4) a fine-to-coarse pattern
+    of community formation.  Thus, multiscale modularity can arise in networks even
+    without incorporating spatial proximity, explicit collaborations, fields, trust,
+    coalitions, external inputs, or similarity, pointing to possibly widespread applicability
+    to economic trade, social organizations, professional networks, social media structures,
+    and neural circuits.'
+- Session name: Social networks 1
+  Talk Order: '2'
+  Abstract ID: '500'
+  Presenter: Chandra Tamang
+  Talk title: Estimating network effects and their uncertainty in discrete choice
+    modelling
+  Abstract: Human choices are shaped by preferences and often influenced by network
+    effects through social connections. Understanding these network effects helps
+    policymakers design interventions based on behaviour spread, marketers craft campaigns
+    based on peer influence, and electoral planners compare the impact of socioeconomic
+    variables and network influences on voter preferences. In our research, we estimate
+    the extent to which a decision maker’s choice is influenced by their network connections
+    versus their individual attributes. Importantly, we quantify the uncertainty of
+    these estimations, which offers multiple benefits - it prevents over-reliance
+    on potentially inaccurate estimations due to limited or noisy data, and it enables
+    consideration of network-induced uncertainties while evaluating counterfactual
+    scenarios such as altering future choice sets. We achieve this by developing a
+    Bayesian non-parametric model to capture network effects using a Gaussian process
+    over graphs. Within the discrete choice framework, we represent the utility of
+    an item to a decision maker as a sum of this graph-based network effect and a
+    covariate effect based on the individual’s and choice item’s features. The decision
+    maker selects the item with the highest utility in the available choice set. Our
+    Bayesian formulation allows us to quantify the uncertainty of the network effect
+    on utility using the posterior distribution. The graph-based Gaussian process
+    kernel hyperparameters are learned using gradient descent, eliminating the need
+    for manual hyperparameter tuning. We show that smooth graph-based kernels yield
+    well-calibrated network-induced uncertainties and validate them on real-world
+    datasets, including US election results and Android app installation data.
+- Session name: Social networks 1
+  Talk Order: '3'
+  Abstract ID: '522'
+  Presenter: Samuel Martin-Gutierrez
+  Talk title: Intersectional inequalities in social networks
+  Abstract: 'Social categories, such as race, gender, or socioeconomic status, are
+    core driving forces of social tie formation. They shape our identities, determining
+    our social behavior and our connection preferences. Homophily, the preference
+    for connecting with similar others, is one of the most common and widely studied
+    interaction patterns; however, the dynamics driving multidimensional connection
+    preferences remain largely unexplored. Furthermore, while homophily in social
+    networks leads to enhanced trust between individuals, it also exacerbates segregation
+    and breeds inequality. As individuals belong to multiple groups, people can experience
+    marginalization in several dimensions simultaneously, suffering intersectional
+    inequalities.In this work, we develop a network model of homo / heterophilic interactions
+    with multidimensional attribute vectors. We use the model to tackle two crucial
+    questions: How do we integrate information from our multidimensional identities
+    to form connections with each other, and how do multidimensional connection preferences
+    impact intersectional inequalities of social capital?To answer the first question,
+    we systematically model group-preference aggregation mechanisms and compare them
+    using Bayesian model selection. We find that a simple aggregation mechanism consistently
+    outperforms more complex alternatives.We also use the model to operationalize
+    intersectional inequalities of social capital and derive analytical closed-form
+    expressions for the predicted inter-group degree inequalities. We demonstrate
+    that when attributes are uncorrelated, multidimensional degree disparities mirror
+    one-dimensional systems, but attribute correlation induces counterintuitive patterns
+    of emergent intersectionality. For example, for certain population distributions,
+    the parameter regimes where majorities and minorities are advantaged are reversed.
+    We verify the model''s predictions with real-world network data, finding a remarkable
+    alignment.'
+- Session name: Social networks 1
+  Talk Order: '4'
+  Abstract ID: '550'
+  Presenter: Markus Reiter-Haas
+  Talk title: Curiosity Priming Shifts Attention to Well-Informed Nodes in Social
+    Ego Networks
+  Abstract: This study explores the impact of social norms and affordances on user
+    attention in a simulated social media environment. By priming with curiosity and
+    manipulating the platform design, participants dwell longer on and spend more
+    time engaging with content from well-informed personas, even without explicitly
+    revealing their defining traits. This finding suggests that subtle modifications
+    to platform design and social norms have the potential to influence user behavior
+    and mitigate the spread of misinformation.
+- Session name: Social networks 1
+  Talk Order: '5'
+  Abstract ID: '412'
+  Presenter: Beatriz Arregui Garcia
+  Talk title: Unveiling emerging moderation dynamics in Mastodon’s federated instance
+    network.
+  Abstract: 'In the past years we have witnessed a vast migration of users from classical
+    social platforms like Twitter to Decentralized Online Social Networks (DOSNs)
+    such as Mastodon. Mastodon operates as a network of independent and decentralized
+    servers, known as instances, that communicate with one another. The rapid growth
+    in the number of users is reshaping Mastodon’s network structure and altering
+    the flow of information among instances and individual users. This growth also
+    presents challenges in identifying and managing harmful servers. To address these
+    issues, Mastodon provides instance administrators with tools for moderating inter-instance
+    interactions.This study examines the interplay between the friendship network
+    of instances and Mastodon’s moderation mechanisms, revealing the main underlying
+    patterns and how they affect the propagation of mis/information. By analyzing
+    structural changes in the network over a year, we observe that the actors of the
+    moderation process change over time. Despite these shifts at the microscopic scale,
+    the analysis of motifs distributions and network balance over time reveals the
+    presence of stable structures at the macroscopic level. In addition, the structure
+    of the banning-banned network unveils two natural sets of instances: a larger
+    group (M)comprising banned instances and a smaller minority group (m) responsible
+    for most bannings. To understand the flowof information we employ an information
+    diffusion model able to reveal the propagation of mis/information. Our findings
+    show that minority group instances share information predominantly within their
+    group, while the majority group exhibits less cohesive communication. Regarding
+    the cross-information spreading, we observe that the nodes in the majority get
+    rapidly isolated while the spreading from the minority to the majority is more
+    resilient under changes of the network. Additionally, an echo-chamber effect emerges,
+    isolating the minority group from untrusted servers.'
+- Session name: Social networks 1
+  Talk Order: '6'
+  Abstract ID: '25'
+  Presenter: Miguel A. González-Casado
+  Talk title: An exploration of equilibrium dynamics in social structures
+  Abstract: The dynamics of personal relationships remain largely unexplored due to
+    the inherent difficulties of the longitudinal data collection process. In this
+    paper, we analyze a dataset tracking the temporal evolution of a network of personal
+    relationships among 900 people over the course of four years. We search for evidence
+    that the network is in equilibrium, meaning that all macroscopic properties remain
+    constant, fluctuating around stable values, while the internal microscopic dynamics
+    are active. We find that the probabilities governing the network dynamics are
+    stationary over time and that the degree distributions, as well as edge and triangle
+    abundances match the theoretical equilibrium distributions expected under these
+    dynamics (see Fig. 1). Furthermore, we verify that the system satisfies the detailed
+    balance condition, with only minor point deviations, confirming that it is indeed
+    in equilibrium. Remarkably, this equilibrium persists despite a high turnover
+    in network composition, suggesting that it is an inherent characteristic of human
+    social interactions rather than a trait of the individuals themselves. We argue
+    that this equilibrium may be a general feature of human social networks arising
+    from the competition between different dynamical mechanisms and also from the
+    cognitive and material resources management of individuals. From a practical perspective,
+    the fact that networks are in equilibrium could simplify data collection processes,
+    validate the use of cross-sectional data-based methods like Exponential Random
+    Graph Models, and inform the design of interventions. Our findings advance the
+    understanding of collective human behavior predictability and our ability to describe
+    it using simple mathematical models.
+- Session name: Social networks 1
+  Talk Order: '7'
+  Abstract ID: '174'
+  Presenter: Giulia De Pasquale
+  Talk title: Fairness in Social Influence Maximization via Optimal Transport
+  Abstract: We study fairness in social influence maximization, whereby one seeks
+    to select seeds that spread a given information throughout a network, ensuring
+    balanced outreach among different communities (e.g. demographic groups). In the
+    literature, fairness is often quantified in terms of the expected outreach within
+    individual communities. In this paper, we demonstrate that such fairness metrics
+    can be misleading since they overlook the stochastic nature of information diffusion
+    processes. When information diffusion occurs in a probabilistic manner, multiple
+    outreach scenarios can occur. As such, outcomes such as ``In 50\% of the cases,
+    no one in group 1 gets the information, while everyone in group 2 does, and in
+    the other 50%, it is the opposite'', which always results in largely unfair outcomes,
+    are classified as fair by a variety of fairness metrics in the literature. We
+    tackle this problem by designing a new fairness metric, mutual fairness, that
+    captures variability in outreach through optimal transport theory. We propose
+    a new seed-selection algorithm that optimizes both outreach and mutual fairness,
+    and we show its efficacy on several real datasets. We find that our algorithm
+    increases fairness with only a minor decrease (and at times, even an increase)
+    in efficiency.
+- Session name: Social networks 1
+  Talk Order: '8'
+  Abstract ID: '234'
+  Presenter: Mingze Qi
+  Talk title: Efficient network intervention with chain-referral sampling data
+  Abstract: Most existing studies assume that the network topology is already known
+    when designing intervention strategies, which is difficult to achieve in practice.
+    We focus on network intervention with sampling information and assume that the
+    nodes are obtained by graph sampling algorithms, where chain-referral sampling
+    methods make it easier to sample nodes with more neighbors. Moreover, we propose
+    a percolation framework to analyze network attacks with such chain-referral sampling
+    data. For a generalized random network with discrete degree distribution, the
+    analytic solution of the relative size of the giant component could be obtained
+    with any given sampling proportion and attack proportion. At the same time, the
+    analysis model is extended by introducing a cutoff proportion to maximize the
+    intervention effect of the sampling information. Experiments in model and empirical
+    networks show that the optimal cutoff proportion estimated by sampling data could
+    effectively improve the attack effect. The intervention effect of sampling partial
+    data could approach that of complete data when selecting the appropriate cutoff
+    degree proportion. This study could provide a reference for effective rumors management
+    and disease prevention in real social networks.

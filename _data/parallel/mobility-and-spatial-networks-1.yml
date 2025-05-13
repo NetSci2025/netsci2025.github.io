@@ -1,0 +1,150 @@
+session: Mobiity and spatial networks 1
+slug: mobiity-and-spatial-networks-1
+talks:
+- Session name: Mobiity and spatial networks 1
+  Talk Order: '1'
+  Abstract ID: '70'
+  Presenter: Rohit Sahasrabuddhe
+  Talk title: Concise variable-order networks from path data
+  Abstract: While they are defined at the micro-scale of nodes and edges, a key feature
+    of networks is their ability to capture structure across scales by modelling indirect
+    interactions as paths and walks. This assumes that flow along edges is transitive
+    and can be represented as a first-order Markov model. However, trajectory or path
+    data from a variety of systems such as passenger itineraries, career paths, and
+    clickstreams have higher-order dependencies that first-order networks cannot capture.
+    In this work, we present a pipeline to create 'concise' networks that interpolate
+    between first and second-order models by capitalising on patterns in second-order
+    effects. At the core of our method, we use Convex Non-negative Matrix Factorisation
+    to create state nodes that model latent modes of behaviour. Our method includes
+    an interpretable measure to guide the complexity-quality trade-off, a prior to
+    regularise the data, and is designed to process nodes in parallel. In addition
+    to showing that it recovers planted modes of behaviour in synthetic data, we explore
+    the insights created by our method into two real-world systems. First, from flight
+    itineraries in the US, we uncover intuitive transit behaviour through national
+    hubs, revealing their role in routing passengers across geographic regions. Second,
+    we show that despite being much less complex, our concise network model captures
+    the modular structure of a full second-order model of information flow on a social
+    network.
+- Session name: Mobiity and spatial networks 1
+  Talk Order: '2'
+  Abstract ID: '210'
+  Presenter: Minsuk Kim
+  Talk title: Minimum-cost percolation on US air transportation network
+  Abstract: 'Transportation infrastructure systems are the backbone of our society,
+    fostering economic growth and driving innovation by conveying people and goods
+    from origin to destination in a timely manner. Successful operation of these infrastructures
+    depends on efficient routing of origin-destination demands given a fixed amount
+    of resources available. Here, we extend the previous framework of the shortest-path
+    percolation, which is a stylized model defined on a simple graph describing how
+    the macroscopic structure of the transportation system collapses as resources
+    are consumed to fulfill the origin-destination demands, considering a generalized
+    structure of the transportation network with time-stamp, directionality, weight,
+    and capacity: the minimum-cost percolation (MCP) model. We applied the MCP framework
+    to the US air transportation system using publicly available data and conducted
+    extensive experiments considering various costs and different origin-destination
+    demands. Our results indicate that cooperation among airline carriers through
+    shared flights can significantly improve the overall efficiency of the US air
+    transportation system. These findings demonstrate the potential of the MCP framework
+    to guide cooperative policies that enhance resource utilization and overall efficiency.'
+- Session name: Mobiity and spatial networks 1
+  Talk Order: '3'
+  Abstract ID: '292'
+  Presenter: Erick Elejalde Sierra
+  Talk title: Behavioral response to mobile phone evacuation alerts
+  Abstract: SMS-based alerts during emergencies are a highly effective communication
+    tool due to their broad reach, low cost, and immediacy [1]. However, overly broad
+    alerts can lead to over-evacuation, straining infrastructure, and eroding public
+    trust. We analyzed the SMS-based alerts issued during Chile’s most devastating
+    wildfire in 30 years, which struck Valpara\'so on February 2, 2024, causing 137
+    fatalities and affecting over 16,000 people. Using spatio-temporal data from a
+    national mobile network and census-based proxies for socioeconomic status (SES),
+    we categorized telecommunication towers into lower, middle, and higher SES groups.
+    Official alerts from SENAPRED provided the timing and location of evacuation messages,
+    while to analyse people's mobility, we employed XDR spatio-temporal data from
+    a national mobile communication company.Our findings show that the first SMS alert
+    prompted significant evacuation behavior across all SES groups, regardless of
+    proximity to the wildfire (Figure 1a). Higher SES areas exhibited fewer connections
+    (Figure 1b), suggesting greater capacity for proactive evacuation. Interrupted
+    time-series analysis confirmed that the initial alert was the primary driver of
+    evacuation, with higher SES evacuations influenced more by prudence than direct
+    alert targeting (Figure 1c). Our findings show several interesting patterns; initial
+    alerts elicit stronger responses, repeated alerts risk desensitization, and SES
+    shapes evacuation patterns, with higher SES groups better positioned to act. These
+    insights inform strategies to enhance emergency communication, ensuring precision
+    and improved safety for all communities.
+- Session name: Mobiity and spatial networks 1
+  Talk Order: '4'
+  Abstract ID: '170'
+  Presenter: Esteban Moro
+  Talk title: Behavior-based contact structure in mobility networks
+  Abstract: Contact networks, which describe individuals' physical interactions, have
+    broad applications for understanding diffusion processes in social networks, from
+    the spread of information to the transmission of infectious disease. Commonly,
+    contact networks are segmented by individuals' demographic characteristics, showing
+    the contact probabilities (or "mixing") between different demographic sub-populations.
+    While demographic-stratification of contact networks can reveal important structure
+    in the patterns of interaction within a population, demographic features do not
+    fully capture behavioral differences between individuals. In this project, we
+    build on existing research identifying latent behavioral patterns in individual
+    activity, which looks below the level of individual demographics to identify common
+    patterns of activity across individuals' lifestyles. Using detailed GPS mobility
+    data describing individuals' patterns of visitation to points of interest, we
+    use Non-negative Matrix Factorization (NMF), a machine learning dimensionality
+    reduction technique, to identify the key behavioral components which describe
+    individuals' mobility activity. This is analogous to identifying the fundamental
+    "genes" which, when taken together, form an individual's unique lifestyle. After
+    decomposing individual-level mobility data into behavioral components, we compute
+    contact networks between individuals based on their proximity in space and time.
+    We then compare observed patterns of interaction with respect to the distribution
+    of individuals' latent behavioral features. Our approach can highlight behavioral
+    homophily in networks, were contacts occur more frequently between individuals
+    with similar behavioral characteristics, and behavior-based community structure
+    which is not captured by demographic features.
+- Session name: Mobiity and spatial networks 1
+  Talk Order: '5'
+  Abstract ID: '463'
+  Presenter: Eszter Bokanyi
+  Talk title: Mobility and cohesion of personal networks over the lifecourse of an
+    entire population
+  Abstract: Changing technology fosters higher levels of human mobility creating both
+    new connections between faraway places and rearranging the spatial structure of
+    already existing connections. Both mechanisms and their impact on network topology
+    are little understood in the literature.In this work, we address this gap by leveraging
+    a unique longitudinal population-scale network dataset sourced from Statistics
+    Netherlands. This network contains family, work, school, household, and next-door
+    neighbor connections derived from administrative registers, that together constitute
+    a multilayer social opportunity structure for all residents of the Netherlands
+    between 2009 and 2022. We follow the patterns of individuals’ ego networks over
+    time, and measure their size, closure, and geographical dispersion.First, we show
+    that while the average size of ego networks stays stable over the observed period,
+    average closure drops by as much as 10%, leading to more open local network structures.
+    Second,  we see that the average geographical distance from network neighbors
+    grows, and in parallel, the average share of network neighbors in the same municipality
+    decreases. Third, we link the two using multivariate difference-in-difference
+    type regressions which show that the observed decrease in the closure is indeed
+    significantly linked to the growing geographic dispersion. The regressions thus
+    confirm that people’s mobility is linked to more open ego networks, which potentially
+    impacts on people’s access to information, or the level of trust in communities.This
+    work is among the first ones that aims to map the temporal network of an entire
+    population structure comprehensively [2]. As such, it offers a starting point
+    for a wide variety of impactful network  science research at the level of a complete
+    population.
+- Session name: Mobiity and spatial networks 1
+  Talk Order: '6'
+  Abstract ID: '589'
+  Presenter: Giovanni Mauro
+  Talk title: Dynamic models of gentrification
+  Abstract: The phenomenon of gentrification of an urban area is characterized by
+    the displacement of lower-income residents due to rising living costs and an influx
+    of wealthier individuals. This study presents an agent-based model that simulates
+    urban gentrification through the relocation of three income groups -- low, middle,
+    and high -- driven by living costs. The model incorporates economic and sociological
+    theories to generate realistic neighborhood transition patterns. We introduce
+    a temporal network-based measure to track the outflow of low-income residents
+    and the inflow of middle- and high-income residents over time. Our experiments
+    reveal that high-income residents trigger gentrification and that our network-based
+    measure consistently detects gentrification patterns earlier than traditional
+    count-based methods, potentially serving as an early detection tool in real-world
+    scenarios. Moreover, the analysis highlights how city density promotes gentrification.
+    This framework offers valuable insights for understanding gentrification dynamics
+    and informing urban planning and policy decisions.

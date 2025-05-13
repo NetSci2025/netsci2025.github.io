@@ -1,0 +1,197 @@
+session: Contagion and spreading processes
+slug: contagion-and-spreading-processes
+talks:
+- Session name: Contagion and spreading processes
+  Talk Order: '1'
+  Abstract ID: '253'
+  Presenter: David OSullivan
+  Talk title: A generating-function approach to modelling complex contagion on clustered
+    networks with multi-type branching processes
+  Abstract: Understanding cascading processes on complex network topologies is paramount
+    for modelling how diseases, information, fake news and other media spread. In
+    this article, we extend the multi-type branching process method developed in Keating
+    et al., (2022), which relies on networks having homogenous node properties, to
+    a more general class of clustered networks. Using a model of socially inspired
+    complex contagion we obtain results, not just for the average behaviour of the
+    cascades but for full distributions of the cascade properties. We introduce a
+    new method for the inversion of probability generating functions to recover their
+    underlying probability distributions; this derivation naturally extends to higher
+    dimensions. This inversion technique is used along with the multi-type branching
+    process to obtain univariate and bivariate distributions of cascade properties.
+    Finally, using clique-cover methods, we apply the methodology to synthetic and
+    real-world networks and compare the theoretical distribution of cascade sizes
+    with the results of extensive numerical simulations.
+- Session name: Contagion and spreading processes
+  Talk Order: '2'
+  Abstract ID: '454'
+  Presenter: Federico Malizia
+  Talk title: Group-Based Modeling Reveals the Critical Role of Heterogeneity and
+    Hyperedge Overlap in Epidemic Processes with Higher-Order Interactions
+  Abstract: In recent years, research has increasingly focused on understanding how
+    higher-order interactions shape dynamical processes, particularly in contagion
+    dynamics like the SIS model and its extensions. Studies have highlighted the role
+    of the microscopic structure of higher-order interactions in determining the onset
+    of epidemic outbreaks.This work introduces a group-based framework for the Susceptible-Infected-Recovered
+    (SIR) process, incorporating higher-order interactions across groups of arbitrary
+    size. The model explicitly accounts for heterogeneity in degree distributions
+    and inter-order overlap—shared connectivity among hyperedges of different orders.
+    By capturing these dynamical correlations, the framework addresses gaps in existing
+    models, enabling detailed exploration of how heterogeneity and overlap influence
+    contagion dynamics.For systems with 2- and 3-body interactions, the framework
+    yields analytical expressions for the epidemic threshold. The results show that
+    increasing inter-order overlap makes the system more prone to epidemic outbreaks.
+    Remarkably, high heterogeneity in 2-body degree distributions counteracts this
+    sensitivity. This effect stems from the interplay between pairwise and 3-body
+    interaction dynamics, which the model disentangles analytically.The study also
+    examines the final epidemic size and the temporal evolution of infections. A striking
+    finding is that higher heterogeneity in group interactions can trigger explosive
+    outbreaks, a phenomenon well-documented in SIS dynamics but previously unobserved
+    in SIR processes. Specifically, while pairwise interactions lead to smooth transitions,
+    3-body interactions exhibit abrupt and explosive growth as heterogeneity increases.These
+    results underscore the importance of higher-order heterogeneity and dynamical
+    correlations in shaping epidemic dynamics. By providing a versatile analytical
+    framework, our model gives us new insights, deepening our understanding of complex
+    contagion processes.
+- Session name: Contagion and spreading processes
+  Talk Order: '3'
+  Abstract ID: '605'
+  Presenter: Javier Ureña Carrion
+  Talk title: 'Votes or pathogens: A framework for detecting spreading phenomena on
+    networks'
+  Abstract: 'Models of spreading processes have been crucial for tackling a wide array
+    of phenomena, from opinion formation to disease propagation. Such processes are
+    arguably underpinned by fundamentally different mechanisms: in simple contagion,
+    transmission occurs via contact with an infected neighbor, while in complex contagion
+    it requires a level of consensus among neighbors. Despite huge advances in our
+    understanding of spreading processes, our ability to assess the prevalence of
+    underlying mechanisms from empirical data is limited. This is partly due to lack
+    of data, but also due to the often non-trivial ways in which network topology
+    interacts with the contagion dynamics on top. We propose a statistical inference
+    framework for detecting the mechanisms underlying spreading phenomena.Our core
+    assumption is that spreading mechanisms can be captured by matrices of infection
+    and recovery rates that depend only on a node''s degree and the number of infected
+    neighbors. Focusing on a set of basic infection mechanisms, our main contributions
+    are two-fold. First, we assess the dynamic range of different processes, i.e.,
+    the combined effect of network topology, parameters, sample size and initial conditions
+    on our ability to identify mechanisms via statistical inference. Then, we infer
+    which mechanisms explain the dynamics of three empirical datasets.Our results
+    show that the detectability of spreading mechanisms is highly dependent on topology,
+    infectivity, distribution of trials and sample size, including regimes where detection
+    is highly unlikely. For example, for an SI model having many infected neighbors
+    might lead to several infections and hinder detection, yet fewer infections mean
+    that detection is possible. We also assess how the complete distribution of trials
+    over time, including recovery events, can aid in the detectability of different
+    processes, with the end goal of proposing estimators that account for regions
+    of the dynamic range where inference is hindered.'
+- Session name: Contagion and spreading processes
+  Talk Order: '4'
+  Abstract ID: '111'
+  Presenter: Istvan Kiss
+  Talk title: Decoding how higher-order network interactions shape complex contagion
+    dynamics
+  Abstract: Complex contagion models that involve contagion along higher-order structures,
+    such assimplicial complexes and hypergraphs, yield new classes of mean-field models.
+    Interestingly,the differential equations arising from many such models often exhibit
+    a similar form, resultingin qualitatively comparable global bifurcation patterns.
+    Motivated by this observation, weinvestigate a generalized mean-field-type model
+    that provides a unified framework for analysinga range of different models. In
+    particular, we derive analytical conditions for the emergence ofdifferent bifurcation
+    regimes exhibited by three models of increasing complexity—ranging fromthree-
+    and four-body interactions to two connected populations with both pairwise and
+    three-body interactions. For the first two cases, we give a complete characterisation
+    of all possibleoutcomes, along with the corresponding conditions on network and
+    epidemic parameters. In thethird case, we demonstrate that multistability is possible
+    despite only three-body interactions.Our results reveal that single population
+    models with three-body interactions can only exhibitsimple transcritical transitions
+    or bistability, whereas with four-body interactions multistabilitywith two distinct
+    endemic steady states is possible. Surprisingly, the two-population modelexhibits
+    multistability via symmetry breaking despite three-body interactions only. Our
+    worksheds light on the relationship between equation structure and model behaviour
+    and makes thefirst step towards elucidating mechanisms by which different system
+    behaviours arise, and hownetwork and dynamic properties facilitate or hinder outcomes.
+- Session name: Contagion and spreading processes
+  Talk Order: '5'
+  Abstract ID: '279'
+  Presenter: Takayuki Hiraoka
+  Talk title: Disentangling epidemics and percolation
+  Abstract: The susceptible-infectious-recovered (SIR) epidemic model and the bond
+    percolation model are often treated as equivalent. However, this assumption is
+    justified under certain conditions on transmission and recovery dynamics that
+    are not necessarily realistic. In the general case, where recovery time can take
+    multiple values, the isomorphism breaks down due to the correlated nature of epidemic
+    propagation. For locally tree-like networks, the bond percolation scheme can still
+    be used to accurately compute the epidemic threshold and the final epidemic size
+    even though isomorphism cannot be assumed, but this agreement does not hold for
+    general networks containing short cycles.To clarify the differences between the
+    epidemic model and bond percolation, we construct a message passing formalism
+    for the two models on tree-like and loopy networks. We note that this study is
+    the first to formulate a message passing approach for the SIR epidemic model on
+    general networks. Our approach highlights the conditions under which the two models
+    are interchangeable and when one model can be a good approximation of the other.
+- Session name: Contagion and spreading processes
+  Talk Order: '6'
+  Abstract ID: '266'
+  Presenter: Jack Moore
+  Talk title: Network spreading from network dimension
+  Abstract: Many network spreading models are challenged by the global structural
+    correlations typical of real complex networks. We consider mitigating this challenge
+    via a network property ideally suited to capturing spreading. This is the network
+    correlation dimension, a property capturing how the number of reachable nodes
+    scales with network distance. Applying this approach to susceptible-infected-recovered
+    processes leads to a simple model which, for a range of synthetic and empirical
+    networks, can outperform models of substantially higher complexity in predicting
+    the early stages of spreading. The proposed dimensional spreading model also provides
+    a basic reproduction number offering new information about final system state.
+- Session name: Contagion and spreading processes
+  Talk Order: '7'
+  Abstract ID: '399'
+  Presenter: Marko Lalovic
+  Talk title: What can we learn from modelling complex contagion on higher-order networks
+    using birth-and-death processes?
+  Abstract: Recent advances in network science have highlighted the importance of
+    non-pairwise approaches to modelling complex systems, particularly in social and
+    biological networks where interactions often extend beyond dyadic relationships.
+    Despite valuable insights obtained via inclusion of higher-order mechanisms, theoretical
+    studies in this direction remain scarce.We extend classical birth-death processes
+    (BDPs) to include higher-order interactions for modelling complex contagion dynamics.
+    Our framework incorporates simplicial complexes, introducing an additional parameter
+    to capture multi-node interactions, such as 2-simplices, and is easily extendable
+    to higher-order simplicial complexes. The exact model for fully connected networks
+    gives rise to a Markov Chain which can be specified in terms of the forward Kolmogorov
+    equations.Building on Crawford's general BDP framework, we demonstrate that infection
+    rates, both pairwise and higher-order, can be reconstructed from simulation observations.
+    Furthermore, using simulations, we distinguish between infections via pairwise
+    and complex contagion routes and observe that often pairwise infections dominate
+    at the start of an outbreak. However, later in the epidemic, complex contagion
+    tends to dominate. Simulations reveal the significant roles of higher-order terms
+    in epidemic dynamics, offering new insights into complex contagion on networks.
+    Following on from the approach in the previous paper, we explore whether the rates
+    of complex contagion can be learnt on networks other than fully connected. Furthermore,
+    we explore how the properties of higher-order networks manifest in the shape of
+    these rates with the view of developing a classifier.
+- Session name: Contagion and spreading processes
+  Talk Order: '8'
+  Abstract ID: '391'
+  Presenter: Dominic Arthur
+  Talk title: Utility of Synthetic Epidemiological Data For Inferring Simulated SARS-CoV-2
+    Superspread- ing Event
+  Abstract: Superspreading events [1] have profoundly influenced the transmission
+    dynamics of infectious disease outbreaks, in-cluding during the COVID-19 pandemic
+    [2,3,4]. However, their sporadic nature makes prediction challenging. Theextensive
+    genomic data collected during the pandemic presents an opportunity for retrospective
+    analyses to identify thefactors driving these transmission patterns. This study
+    evaluates a model integrating pairwise genetic and temporal dis-tances to infer
+    transmission clusters associated with superspreading events via community detection
+    algorithms. Syntheticdatasets with varying levels of stochasticity were utilised
+    to assess the model’s performance in identifying superspreadingclusters and compare
+    it to a recently published regression-based approach [5]. The results demonstrate
+    that our proposedmodel has advantages in terms of simplicity, and under conditions
+    of increasing epidemiological uncertainty and poorerquality data. Challenges such
+    as low sampling density, high stochastic variability, and biased data can undermine
+    cluster-ing performance and hinder the accurate identification of superspreading
+    events. These findings underscore the criticalneed for comprehensive, high-resolution
+    genomic and epidemiological data to enhance clustering accuracy and capturethe
+    spatiotemporal transmission dynamics. We plan to apply this method with further
+    refinement to datasets obtainedfrom Public Health Scotland [6] to characterise
+    the spatiotemporal dynamics of superspreading and the factors drivingthis transmission
+    pattern.

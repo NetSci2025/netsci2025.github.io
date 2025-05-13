@@ -1,0 +1,139 @@
+session: Machine Learning 2
+slug: machine-learning-2
+talks:
+- Session name: Machine Learning 2
+  Talk Order: '1'
+  Abstract ID: '192'
+  Presenter: Ingo Scholtes
+  Talk title: Hierarchical Graph Pooling Based on the Map Equation
+  Abstract: We develop a hierarchical graph pooling objective for optimisation through
+    gradient descent based on the map equation, an information-theoretic objective
+    function for community detection. An issue with common graph pooling objectives
+    is that they repeatedly apply the same clustering approach, thereby neglecting
+    the interdependencies between different levels of clustering. In contrast, our
+    approach jointly considers the clusterings across different levels during the
+    pooling process. To the best of our knowledge, this is the first application of
+    the map equation to graph pooling and the first time that the map equation is
+    optimised across a set of graphs instead of for a single graph. Our work exemplifies
+    how applications in graph representation learning can benefit from building on
+    established and principled methods from network science.
+- Session name: Machine Learning 2
+  Talk Order: '2'
+  Abstract ID: '577'
+  Presenter: Vince Lyzinski
+  Talk title: Optimizing the Induced Correlation in Omnibus Joint Graph Embeddings
+  Abstract: 'Network embeddings provide low-dimensional vertex representations which
+    are amenable to classical inferential methods.  Embedding multiple networks is
+    often achieved either by jointly embedding the collection or by computing separate
+    embeddings and then computing pairwise statistics to account for any nonidentifiability
+    across the individual embeddings.  Joint embeddings have proven useful in many
+    applications, though bypassing the nonidentifiability issue often comes at the
+    expense of inducing artificial correlation across the embedded networks.  In the
+    Omnibus joint graph embedding framework, Pantazis, et al (JMLR, 2022) was the
+    first to precisely characterize this induced correlation as a function of the
+    method induced correlation (induced by the Omnibus construction) and the inherent
+    model correlation across networks.  Moreover, they showed that (ad hoc) carefully
+    constructed Omnibus embeddings could induce more suitable correlation for subsequent
+    inference goals.This work presents the first efforts to automate the Omnibus construction
+    in order to address two key issues in the Omnibus framework: the correlation-to-OMNI
+    and flat correlation problems. In the flat correlation problem, we seek the minimum
+    algorithm-induced flat correlation (i.e., the same across all graph pairs) produced
+    via an Omnibus embedding, as minimal flat correlation best preserves individual
+    graph structure in the embedding space.  Working in a subspace of the fully general
+    Omnibus matrices, we provide a lower bound for this flat correlation and prove
+    that the classical Omnibus construction induces the maximal flat correlation.  In
+    the correlation-to-OMNI problem,  we seek to construct the Omnibus embedding that
+    best preserves a given matrix of estimated pairwise graph correlations in the
+    embedding space.  As a solution, we present the corr2Omni algorithm and demonstrate
+    the increased effectiveness of corr2Omni versus the classical Omnibus construction
+    in simulated and real data settings.'
+- Session name: Machine Learning 2
+  Talk Order: '3'
+  Abstract ID: '531'
+  Presenter: Franziska Heeg
+  Talk title: Temporal Graph Isomorphism and Expressivity of Temporal GNNs
+  Abstract: Graph Neural Networks (GNNs) are a powerful approach to deep learning
+    on networks, but studies of their expressivity, often based on the Weisfeiler-Lehman
+    algorithm, reveal limitations in distinguishing non-isomorphic graphs. Time-aware
+    graph neural networks extend traditional GNNs by incorporating temporal information.
+    A recent development in this area is the De Bruijn graph neural network, which
+    captures time-respecting paths in temporal networks. It has proven effective for
+    tasks like centrality prediction, which demonstrates how properties of static
+    GNNs can be extended to temporal GNNs by additionally considering temporal patterns.Unfortunately,
+    the expressivity of temporal graph neural networks has not yet been investigated
+    within the temporal graph community.To this end, we explore different generalizations
+    of isomorphism definitions for temporal graphs.Specifically, for two graphs to
+    be considered isomorphic, we focus on the topology of time-respecting paths, regardless
+    of actual timestamps. That is, we say two temporal graphs are isomorphic if there
+    exists a bijective mapping of vertices that preserves the time-respecting paths
+    independent of the timestamps. While this helps to understand the concept of isomorphism
+    in temporal graphs, recent temporal GNNs like DBGNN only model time-respecting
+    paths up to length k.To understand how this approach affects expressivity we constrain
+    the definition of isomorphism, i.e. we consider two temporal graphs k-isomorphic
+    if the condition for the bijective mapping above holds for all time-respecting
+    paths of lengths smaller k.This is equivalent to the isomorphism of all De Bruijn
+    graphs up to order k under a bijective mapping between nodes in the two underlying
+    temporal graphs.These generalization of isomorphism to temporal graphs are the
+    basis to extend the Weisfeiler-Leman algorithm to temporal graphs, which can provide
+    insights into the expressivity of temporal graph neural networks.
+- Session name: Machine Learning 2
+  Talk Order: '4'
+  Abstract ID: '307'
+  Presenter: Maurizio Titz
+  Talk title: Predicting Dynamic Stability from Static Features in Power Grid Models
+    using Machine Learning
+  Abstract: The Kuramoto model is a foundational framework for understanding synchronization
+    in complex systems, including electric power grids, where maintaining generator
+    synchrony is essential for stable power transfer. The loss of synchrony can have
+    catastrophic consequences up to a complete blackout. The integration of renewable
+    energy sources introduces new challenges to grid stability, as fluctuating generation
+    and further transport lengths increase line loadings. Furthermore, they don't
+    contribute to the power systems intertia.The loss of synchrony can be caused by
+    the malfunction of one or more system components, with the transmission lines
+    representing the most significant one. Although these events can be simulated
+    in principle, it is not computationally feasible to do so for all possible contingencies
+    in real time. In this work [1] we propose a method for predicting dynamic stability
+    based on static graph-theoretic features, both established and novel [2]. These
+    metrics, which quantify properties such as line redundancy and centrality, are
+    then used to train machine learning models to evaluate desynchronization risks
+    in an efficient manner. Our approach thus reduces the reliance on resource-intensive
+    simulations while incorporating prior knowledge into computationally efficient
+    machine learning models, offering interpretable insights into grid vulnerability.We
+    demonstrate the effectiveness of our models on synthetic test grids, achieving
+    an average precision exceeding 0.996. Predictions generated by the machine learning
+    model consistently outperform those based on individual graph-theoretic properties
+    across all scenarios. Our results suggest that a small subset of network metrics
+    determine the robustness of the network and enable accurate, real-time risk assessments.
+    This combination of network science and machine learning presents a scalable solution
+    to enhance grid reliability amidst the challenges of a transitioning energy landscape.
+- Session name: Machine Learning 2
+  Talk Order: '5'
+  Abstract ID: '164'
+  Presenter: Moritz Laber
+  Talk title: Generalization and Efficiency of Graph Neural ODEs for Network Dynamical
+    Systems
+  Abstract: Complex systems from many domains, such as epidemiology or neuroscience,
+    can be modeled as a graph with node states evolving over time according to a system
+    of ordinary differential equations (ODE). Traditionally, these models are hand-crafted
+    by domain experts based on prior knowledge about the system. More recently machine
+    learning methods have been used to forecast complex dynamical systems based on
+    observational data, potentially trading interpretability for predictive performance.
+    Neural ODEs, machine learning models that extract an ODE's vector field from data,
+    promise to combine the best of both worlds, as they allow incorporating prior
+    knowledge into the architecture while learning details of a given system from
+    empirical time series. While neural ODEs have become an important tool for data-driven
+    modeling, questions of robustness, out-of-distribution generalization, and sample
+    efficiency have only recently moved into the spotlight. Here, we study how incorporating
+    prior knowledge about network dynamical systems into neural ODEs influences sample
+    efficiency, and generalization within and across random network ensembles, as
+    well as the correlation between network structure and performance. We compare
+    neural ODEs modeled directly after the Barzel-Barabási (BB) dynamical systems
+    to neural ODEs based on message-passing neural networks, and simple multi-layer
+    perceptrons (MLP). We find that architectures based on the BB family are capable
+    of generalizations to graphs from different network ensembles in terms of size
+    and degree heterogeneity. We also find that incorporating stronger inductive bias
+    in neural ODEs can improve sample efficiency compared to a naïve, uninformative
+    parametrization using MLPs.  Our results show how carefully designed inductive
+    biases can improve generalization and efficiency of data-driven methods for forecasting
+    dynamical systems, and motivate further research in improving machine learning
+    methods with network science insights.

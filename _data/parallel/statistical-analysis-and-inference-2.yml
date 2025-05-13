@@ -1,0 +1,176 @@
+session: Statistical analysis and inference 2
+slug: statistical-analysis-and-inference-2
+talks:
+- Session name: Statistical analysis and inference 2
+  Talk Order: '1'
+  Abstract ID: '448'
+  Presenter: Yuri Antonacci
+  Talk title: Partial Information Decomposition in Networks of Random Processes
+  Abstract: Understanding how information is distributed in network systems composed
+    by multiple interacting nodes is a crucial problem in many scientific fields.
+    Partial information decomposition (PID) constitutes a comprehensive framework
+    decomposing the mutual information (MI) that a target random variable shares with
+    a set of source variables into components highlighting how such an information
+    is distributed among the sources, i.e., the unique information exclusively available
+    from each source, the redundant information that can be obtained from at least
+    two different sources, and the synergistic information that is revealed only when
+    multiple sources are considered simultaneously. Since it has been specifically
+    defined for random variables, applying the PID to multivariate time series representing
+    realizations of a vector random process composed by several source processes and
+    a target process may be confounding. In this case, the PID would decompose the
+    information shared by the processes at the same time, thus implicitly disregarding
+    the temporal statistical structure of the multivariate process. To overcome this
+    issue, in this work we formalize a partial information rate decomposition (PIRD)
+    for networks of stationary random processes exhibiting nontrivial temporal correlations,
+    leveraging the use of entropy rates as basic elements of information decomposition.
+    We show that the presence of temporal correlations has a profound impact on the
+    multivariate information shared at lag zero by multiple random processes. Moreover,
+    exploiting the formalism that connects information rates with linear Gaussian
+    regression models and spectral quantities, we provide a joint time and frequency
+    domain formulation of the PIRD which highlights distinct high-order behaviors
+    of oscillatory rhythms.
+- Session name: Statistical analysis and inference 2
+  Talk Order: '2'
+  Abstract ID: '121'
+  Presenter: Sebastian Morel-Balbi
+  Talk title: 'A Non-Parametric Bayesian Approach to Partial Rankings: Parsimonious
+    Inference in Sparse Data Regimes'
+  Abstract: Pairwise ranking models are widely used in domains such as sports analytics,
+    recommendation systems, and the study of social hierarchies to compare entities
+    and derive meaningful insights. Since the pairwise comparisons inherently involve
+    some degree of uncertainty due to randomness, noise, or incomplete information
+    in the observed outcomes, these models are generally formulated as probabilistic
+    models whose parameters can then be inferred given a dataset. However, in situations
+    with limited or incomplete data, it may be difficult to confidently distinguish
+    between players with similar performance. A shortcoming of many pairwise ranking
+    methods is that they do not inherently account for this sparsity in the data in
+    a nonparametric way, i.e., they do not automatically adjust the number of rankings
+    based on the amount of evidence available. We address this issue by introducing
+    a probabilistic generative model that intrinsically incorporates partial rankings
+    ---rankings where multiple nodes can have the same rank--- in its generative process.
+    This allows us to account for the uncertainty introduced by sparsity in the data
+    by grouping players into the same rank when the data does not provide enough evidence
+    to separate them. Our method is fully Bayesian and can, in principle, accommodate
+    any ranking method. We provide a fast nonparametric agglomerative algorithm to
+    infer the partial rankings, and by fitting our model to a wide range of synthetic
+    and real-world datasets, we find that it can often provide a more parsimonious
+    description of the data under sparse regimes. As a case study, we apply our method
+    to a faculty hiring network amongst Computer Science departments in US universities.
+    The picture that emerges is that of a well-separated hierarchy dominated by a
+    small group of elite universities with very little upward mobility across the
+    rankings.
+- Session name: Statistical analysis and inference 2
+  Talk Order: '3'
+  Abstract ID: '85'
+  Presenter: Seongmin Kim
+  Talk title: Inference accuracy of loopy belief propagation in Ising and percolation
+    models
+  Abstract: Belief propagation (BP) is a message passing algorithm widely employed
+    to solve inference problems in probabilistic graphical models such as percolation
+    models, Ising spin models, and Bayesian networks. While BP computes marginal probabilities
+    exactly on tree networks, it also provides good approximations in non-tree networks
+    containing cycles, contributing to its versatility. However, the accuracy of BP
+    in non-tree networks varies greatly depending on the network structure, and this
+    dependency has not yet been fully clarified.This research aims to investigate
+    the performance of BP in non-tree network structures, identifying key factors
+    that influence its accuracy. Using bond percolation and Ising model as examples,
+    we measure the errors of BP predictions by comparing them with Monte Carlo simulation
+    results in various real-world networks. We identify two major sources of error
+    in BP.One source of error is the finite size of the system, which becomes significant
+    in small networks. The conventional BP method exhibits sharp changes in the order
+    parameter so that it fails to capture the smooth transitions in small networks.
+    We demonstrate that a simple modification to the BP algorithm can significantly
+    reduce this finite-size error without compromising computational efficiency.The
+    other source of error arises from the discrepancy between the BP equation and
+    the actual non-tree structure. This is the error that remains even after reducing
+    the finite-size error using our modified BP. We show how the quality of BP's approximations
+    relates to different topological properties, such as degree distributions, clustering
+    coefficients, shortest path lengths, and non-backtracking matrix spectra.Our findings
+    provide insights into the relationship between the applicability of BP and the
+    network structures. This understanding may help develop more accurate and efficient
+    BP algorithms for various non-tree networks.
+- Session name: Statistical analysis and inference 2
+  Talk Order: '4'
+  Abstract ID: '264'
+  Presenter: Erik Weis
+  Talk title: Regionalization via nonparametric community detection in spatially embedded
+    networks
+  Abstract: A central question in the study of human mobility concerns how spatial
+    constraints shape individual and collective behavior. To this end, many macroscopic
+    modeling approaches highlight the role of distance, while microscopic models often
+    rely on individual characteristics of locations to predict mobility patterns.
+    A growing body of work also focuses on mesoscopic patterns, such as geographic/social
+    boundaries between regions or regions with disproportionately high visitation---phenomena
+    that often cannot be captured under standard micro/macroscopic modeling applications.
+    Although existing methods for studying mesoscopic structure in non-spatial data
+    have been used to study interregional mobility flows, these methods do not incorporate
+    the distance between locations, which is known to play an important role. Therefore,
+    we introduce an inferential technique for defining mesoscopic regions that directly
+    incorporates spatial patterns, based on the minimum description length (MDL) principle.
+    Our Bayesian generative model is a modification of the stochastic block model
+    (SBM). The standard SBM assumes a random network as a null model, which may be
+    a suboptimal choice for spatial data because the block structure will build regions
+    using purely spatial patterns. Instead, we build a notion of distance directly
+    into the SBM, allowing the model to disentangle regional effects from macroscopic
+    patterns. To do this, we use the distance between nodes in the planar adjacency
+    graph, formed by linking regions that share a border. We implement an MCMC sampling
+    algorithm that allows us to fit the model to data.We evaluate our method on synthetic
+    and empirical data. Then, we compare its output to that of other regionalization
+    methods in a number of synthetic and experimental settings. Our model can be used
+    as a principled way of defining regions based on human behavioral data, which
+    could be used for a number of downstream analysis tasks.
+- Session name: Statistical analysis and inference 2
+  Talk Order: '5'
+  Abstract ID: '180'
+  Presenter: Emma Crenshaw
+  Talk title: Latent Space Network Modeling with Covariate Selection
+  Abstract: 'Latent space (LS) modeling provides a framework for analyzing networks
+    in which nodes are positioned in LS, and the distance between nodes determines
+    their connection probability. This approach simplifies statistical modeling, ensuring
+    dyadic independence of edges conditional on node positions and capturing network
+    features such as clustering via the geometry of the LS. Node and edge covariates
+    are often incorporated to inform node positioning; however, assuming all preselected
+    covariates are informative is unrealistic. Including extraneous covariates can
+    induce bias while reducing estimate precision, particularly in sparse network
+    settings, where covariate information contributes a relatively larger portion
+    of the overall likelihood. Robust methods for covariate selection are thus critical.We
+    extend the framework by Zhang et al., which models the network and node covariates
+    jointly as a function of LS, with two contributions: incorporating a group lasso
+    procedure for covariate regression coefficients and integrating adaptive gradient
+    descent for efficient LS position estimation. These additions automate covariate
+    selection while improving computational efficiency.Through simulations, we compare
+    our enhanced method to the framework by Zhang et al. and a baseline model that
+    estimates LS positions using network data alone. Our method is comparable when
+    all covariates are informative and outperforms both other approaches as the number
+    of noninformative covariates increases. Importantly, this improvement in covariate
+    selection does not degrade the accuracy of network estimation.The proposed enhancements
+    provide an efficient and effective framework for incorporating covariate information
+    in network studies. By leveraging adaptive gradient descent and group lasso regularization,
+    our method improves model robustness and accuracy, particularly in the presence
+    of non-informative covariates, while maintaining the interpretability and flexibility
+    of LS models.'
+- Session name: Statistical analysis and inference 2
+  Talk Order: '6'
+  Abstract ID: '288'
+  Presenter: Tomas Scagliarini
+  Talk title: Assessing the interdependence of climate tipping elements
+  Abstract: The study of Earth’s dynamics poses significant challenges from methodological
+    and experimental viewpoints. Network science provides an ideal framework to gain
+    insights into the complexityof Earth’s climatology. However, usual approaches
+    do not properly address the uncertainty from observational data to infer the underlying
+    functional connectivity. Traditional methods, such asthresholding, often result
+    in significant information loss and the introduction of spurious connections.
+    Here, we employ a Bayesian approach to reconstruct the dynamics of a climatic
+    networkusing historical reanalysis data from 1970 and future climatic projections
+    until 2100. We utilize temperature and precipitation data, analyzing both historical
+    and projected CMIP6 data for lowand high emission scenarios.Our analysis reveals
+    that the network of structural connectivity has significantly changed in recentdecades
+    and will undergo abrupt shifts in the future in a scenario of high emissions.
+    We focus onthe interdependency among tipping points and find that the intensity
+    of their teleconnections isdecreasing over time compared to the 1970s. The role
+    of the Atlantic Meridional OverturningCirculation (AMOC) is crucial in contributing
+    to this effect, aligning with recent findings suggestingthat this region is on
+    a tipping course. These results are robust over past decades, with deviationsfrom
+    the baseline becoming more profound in future years under high-emission scenarios,
+    thus callingfor a global effort to mitigate the impact of human activities on
+    the environment.

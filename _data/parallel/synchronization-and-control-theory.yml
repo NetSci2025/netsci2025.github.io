@@ -1,0 +1,132 @@
+session: Synchronization and Control Theory
+slug: synchronization-and-control-theory
+talks:
+- Session name: Synchronization and Control Theory
+  Talk Order: '1'
+  Abstract ID: '375'
+  Presenter: Iva Bačić
+  Talk title: Synchronization by convex optimization
+  Abstract: Synchronization is relevant in a wide range of disciplines. This phenomenon
+    is commonly studied using the Kuramoto model, which describes the dynamics of
+    a system of coupled oscillators with varying natural frequencies and sinusoidal
+    coupling. In electric power systems, the synchronization of generators is essential
+    for ensuring a reliable supply of electricity. The generator's dynamics is described
+    by a second order Kuramoto model where the sinusoidal coupling term gives the
+    flow of real power across transmission lines. Stable operation requires that phases
+    are locked and phase differences across lines must be below a certain bound $\gamma$,
+    a condition referred to as phase cohesiveness. Hence, it is of utmost interest
+    to understand when a network supports a phase cohesive state and when it does
+    not.In this contribution we introduce a novel approach to the synchronization
+    and phase cohesiveness problem based on mapping the fixed point equations to a
+    convex optimization problem. This approach allows us to systematically compute
+    all synchronized states where the phase difference across an edge does not exceed
+    $\pi/2$, including exotic states with loop flows. Furthermore, our approach sheds
+    light onto the  commonly used ``DC'' approximation, where the sinusoidal coupling
+    function is linearized. We derive rigorous bounds on the error introduced by the
+    linear approximation, obtaining a region of trust for individual lines. Based
+    on these results, we find a rigorous sufficient condition on the existence of
+    phase cohesive states that holds regardless of the underlying network topology.
+    We demonstrate our results for an adapted Matpower 30-bus test case.
+- Session name: Synchronization and Control Theory
+  Talk Order: '2'
+  Abstract ID: '222'
+  Presenter: Fabrizio De Vico Fallani
+  Talk title: Low-dimensional network controllability
+  Abstract: Identifying the driver nodes of a network has crucial implications in
+    complex systems from unveiling causal interactions to informing effective intervention
+    strategies. Despite recent advances in network control theory, results remain
+    inaccurate as the number of drivers becomes too small compared to the network
+    size, thus limiting the concrete usability in many real-life applications. To
+    overcome this issue, we introduced a framework that integrates principles from
+    spectral graph theory and output controllability to project the network state
+    into a smaller topological space formed by the Laplacian network structure. Through
+    extensive simulations on synthetic and real networks, we showed that reducing
+    the dimension of the original network state to a lower number of projected components
+    improves the control accuracy, here measured as the capacity of the driver nodes
+    to effectively steer the system towards desired target configurations. Taken together,
+    our results offer a theoretically-grounded solution to effectively translate network
+    controllability into concrete applications.
+- Session name: Synchronization and Control Theory
+  Talk Order: '3'
+  Abstract ID: '140'
+  Presenter: Dohyun Kim
+  Talk title: Critical threshold for synchronizability of high-dimensional Kuramoto
+    oscillators under higher-order interactions
+  Abstract: Collective synchronization of the Kuramoto model has been extensively
+    studied in diverse scientific disciplines, and since then, it has been generalized
+    in various perspectives.  As the Kuramoto model itself is defined on the unit
+    circle as a one-dimensional object, it however would not be suitable to model  high-dimensional
+    behaviors appropriately. Moreover, another limitation is that it is restricted
+    to two-body interactions. In this presentation based on [1], we focus on the high-dimensional
+    Kuramoto model particularly together with three-body interactions. For this model,  {we
+    find a critical threshold for complete synchronizability  in terms of interaction
+    strengths. Precisely, by denoting $\kappa_1$ and $\kappa_2$ for two- and three-body
+    interaction strengths, respectively, we show that if $\kappa_1+\kappa_2>0$, then
+    complete synchronization can emerge, whereas if $\kappa_1+\kappa_2<0$, then complete
+    synchronization cannot occur. For the critical case $\kappa_1+\kappa_2=0$,} we
+    show that the emergence of complete synchronization crucially depends on the sign
+    of  $\kappa_1$ and particularly that critical slowing down is observed at critical
+    transition. It should be mentioned that the  line $\kappa_1+\kappa_2=0$ was mentioned
+    in [2] where the readers can easily notice that the line seems critical. Our theoretical
+    results are supplemented by numerical experiments which also provide qualitative
+    insight not captured in the theoretical analysis.
+- Session name: Synchronization and Control Theory
+  Talk Order: '4'
+  Abstract ID: '116'
+  Presenter: Joseph Lizier
+  Talk title: Analytic relationship of relative synchronizability to network structure
+    and motifs
+  Abstract: 'We recently presented (doi:10.1073/pnas.2303332120) an analytic technique
+    to directly measure the relative synchronizability of noise-driven time-series
+    processes on networks, as a function of the underlying directed network structure.
+    We consider both continuous-time and discrete-time linear dynamics on networks,
+    which can represent linearization around an attractor for non-linear dynamics
+    such as the Kuramoto model. These are a common starting point, leading to well-known
+    bounds on eigenvalues for whether a given network structure will synchronise or
+    not.Going beyond "sync-or-not", our new approach is able to fully and generally
+    relate the structure of a network to how well it will synchronize. We quantify
+    the quality of synchronization in terms of total expected deviation from synchronization
+    in response to a single perturbation, or equivalently steady-state divergence
+    from synchronization (or variance across nodes) under driving noise. Our approach
+    represents a substantial advance over existing methods: we handle directed, weighted
+    connections, and non-diagonalizable networks.More importantly, our approach can
+    be expanded to fully interpret the complete impact of local network structure
+    on whole of network synchronizability. Our results show that the deviation from
+    synchronization is fully determined by the proportion of paired walks (or process
+    motifs) on the network which converge rather than diverge: the more convergent
+    paired walks, the worse the quality of synchronization. A simple corollary is
+    that more clustered structure, which induces more convergent walks, leads to deviations
+    away from synchronization. This explains many known results, for example that
+    regular and small-world networks exhibit worse quality synchronization than random
+    networks. Our results also reveal subtle differences in the relevant walks involved
+    in determining deviation from synchronization in discrete-time versus continuous-time
+    dynamics.'
+- Session name: Synchronization and Control Theory
+  Talk Order: '5'
+  Abstract ID: '306'
+  Presenter: Jose Nacher
+  Talk title: Efficient Identification of Critical Control Nodes in Probabilistic
+    Directed Networks and Their Associations with Disease Genes
+  Abstract: Network controllability integrates classical control theory with structural
+    network insights from large-scale biological systems, such as intracellular molecular
+    and brain neuronal networks[1-3]. While the set of minimum driver nodes is non-unique,
+    critical nodes, those present in every solution, are crucial for network control.
+    A key challenge in network control is dealing with edge failures and uncertainties
+    in molecular interactions, especially in directed probabilistic networks [4].
+    To address this, we introduce a probabilistic control framework based on the minimum
+    dominating set (MDS), which incorporates the probabilistic nature of directed
+    molecular interactions to identify critical control nodes. Our algorithm, enhanced
+    by novel mathematical propositions, offers efficient identification of critical
+    nodes in large probabilistic networks [5]. As shown in Figure 1ab, the human intracellular
+    signal transduction network is represented with links having varying failure probabilities.
+    To efficiently identify control categories, we use a preprocessing step based
+    on four mathematical propositions that capture a large fraction of control nodes
+    (Fig. 1c). The remaining nodes are identified using an integer linear programming
+    (ILP)-based algorithm (Fig. 1d). Our analysis shows that a small fraction of nodes
+    are classified as critical node  (Fig. 1e). Further exhaustive analysis of multiple
+    diseases reveals that critical control nodes are associated with key biological
+    features and perturbed gene sets, including SARS-CoV-2 targets, Type 1 Diabetes
+    Mellitus (Fig. 1f), and rare diseases like cytokine receptor deficiency. This
+    methodology can be applied to study biological systems where directed edges are
+    probabilistic, whether in natural systems or those modeled with high uncertainties
+    in silico.

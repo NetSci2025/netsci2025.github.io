@@ -1,0 +1,98 @@
+session: Dynamics 3
+slug: dynamics-3
+talks:
+- Session name: Dynamics 3
+  Talk Order: '1'
+  Abstract ID: '12'
+  Presenter: Yu Tian
+  Talk title: Matrix-weighted networks for modeling multidimensional dynamics
+  Abstract: 'Networks are powerful tools for modeling interactions in complex systems.
+    While traditional networks use scalar edge weights, many real-world systems involve
+    multidimensional interactions.For example, in social networks, individuals often
+    have multiple interconnected opinions that can affect different opinions of other
+    individuals, which can be better characterized by matrices.We propose a novel,
+    general framework for modeling such multidimensional interacting dynamics: matrix-weighted
+    networks (MWNs). We present the mathematical foundations of MWNs and examine consensus
+    dynamics and random walks within this context. Our results reveal that the coherence
+    of MWNs gives rise to non-trivial steady states that generalize the notions of
+    communities and structural balance in traditional networks.'
+- Session name: Dynamics 3
+  Talk Order: '2'
+  Abstract ID: '293'
+  Presenter: Pietro Traversa
+  Talk title: Rumor propagation on hypergraphs
+  Abstract: While much of research done on rumor and information propagation focuses
+    on settings which are adequately described by traditional dyadic networks, namely
+    micro-blogging social media, an increasing amount of communication in populous
+    countries such as Brazil, India and Indonesia is exchanged via messenger mobile
+    apps (such as Whatsapp and Telegram), which elude the simple network description
+    since messages travel from group to group.To address this gap, we propose a rumor
+    propagation model on hypergraphs suited to higher-order dynamics. Our model has
+    three possible node states, ignorant (X), spreader (Y) and stifler (Z). An ignorant
+    node becomes a spreader (contagion) with rate λ once one of its groups reached
+    a critical mass of spreaders (defined with a threshold θ_λ), a mechanism  introduced
+    before in related work. However, here we also keep track of how many groups reached
+    the critical mass thus becoming active. Then, a spreader becomes a stifler (annihilation)
+    with rate α once enough of their groups are active, which is controlled with a
+    threshold θ_α.We conduct computational experiments to investigate the parameter
+    space of the model and find that it reveals a rich variety of behaviors, with
+    regions in the parameter space capable of exhibiting both spontaneous recovery
+    (where the absorbing time τ decays exponentially) and group-mediated recovery
+    (τ decays as a power-law of the contagion rate λ), depending on each node hyperdegree.
+    The latter is seen on typical rumor propagation dynamics in the literature.Furthermore,
+    we extend the study of the mechanisms proposed in our model by looking into two
+    empirical datasets (Telegram, email-Eu). Considering aggregated statistics of
+    interevent time and duration of information cascades, we compare simulations of
+    our model on the empirical hypergraphs with the statistics from timestamps in
+    the datasets and show that the parametric space is capable of capturing some of
+    the temporal dynamics in the real-world systems.
+- Session name: Dynamics 3
+  Talk Order: '3'
+  Abstract ID: '218'
+  Talk title: Co-evolving Networks for Opinion and Social Dynamics in Agent-Based
+    Models
+  Abstract: Digital media has fundamentally transformed social interactions and reshaped
+    the ways in which individual opinions influence and are influenced by these interactions
+    [2]. While many studies explore how opinions influence social ties, existing models
+    mostly fail to include the  interplay between opinion and social dynamics. We
+    introduce a novel stochastic agent-based model (ABM) [1] that captures this co-evolutionary
+    process. Our model considers agents moving in a social space influenced by both
+    positions and opinions of other agents. Agents with similar opinions of the same
+    stance exhibit social closeness, while opinion dissimilarity reinforces social
+    distancing between agents. Opinion dynamics is driven by agents’ spatial proximity
+    and their opinion similarity. By analyzing the underlying social and opinion temporal
+    interaction networks, we explore the emergence of phenomena like echo chambers
+    and opinion consensus [3]. We apply our model to  General Social Survey Data (GSS)
+    [4],  demonstrating its ability to capture the co-evolution of political identity
+    and individual opinions regarding governmental issues, see Figure. Our findings
+    highlight the crucial role of this interplay in shaping social structures and
+    collective outcomes.
+- Session name: Dynamics 3
+  Talk Order: '4'
+  Abstract ID: '492'
+  Presenter: Erica Cau
+  Talk title: Modeling opinion dynamics of LLM populations
+  Abstract: As inherently social beings, humans possess the ability to form opinions
+    based on their beliefs and communicate them with others. Opinion evolution in
+    recent decades has been studied in the field of computational social sciences
+    by creating agent-based models (ABMs) interacting and changing opinions according
+    to different criteria. Despite the wide range of insights obtained, these models
+    still suffer from limitations inherent to the mathematical approach, while recent
+    approaches have included Large Language Models (LLMs) to overcome these issues.
+    This preliminary work proposes a framework for allowing complex simulations with
+    LLM agents. The framework builds upon ABMs, where a network connects agents interacting
+    through multiple rounds of discussion. Each agent holds an opinion on a given
+    input statement, quantified on a Likert scale ranging from 0 (strongly disagree)
+    to 6 (strongly agree). Agents engaging in a discussion can be randomly chosen
+    or decided according to an opinion dynamics algorithm. First tests with the framework
+    were conducted in a mean-field scenario with 140 agents having different starting
+    opinion distributions. Experiments leveraged Mistral-7B and Llama3 to simulate
+    discussions on the Theseus’ Ship paradox, a thought experiment that forced agents
+    into well-reasoned discussions, reducing the LLMs bias toward scientific truth.
+    Preliminary results confirm the bias toward approval and excessive politeness
+    by Mistral agents. On the other hand, Llama agents demonstrated instead to accept
+    any opinion, with differences related to the scenario. Especially with a majority
+    of negative opinions, agents tend to be more biased toward the negative side without
+    reaching a positive stance. Moreover, Llama agents were mostly persuaded by fallacious
+    statements (79% of cases), particularly in a polarized context.
+

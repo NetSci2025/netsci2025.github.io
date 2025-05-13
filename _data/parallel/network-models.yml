@@ -1,0 +1,127 @@
+session: Network models
+slug: network-models
+talks:
+- Session name: Network models
+  Talk Order: '1'
+  Abstract ID: '402'
+  Presenter: Maxime Lucas
+  Talk title: Functional reducibility of higher-order networks
+  Abstract: '(Full abstract in PDF) Higher-order networks encode more information
+    than pairwise interactions: for example, some metabolic reactions can only take
+    place if three or more reactants are present, but this information would not be
+    captured by pairwise interactions.However, this modeling flexibility comes at
+    a cost: new data needs to be adequately recorded, and new analytical andcomputational
+    tools need to be developed. Moreover, the complexity and computational cost of
+    these tools increaseexponentially as larger group interactions are considered.
+    It is therefore crucial to understand under which conditionshigher-order representations
+    need to be favored over classical pairwise ones.Here [2], we propose a principled
+    approach to optimally compress systems with higher-order interactions—accounting
+    for the complexity of the data and the complexity of the model. Specifically,
+    we determine an optimal order of interactions up to which interactions need be
+    considered to obtain a functionally optimal representation of the system—larger
+    orders can be safely discarded.Formally, we do so by generalizing the concept
+    of network density matrix [3] to account for higher-order diffusivedynamics with
+    the multiorder Laplacian [4] and calculate a (modified) message length corresponding
+    to each order.By minimizing this message length, in the spirit of the original
+    minimum message length principle, we find the optimalcompression of the data.
+    We refer to this procedure as functional reduction. A higher-order network is
+    fully reducible—to a pairwise network—if the optimal order is 1, while its reducibility
+    decreases for increasing optimal orders. We demonstrate the validity of our method
+    by performing an extensive analysis of synthetic networks and investigate the
+    functional reducibility of a broad spectrum of real-world higher-order systems.'
+- Session name: Network models
+  Talk Order: '2'
+  Abstract ID: '405'
+  Presenter: Marcos Oliveira
+  Talk title: Stronger together? The homophily trap in networks
+  Abstract: 'While homophily---the tendency to link with similar others---may nurture
+    a sense of belonging and shared values, it can also hinder diversity and widen
+    inequalities. Here, we unravel this trade-off analytically, revealing homophily
+    traps for minority groups: scenarios where increased homophilic interaction among
+    minorities negatively affects their structural opportunities within a network.
+    We demonstrate that homophily traps arise when minority size falls below 25% of
+    a network, at which point homophily comes at the expense of lower structural visibility
+    for the minority group. Our work reveals that social groups require a critical
+    size to benefit from homophily without incurring structural costs, providing insights
+    into core processes underlying the emergence of group inequality in networks.'
+- Session name: Network models
+  Talk Order: '3'
+  Abstract ID: '24'
+  Presenter: Thao Le
+  Talk title: Community Structure in Markov Influence Graphs with Heterogeneous Holding
+    Times
+  Abstract: Uncovering the community structure within complex networks is key to understanding
+    their functional units, dynamics, and organizational patterns. However, popular
+    community detection approaches like modularity optimization are NP-hard and sensitive
+    to initial conditions. The KDA, based on the Markov Influence Graph (MIG) framework,
+    offers a deterministic, polynomial-time solution. Currently, both the KDA algorithm
+    and the fundamental analysis of MIGs rely on long-run characteristics of random
+    walkers in discrete time, such that each random walker spends an equal amount
+    of time at each node. In this paper, we extend the model to a continuous time
+    model by allowing for the random walker to spend heterogeneous times at nodes.
+    For example, in a social network, each agent (node) may take varying amounts of
+    time to pass on or process a piece of information (i.e., the random walker), meaning
+    the walker can spend different time durations at different nodes. Through both
+    simulation and empirical applications, we demonstrate that incorporating a time
+    dimension significantly impacts the community structure of a network. Our algorithm
+    offers wide-ranging applications, from social sciences, economics, and finance
+    to the natural sciences, providing a new lens for exploring complex systems.
+- Session name: Network models
+  Talk Order: '4'
+  Abstract ID: '135'
+  Presenter: Jun Sun
+  Talk title: Can driving mechanisms of contact duration distributions be distinguished?
+  Abstract: 'Human contact networks such as face-to-face interaction, email exchange,
+    and phone communication often display power-law contact duration distributions
+    with potential cutoffs. One class of models associate each contact with a time-independent
+    persistent probability η, leading to an exponentially decaying probability distribution
+    for individual contact durations with a given η. The observed long tail in the
+    marginal distribution is an aggregate effect of the contact persistence distribution
+    ρ(η), which may arise from various factors. Another class of models accounts for
+    self-reinforcement of agents, i.e., “the longer an agent interacts with a group,
+    the less likely it is to leave”. In these models, the contact persistence probability
+    η(t) is a function of the time t, and an increasing η(t) leads to a contact duration
+    distribution that intrinsically decays slower than exponentially. The two classes
+    of models represent two different generative mechanisms: (I) aggregate effect
+    of time homogeneous processes, versus (II) intrinsic time-heterogeneous processes.In
+    this study, we analytically discuss the two model classes and reveal their mathematical
+    relationship. Moreover, we aim to examine whether it is possible to empirically
+    distinguish which mechanism is truly at work, when both mechanisms can produce
+    the same observed contact duration data. This task is non-trivial because it is
+    impossible to distinguish the two mechanisms by controlling the time t and observing
+    the conditional persistence probability. To this end, we analyse two datasets
+    of human-LLM (Large Language Model) conversations where the content of multi-turn
+    interactions between humans and LLMs is recorded, as well as four human face-to-face
+    interaction networks. The survival modeling framework will be used in an attempt
+    to distinguish between the two mechanisms. To this end, Bayesian inference will
+    be used, as it allows for the quantification of evidence for or against the two
+    competing mechanisms.'
+- Session name: Network models
+  Talk Order: '5'
+  Abstract ID: '158'
+  Talk title: Vector-borne multiscale models encompassing mobility and climate features
+  Abstract: 'Due to both international trade and travels as well as climate change,
+    temperate areas in the Americas and in themediterranean basin are now at risk
+    of future significant and recurrent vector-borne epidemics. Meanwhile, mathe-matical
+    modeling of vector-borne diseases progressively acknowledged the interplay between
+    epidemics and human mobility or between epidemics and climate on spatially distributed
+    models due to ever-growing data availability. However, vector-borne disease models
+    encompassing both climate dependence and multi-scale mobility are still missing
+    to accurately forecast vector-borne epidemics in temperate areas. Here we introduce
+    and compare two multiscale reaction-diffusion metapopulation models based on ordinary
+    differential equations which differ in the modeling of human mobility: one integrating
+    it into the force of infection, the other using a diffusion pattern. Both models
+    encompass a tunable time-scale separation between human mobility and the epidemics,
+    short-range vector mobility, human-mediated vector mobility (e.g. vectors in cars),
+    long-range human mobility due to airline traffic and climate dependency in the
+    demographic and epidemiological parameters. Through exhaustive computational analysis,
+    we assess the impact of mobility features on the emergence of epidemics in the
+    two models on synthetic and real-world networks. We show that systems below the
+    epidemics threshold can undergo significant epidemics due to mobility and that
+    the modeling choice of the latter has a dramatic impact on the emergence and magnitude
+    of the epidemics across spatial and temporal scales. We explain analytically the
+    behavior of the force of infection model using perturbation analysis and discuss
+    the comparative relevance of both models. Then, to study the emergence of those
+    disease in temperate areas we will establish risk maps for dengue epidemics in
+    Italy according to several climate change scenarios, based on demographic, mobility
+    and epidemiological data.'

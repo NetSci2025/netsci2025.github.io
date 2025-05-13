@@ -1,0 +1,110 @@
+session: Multilayer networks
+slug: multilayer-networks
+talks:
+- Session name: Multilayer networks
+  Talk Order: '1'
+  Abstract ID: '615'
+  Presenter: Abbas K. Rizi
+  Talk title: Homophily Within and Across Groups
+  Abstract: Traditional social network analysis often reduces homophily—the tendency
+    of similar individuals to connect—to a single parameter, neglecting nuanced biases
+    within and across groups. We propose an exponential family model that incorporates
+    both local homophily (strong ties within cliques) and global homophily (weaker
+    ties across communities), using a maximum entropy approach to analyze their effects
+    on network dynamics under percolation. This framework decomposes homophily into
+    finer levels, revealing how these interactions shape the spread of information,
+    diseases, and innovation. Testing on diverse datasets, the model highlights how
+    varying homophily patterns influence percolation thresholds and the effectiveness
+    of interventions, offering valuable insights for public health strategies, social
+    media information flow, and targeted mitigation efforts.
+- Session name: Multilayer networks
+  Talk Order: '2'
+  Abstract ID: '145'
+  Presenter: Jean-François de Kemmeter
+  Talk title: Multigraph reconstruction via nonlinear random walks
+  Abstract: Network science provides a powerful framework for modeling complex systems,
+    where the intricate interplay between structure and dynamics often leads to the
+    emergence of complex behaviors such as synchronization and collective motion.
+    Random walks, as one of the most studied stochastic processes, play a central
+    role in exploring this interplay. However, traditional models often assume independent
+    random walkers, overlooking real-world constraints such as finite carrying capacities
+    at nodes. Addressing this limitation, recent studies introduced nonlinear diffusion
+    processes that account for node capacity limits, enabling the inference of network
+    structure through localized measurements and inverse problem-solving. In this
+    work, we extend these nonlinear diffusion models to multigraphs, where nodes are
+    connected by multiple types of links, each carrying distinct attributes. Examples
+    of such systems include air transport networks categorized by airlines or social
+    networks differentiated by interaction platforms. We show how the degree distribution
+    of an entire multigraph can be reconstructed by combining knowledge of one link
+    type with stationary density measurements from a single node. Through simulations
+    on diverse multigraph topologies, including Erdős-Rényi, Watts-Strogatz, and scale-free
+    networks, we evaluate the reconstruction accuracy and robustness of the proposed
+    approach. Our findings demonstrate the capability to accurately infer key structural
+    properties, such as degree distribution and moments, even under varying levels
+    of sparsity and topology. This study strengthens the connection between network
+    dynamics and topology, offering a novel framework for structural inference in
+    multigraphs with limited information.
+- Session name: Multilayer networks
+  Talk Order: '3'
+  Abstract ID: '560'
+  Presenter: Abby Leung
+  Talk title: Multilayer Network Clustering to Assess Epidemic Model Dependence
+  Abstract: Each year, the CDC hosts the FluSight Forecast Challenge, where over 40
+    teams contribute to the flu forecasts. To create an ensemble forecast, the CDC
+    takes the median of each quantile prediction across all models, assuming each
+    provides statistically independent information. However, this assumption may not
+    always hold, as models may share analytical frameworks, code, data, or calibrate
+    on the same target variables (e.g. flu season peaks). The focus is to isolate
+    sources of independent error and identify clusters of similar models to better
+    understand ensemble performance and limitations.Using methodologies from climate
+    forecasting, we first quantify the “effective number” of independent models by
+    isolating independent noise from predictions. Our findings reveal that the effective
+    number of models providing unique information is around 6—far fewer than the total
+    number of models—indicating significant redundancy in the FluSight ensemble. This
+    emphasizes a significant limitation in the current ensemble approach, where non-independent
+    contributions may inflate the perceived diversity of forecasts.To further explore
+    model dependencies, we apply a multilayer network clustering approach, combining
+    similarity measures and multilayer community detection to cluster models with
+    shared error patterns. Synthetic data experiments validate the pipeline’s robustness,
+    correctly identifying ground truth groupings with independent, group-specific,
+    and correlated noise. When applied to FluSight models, we observe temporal inconsistencies
+    in groupings, likely driven by updates to individual models throughout the flu
+    season.Our results highlight the need to address model interdependencies in epidemic
+    forecasting. By quantifying the effective number of independent models and providing
+    tools to isolate independent error, we offer a framework for improving ensemble
+    reliability. These insights are essential for enhancing forecast accuracy and
+    supporting public health decision-making.
+- Session name: Multilayer networks
+  Talk Order: '4'
+  Abstract ID: '187'
+  Presenter: Luis Rocha
+  Talk title: 'Multilayer network inference via redundancy removal: linking the exposome
+    to multiomics in human health'
+  Abstract: Please see Uploaded PDF.
+- Session name: Multilayer networks
+  Talk Order: '5'
+  Abstract ID: '263'
+  Talk title: Large-Scale and Multi-Layered Analysis of K-Beauty Patents Using LLMs
+  Abstract: 'In this study, we analyze 19,563 patent abstracts, extracting approximately
+    100,000 keywords with the objective of constructing a comprehensive keyword co-occurrence
+    network. The keywords were categorized into seven predefined tags: efficacy, mechanism,
+    ingredient/substance, natural, formulation/product, technique/manufacturing, and
+    characteristics. This enabled a detailed exploration of the technological domains
+    within K-Beauty.This study addresses the aforementioned limitations by employing
+    a multi-layer network analysis, a novel approach that integrates the seven defined
+    tags and thus represents a significant advancement in the field of cosmetic patents.
+    Centrality analysis is the foundation of our methodology, identifying influential
+    keywords that define key technological areas. The degree centrality metric identifies
+    common keywords such as ''conditioner'', ''toner'' and ''cream'' that represent
+    the formulation/product. Betweenness centrality identifies keywords such as ''anti-inflammatory'',
+    ''antioxidant'', ''anti-wrinkle'' and ''whitening'', which are related to efficacy.A
+    temporal analysis of the keyword network also reveals shifts in the focus of innovation,
+    such as the transition from "whitening" to "anti-aging" and the growth of natural
+    ingredients over time. The introduction of a multi-layered tagging framework to
+    large-scale patent analysis provides a unique perspective on the evolution of
+    the K-beauty technology landscape.The findings contribute to both the academic
+    understanding of network science applications and the practical realm of R\&D
+    planning, patent strategy, and technology forecasting. This research establishes
+    a new standard for the utilization of LLMs and multi-layer network analysis in
+    large-scale patent studies, exemplifying their efficacy in elucidating technological
+    trends and innovation pathways within the cosmetics industry.'

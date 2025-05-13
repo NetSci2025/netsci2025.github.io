@@ -1,0 +1,201 @@
+session: Social networks 2
+slug: social-networks-2
+talks:
+- Session name: Social networks 2
+  Talk Order: '2'
+  Abstract ID: '216'
+  Talk title: Social transmission along multiple pathways promotes information fidelity
+    and reduces divisiveness
+  Abstract: 'As people increasingly turn to online platforms for learning and information
+    exchange, understanding how information is transformed through repeated transmission
+    is essential for predicting collective outcomes and mitigating misinformation.
+    Research on social learning and collective cognition highlights that the validity
+    of information received by individuals is strongly influenced by the pathways
+    through which it travels. While stories passed through many individuals often
+    become distorted, information cross-checked against multiple references at various
+    stages tends to be more accurate.In a novel, large-scale preregistered behavioral
+    experiment, we demonstrate that the structural features of social networks significantly
+    impact the fidelity and divisiveness of transmitted information. Participants
+    (n=864) read and reproduced a seed text about the history and risks of antibiotics
+    under two experimental conditions: a single-pathway network, where information
+    flowed linearly, and a multiple-pathway network, where information was redundantly
+    transmitted through three pathways (Fig. 1A–B).Our findings show that even minimal
+    structural redundancy can enhance information fidelity and promote consensus in
+    the retelling of a scientific text. Specifically, transmission in multiple-pathway
+    networks (i) reduces information loss as texts propagate between participants
+    (Fig. 1C), and (ii) promotes consensus on information content among non-interacting
+    participants in independently tested networks (Fig. 1D).To further understand
+    these patterns, we developed a simple computational model grounded in prior research
+    on social learning. This model provides a mechanistic explanation of how redundancy
+    influences information transmission. Simulations using the model qualitatively
+    replicate the experimental results (Fig. 1D). Finally, exploratory analyses reveal
+    that redundancy amplifies the transmission of emotional content, particularly
+    fear-related information.'
+- Session name: Social networks 2
+  Talk Order: '3'
+  Abstract ID: '186'
+  Presenter: Henrique Ferraz de Arruda
+  Talk title: 'From Framework to Insights: The Role of Priority Users in Echo Chamber
+    Formation'
+  Abstract: We present a Python library for simulating an opinion model that abstracts
+    the communication dynamics within a social media platform called DOCES (Dynamical
+    Opinion Clusters Exploration Suite). Its core functions are implemented in CPython
+    to achieve C performance. In this model, agents have continuous opinions with
+    values between -1 and 1. The agents can share external content in the social network,
+    simulating real-world observations. In addition, they can re-post information
+    based on their feed. A social network's recommendation algorithm governs the reception
+    of content by peers. Agents then adjust their opinions based on the content they
+    receive. Disagreements in opinions can lead to changes in friendships. Each step
+    is governed by probabilistic filters that take user opinions into account. In
+    addition to its configurations, DOCES allows the measurement of several outputs
+    of the dynamics, including the resulting network structure and the opinions of
+    the users. We used DOCES to study the effects of changing the verification policy
+    on X, which is called X Premium. We set up DOCES to mimic the behavior of the
+    algorithm for verified users, henceforth called priority users. We adapted the
+    model so that priority users always have their posts delivered to their followers.
+    We found that the echo chambers weaken by increasing the number of priority users.
+    We also tested the possibility of extremists taking advantage of verified accounts.
+    We named them as ideologues. In this case, we set half to opinion -1 and the other
+    half to 1. We found that the priority accounts can significantly amplify the echo
+    chambers. We also varied the percentage of priority users and ideologues. As expected,
+    the echo chambers tend to weaken as the number of priority users increases. Surprisingly,
+    though, the echo chambers are amplified after sufficient ideologues are added,
+    showing that a few percent can make a difference.
+- Session name: Social networks 2
+  Talk Order: '4'
+  Abstract ID: '386'
+  Presenter: Ali Salloum
+  Talk title: 'Political Polarization Patterns on Bluesky: Understanding Political
+    Discussion in an Emerging Social Platform'
+  Abstract: 'Political polarization has become an increasingly concerning societal
+    phenomenon in recent years, with far-reachingimplications for democratic discourse,
+    policy making and social cohesion. As traditional public squares have given wayto
+    digital arenas, social media platforms have emerged as primary venues for political
+    debate and opinion formation.However, the impact of these digital spaces on polarization
+    dynamics remains a subject of ongoing research and debate.This raises fundamental
+    questions about the nature of online political discourse: Are all digital spaces
+    where politicaldiscussion takes place destined to become hierarchical, politically
+    divided, and develop echo chambers?While much attention has focused on major social
+    media platforms, new digital spaces are emerging that not onlyshow potential for
+    fostering less toxic environments but are also built on decentralized architecture.
+    This study contributesto the growing body of knowledge on social media polarization
+    by examining Bluesky, a relatively new platform. Ourresearch measures both structural
+    [1] and affective [2] polarization within the Bluesky ecosystem. We analyze three
+    keyaspects of each selected political communication network, which represents
+    a prominent topic of discussion within theplatform: group structure through stochastic
+    block models, issue-based polarization with the adaptive EI-index, and issuealignment
+    using normalized mutual information. Through this analysis, we address the following
+    questions: 1) To whatextent does polarization exist on Bluesky, and what distinct
+    polarized groups emerge? 2) What are the dominant topicsof discussion on Bluesky,
+    and which topics show the highest levels of polarization? 3) How do these patterns
+    compare topreviously observed polarization on similar platforms?The full abstract
+    is in the attached PDF.'
+- Session name: Social networks 2
+  Talk Order: '5'
+  Abstract ID: '478'
+  Presenter: Edoardo Di Martino
+  Talk title: Characterizing the Fragmentation of the Social Media Ecosystem
+  Abstract: 'The entertainment-driven dynamics of social media platforms encourage
+    users to engage with like-minded individuals and consume content aligned with
+    their beliefs.These dynamics may amplify polarization by reinforcing shared perspectives
+    and reducing exposure to diverse viewpoints.Simultaneously, users migrate from
+    one platform to another, either forced by moderation policies, such as de-platforming,
+    or spontaneously seeking environments more aligned with their preferences. These
+    migrations foster the specialization and differentiation of the social media ecosystem,
+    with platforms increasingly organized around specific user communities and shared
+    content preferences. This shift marks an evolution from echo chambers enclosed
+    within platforms to "echo platforms", i.e., entire platforms functioning as ideologically
+    homogeneous niches. This study introduces an operational framework to systematically
+    analyze these dynamics, by examining three key dimensions: platform centrality
+    (central vs. peripheral), news consumption (reliable vs questionable), and user
+    base composition (uniform vs diverse). To this aim, we leverage a dataset of 126M
+    URLs posted by nearly 6M users on nine social media platforms, namely Facebook,
+    Reddit, Twitter (now X), YouTube, BitChute, Gab, Parler, Scored, and Voat. We
+    model traffic between the nine platforms, and between platform and external domains,
+    using weighted directed networks, and utilize apt null models to account for platforms''
+    size disparity when needed.  We find a clear separation between mainstream and
+    alt-tech platforms, with the second category being characterized by a peripheral
+    role in the social media ecosystem, a greater prevalence of unreliable content,
+    and a heightened ideological uniformity. These findings outline the main dimensions
+    defining the fragmentation and polarization of the social media ecosystem.'
+- Session name: Social networks 2
+  Talk Order: '6'
+  Abstract ID: '555'
+  Presenter: Petter Holme
+  Talk title: Humans and AI imagining social networks from a distance
+  Abstract: A tenet of the last century of social science is that the wiring of social
+    networks explains their function. It has been argued that people are not merely
+    passively affected by their positions in social networks—instead, we try to exploit
+    and improve our network positions. Artificially intelligent agents entering a
+    world of humans—either as commercial applications viaexperiments in the social
+    and behavioral sciences—need a sense of how humans operate theirsocial networks.
+    But do they have it yet? In this work, we challenge LLMs and humans to imagine
+    the social structures observed in three classical social network studies.Our findings
+    reveal that humans show a marginally better understanding of social networks than
+    the LLMs of 2024; at least in the third-person perspective that we investigate.
+    On the other hand, even humans perform poorly, like the AI putting too much emphasis
+    on external information (like corporate structure). Some interesting details are
+    emerging, like how poorly both humans and machines predict the average degree
+    and that humans don’t overestimate the managers asking their subordinates for
+    advice or calling them friends.The difficulty of this task raises questions about
+    AI's ability to replicate human social intuition. Could human sociality, deeply
+    ingrained through evolution, provide an edge over machines? Maybe human sociality,
+    and thus social network understanding, is hardcoded in our genes giving us an
+    edge over the machines. Still, the LLMs have presumably been trained on a vast
+    amount of literature about social networks, and could for that reason be expected
+    to perform as well as people.The main question remaining, and an avenue for future
+    research is if changing the perspective to the first person also changes the performance
+    of both humans and machines. We have high hopes for the future of AIs as a tool
+    to understand humans, but that will require us to know that AIs can predict and
+    respond to human behavior close to perfectly.
+- Session name: Social networks 2
+  Talk Order: '7'
+  Abstract ID: '516'
+  Presenter: Arttu Malkamäki
+  Talk title: 'Political alliances across relational contexts: a complex coalition
+    approach'
+  Abstract: Coalitions are social mechanisms for political actors to organise joint
+    action for mutual gain. As coalitions drive collective action across political
+    phenomena--including government formation, international relations, and public
+    policy--understanding how they emerge and contribute to diverse outcomes, such
+    as perceptions of political opponents, policy gridlocks, or even reshuffling of
+    the global order is core to the study of politics. However, exactly how to conceptualise
+    and operationalise coalitions has been challenging.Here, we introduce the complex
+    coalition approach. It emphasises the notion of the relatively local social ties
+    among political actors giving rise to political alliances. However, such emergent
+    coalitions unfold not only within, but across various relational contexts, which
+    provide actors with varying affordances to engage with each other and advance
+    their goals. To accommodate these ideas under a single, statistically rigorous,
+    and generalisable framework, we build on layered political networks and inferential
+    network partitioning techniques to model the structure and dynamics of coalitions
+    across spatially and temporally dependent relational contexts.To demonstrate the
+    application and merits of our approach, we study coalition emergence in Finnish
+    climate politics, focusing on formal collaboration, media discourse, and online
+    endorsement among a hundred political organisations, both before and after the
+    Paris Agreement. Specifically, we show how a 14-layer model that appropriately
+    accounts for cross-context dependencies yields a substantially smaller description
+    length (i.e., requires less information to describe the data) than a model that
+    considers each of these relational contexts in isolation, suggesting that cross-context
+    dependencies contribute substantial explanatory power to coalition emergence.
+- Session name: Social networks 2
+  Talk Order: '8'
+  Abstract ID: '302'
+  Presenter: Max Falkenberg
+  Talk title: Patterns of partisan toxicity and engagement reveal the common structure
+    of online political communication across countries
+  Abstract: Existing studies of political polarization are often limited to a single
+    country and one form of polarization, hindering a comprehensive understanding
+    of the phenomenon. Here we investigate patterns of polarization online across
+    nine countries (Canada, France, Germany, Italy, Poland, Spain, Turkey, UK, USA),
+    focusing on the structure of political interaction networks, the use of toxic
+    language targeting out-groups, and how these factors relate to user engagement.
+    First, we show that political interaction networks are structurally polarized
+    on Twitter (currently X; see Figure 1). Second, we reveal that out-group interactions,
+    defined by the network, are more toxic than in-group interactions, indicative
+    of affective polarization. Third, we show that out-group interactions receive
+    lower engagement than in-group interactions. Finally, we identify a common ally-enemy
+    structure in political interactions, show that political mentions are more toxic
+    than apolitical mentions, and highlight that interactions between politically
+    engaged accounts are limited and rarely reciprocated. These results hold across
+    countries and represent a step towards a stronger cross-country understanding
+    of polarization.

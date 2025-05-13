@@ -1,0 +1,218 @@
+session: Biological networks
+slug: biological-networks
+talks:
+- Session name: Biological networks
+  Talk Order: '1'
+  Abstract ID: '549'
+  Presenter: Buduka Ogonor
+  Talk title: Discovering causal gene subnetworks responsible for complex traits
+  Abstract: The relationship between genotype and phenotype remains an outstanding
+    question for organism-level traits because these traits are generally complex.
+    The challenge arises from complex traits being determined by a combination of
+    multiple genes (or loci), which leads to an explosion of possible genotype-phenotype
+    mappings. The primary techniques to resolve these mappings are genome/transcriptome-wide
+    association studies, which are limited by the fact that they do not account for
+    how molecular level changes propagate through regulatory networks, and their lack
+    of causal inference and statistical power. Here, we develop an approach that leverages
+    transcriptional data and takes into account the network-structured nature of responses
+    to experimental gene perturbations, and a generative machine learning model to
+    strengthen statistical power. Our implementation of the approach—dubbed TWAVE—includes
+    a variational autoencoder trained on human transcriptional data, which is incorporated
+    into an optimization framework. TWAVE generates trait expression profiles, which
+    we dimensionally reduce by identifying independently varying generalized pathways
+    (eigengenes). We then conduct constrained optimization to combinations of gene
+    perturbations (and thus causal gene sets) whose measured transcriptomic responses
+    best account for trait differences. These optimal combinations enable the construction
+    of co-perturbation networks, where two gene perturbations are connected if the
+    transcriptomic response to the combined perturbations tend to have more effect
+    on phenotype than either of the single gene perturbations. By considering several
+    complex traits, we show that the approach identifies causal genes that cannot
+    be detected by the primary existing techniques. We suggest that the approach be
+    used to design tailored experiments to identify multi-genic targets to address
+    complex diseases.
+- Session name: Biological networks
+  Talk Order: '2'
+  Abstract ID: '309'
+  Presenter: Aishwarya Iyer
+  Talk title: Exploring cis gene regulatory patterns in Huntington's Disease using
+    allele-specific expression.
+  Abstract: Huntington’s disease (HD) is a monogenic neurodegenerative disorder caused
+    by an expanded CAG repeat in the HTT gene, leading to cognitive decline, motor
+    dysfunction, and eventual dementia. Although disease etiology is consistent, variability
+    in age of onset and progression is influenced by CAG repeat length and transcriptional
+    regulation. This study explores cis-regulatory variation in HD using a network-based
+    stratification approach to allele-specific expression (ASE) data.We analyzed RNA-seq
+    data from postmortem prefrontal cortex (Brodmann area 9) samples of 20 HD patients
+    (GSE64810). Variant calling and read counting were performed using GATK, followed
+    by ASE analysis. Patients were stratified into clusters based on allelic imbalance
+    profiles using pyNBS, integrating functional gene relationships. Differential
+    ASE and gene expression analysis identified significantly dysregulated genes,
+    further analyzed through Gene Ontology enrichment and network extension using
+    DisGeNET and STRINGdb.Two distinct patient clusters emerged, highlighting transcriptional
+    heterogeneity in HD. Among 71 differentially expressed and imbalanced genes, six
+    (KRAS, CACNA1B, MBP, COX4I1, CAMK2G, DLL1) showed strong connections to HD-related
+    pathways and neurological disorders. Notably, MBP expression, associated with
+    early HD onset in mice, suggests its role as a modifier gene. These findings demonstrate
+    ASE's utility in uncovering transcriptional regulators underlying HD heterogeneity,
+    complementing traditional approaches.
+- Session name: Biological networks
+  Talk Order: '3'
+  Abstract ID: '73'
+  Presenter: Thomas Clegg
+  Talk title: Cross-feeding Creates Tipping Points in Microbiome Diversity
+  Abstract: How the extraordinary diversity of microbiomes emerges from the interactions
+    between individual populations is a important unanswered question in microbial
+    ecology. Key to this process are the cross-feeding networks that structure these
+    systems in which populations release metabolic by-products into the environment
+    for other members of the community to use. Understanding how cross-feeding contributes
+    to coexistence presents a major challenge due to the complex structure of cross-feeding
+    networks and the interdependencies they create between populations. In this work
+    we address this problem by using the tools of network science to develop and analyse
+    a structural model of microbial community cross-feeding (Fig. 1A). Our model represents
+    the community as a bipartite- or hypergraph in which consumers and resources are
+    linked by the consumption and secretion of metabolites. We consider feasible community
+    states by introducing simple rules that determine the presence of consumers and
+    resources. Using percolation theory and the generating function formalism we derive
+    expressions for the realised diversity of consumers and metabolites in cross-feeding
+    networks with arbitrary degree distributions. We apply our model to random networks
+    where we find tipping points at which community diversity abruptly changes in
+    response to changes in network structure (Fig 1B \& C). These points correspond
+    to discontinuous percolation transitions and occur due to the collapse and reassembly
+    of the active cross-feeding network. We also consider how robust these cross-feeding
+    networks are to attack, deriving expressions for the state of the community following
+    the removal of consumers and resources from the system.
+- Session name: Biological networks
+  Talk Order: '4'
+  Abstract ID: '541'
+  Presenter: Kevin Michalewicz
+  Talk title: The impact of mutations on protein multiscale structure through persistent
+    homology
+  Abstract: Protein function and structure are tightly linked. Proteins have a multiscale
+    structure characterised by complex interactions and substructures that unfold
+    across a wide range of spatial and temporal scales. The coupling across scales
+    means that local mutations can lead to global changes in structure and function.
+    Here, we present a computationally efficient framework that uses graph representations
+    of protein structures and integrates multiscale community detection, using Markov
+    Stability (MS), with topological data analysis (TDA), through the Multiscale Clustering
+    Filtration (MCF), to analyse the impact of mutations by measuring the changes
+    they induce in the full multiscale structure of proteins. Our MS+MCF workflow
+    is based on constructing atomistic energy-weighted graphs of proteins from their
+    3D structures. These graphs are built for the wildtype (WT) as well as for point
+    mutations generated using FoldX. We capture the robustness of partitions at a
+    given scale with the average Normalised Variation of Information (NVI) and the
+    level of hierarchy in the sequence of partitions through the persistent hierarchy.
+    We demonstrate the application of MS+MCF to the closed conformation of adenylate
+    kinase (AdK). We find that mutations known to disrupt protein dynamics and function
+    show significant deviations in NVI compared to the WT, whereas non-disruptive
+    mutations align closely with the WT. Furthermore, the analysis of the persistent
+    hierarchy shows that mutations with significant functional impact induce abrupt
+    jumps at specific characteristic scales. Analysing protein graphs with MS+MCF
+    enables us to detect the structural and dynamical impacts of mutations by measuring
+    the disruption in hierarchical domain organisation and higher-order interactions
+    that govern the multiscale architecture of the protein.
+- Session name: Biological networks
+  Talk Order: '5'
+  Abstract ID: '43'
+  Presenter: Marta Niedostatek
+  Talk title: Mining higher-order triadic interactions in gene-expression data
+  Abstract: Higher-order networks are attracting  large scientific interest in recent
+    years. However, a key challenge is to infer higher-order interactions from data.
+    Triadic interactions are a fundamental type of higher-order interactions that
+    occur when one node regulates the interaction between two other nodes. Triadic
+    interactions are known to be key in ecosystems, in neuronal networks, and in gene
+    regulation networks. However, information theory approaches to mine triadic interactions
+    are still lacking. In this work we explore the fundamental dynamical properties
+    of networks with triadic interactions between continuous variables.We formulate
+    a general model of networks with triadic interactions. Moreover  we propose an
+    information theory framework and an algorithm, validated on the triadic model,
+    that we call Triaction, that  is able to mine triadic interactions from data.This
+    algorithm is applied on synthetic data as well as Acute Myeloid Leukemia gene
+    expression data finding new candidates for triadic interactions as well as validating
+    already established biological results.In conclusion, our work proposes a new
+    information theoretic approach to mine triadic interactions. In the future, the
+    method could be applied to other types of data including structured missingness.
+- Session name: Biological networks
+  Talk Order: '6'
+  Abstract ID: '512'
+  Presenter: Marco Fele
+  Talk title: More dominant baboons have less and lower quality sleep
+  Abstract: The amount and quality of sleep individuals get can impact various aspects
+    of human and non-human animal health,ultimately affecting fitness. For wild animals
+    that sleep in groups, individuals may disturb one another, influencing sleepquality
+    and quantity [1, 2], but this aspect of social sleep has been understudied due
+    to methodological challenges. Bycombining longitudinal accelerometer data and
+    tools from network science, we investigate the social dimension of sleepin a wild
+    troop of baboons (Papio ursinus). We test the hypothesis that individual’s social
+    dominance can affect sleepopportunities by explaining sleep patterns as a function
+    of baboons’ hierarchical social structure. First, we show thatthe troop’s night-time
+    sleep (determined by 40Hz acceleration data) is highly synchronized. By modeling
+    sleep as aMarkov chain (Fig 1A), we show that similarly ranked baboons are more
+    synchronized (Fig 1B), and unexpectedly, moredominant baboons experience less
+    and lower-quality sleep. Next, we link night-time sleep dynamics to daytime spatialproximity
+    networks, which we use as proxy for social relationships. We propose that the
+    hierarchy effect is explained byhigher-ranked baboons resting closer to more group
+    members. This is further endorsed through the analysis of a crosscorrelationnetwork
+    (Fig 1C), where dominant individuals exert greater influence on each other’s night-time
+    behaviourcompared to lower-ranked individuals. Our study provides the first empirical
+    evidence for the impact of social hierarchieson sleep in a wild primate, suggesting
+    that dominance status may impose trade-offs between social rank and the qualityand
+    quantity of sleep.
+- Session name: Biological networks
+  Talk Order: '7'
+  Abstract ID: '46'
+  Presenter: Katy Borner
+  Talk title: 'Human Reference Atlas: Multiscale Networks and Knowledge Graphs'
+  Abstract: 'The HuBMAP Human Reference Atlas (HRA) effort [1-3] aims to develop a
+    common coordinate framework (CCF) for the healthy human body, see HRA Portal at
+    https://humanatlas.io. An international team of 1000+ organ experts (anatomists,
+    pathologist, surgeons, biomedical researchers) and ontologists across 20+ consortia
+    are authoring anatomical structures, cell types, and biomarkers (ASCT+B) tables
+    that capture partonomy and typology information of core entities in the human
+    body. The ASCT+B tables are used to revise and extend existing CCF-relevant ontologies.
+    In close collaboration with the National Institute of Allergy and Infectious Diseases
+    (NIAID), a 3D Reference Object Library was compiled (https://3d.nih.gov/collections/hra)
+    that provides semantically annotated 3D representations of major anatomical structures
+    (see samples in Fig. 1) captured in the ASCT+B tables. The HRA can be extended
+    and explored using several interactive user interfaces: The Registration User
+    Interface (RUI, https://apps.humanatlas.io/rui) supports tissue data registration
+    and annotation across 50+ 3D reference organs. The Exploration User Interface
+    (EUI, https://apps.humanatlas.io/eui) supports exploration of semantically and
+    spatially explicit data—from the whole body to the single cell level. The Cell
+    Distance Explorer (CDE, https://apps.humanatlas.io/cde) computes and visualizes
+    distance distributions between different cells, cell types, and anatomical structures
+    and cell types and morphological features. For an introduction to HuBMAP and HRA
+    goals, data, and code visit the Visible Human MOOC (VHMOOC, https://expand.iu.edu/browse/sice/cns/courses/hubmap-visible-human-mooc).
+    This talk details the multi-modal, multi-scale networks of the HRA, how HRA data
+    is published as an open knowledge graph [4] (https://humanatlas.io/api), and how
+    HuBMAP, SenNet, GTEx, and other tissue data is mapped to the HRA to harmonize
+    data at scale in support of precision health and medicine [3].'
+- Session name: Biological networks
+  Talk Order: '8'
+  Abstract ID: '423'
+  Presenter: Igor Branchi
+  Talk title: 'Measuring plasticity: a network-based approach to anticipate transitions
+    in mental health'
+  Abstract: The seminal works by Denny Borsboom on the network theory of psychopathology,
+    proposing to conceptualize mental disorders as networks of symptoms [1], have
+    been among the most innovative scientific ideas in the mental health field. Building
+    on this theoretical framework, the network theory of plasticity has been recently
+    introduced [2, 3]. This theory proposes the connectivity strength among the elements
+    of a system as a measure of system plasticity and thus of its ability to change
+    its outcome. In particular, the weaker the connectivity, the higher the plasticity
+    of the system. When conceptualizing an individual as a network of interconnected
+    symptoms, the individual’s plasticity -- and thus their ability to transition
+    from psychopathology to wellbeing -- is predicted to be inversely related to the
+    connectivity strength (i.e., the degree of positive or negative co-occurrence)
+    among the symptoms such as the nine standard symptoms for major depressive disorder
+    measured according to DSM-5. The validity of this operationalization has been
+    recently demonstrated. Findings revealed that the baseline connectivity strength
+    among symptoms inversely correlates with subsequent improvement over four weeks
+    (ρ = –0.88, P = 0.002) and is significantly weaker in responders than in non-responders
+    to treatment (P = 0.004) [4]. Furthermore, the operationalization of plasticity
+    significantly differentiated individuals based on their recovery timelines according
+    to the principle that higher plasticity (i.e., weaker connectivity) enables faster
+    transitions to wellbeing and vice versa [5]. Notably, these outcomes hold particular
+    significance for patients with a favorable quality of life, as high plasticity
+    facilitates mental state changes in response to contextual factors [2]. This framework
+    offers a novel mathematical tool to measure plasticity, likely generalizable across
+    levels of analysis and research fields.

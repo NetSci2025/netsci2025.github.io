@@ -1,0 +1,154 @@
+session: Network epidemics 2
+slug: network-epidemics-2
+talks:
+- Session name: Network epidemics 2
+  Talk Order: '1'
+  Abstract ID: '347'
+  Presenter: Anthony Wood
+  Talk title: Placement of monitoring sites on a wastewater network for effective
+    disease surveillance
+  Abstract: Wastewater-based epidemiology (WWBE) emerged as a method for monitoring
+    infectious diseases SARS-COV-2 during the COVID-19 pandemic [1]. One strength
+    of WWBE is that diseases can be monitored passively over entire populations, removing
+    demographic biases due to, for example, reporting behaviour, but introducing challenges
+    due to multiple sources of variation associated with signal detection. A key issue
+    is the intersection between two complex networks – mobility networks spreading
+    the disease, and the network of sewage pipes accumulating virus (Figure 1).  Here,
+    we develop an algorithm for choosing where to place a limited number of monitoring
+    sites, given the overall structure of the wastewater network and the distribution
+    of residents on that network, and test this method against a set of real wastewater
+    systems, where the aim is to either quickly detect a novel disease outbreak or
+    target containment measures, or both. We simulate disease surveillance in sewer
+    catchment areas containing up to half a million residents and compare it to (i)
+    COVID-19 case data distributions and (ii) simulations where infection is driven
+    by recorded mobility networks and spatial proximity. We quantify the tradeoffs
+    in spatial and temporal resolution associated with having only a limited sampling
+    capacity (e.g. is it better to test 2x per week in a single location, or 1x per
+    week at two?). We show that our placement of monitoring sites further "upstream"
+    substantially outperforms simple monitoring at the "sink" as well as random placement,
+    by more quickly and precisely detecting infected individuals which may otherwise
+    fall under the threshold for detection at the "sink" node. We then use a previous
+    approach [2] to quantify the sensitivity and specificity that our approach has
+    to detect incidence patterns as COVID-19 burdens rise and fall. [1] Fitzgerald
+    et al. https://doi.org/10.1021/acs.est.1c05029[2] Colman & Kao, ttps://doi.org/10.1101/2023.03.07.23286904
+- Session name: Network epidemics 2
+  Talk Order: '2'
+  Abstract ID: '392'
+  Presenter: Sámuel Gáspár Balogh
+  Talk title: Disease-induced immunization is efficient in dense geometric networks
+  Abstract: Herd immunity depends heavily on the structure of contact networks, and
+    also on the mechanism through which individuals have gained immunity. Extending
+    the work of Hiraoka et al. (2024), here we demonstrate that the average degree
+    in geometric networks plays a crucial role in the effectiveness of vaccine- and
+    disease-induced immunization strategies. Our results show that vaccine-induced
+    immunity is more effective in sparse, moderately degree-heterogeneous networks.
+    However, as the edge density increases, disease-induced immunity becomes more
+    advantageous - a switchover phenomenon absent in non-geometric network models.
+    In addition to the epidemiological implications, we also discuss the fundamental
+    properties of disease-induced immunization as a spatially-correlated node percolation
+    process, including the susceptibility, the degree distribution and the component
+    statistics, from a statistical physics perspective.
+- Session name: Network epidemics 2
+  Talk Order: '3'
+  Abstract ID: '329'
+  Presenter: Tommaso Bertola
+  Talk title: Critical behavior in multiscale epidemic models based on force of infection
+  Abstract: The spread of epidemics when coupled with human behavior dynamics presents
+    a challenge for accurate modeling and prediction.Leveraging on previous studies,
+    we construct an epidemiological model that simultaneously accounts for the age
+    structure of individuals, the heterogeneity of mobility, and the interplay between
+    the time scales of infection and mobility processes.Starting from a metapopulation
+    SIR model with reaction diffusion epidemic dynamic, we introduce an alternative
+    formulation based on the force of infection framework, showing how both methods
+    produce qualitatively comparable results and how the presence of heterogeneity
+    in mobility reduces the final fraction of infected subpopulations.Additionally,
+    the force of infection framework, capable of preserving the initial spatial distribution
+    of population, is used to forecast the number of seasonal influenza infections
+    in Italy.Overall, this work demonstrates how the impact of mobility varies depending
+    on the modeling of the spreading process and provides an independent estimate
+    for the Italian seasonalinfluenza forecasting service.
+- Session name: Network epidemics 2
+  Talk Order: '4'
+  Abstract ID: '53'
+  Presenter: Katharina Ledebur
+  Talk title: Optimal prevention strategies for chronic diseases in a compartmental
+    disease trajectory model
+  Abstract: In countries with growing elderly populations, multimorbidity poses a
+    significant healthcare challenge.The trajectories along which diseases accumulate
+    as patients age and how they can be targeted by prevention efforts are still not
+    fully understood. We propose a compartmental model, traditionally used in infectious
+    diseases, describing chronic disease trajectories across 132 distinct multimorbidity
+    patterns (compartments). Leveraging a comprehensive dataset from approximately
+    45 million hospital stays spanning 17 years in Austria, our compartmental disease
+    trajectory model (CDTM) forecasts changes in the incidence of 131 diagnostic groups
+    and their combinations until 2030, highlighting patterns involving hypertensive
+    diseases with cardiovascular diseases and metabolic disorders. We pinpoint specific
+    diagnoses with the greatest potential for preventive interventions to promote
+    healthy aging. According to our model, a reduction of new onsets by 5% of hypertensive
+    diseases (I10--I15) leads to a reduction in all-cause mortality over a period
+    of 15 years by 0.57 (0.06)% and for malignant neoplasms (C00--C97) mortality is
+    reduced by 0.57 (0.07)%.Furthermore, we use the model to assess the long-term
+    consequences of the Covid-19 pandemic on hospitalizations, revealing earlier and
+    more frequent hospitalizations across multiple diagnoses. Our fully data-driven
+    approach identifies leverage points for proactive preparation by physicians and
+    policymakers to reduce the overall disease burden in the population, emphasizing
+    a shift towards patient-centered care.
+- Session name: Network epidemics 2
+  Talk Order: '5'
+  Abstract ID: '75'
+  Presenter: Pavlos Alexandros Dimitriou
+  Talk title: 'Non-Markovian dynamics and basic reproduction number in COVID-19: evidence
+    from Cyprus contact tracing data'
+  Abstract: Using contact tracing data provided by the Cyprus Ministry of Health,
+    infection networks are constructed for the first four waves of the COVID-19 pandemic.
+    In these networks, nodes represent infected individuals, while links indicate
+    the direction of transmission between them. For each transmission chain, the distribution
+    of the hopcount of the infection path from the root node to all other nodes is
+    calculated, aggregating the data of all the trees of the same size N in each wave.
+    The COVID-infection process, which generates the observed infection trees, is
+    modeled as a homogeneous non-Markovian SI process on the complete graph KN with
+    N nodes, where the infection times T are Weibull distributed with shape parameter
+    α. The shape parameter α gives an indication of the deviation of the underlying
+    spreading process from a Markovian (α = 1) epidemic. The results comparing the
+    empirical hopcount distribution of infection trees computed from data, non-Markovian
+    SI simulations with Weibull infection times, and the approximated distribution
+    Pr[hN = k] suggest that the non-Markovian properties of the epidemic process can
+    be quantified using real-world infection trees. Nearly all α values are larger
+    than one, suggesting that real-world epidemics are very likely characterized by
+    non-exponential infection processes and therefore by non-Markovian dynamics. The
+    infection trees extracted from the data also allow to estimate the average number
+    of secondary infections caused by a primary case (basic reproduction number R0).
+    The distribution of the hopcount ratio r[k]/= /Pr[HN/=/k]/Pr[HN/=/k/−/1] gives
+    a more complete indication of the number of secondary infections compared to the
+    R0.The study shows that analyzing the infection trees from contact tracing data,
+    allows us to approximate the disease dynamics (via α) and quantify the strength
+    of the epidemic process (approximations of R0). This knowledge refines epidemic
+    spreading models and improves preparedness for future pandemics.
+- Session name: Network epidemics 2
+  Talk Order: '6'
+  Abstract ID: '385'
+  Presenter: Chris Banks
+  Talk title: Assessing the potential impact of environmental land management schemes
+    on emergent infectious disease risks
+  Abstract: In this paper, we develop a network model for disease transmission risk
+    between livestock and wild animals in Scotland, focusing on bovine tuberculosis
+    and wildlife reservoirs. The network of land parcels connecting livestock to wild
+    animals is crucial for inter-species infection problems and is influenced by land
+    use change.Governments provide financial incentives to encourage woodland plantation
+    to meet climate change and biodiversity targets. While these effects are largely
+    positive, woodland expansion could increase wildlife presence near farms, enhancing
+    the risk of disease transmission between wildlife and livestock.The network includes
+    economic, ecological, and epidemiological considerations. First, an economic model
+    predicts land use changes due to subsidies for woodland planting. Then the impact
+    of these changes on wild deer populations in new woodland areas is estimated.
+    The disease risk is then modelled by the proximity network of deer populations
+    and cattle holdings.With increased subsidies, deer populations become more numerous
+    and better connected to cattle holdings, increasing the risk of cross-species
+    infection. In South-West Scotland, with diverse farms and existing woodland, we
+    consider varying subsidy levels and new woodland scenarios. Although deer populations
+    increase incrementally, contact between deer and cattle areas rises by 26\% to
+    35\% compared to no subsidy.The model shows that increasing woodland subsidy,
+    despite its benefits, also increases inter-species connectivity and disease risk.
+    It provides a foundation for examining potential risk mitigation strategies, such
+    as targeting subsidies in low-risk areas or creating buffer zones between woodland
+    and agricultural holdings.

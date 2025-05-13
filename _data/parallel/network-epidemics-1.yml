@@ -1,0 +1,181 @@
+session: Network Epidemics 1
+slug: network-epidemics-1
+talks:
+- Session name: Network Epidemics 1
+  Talk Order: '1'
+  Abstract ID: '429'
+  Presenter: Anna Gamza
+  Talk title: Spatial aggregation areas for infectious contact network inferred from
+    pathogen sequence data
+  Abstract: As contact tracing is costly and usually provides subjective and fragmented
+    data, study of infectious contact networks is difficult, especially for systems
+    with complex transmission patterns. The genetic distance between pathogen sequence
+    data, is correlated to the proximity of contacts on a transmission tree and is
+    a direct insight into the contact patterns driving the spread of infection in
+    a community or ecosystem. As such genetic distance can be used to determine the
+    size of aggregation areas in spatial network by finding the best scales for aggregations
+    of variables.  The transmission dynamics of Highly Pathogenic Avian Influenza
+    (HPAI) is complex as it spans multiple bird species and production systems. To
+    quantify the scales of potentially infectious interactions we use the genetic
+    distances between HPAI H5N1 sequences in the 2020-2022 from Great Britain with
+    the set of other variables (i.e. number of cases, wild bird abundance and poultry
+    farms count) calculated over various geographical scales1. We demonstrate that
+    spatial scales of aggregation depend both on the variable and the time of analysis.
+    Variables that are directly describing HPAI outbreaks (number of wild and domestic
+    bird cases) have different scales of aggregation for the variable type and period
+    of analysis, while indirectly correlated, constant in time variables (wild bird
+    abundance and farm density) generally have the same scale for both analysed periods.
+    Our study shows that the interactions driving complex transmission systems are
+    variable, and separate spatial networks may need to be considered to represent
+    a range of epidemiological interactions. The network with time dynamic spatial
+    aggregation may be necessary for variables directly describing temporal changes
+    of outbreaks.1 Gamża, A., Lycett, S., Sanchez, A. & Kao, R. Using sequence data
+    to study spatial scales of interactions driving spread of Highly Pathogenic Avian
+    Influenza in Great Britain.arXiv preprint arXiv:2411.10424(2024)
+- Session name: Network Epidemics 1
+  Talk Order: '2'
+  Abstract ID: '281'
+  Presenter: Ka Yin Leung
+  Talk title: 'Epidemic network model combining sexual and household transmissions:
+    application to the mpox outbreak in the Democratic Republic of Congo'
+  Abstract: A new strain of the mpox virus (clade Ib) emerged in the eastern Democratic
+    Republic of Congo (DRC) in September 2023, spreading rapidly to neighboring countries.
+    While the transmission is primarily driven by sexual contacts, the prolonged reporting
+    of mpox cases among young children suggests a significant role of household contacts.
+    This outbreak in the DRC has driven the development of a network epidemic model
+    that incorporates both age and two transmission modes - household and sexual -
+    to project the required control effort and compare targeted intervention strategies
+    under various scenarios. In our model, sexual contacts are repeated contacts within
+    partnerships, and household contacts are treated as one-off contacts. Additionally,
+    contact patterns are age dependent. The spread of an susceptible-exposedinfectious-recovered
+    (SEIR) infection is superimposed on the network. This network model, combining
+    the two types of contacts, is described by a set of ordinary differential equations
+    (ODE), incorporating a configuration network structure and mass action contact
+    structure, allowing for mathematical analysis. Model parameters were selected
+    to reflect the clade Ib mpox outbreak setting in the DRC. Our approach enables
+    us to compare model outcomes to collected data, such as age-specific incidence
+    in the initial phase of an epidemic. Furthermore, we can explore optimal vaccination
+    strategies at different phases of the epidemic, determine when the dominant mode
+    of transmission might switch from sexual to household transmission, potentially
+    requiring a change in intervention priorities. Our findings demonstrate that this
+    analytically tractable mathematical model of epidemic spread on a network combining
+    household and sexual contacts can provide valuable insights into real-life outbreaks.
+    The clade Ib mpox outbreak in the DRC serves as a practical application, highlighting
+    its potential for public health insights into optimal control strategies.
+- Session name: Network Epidemics 1
+  Talk Order: '3'
+  Abstract ID: '268'
+  Presenter: Amanda Perofsky
+  Talk title: Modelling the effects of COVID-19 mobility disruptions on RSV transmission
+    in Seattle, Washington
+  Abstract: Respiratory Syncytial Virus (RSV) infection is a major cause of acute
+    respiratory hospitalizations in young children and older adults. In early 2020
+    most countries implemented non-pharmaceutical interventions (NPIs) to slow the
+    spread of SARS-CoV-2. COVID-19 NPIs disrupted the transmission of RSV on a global
+    scale, and many locations did not experience widespread recirculation until late
+    2020 or 2021. Here, we use a dynamic mathematical model to investigate the impacts
+    of human mobility on the reemergence of RSV in Seattle, Washington.We characterized
+    within-city mixing, in-flows, and foot traffic to points of interest (POIs) using
+    SafeGraph mobility data. We calibrated an age-structured epidemic model to data
+    on weekly RSV hospitalizations in Seattle-King County, WA (2017–2023), allowing
+    for fluctuations in transmission due to changes in mobility during the pandemic.
+    We focused on mobility metrics that may best approximate transmission-relevant
+    contacts, spatial spread, or external case importations and used maximum likelihood
+    to determine the best-fitting models.COVID-19 NPIs perturbed RSV seasonality from
+    2020 to 2022. Seattle experienced a small out-of-season outbreak in Summer 2021
+    and an atypically large and early wave in Fall 2022. Transmission models incorporating
+    mobility network connectivity (measured as the mean shortest path length between
+    Seattle neighborhoods) or the inflow of visitors residing outside of Seattle most
+    accurately captured the timing and magnitude of the first two post-pandemic waves,
+    outperforming models that included foot traffic to schools or child daycares (Figure
+    1).These results suggest that case importations from other regions and local spread
+    between neighborhoods had the greatest influence on the timing of RSV reemergence
+    in Seattle. Our study contributes crucial insights into the behavioral factors
+    underlying RSV epidemic spread and could potentially inform preventative measures,
+    such as the timing of immunizations.
+- Session name: Network Epidemics 1
+  Talk Order: '4'
+  Abstract ID: '370'
+  Presenter: Davide Maniscalco
+  Talk title: Adaptive behavior in response to the 2022 mpox epidemic in the Paris
+    region
+  Abstract: Background. The 2022 mpox outbreak saw a rapid case surge among men-who-have-sex-with-men
+    (MSM) in previously unaffected regions, driven by heterogeneity in sexual networks.
+    A sudden decline followed, but its drivers remain unclear as it is difficult to
+    distinguish the roles of vaccination, herd immunity, and behavioral changes.Methods.
+    We developed a network model of mpox transmission among MSM based on sexual behavior
+    data (Figure 1a) and fitted it to the Paris region epidemic. We studied whether
+    the decline was driven by post-exposure prophylaxis (PEP) vaccination, immunity
+    among highly active MSM, or behavioral changes. Behavioral shifts were modeled
+    as either uniform or based on individual risk factors, like sexual activity or
+    exposure to diagnosed cases. We used the cross-sectional 2023 ERAS survey to validate
+    findings.Findings. Behavioral changes adopted by 49% (95%CI 47-51%) of MSM regardless
+    of individual risk factors best explained the observed epidemic decline (Figures
+    1b, 1c). These changes prevented an estimated 73% (28-99%) of mpox cases in summer
+    2022. Findings aligned with the ERAS survey data, showing that 46% (45-48%) of
+    MSM reduced sexual partners (Figure 1c). On the contrary, PEP vaccination and
+    immunity among highly active MSM were insufficient to curb the outbreak.Interpretation.
+    Widespread behavioral change was the primary driver of the mpox epidemic decline
+    in the Paris region, before preventive vaccination or immunity could affect epidemic
+    spread. These findings highlight the importance of effective risk communication
+    and community engagement in outbreak management. Tailored public health responses
+    that encourage adaptive behaviors, especially as vaccination efforts ramp up,
+    are essential for supporting affected communities.
+- Session name: Network Epidemics 1
+  Talk Order: '5'
+  Abstract ID: '485'
+  Presenter: Gergely Odor
+  Talk title: 'Age-infection matrix inference from genetic sequence data: a machine
+    learning approach'
+  Abstract: Epidemic models are indispensable tools for operational tasks, for instance
+    by revealing the infection dynamics between age groups during a pandemic situation.
+    However, evaluating the performance of these models is often hindered by limited
+    data availability; while advanced surveillance systems may report age-stratified
+    case numbers, the number of infections between different age groups is generally
+    unknown. We address this limitation by incorporating an additional dataset, clinical
+    genetic sequences with age metadata, to infer age-infection matrices (AIMs) through
+    a machine learning approach.As training data, we generate synthetic AIMs and genetic
+    sequence data using the Susceptible-Infected-Recovered epidemic models on complete
+    networks weighted by the age-contact structure collected in the POLYMOD survey
+    in 9 European countries in 2006. We validate our estimator on synthetic data generated
+    from the CoMix survey, collected during the COVID-19 pandemic. We apply our trained
+    model to Belgian genetic sequences downloaded form the GISAID database, and obtain
+    AIMs for each month of 2021. The obtained results are in agreement with, and extend
+    the information in reported age-stratified case numbers. As an example, they reveal
+    the diagonal and off-diagonal structures of the AIMs in the months of January
+    and October 2021, respectively. These patterns match the structure of the contact
+    matrices recorded by the CoMix survey at the same time, even though the CoMix
+    matrices were not part of the training data. Beyond acting as a rough proxy for
+    contact matrices when they are unavailable, the estimated AIMs can reveal additional
+    factors influencing infection patterns, such as age-dependent susceptibility and
+    immunity within the population. We believe that our proposed method is an ambitious
+    and important step towards a new generation of operational epidemic models, which
+    integrate genetic sequence data in addition to traditional surveillance reports.
+- Session name: Network Epidemics 1
+  Talk Order: '6'
+  Abstract ID: '603'
+  Talk title: Estimates of the reproduction ratio from epidemic surveillance may be
+    biased in spatially structured populations
+  Abstract: 'Accurate estimates of the reproduction ratio (Rt) are crucial for projecting
+    the evolution of an infectious disease epidemic and for guiding the public health
+    response. During epidemics, estimates of Rt typically come from surveillance data,
+    e.g., time series ofrecorded cases. However, we prove that estimates of the reproduction
+    ratio based on inference from surveillance data can be inaccurate if the population
+    is made up of a network of spatially distinct communities, as the space–mobility
+    interplay may hide the true evolution of the epidemic from surveillance data.
+    Consequently, we prove that traditional epidemiological surveillance may underestimate
+    the reproduction ratio over long periods, even to the points of mistaking growing
+    epidemics as subsiding ones. To address this, we use the spectral properties of
+    the operator describing the epidemic coupling among spatialcommunities to quantify
+    this error, and to propose a correction that removes it across all epidemic phases,
+    by reweighing surveillance data by the leading eigenvector of this operator. We
+    validate this correction against simulated epidemics and use COVID-19 in France
+    as a case study. Specifically, we find evidence that biased estimates of Rt during
+    the rise of the Alpha variant in early 2021 might have contributed to delaying
+    public health interventions, ultimately making it necessary to enforce the third
+    national lockdown. We show that our correction, if available, would have correctly
+    indicated the growth of the Alpha variant. Beyond this retrospective case study,
+    however, our results apply to any epidemic in which mobility is a driver of circulation.
+    Our findings may help improve epidemic monitoring and surveillance and inform
+    strategies for public health responses.Ref: Birello P, et.al. Nature Physics 20,
+    1204-1210 (2024) doi:10.1038/s41567-024-02471-7'

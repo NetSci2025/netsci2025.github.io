@@ -1,0 +1,145 @@
+session: Ecological networks
+slug: ecological-networks
+talks:
+- Session name: Ecological networks
+  Talk Order: '1'
+  Abstract ID: '273'
+  Presenter: Luca Allegri
+  Talk title: Extinctions in microbiomes are driven by carrying capacities and interaction
+    network density
+  Abstract: Mean abundance distributions (MADs) are important observables to understand
+    biodiversity and community structure in ecological systems, often following a
+    lognormal distribution in microbial communities. Using a stochastic Lotka-Volterra
+    model, we investigate the impact of interaction networks and species-specific
+    carrying capacities on MADs and extinction dynamics. Interaction networks are
+    modeled as random Erdős-Rényi graphs, with both directed and undirected types.
+    Directed networks refer to commensalism or amensalism, while undirected networks
+    describe competition between species. For dense networks, MADs deviate from the
+    lognormal distribution, becoming increasingly skewed. Our results show that species
+    abundances depend on carrying capacities, while network connectivity has a lesser
+    influence. Extinction rates rise with network density and interaction strength,
+    also occurring within small sub-communities represented by disconnected network
+    components. In brief, we have studied the effect of the carrying capacity and
+    the interaction network density on species abundances and extinction rates. This
+    work, which is currently in preparation, highlights the influence of the distribution
+    of carrying capacities and the interaction network on community composition.
+- Session name: Ecological networks
+  Talk Order: '2'
+  Abstract ID: '566'
+  Presenter: William Ou
+  Talk title: Assortative dispersal facilitates the maintenance of alternative stable
+    states
+  Abstract: Many ecological communities exhibit alternative stable states where the
+    outcome of community assembly depends on both the nature of species interactions
+    and the history of the assembly process. Although only a single stable state can
+    be realized locally, multiple alternative states could be realized at the regional
+    level if local communities undergo sufficiently distinct assembly histories. However,
+    alternative states are not easily maintained because dispersal in the system tends
+    to homogenize local communities, creating correlations that effectively reduce
+    the number of distinct histories, and thus, decreasing the probability of realizing
+    different alternative states. Despite this, empirical studies have found natural
+    systems in which alternative states persist even in the presence of frequent dispersal.
+    To address the apparent gap between theoretical understanding and observations,
+    we conducted numerical experiments of a two-species competition model embedded
+    in a spatially-explicit landscape where alternative states arise when species
+    compete more strongly with heterospecifics than conspecifics. We tested the hypothesis
+    that assortative dispersal – individuals preferentially disperse into patches
+    containing more conspecifics – can expedite the formation of spatial structure
+    that acts to buffer the homogenising effects of dispersal and facilitate the maintenance
+    of alternative states. Contrary to expectations, we found that although assortative
+    dispersal facilitates the maintenance of alternative states it limits the extent
+    of spatial structure that forms. This occurs because assortative dispersal minimizes
+    the impact of heterospecifics in adjacent patches, preventing local dominance
+    from percolating across the whole landscape. Furthermore, we found that these
+    results are robust against variation in the strengths of interspecific interaction,
+    disturbance rates, and dispersal costs. We discuss our results in the context
+    of niche theory.
+- Session name: Ecological networks
+  Talk Order: '3'
+  Abstract ID: '104'
+  Presenter: Johannes Nauta
+  Talk title: Topological conditions drive stability in meta-ecosystems
+  Abstract: 'On a global level, ecological communities are being perturbed at an unprecedented
+    rate. Yet, we understand little about what factors facilitate or impede their
+    long-term persistence. Within this context there has been a severe lack of studies
+    that consider spatial features explicitly, even though nearly all habitats are
+    spatially embedded. To this end, we study here the linear stability of meta-ecosystems
+    on networks that describe how discrete patches are connected by dispersal between
+    them. By combining results from random-matrix theory and network theory, we show
+    that there are three distinct features that underlie stability: edge density,
+    tendency to triadic closure, and isolation or fragmentation. Our work thus indicates
+    that connections between patches are just as important, if not more so, to consider
+    when studying the stability of large ecological systems.'
+- Session name: Ecological networks
+  Talk Order: '4'
+  Abstract ID: '18'
+  Presenter: Doina Bucur
+  Talk title: Microbial co-occurrence networks in soil ecology do not model functional
+    links
+  Abstract: 'Ecological networks model species-to-species interactions, and are intended
+    to be predictive models for an ecosystem. We infer ecological networks from observational
+    data, and often assume precision and recall, i.e., that (1) a network link reflects
+    a true pairwise functional relationship between species, and (2) all true relationship
+    are modelled as links. Unfortunately, for ecosystems such as the soil, where the
+    species are both numerous and microscopic, functional information is rare because
+    the individual interactions cannot be observed in the field. Instead, spatial
+    co-occurrence networks are inferred from sampling data. We ask the question: how
+    accurate are these spatial co-occurrence networks of microorganisms, as inferred
+    with current soil-sampling methods? No prior result on this question is available
+    in soil ecology.Method. An agent-based model with biologically realistic behaviour
+    and parametrisation simulates a plot of land, with true trophic links between
+    species. We observe the spatial co-occurrence that these trophic links naturally
+    produce in space (with or without an equilibrium state, step 2). We also simulate
+    the taking of samples from this spatial distribution of species. Finally, we evaluate  the
+    accuracy of the co-occurrence network inferred from samples, against the true
+    co-occurrence of the plot.Results. We find that biological properties other than
+    the interactions, such as species diversity, can be estimated with relatively
+    low error with sample pooling. On the other hand, the inference of the co-occurrence
+    network is poor. We see high errors of the pairwise link weights, with mean errors
+    around 0.5 and very large standard deviations between experiments. The co-occurrence
+    network inferred is thus both inaccurate and unstable (explaining the large differences
+    seen among algorithms for co-occurrence inference), and this is intuitively explainable
+    in spatial terms.'
+- Session name: Ecological networks
+  Talk Order: '6'
+  Abstract ID: '233'
+  Talk title: How did the energy transfer network of green plants help them evolve?
+  Abstract: In green plants, there exist two diﬀerent types of chlorophylls, chlorophyll-a
+    and chlorophyll-b, in light-harvesting proteins. Although the characteristics
+    of individual chlorophyll are well understood, the advantages of their coexistence
+    yet to be understood. In this study, we simulate excitation energy transfer within
+    the entire photosystem II supercomplex by employing network analysis integrated
+    with quantum dynamic calculations. We consider the energy transfer process as
+    a Markov process and numerically trace the energy ﬂow during photosynthesis. The
+    result shows that the natural chlorophyll composition allows the excited energy
+    to preferentially ﬂow through speciﬁc domains that act as safety valves, preventing
+    downstream overﬂow. We also investigate the inﬂuence of the proportion between
+    chlorophyll-a and chlorophyll-b on the photosystem by comparing various chlorophyll
+    compositions. Our ﬁndings suggest that the light-harvesting proteins in a photosystem
+    II supercomplex achieve evolutionary advantages with the natural chlorophyll-a/b
+    ratio, capturing light energy eﬃciently and safely across various light intensities.
+    Through this study, we propose a novel method to investigate the photosystem with
+    which one can better understand how green plants harvest light energy and adapt
+    to changing environmental conditions.
+- Session name: Ecological networks
+  Talk Order: '8'
+  Abstract ID: '582'
+  Presenter: Thilo Gross
+  Talk title: Functional Motifs in Food Webs and Networks
+  Abstract: When studying a complex system it is often useful to think of the system
+    as a network of interacting units. One can then ask if some properties of the
+    entire network are already rooted in a small part of the network–a network motif.We
+    say a motif is functional when observing one copy of a motif in a large network
+    already guarantees a network-level property, regardless of the rest of the network.A
+    famous example of a functional ecological motif is the exploitative competition
+    in food webs, where the presence of two species competing for a shared resource
+    precludes the existence of a stable equilibrium for the whole network. In ecology
+    the discovery of this motif has led to the formulation of the competitive-exclusion
+    principle that has shaped the field and inspired many subsequent advances. However,
+    other examples of motifs with such direct implications on ecological stability
+    are not known.In this talk we explain why the exploitative competition is a functional
+    stability motif and also why such motifs are rare in food webs and other networked
+    systems, such as epidemic spreading and supply chain dynamics. Building on these
+    results we then discuss more broadly under which conditions functional motifs
+    exist. Perhaps more importantly we show that functional motifs that have implications
+    other than asymptotic instability are common in networks from applications.

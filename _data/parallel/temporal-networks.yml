@@ -1,0 +1,166 @@
+session: Temporal networks
+slug: temporal-networks
+talks:
+- Session name: Temporal networks
+  Talk Order: '1'
+  Abstract ID: '44'
+  Presenter: Marco Mancastroppa
+  Talk title: 'Emerging Activity Temporal Hypergraph (EATH): a model for temporally
+    and structurally heterogeneous time-varying hypergraphs'
+  Abstract: 'We analyze several empirical temporal hypergraphs, uncovering non-trivial
+    structural and temporal heterogeneities, and we propose a new model of time-varying
+    hypergraph able to reproduce these properties. Several systems of social interactions
+    present strong temporal heterogeneity, featuring bursty and correlated dynamics
+    both at the level of individuals and of groups. Moreover, nodes create a non-trivial
+    higher-order structure, by generating strong ties and interacting preferentially
+    in groups of specific sizes. We propose a new model able to reproduce these properties,
+    the Emerging Activity Temporal Hypergraph (EATH). The core idea of the model is
+    that each node has its own evolution dynamics, transitioning between a state of
+    low activity and a state of high activity, with a modulation due to the specific
+    schedule of the system: the overall activity of the system emerges from the aggregated
+    nodes activity. Nodes participating in active hyperedges are selected with probability
+    proportional to their activity and to their propensity to engage interactions
+    of a certain size. The hyperedge formation also follows a reinforcement mechanism
+    with both short-term and long-term memory. The alternation of low and high activity
+    phases dynamically generates correlations and heterogeneous bursty dynamics, both
+    in the single nodes and groups activation. The parameters of the model can be
+    tuned, making the model flexible and able to reproduce a broad variety of behaviors.
+    We showed that, if the parameters are extracted from a given dataset, the model
+    is indeed able to reproduce many properties of the empirical hypergraph both structurally
+    and dynamically. We also explore how the model properties change when different
+    transition rates and activity levels, as well as different memory mechanisms,
+    are used. We thus highlight the flexibility of the model, which provides us with
+    a detailed control on the generated temporal hypergraph''s properties.'
+- Session name: Temporal networks
+  Talk Order: '2'
+  Abstract ID: '388'
+  Presenter: Giulia de Meijere
+  Talk title: Emergence of stationarity in social and informational temporal networks
+  Abstract: 'Temporal networks of social contact and information transfer often exhibit
+    striking levels of stationarity at the system level, which emerge from bursty
+    and highly variable interactions between individuals characterized by heterogeneous
+    activity patterns. Here, we investigate the conditions under which seemingly erratic
+    behavior at the individual level gives rise to stable collective dynamics in temporal
+    networks.Through the analysis of numerous empirical temporal networks (social
+    or informational), we identify robust patterns in the evolution of network connectivity
+    over time. Node degrees self-regulate in such a way that poorly connected individuals
+    tend to gain links between consecutive observation windows, while hubs lose edges.
+    At the population level, this translates into periodic oscillations of degree
+    and degree change. Such oscillations not only signal the presence of system-wide
+    stability, but appear at a specific aggregation scale of the underlying interaction
+    events, which surprisingly coincides with the time scale at which the aggregated
+    temporal network appears to be maximally dynamic.A simple model of temporal egocentric
+    network evolution based on renewal processes is able to reproduce these empirical
+    observations, offering an analytical master equation approach to describe connectivity
+    dynamics in networks.In the datasets, we distinguish between two categories of
+    temporal networks based on the stability of the emergent connectivity cycles:
+    networks for which the dynamics of degree change is cyclic, and networks for which
+    it drifts over time. We also identify the dominant time scales of the observed
+    oscillations, which do not always coincide with circadian rhythms of human activity,
+    revealing previously hidden scales of temporal networks. Our work provides insight
+    on how society-wide collective patterns of stationarity may arise from irregular
+    interactions between individuals.'
+- Session name: Temporal networks
+  Talk Order: '3'
+  Abstract ID: '136'
+  Presenter: Andrea Failla
+  Talk title: Tracking Community Evolution via Multi-Faceted Events
+  Abstract: Many real-world networks come as evolving topologies whose nodes and edges
+    appear/vanish as time goes by. Similarly, the meso-scale substructures within
+    these networks also undergo constant change. The task of Dynamic Community Detection
+    addresses the challenge of identifying and tracking the evolution of network communities
+    over time. This process is typically described using community events, which represent
+    the transformations a community can experience throughout its lifecycle. However,
+    real-world community evolution often involves complex, multi-faceted transformations
+    that do not fit neatly into these mutually exclusive categories. As a result,
+    traditional classifications fail to adequately capture these dynamics, and frequently
+    resort to arbitrary thresholds and assumptions. In this work, we reconceptualize
+    classical events as archetypes, i.e., typical examples of a category conveying
+    its most salient features. In contrast, real-world events can exhibit features
+    from multiple of these archetypes. To tackle this more complex definition, we
+    reimagine events as a unique combination of three dimensions, which we call Unicity,
+    Identity, and Outflow.Each event is thus defined by its position in this 3D space,
+    in which classical events occupy corners. Consequently, we can compute the similarity
+    between real and archetypal events as a combination of these dimensions.We applied
+    this methodology to dynamic communities extracted from datasets capturing face-to-face
+    interactions, demonstrating its ability to provide more reliable insights into
+    group dynamics compared to state-of-the-art approaches. Furthermore, we show that
+    our framework has applications beyond simply characterizing community evolution.
+    This includes selecting appropriate aggregation time scales, assessing temporal
+    partition stability, and evaluating event quality.
+- Session name: Temporal networks
+  Talk Order: '4'
+  Abstract ID: '540'
+  Presenter: Arash Badie-Modiri
+  Talk title: 'Decentralised federated learning over temporal networks: the role of
+    temporal heterogeneity'
+  Abstract: Moving beyond previous assumptions of static, fully synchronous communication
+    networks, we investigate the role of temporal heterogeneities in the trajectory
+    of decentralised federated learning. We demonstrate the connection between initial
+    synchronisation phase of decentralised federated learning and diffusion processes,
+    showing that the system evolves according to the same trajectory as the inverse
+    participation ratio of a passive lazy random walk on the communication temporal
+    network. Unlike active continuous-time active random walks on static networks,
+    where convergence times depend primarily on the variance of inter-event intervals,
+    we find that for passive random walks, second moments alone do not fully predict
+    the rapidity of the relaxation of random walk process and thus the federated learning
+    process. This is in most parts due to the complications arising from the discrepancies
+    between residual and inter-event time distributions, also known as the waiting
+    time paradox. This highlights that temporal heterogeneity is an important factor
+    in shaping the initial synchronisation phase in decentralised federated learning
+    as well as many other systems that can be modelled as diffusion processes.
+- Session name: Temporal networks
+  Talk Order: '5'
+  Abstract ID: '600'
+  Presenter: Samuel Koovely
+  Talk title: Entropy-Informed Dynamic Community Detection
+  Abstract: 'Temporal network evolution is characterised by archetypal structural
+    changes. One of the main difficulties of community discovery in temporal networks
+    resides in identifying when such changes occur. This type of information, besides
+    being in itself important, is relevant for community detection: the performance
+    of existing community detection methods increases when applied on structurally
+    stable time intervals. Specifically, the precision benefits from avoiding mixing
+    events that occur at different times, and the recall benefits from focusing on
+    time windows where community structures are well-defined. For instance, Flow Stability
+    is a multi-scale clustering method for temporal networks capable of detecting
+    the presence of communities in temporal networks that are stable in time. This
+    method is based on the continuous-time random walk dynamic over temporal networks.
+    In the spirit of this approach, and inspired by other works showcasing the importance
+    of diffusion entropy in static networks, we introduce the use of conditional entropy
+    to identify structural changes in dynamic networks. First, we compute two conditional
+    entropy curves: one for the diffusion forward in time and one for the diffusion
+    backward in time. Heuristically, the entropy curve of forward diffusion identifies
+    expansion dynamics, whereas the entropy of backward diffusion identifies shrinking
+    dynamics. Secondly, we process the signals by subtracting the expected conditional
+    entropy evolution in a complete graph, smoothing and computing their derivatives
+    to detect change points. Finally, we perform dynamical community detection on
+    each sub-interval determined by the final temporal partition. This approach is
+    relevant for both clustering algorithms that rely on the aggregation of temporal
+    networks and those that do not: for the former, we get a principled way to aggregate
+    the temporal network; for the latter, we obtain sub-intervals where the networks
+    are more stable and suited for clustering.'
+- Session name: Temporal networks
+  Talk Order: '6'
+  Abstract ID: '394'
+  Presenter: Antonio Longa
+  Talk title: Patterns in Temporal Networks with Higher-Order Egocentric Structures
+  Abstract: Classical network representations often fail to fully capture the complexity
+    of real-world systems. While more sophisticated frameworks, such as temporal networks,
+    offer flexibility but with increased analytical complexity. Longa et al. [1] introduced
+    an  egocentric perspective, focusing on a node’s evolving neighborhood (ETN),
+    useful for characterizing temporal social networks but limited in addressing higher-order
+    interactions that impact network dynamics.We propose a framework extending ETN
+    from graphs to hypergraphs, defining the hyper egocentric temporal neighborhood
+    (HETN) to capture more complex information, including hyperedges and their evolution
+    [2]. We encode HETN information into vectors called hyper egocentric temporal
+    neighborhood signatures (HETNS). Furthermore we can reduce an entire set of HETNs
+    to the only significant structures with respect to a null model, leading to a
+    set of hyper egocentric temporal motifs (HETM). Using data from 10 proximity datasets,
+    we find that the differences between hypergraphs are mostly due to second-order
+    HETMs. At individual node level second-order structures are more sensitive to
+    node dissimilarities.Our results show that second-order structures in HETNs are
+    critical for capturing variability in social interactions, unveiling behaviors
+    that could not be appreciated if limiting the analysis to the first order. This
+    approach has potential for classifying temporal data and generating synthetic
+    datasets.[1] Longa, A., et al. Data Min Knowl Disc 36, 355-378 (2022)[2] Arregui-Garc´ıa
+    B., et al. Entropy 26,(3):256 (2024)

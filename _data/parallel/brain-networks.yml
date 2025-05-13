@@ -1,0 +1,182 @@
+session: Brain networks
+slug: brain-networks
+talks:
+- Session name: Brain networks
+  Talk Order: '1'
+  Abstract ID: '604'
+  Presenter: Jil Meier
+  Talk title: The Virtual Brain reveals sweet dynamics of deep brain stimulation in
+    Parkinson’s disease
+  Abstract: Deep brain stimulation (DBS) is a successful symptom-relieving treatment
+    for Parkinson’s disease (PD). However, the introduction of advanced directional
+    DBS electrodes significantly expands the programming parameter space, rendering
+    the traditional trial-and-error approach for DBS optimization impractical and
+    demonstrating the need for computational tools. Our recently developed DBS model
+    using The Virtual Brain simulation tool, i.e. whole-brain simulations based on
+    dynamic neural mass models coupled via the connectome, was able to reproduce multiple
+    biologically plausible effects of DBS in PD (Meier et al., 2022). In the current
+    work, we extend our virtual DBS model towards higher resolution for the stimulus
+    input, now sensitive to the exact 3D location of the activated contact, incorporating
+    streamline activations and the electric field.We simulate DBS of N=14 PD patients
+    with available empirical data on contact activations of N=392 different electrode
+    settings with corresponding motor task outcome. A linear model based on the principal
+    component involvement of the simulated network dynamics demonstrated a correlation
+    between predicted and empirically observed motor task improvements due to DBS
+    of r=0.386 (p<10-4) in a leave-one-out cross-validation. Benchmarking revealed
+    a trend towards better predictions with our “sweet dynamics” than imaging-based
+    static models such as the sweet spot (r=0.16, p<0.05) and sweet streamline (r=0.26,
+    p<10-4) models (Hollunder et al., 2024). Furthermore, our model outperforms the
+    traditional trial-and-error method in predicting optimal clinical settings for
+    individual patients, e.g. achieving over a 60% likelihood of identifying the optimal
+    contact within the first two suggested contacts.In the future, the identified
+    sweet dynamics can be used to optimize the electrode placement and settings in
+    silico in individual patients, showcasing the potential benefit of network-based
+    simulations for improving clinical routine.
+- Session name: Brain networks
+  Talk Order: '2'
+  Abstract ID: '567'
+  Presenter: Carlo Vittorio Cannistraci
+  Talk title: Brain-inspired sparse training in deep artificial neural networks with
+    network science modelling via Cannistraci-Hebb rule
+  Abstract: 'The prevalent fully connected architecture of neural network models is
+    computationally inefficient, exceeding the energy expenditure of the human brain
+    by over 100-fold. In contrast, the brain''s connectivity is sparse and efficient,
+    learning with just a few watts. Brain-inspired network science research can play
+    a relevant role in designing low-consumption and efficient deep learning. Sparse
+    training (ST) aims to ameliorate deep learning by replacing fully connected artificial
+    neural networks (ANNs) with sparse or ultra-sparse ones, such as brain networks
+    are.We introduce epitopological learning and Cannistraci-Hebb sparse training
+    (CHT), a brain-inspired network science methodology that is gradient free and
+    adopt the mere network topology for predicting the sparse connectivity in dynamic
+    sparse training of neural networks. Epitopological learning is a field of network
+    science and complex network intelligence that studies how to implement learning
+    on complex networks by changing the shape of their connectivity structure (epitopological
+    plasticity). One way to implement Epitopological (epi- means new) Learning is
+    via link prediction: predicting the likelihood of non-observed links to appear
+    in the network. Cannistraci-Hebb learning theory inspired the CH3-L3 network automata
+    rule effective for general-purpose link prediction. Results show that CHT can
+    surpass the performance of fully connected networks with MLP architecture by using
+    only 1% of the connections (99% sparsity) and significantly reducing the active
+    neuron network size to 20% of the original nodes on three basic datasets, demonstrating
+    improved generalization while decreasing model size. Remarkable results are achieved
+    also with 0.1% of the connections (99.9% sparsity). We present evidence in Transformers
+    and LLMs across different sparsity levels, where CHT outperforms other prevalent
+    dynamic sparse training methods in tasks such as Machine Translation, Arithmetic
+    Reasoning, and Language Modelling.'
+- Session name: Brain networks
+  Talk Order: '3'
+  Abstract ID: '131'
+  Presenter: Balazs Pentek
+  Talk title: The exponential distance rule based network model predicts topology
+    and reveals functionally relevant properties of the Drosophila projectome
+  Abstract: Studying structural brain networks has witnessed significant advancement
+    in recent decades. Findings revealed a geometric principle, the exponential distance
+    rule (EDR) showing that the number of neurons decreases exponentially with the
+    length of their axons. This neuron-level information was used to build a region-level
+    EDR network model that was able to explain various characteristics of inter-areal
+    cortical networks in macaques, mice, and rats.The complete connectome of the Drosophila
+    has recently been mapped providing information also about the network of neuropils
+    (projectome). A recent study demonstrated the presence of the EDR in Drosophila,
+    which we revisit in our study by precisely measuring the characteristic decay
+    rate. This parameter is needed for testing the validity of the EDR random network
+    model. Next, we demonstrate that the EDR model effectively accounts for numerous
+    binary and weighted properties of the projectome. We also analyze the modularity
+    of the projectome with a hierarchical clustering method that provides a realistic
+    modular structure, with symmetric organization and clusters localized in space.Our
+    study illustrates that the EDR model is a suitable null model for analyzing networks
+    of brain regions, as it captures properties of region-level networks in very different
+    species. The importance of the null model lies in its ability to facilitate the
+    identification of functionally significant features not caused by inevitable geometric
+    constraints, as we illustrate with the pronounced asymmetry of connection weights
+    important for functional hierarchy. We also provide a first attempt to build this
+    hierarchy of brain regions using the introduced asymmetry measure.
+- Session name: Brain networks
+  Talk Order: '4'
+  Abstract ID: '169'
+  Presenter: Laia Barjuan Ballabriga
+  Talk title: The multiscale self-similarity of the weighted human brain connectome
+  Abstract: Anatomical connectivity between different brain regions can be mapped
+    to a network representation, the connectome, where the intensities of the links,
+    the weights, influence resilience and functional processes. Yet, many features
+    associated with these weights are not fully understood, particularly their multiscale
+    organization. In this paper, we elucidate the architecture of weights, including
+    weak ties, in multiscale human brain connectomes reconstructed from empirical
+    data. Our findings reveal multiscale self-similarity, including the ordering of
+    weak ties, in every individual connectome and group representative. This phenomenon
+    is captured by a renormalization technique, based on a geometric model that replicates
+    weak and strong ties across all length scales. The observed symmetry represents
+    a signature of criticality in the weighted connectivity of the human brain and
+    raises important questions for future research, such as the existence of symmetry
+    breaking at some scale or whether it is preserved in cases of neurodegeneration
+    or psychiatric disorder.
+- Session name: Brain networks
+  Talk Order: '5'
+  Abstract ID: '66'
+  Presenter: Eckehard Schöll
+  Talk title: Interplay of synchronization and cortical input in models of brain networks
+  Abstract: It is well known that synchronization patterns and coherence play a major
+    role in the functioning of brain networks,both in pathological and in healthy
+    states [1]. In particular, in the perception of sound, one can observe an increase
+    incoherence between the global dynamics in the network and the auditory input
+    [2]. Here we show that synchronizationscenarios are determined by a fi ne interplay
+    between network topology, the location of the input, and frequencies of thesecortical
+    input signals [3]. To this end, we analyze the infl uence of an external stimulation
+    in a network of FitzHugh-Nagumo oscillators with empirically measured structural
+    connectivities, and discuss diff erent areas of cortical stimulation, including
+    the auditory cortex.[1] Schöll, E., Partial synchronization patterns in brain
+    networks. Europhys. Lett. 136, 18001 (2021), invited perspective article.[2] Sawicki,
+    J., Hartmann, L., Bader, R. and Schöll, E, Modelling the perception of music in
+    brain network dynamics. Front. Netw.Physiol. 2, 910920 (2022).[3] Sawicki, J.
+    and Schöll, E., Interplay of synchronization and cortical input in models of brain
+    networks, Europhys. Lett. 146,41001 (2024), invited perspective article.
+- Session name: Brain networks
+  Talk Order: '6'
+  Abstract ID: '442'
+  Presenter: Felipe Xavier Costa
+  Talk title: The metric backbone of brain networks across lifespan and hemispheres
+  Abstract: 'Communication pathways in the brain are represented by a network of structural
+    connectivity between regions. This representation, referred to as a connectome,
+    also quantifies the strength of edges and contains important information to understand
+    signal propagation in the brain. Some edges of a connectome may be redundant for
+    communication. Removing redundancy reveals a subgraph of the connectome, called
+    the metric backbone (MB), containing all of its original nodes and the subset
+    of edges that obey the triangle inequality. Identifying the MB quantifies the
+    robustness of communication via an algebraically principled and exact network
+    sparsification method. We investigate human connectomes from the NKI study for
+    567 subjects from about 6 to 85 years old. Nodes correspond to brain regions,
+    and edge distance weights are inversely proportional to the density of white matter
+    streamlines. For each connectome, we compute the MB as described in [3] and implemented
+    in the distanceclosure package [8]. The relative backbone size, τ, gives the fraction
+    of edges contributing to shortest-path communication. Our analysis reveals very
+    small MBs: τ ∈ (0.13, 0.19) with τavg ≈ 0.15, which are smaller than previously
+    known for the connectome of a single subject (τ ≈ 0.18), and for c-elegans (τ
+    ≈ 0.47). We also find a significant and robust decrease in τ with age in the initial
+    30 years, which remains stable for the next 20 years, while a slight increase
+    is observed for older age groups, albeit with much greater variation. Finally,
+    we observe that backbones contain similar proportions of edges from each brain
+    hemisphere until 50 years. Afterwards, the fraction of intra-hemisphere edges
+    has a significant increase with age. Biologically, they suggest that brain communication
+    becomes more robust in the initial 3 decades of life, but it also becomes a little
+    more entrenched in each hemisphere with age.'
+- Session name: Brain networks
+  Talk Order: '7'
+  Abstract ID: '571'
+  Presenter: Eunhye Baek
+  Talk title: Neuromorphic dendritic network computation with silent synapses for
+    visual motion perception
+  Abstract: Neuromorphic technologies often employ a point-neuron model, neglecting
+    the spatiotemporal nature of neuronal computation. Dendritic morphology and synaptic
+    organization are structurally tailored for spatiotemporal information processing,
+    enabling various computations such as visual perception. Here, we introduce a
+    neuromorphic computational model termed ‘dendristor’, which integrates synaptic
+    organization with dendritic tree-like morphology. The dendristor presents bioplausible
+    nonlinear integration of excitatory/inhibitory synaptic inputs and silent synapses
+    with diverse spatial distribution dependency, emulating direction selectivity,
+    which is the feature to react to signal direction on the dendrite. Silent synapses
+    turn to be crucial in dendritic computation, enhancing direction selectivity.
+    Finally, we develop a neuromorphic dendritic neural circuit which we adopt as
+    a building-block to design a multi-layer network system that emulates 3D spatial
+    motion perception in the retina. The proposed dendritic computation demonstrates
+    unique capabilities compared to the current paradigms in electronic device engineering
+    for neuromorphic computation, providing solutions to explore new frontiers in
+    network-based artificial intelligence, neurocomputation and brain-inspired computing.
