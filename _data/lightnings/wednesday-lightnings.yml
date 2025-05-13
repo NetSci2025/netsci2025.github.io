@@ -1,0 +1,240 @@
+session: Wednesday Lightnings
+slug: wednesday-lightnings
+talks:
+  - Session name: Wednesday Lightnings
+    Talk Order: '1'
+    Abstract ID: '41'
+    Presenter: Baruch Barzel
+    Talk title: Network resuscitation – reviving failed networks
+    Abstract: 'Complex systems often experience perturbations and disturbances, from
+      overload failures in power systems to species extinction in ecological networks.
+      The impact of such perturbations is often subtle, the system exhibits a minor
+      response, but continues to sustain its global functionality. However, in extreme
+      cases, a large enough perturbation may lead to a large-scale collapse, with
+      the system abruptly transitioning from a functional to a dysfunctional dynamic
+      state. For instance, in cellular dynamics, genetic knockouts, beyond a certain
+      threshold, lead to cell death; in ecological systems, changes in environmental
+      conditions may, in extreme cases, cause mass-extinction; and in infrastructure
+      networks, a cascading failure, at times, results in a major blackout.  When
+      such collapse occurs, the naïve instinct is to reverse the damage, retrieve
+      the failed nodes and reconstruct the lost links. Such response however is seldom
+      efficient, as (i) we rarely have access to all system components; (ii) even
+      if we could reverse the damage, due to hysteresis, in many cases, the system
+      will not spontaneously regain its lost functionality.  To address this challenge,
+      we consider here a two-step recovery process: Step I. Restructuring. Retrieving
+      the network topology to a point where the system can potentially regain functionality
+      • Step II. Reigniting. Introducing dynamic interventions to steer the system
+      back to its functional state.  The challenge in Step II is that we are typically
+      limited in our potential interventions. Hence, we seek to reignite the system
+      via micro-interventions, e.g., controlling just a single or, at most, few nodes.
+      Therefore, in this talk, we present single-node reigniting, unveiling a new
+      dynamic phase of complex systems, in which a failed system can be revived by
+      controlling just a microscopic set of nodes. This helps jolt the network back
+      to functionality – offering a practical network dynamics defibrillator.'
+  - Session name: Wednesday Lightnings
+    Talk Order: '2'
+    Abstract ID: '115'
+    Presenter: Federico Battiston
+    Talk title: Do you have to go to the US to win an ERC?
+    Abstract: "See attachment \n If accepted, I (FB) will be the presenter.\n This\
+      \ is the only contribution I am submitting as presenter.\n My other contributions,\
+      \ if accepted, will be presented by co-authors."
+  - Session name: Wednesday Lightnings
+    Talk Order: '3'
+    Abstract ID: '125'
+    Presenter: Matteo D'Alessandro
+    Talk title: Fractional derivative in continuous-time Markov processes and applications
+      to epidemics in networks
+    Abstract: Since real-world epidemics are very likely characterized by non-exponential
+      infections and curings, non-Markovian models are expected to describe real epidemic
+      processes better. In order to account for memory in Markovian stochastic processes,
+      we replace the standard differential operator in the Markovian equations with
+      the well-known Caputo fractional derivative, an operator which generalizes the
+      notion of standard derivative to non-integer orders (i.e., 0 < α < 1) and which
+      incorporates memory effects “summing” over the past. We apply it to generalize
+      the equations describing Markovian epidemic processes on networks and we prove
+      that is possible to define a microscopic epidemic description that is compatible
+      with the fractional framework.  Without making any assumption on the memory
+      structure of the fractional process we obtain bounds for the average fraction
+      of infected individuals (i.e., prevalence) and we show that for 0 < α < 1 the
+      fractional epidemics is always worse (i.e. more dangerous) than the Markovian
+      epidemics because grows faster in the beginning and survives more in the long-run.  Assuming
+      that the fractional process satisfies the semi-Markov property, which means
+      that the memory of the process is reset every time there is an update in the
+      viral state of the network, we analytically prove that is possible to define
+      a novel microscopic epidemic description that is compatible with the fractional
+      Chapman-Kolmogorov equation. Finally we also show under which conditions any
+      fractional stochastic process can be reduced to a corresponding Markov process
+      via different kinds of time transformations, providing a practical tool to extend
+      the well-known theory of Markovian epidemic process to a more general framework.
+  - Session name: Wednesday Lightnings
+    Talk Order: '4'
+    Abstract ID: '177'
+    Presenter: Joris Bucker
+    Talk title: Interlocking path-dependencies in green industrial strategy networks
+    Abstract: 'Green industrial strategy comprises policies that help steer a country''s
+      economic structure towards sectors that are cleaner and produce green technologies.
+      In both policy practice and the economic literature, green industrial strategy
+      has been growing rapidly in popularity. In this study, we use network science
+      methods to expose underlying patterns of industrial strategy that drive policy
+      innovations. While network science is relatively novel to policy making, existing
+      literature has stressed that policy making is a complex, evolving, path-dependent
+      process. This paper is the first to study industrial strategy using network
+      science and adds to a nascent literature on networks in policymaking.  We introduce
+      a new dataset of green industrial strategy, spanning policies between 2008--2022
+      that target the value chain of three major renewable energy technologies: solar
+      pv, wind energy, and batteries for electric vehicles (EVs). Using this data,
+      we create three separate co-occurrence networks of countries, products, and
+      policy instruments. We find that industrial strategy is a path dependent process,
+      and that the network structure is informative of policy innovation: countries
+      have a tendency to introduce new policies if they are more aligned with the
+      policy instruments that are already in place, the products that it already targets,
+      or if related countries already have that policy in place. We show that the
+      direction of green industrial policy can thus - to some extent - be predicted
+      using our networks. One of the three networks is of industrial policy instruments,
+      where instruments are connected if they are often co-applied to the same product
+      in the same country. Fig. 1 overlays the network with a specific policy innovation
+      in India, which was more than four times more likely to be introduced in 2017
+      than in a situation where no related policy instrument had already been introduced
+      by India on that product before.'
+  - Session name: Wednesday Lightnings
+    Talk Order: '5'
+    Abstract ID: '211'
+    Presenter: Xuanchi Li
+    Talk title: A Near Linear-time Network Sampling for the Enhanced Configuration
+      Models
+    Abstract: referring to the pdf file
+  - Session name: Wednesday Lightnings
+    Talk Order: '6'
+    Abstract ID: '301'
+    Presenter: Guillermo Prol-Castelo
+    Talk title: 'Identifying a Novel Medulloblastoma Subgroup: A Multilayer- and Synthetic-Data-Based
+      Approach'
+    Abstract: 'Medulloblastoma (MB) is a rare childhood brain tumor historically stratified
+      into four molecular subgroups: WNT, SHH, Group 3 (G3), and Group 4 (G4). While
+      SHH and WNT are widely accepted as separate subgroups, G3 and G4 are currently
+      viewed as a continuum within the non-SHH/non-WNT subgroup. The present work
+      focuses on this subgroup continuum, as recent research on various omics datasets
+      has suggested the existence of a putative, additional G3-G4 subgroup with intermediate
+      characteristics. We present findings that identify and characterize the additional
+      G3-G4 subgroup using two distinct omics datasets and two distinct methodologies.
+      First, we characterized the putative subgroup based on genes'' persistent association
+      in multilayer network communities across multi-omics data, and identified patients
+      that do not belong to either the G3 nor the G4 subgroups. Given data scarcity
+      is a common problem in rare disease analyses, including in transcriptomic data,
+      in our second procedure we sought to overcome this limitation by generating
+      new, synthetic patients within the G3-G4 subgroup from a microarray study. By
+      leveraging the Variational Autoencoder generative ability, we were able to overcome
+      the problem of data scarcity and found quantitative support for the G3-G4 subgroup
+      definition. Overall, we found a subset of genes that separate the G3-G4 subgroup,
+      both through our multilayer network and synthetic-data approaches. These approaches
+      show the potential of overcoming dimensionality limitations across different
+      data types, enhancing rare disease subtyping tasks and allowing for a deeper
+      understanding of the underlying biology.'
+  - Session name: Wednesday Lightnings
+    Talk Order: '7'
+    Abstract ID: '372'
+    Presenter: Edward Lee
+    Talk title: Innovation-exnovation dynamics on trees and trusses
+    Abstract: Schumpeterian creative destruction most naturally relates innovation
+      and its complement exnovation in a linear progression of realized possibilities
+      from the past to the present. The phylogenetic tree is a structural variation
+      that represents contingent paths of biological innovations to a species. For
+      a technological capability, paths are manifold, or a “truss.” We propose a simple
+      model for a population of agents innovating while outrunning exnovation to contrast
+      the impact of dynamical parameters with structural ones. We calculate its phase
+      diagram to show how dynamics and structural connectivity conspire to unleash
+      innovative diversity or to drive it extinct.
+  - Session name: Wednesday Lightnings
+    Talk Order: '8'
+    Abstract ID: '444'
+    Presenter: Frank Takes
+    Talk title: Connectivity and Community Structure of Online and Register-based
+      Social Networks
+    Abstract: The dominance of online social media data as a source for large-scale
+      social network studies has recently been challenged by networks constructed
+      from state-curated register data. In this paper, we investigate how the two
+      compare, focusing the Dutch online social network (OSN) Hyves and a register-based
+      social network (RSN) of the Netherlands. First and foremost, we find that the
+      connectivity of the two population-scale networks is strikingly similar, especially
+      between nearby municipalities, with more long-distance ties captured by the
+      OSN. This result holds when correcting for population size and geographical
+      distance, notwithstanding that these two factors appear to be the main drivers
+      of connectivity. Second, we show that the community structure of neither network
+      follows strict administrative geographical delineations (e.g., provinces). Instead,
+      communities appear to either center around large metropolitan areas or, outside
+      of the country's most urbanized area, are comprised of large blocks of interdependent
+      municipalities. Beyond population and distance-related patterns, communities
+      also highlight the persistence of deeply rooted sociocultural communities that
+      can be linked to religion. The findings presented in this work aid in comparing
+      results from future studies in which online social networks and register-based
+      social networks are used to obtain insights into the social network structure
+      of an entire population.
+  - Session name: Wednesday Lightnings
+    Talk Order: '9'
+    Abstract ID: '470'
+    Presenter: Nelly Litvak
+    Talk title: Planted clique detection in geometric network models
+    Abstract: Random geometric graphs (RGGs) are often used to model real-life social,
+      technological and biological networks. An artificial clique may signal anomaly
+      or malicious interventions. We study the problem of detecting such a artificial
+      (or, hidden, planted) clique in RGGs. Formally, we consider a RGG where n vertices
+      are located at random on a finite two-dimensional torus; two vertices are connected
+      if the distance between them is at most r. Then, k vertices are chosen at random
+      to form a planted clique by adding the missing edges between them. Our goal
+      is to design algorithms that find the planted clique with high probability (w.h.p).  We
+      analyze two algorithms. The vertex degree (VD) algorithm declares that the planted
+      clique is the k vertices with highest degrees, just as in the earlier literature
+      for the Erdös-Rényi (ER) random graphs. We prove that the VD algorithm works
+      for k greater than log(n) times the average degree, similarly to the ER model.
+      Interestingly, the largest clique in a RGG is much greater than that. Our main
+      contribution is the common neighbor (CN) algorithm that works as follows. If
+      a pair of vertices has exactly k-2 common neighbors, then CN declares that this
+      pair and its common neighbors are the planted clique. We prove that the CN algorithm
+      finds a planted clique w.h.p. in a large range of regimes, for instance (surprisingly!)
+      when k is finite, while the average degree is of the order log(n).  We conclude
+      that even without knowing the positions of the vertices, we can leverage the
+      hidden geometry to greatly enhance detection, in comparison to non-geometric
+      models.
+  - Session name: Wednesday Lightnings
+    Talk Order: '10'
+    Abstract ID: '619'
+    Presenter: Nelson Aloysio Reis de Almeida Passos
+    Talk title: Benchmarking Algorithmic and Neural Approaches for Temporal Community
+      Detection
+    Abstract: This work presents an experimental evaluation of algorithmic and neural
+      community detection methods for temporal graphs, comparing more established
+      approaches with newly introduced deep learning models designed for node-level
+      clustering. We devise a novel stochastic block model-based approach 3] to generate
+      time-varying attributed temporal graphs with community ground truths, and employ
+      it to compare the performance of distinct state-of-the-art solutions. In this
+      framework, node features are kept fixed, while community structures are dynamic
+      — allowing to study how well differing solutions are able to jointly exploit
+      the feature space and the temporal dynamics of the generated graphs to improve
+      on the detectability threshold of communities and allow better recovering the
+      hidden community structure of the generated networks. In addition, we assess
+      the performance of the models on a set of diverse real-world datasets of various
+      scales, focused on a transductive learning setting, and extending to an inductive
+      learning setting when possible. The main motivation behind this work are the
+      recent advances in network representation learning, which have also sparked
+      a renewed interest in the improvement and development of new strategies for
+      learning on spatio-temporal signals.
+  - Session name: Wednesday Lightnings
+    Talk Order: '11'
+    Abstract ID: '286'
+    Presenter: Victor Brabant
+    Talk title: Longitudinal Modularity for Uncovering Dynamic Community Structures
+      in Link Streams
+    Abstract: 'Complex networks are powerful tools for modeling real-world phenomena,
+      including social interactions, economic transactions, and biological processes.
+      Many of these phenomena are characterized by a continuous flow of interactions
+      occurring at fast time scales, often modeled as stream graphs or link streams,
+      frameworks specifically designed to handle fine-grained temporal data without
+      unnecessary aggregation. Working within this framework necessitates extending
+      methods developed for static networks, including the classic problem of community
+      detection. In previous work we focused on the well-known modularity quality
+      function for community structures in static networks and introduced an extension
+      for link streams: the Longitudinal Modularity. This extension does not require
+      a predefined time scale of analysis or any preprocessing of the natural temporal
+      interactions in the network. In this work, we present an algorithm designed
+      to identify time communities in link streams that maximize Longitudinal Modularity.'
