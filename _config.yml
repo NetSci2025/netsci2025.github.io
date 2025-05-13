@@ -28,3 +28,12 @@ exclude:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+
+collections:
+  parallel:
+    output: true
+  lightnings:
+    output: true
+  posters:
+    output: true
