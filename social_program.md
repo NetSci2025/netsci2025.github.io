@@ -11,6 +11,7 @@ permalink: /social_program/
 
 
 ## Welcome Reception
+Sponsored by the [American Physical Society](https://www.aps.org/)
 
 To kick off the conference, join us for the Welcome Reception on Wednesday, 4 June 2025, at the conference venue (MECC Maastricht). It will take place in the catering and poster area (Lobby and Praetorium) and is included for all participants.
 
