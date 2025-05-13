@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% include header.html %}
+
+<style>
+    main {
+        padding-top: 70px;
+    }
+
+    main h2, main h3, main h4, main h5, main h6 {
+        margin-top: 1.25em; 
+        margin-bottom: 1em; 
+    }
+
+    table.custom-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 2em;
+        font-size: 0.95rem;
+        background-color: #f4f1f9; 
+    }
+
+    table.custom-table th, table.custom-table td {
+        border: 1px solid #ccc;
+        padding: 8px 10px;
+        vertical-align: top;
+    }
+
+    table.custom-table th {
+        border: 2px solid #666;
+        font-weight: bold;
+        background-color: #ffffff;
+    }
+
+    table.custom-table tr:nth-child(even) {
+        background-color: #f4f1f9;
+    }
+</style>
+
+<main class="my-4 {{ page.class }}">
+    <div class="container">
+        <h1 class="display-5">{{ title }}</h1>
+        <hr class="my-4">
+        {{ content }}
+
+
+        <table class="custom-table">
+            <thead>
+                <tr>
+                    <th>Paper ID</th>
+                    <th>Presenter</th>
+                    <th>Poster Title</th>
+                    <th>Authors</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% assign poster_data = site.data.posters[page.slug] %}
+                {% for talk in poster_data.talks %}
+                <tr>
+                    <td>{{ talk['Paper ID'] }}</td>
+                    <td>{{ talk.Presenter }}</td>
+                    <td>{{ talk['Talk title'] }}</td>
+                    <td>{{ talk.Authors }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+    </div>
+</main>
+
+{% include footer.html %}
+

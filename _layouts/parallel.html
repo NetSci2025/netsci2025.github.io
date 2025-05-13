@@ -1,0 +1,107 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% include header.html %}
+
+<style>
+  main {
+    padding-top: 70px;
+  }
+
+  .talk-card {
+    background: #f8f9fa;
+    border-radius: 0.75rem;
+    padding: 0;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    overflow: hidden;
+  }
+
+  .highlight-header {
+    background-color: #fff1ed;
+    padding: 1rem 1.5rem;
+  }
+
+  .talk-order {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #6c3e34;
+    margin-bottom: 0.25rem;
+  }
+
+  .abstract-id {
+    font-size: 0.95rem;
+    color: #6c3e34;
+  }
+
+  .talk-body {
+    background-color: #fff;
+    padding: 1.5rem;
+  }
+
+  .bordered-block {
+    border: 2px solid #f08365;
+    border-radius: 0.5rem;
+    margin: 1rem 1.5rem 1.5rem;
+  }
+
+  .talk-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+
+  .presenter {
+    margin-bottom: 0.75rem;
+  }
+
+  .abstract-label {
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+</style>
+
+<main class="my-4 {{ page.class }}">
+  <div class="container">
+    <h1 class="display-5">{{ page.title }}</h1>
+    <hr class="my-4">
+
+    {% assign session = site.data.parallel[page.slug] %}
+    {% if session %}
+      {% for talk in session.talks %}
+        <div class="talk-card mb-5">   
+          <div class="highlight-header">
+            <div class="talk-title">{{ talk["Talk title"] }}</div>
+            <div class="presenter"><strong>Presenter:</strong> {{ talk["Presenter"] }}</div>
+          </div>
+        
+          <div class="talk-body bordered-block">
+            <div class="abstract-label">Abstract</div>
+            <div>{{ talk["Abstract"] }}</div>
+          </div>
+        </div>
+      {% endfor %}
+      {% else %}
+        <p class="text-danger">No session data found for slug <code>{{ page.slug }}</code>.</p>
+      {% endif %}
+    </div>
+</main>
+
+
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    },
+    svg: {
+      fontCache: 'global'
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
+{% include footer.html %}
+
