@@ -11,7 +11,8 @@ permalink: /social_program/
 
 
 ## Welcome Reception
-More information will be provided soon.
+
+To kick off the conference, join us for the Welcome Reception on Wednesday, 4 June 2025, at the conference venue (MECC Maastricht). It will take place in the catering and poster area (Lobby and Praetorium) and is included for all participants.
 
 ---
 
@@ -19,8 +20,31 @@ More information will be provided soon.
 ## Social Dinner
 On Thursday 5th June 2025, immerse yourself in an unforgettable evening at the enchanting Château Neercanne. Perched gracefully on the border of Belgium and the Netherlands, this historic château offers the perfect setting to connect with colleagues and friends, both old and new. Savor a culinary journey of exquisite dishes, complemented by lively entertainment in a truly unique atmosphere. With its rich heritage and breathtaking surroundings, Château Neercanne promises to make this social dinner an event to remember. Tickets for this extraordinary evening can be bought via the [conference registration system](https://insight.klinkhamergroup.com/netsci2025/login){:target="_blank"}. 
 
+
+A shuttle service is available. Buses will depart from MECC Maastricht (parking P4 at the main entrance) and from the Maasboulevard at 19:00. Return buses will depart from Château Neercanne starting at 22:00.
+
+
+<img src="/assets/images/chateau.jpeg" style="width:100%; max-width:600px;" alt="Château Neercanne">
+
+
+See more photos [here](https://www.dropbox.com/scl/fo/ueob1yg2xnjns595dbjg7/APVNrTbYReedJ0WzrzTIuuI?rlkey=9pbz8en8k9xcsl5tcyij33v8w&e=1&st=s1lxyznl&dl=0)
+
+
 ---
 
+
+## 🍺 NetSci 2025 Signature Brew at Stadsherberg de Poshoorn
+“Hoppy Connectivity Tripel” “Where every sip builds a new link.”
+
+Available only for the NetSci community by Stadsherberg de Poshoorn, this Belgian-style Tripel weaves bright fruit aromas and a refined 9% kick of bitterness into one seamless network of flavor. Whether you’re plotting the next breakthrough or just swapping stories, Hoppy Connectivity turns after-hours into prime networking time.
+
+Find Your Node at Poshoorn After the day’s programme is finished, follow the short walk to Stadsherberg de Poshoorn---the official NetSci bar---order a Hoppy Connectivity, and see how fast new edges form in the graph of great conversations. 
+
+- **Dates and times**: Anytime! Ask the bartender for Hoppy Connectivity Tripel—then start connecting.
+- **Location**: [De Poshoorn](https://maps.app.goo.gl/sYqvpQkCfJMgYQRn9)
+
+
+---
 
 ## Official NetSci2025 Maastricht Running Tour
 
@@ -33,8 +57,10 @@ This tour is designed to be accessible for all fitness levels — the pace will 
 
 Don’t miss this unique opportunity to connect with your fellow conference attendees, stretch your legs, and start the day with a fresh perspective on Maastricht. A perfect way to blend networking with sightseeing, all while getting your endorphins flowing!
 
-You can sign up for the running tour during the registration process.
+- **Dates**: June 4th & 5th 2025
+- **Time**: 07:30
+- **Registration**: SOLD OUT
+- **Meeting point**: If you bought a ticket, please gather in front of the Stadhuis van Maastricht (City Hall, Markt square) a few minutes before 07:30. The guide will be waiting there to begin the tour.
 
-### Times:
-- **4 June 2025**: 07h30 (max. 15 persons)  
-- **5 June 2025**: 07h30 (max. 15 persons)
+
+
