@@ -1,0 +1,947 @@
+session: Thursday Posters
+slug: thursday-posters
+talks:
+- Session name: Thursday Lightnings
+  Paper ID: '99'
+  Presenter: Giulia Rotundo
+  Talk title: Copula-based synthetic networks generation and epidemic spread
+  Authors: Giulia Rotundo (Sapienza University of Rome)*; Roy Cerqueti (Sapienza University
+    of Rome)
+- Session name: Thursday Lightnings
+  Paper ID: '602'
+  Presenter: Fabio Mazza
+  Talk title: Effects of heterogeneous health misbehavior on epidemics in urban settings
+  Authors: Fabio Mazza (Politecnico di Milano)*; Francesco Pierri (Politecnico di
+    Milano); Carlo Piccardi (Politecnico di Milano)
+- Session name: Thursday Lightnings
+  Paper ID: '434'
+  Presenter: Andres Guzman
+  Talk title: Inferring Characteristics of Contact Patterns from Epidemic Data Using
+    Edge-Based compartmental model and Dynamical Survival Analysis
+  Authors: Jose Andres Guzman Moran (Northeastern University London)*; Gyeong Ho Park
+    (Korea University); Federico Malizia (Northeastern University London); Diana Cole
+    (University of Kent); Boseung Choi (Korea University); Istvan Kiss (Northeastern
+    University London)
+- Session name: Thursday Lightnings
+  Paper ID: '357'
+  Presenter: Jean-Marc Schwartz
+  Talk title: Human gut microbiome networks determine species interactions and disease
+    associations
+  Authors: Finlay Fraser (University of Manchester); Zita Soons (University Hospital
+    RWTH Aachen); Jean-Marc Schwartz (University of Manchester)*
+- Session name: Thursday Lightnings
+  Paper ID: '325'
+  Presenter: Pietro Coletti
+  Talk title: 'The impact of household physical distancing and its timing on the transmission
+    of SARS- CoV-2: Insights from a household transmission study'
+  Authors: Pietro Coletti (Université catholique de Louvain)*; Niel Hens (Hasselt
+    University, Antwerp University); Christel Faes (Hasselt Universtiy); Huong Q McLean
+    (Marshfield clinic research Institute); Edward A. Belongia (Marshfield clinic
+    research Institute); Melissa A. Rolfes (Centers for disease control and preventions);
+    Alexandra Mellis (Centers for disease control and preventions); Carrie Reed (Centers
+    for disease control and preventions); James W. Biddle (Centers for disease control
+    and preventions); Ahra Kim (Vanderbilt University); Yuwei Zhu (Vanderbilt University);
+    Helen Keipp Talbot (Vanderbilt University); Carlos G. Grijalva (Vanderbilt University)
+- Session name: Thursday Lightnings
+  Paper ID: '345'
+  Presenter: Luiza Lober de Souza Piva
+  Talk title: 'Forecasting infectious diseases in Brazilian cities: integrating socio-economic
+    and geographic data from related cities through a machine learning approach'
+  Authors: Luiza Piva (USP)*; Kirstin Roster (Harvard T. H. Chan School of Public
+    Health); Francisco Rodrigues (USP)
+- Session name: Thursday Lightnings
+  Paper ID: '398'
+  Presenter: João Brázia
+  Talk title: Impact of Network Structure on HIV Transmission and PrEP Strategies
+    Among MSM
+  Authors: João Brázia (Northeastern University)*; Andreia Teixeira (Northeastern
+    University); Alexandre Francisco ( INESC-ID)
+- Session name: Thursday Lightnings
+  Paper ID: '525'
+  Presenter: Lovro Šubelj
+  Talk title: 'Predicting successful passes in football: Benchmark dataset and GNN
+    ablation study'
+  Authors: Vid Stropnik (University of Ljubljana); Lovro Šubelj (University of Ljubljana)*
+- Session name: Thursday Lightnings
+  Paper ID: '410'
+  Presenter: Shu Liu
+  Talk title: 'Visualization of Sport Climbing Routes: An Approach Using Directed
+    Network Analysis'
+  Authors: SHU LIU (The University of Tokyo)*; Fujio Toriumi (1)
+- Session name: Thursday Lightnings
+  Paper ID: '479'
+  Presenter: Brendan WALLACE
+  Talk title: Emergent Trail Networks
+  Authors: Brendan Wallace (University of Washington)*; Andrew Berdahl (University
+    of Washington)
+- Session name: Thursday Lightnings
+  Paper ID: '467'
+  Presenter: Shuichi Kinoshita
+  Talk title: 'Comparative Analysis of Bike Sharing System Usage Patterns Across Major
+    Cities: A Weekday-Weekend Comparison'
+  Authors: Shu-ichi Kinoshita (Musashino University)*; Yuya Bando (Musashino University);
+    Hiroki Sayama (Binghamton University)
+- Session name: Thursday Lightnings
+  Paper ID: '514'
+  Presenter: Marlli Zambrano
+  Talk title: Physical principles of human mobility and routine
+  Authors: Marlli Zambrano (Freie Universität Berlin)*; Ashish Thampi (Net Check GmbH);
+    Alejandra Rincon (Net Check GmbH); Andrzej Jarynowski (Freie Universität Berlin);
+    Steven Schulz (Net Check GmbH); Vitaly Belik (Freie Universität Berlin)
+- Session name: Thursday Lightnings
+  Paper ID: '175'
+  Presenter: David Blair
+  Talk title: A Time-Conscious Decomposition of Dynamic Functional Networks in Schizophrenia
+  Authors: David Blair (Georgia State University)*; Krishna Pusuluri (Georgia State
+    University); Vince Calhoun (Georgia State University)
+- Session name: Thursday Lightnings
+  Paper ID: '168'
+  Presenter: Alina Podschun
+  Talk title: The path the brain takes – a closer look at the temporal evolution of
+    functional states in a network control theoretical framework
+  Authors: Alina Podschun (Humboldt-Universität zu Berlin)*; Richard Betzel (University
+    of Minnesota Twin Cities); Sebastian Markett (Humboldt-Universität zu Berlin)
+- Session name: Thursday Lightnings
+  Paper ID: '88'
+  Presenter: Lingbo Li
+  Talk title: Prominent involvement of acetylcholine dynamics in stable olfactory
+    representation across the Drosophila brain
+  Authors: Lingbo Li (Tsinghua University)*
+- Session name: Thursday Lightnings
+  Paper ID: '401'
+  Presenter: Haily Merritt
+  Talk title: INFORMED INTER-BRAIN COUPLING IMPROVES PREDICTIONS OF MENTAL HEALTH
+    OUTCOMES
+  Authors: Haily Merritt (Indiana University)*; Richard Betzel (University of Minnesota);
+    Giovanni Petri (Northeastern University London)
+- Session name: Thursday Lightnings
+  Paper ID: '255'
+  Presenter: Lauren Rutter
+  Talk title: Leveraging network science and natural language processing (NLP) to
+    identify and quantify risk factors for depression in older adults (OA) in social
+    media
+  Authors: Lauren Rutter (Indiana University)*; Marijn tenThij (Tilburg University);
+    Andy Edinger (Indiana University); Lorenzo Lorenzo-Luaces (Indiana University);
+    Kestrel Liu (Indiana University); Danny Valdez (Indiana University); Johan Bollen
+    (Indiana University)
+- Session name: Thursday Lightnings
+  Paper ID: '330'
+  Presenter: Aurelia Viglione
+  Talk title: A Network-Based Approach to Anticipate Time to Recovery in Major Depression
+    Reveals a Plasticity by Context Interplay
+  Authors: Aurelia Viglione (Center for Behavioral Sciences and Mental Health, Istituto
+    Superiore di Sanità, Rome)*; Claudia Delli Colli (Center for Behavioral Sciences
+    and Mental Health, Istituto Superiore di Sanità, Rome); Silvia Poggini (Center
+    for Behavioral Sciences and Mental Health, Istituto Superiore di Sanità, Rome);
+    Francesca Cirulli (Center for Behavioral Sciences and Mental Health, Istituto
+    Superiore di Sanità, Rome); Flavia Chiarotti (Center for Behavioral Sciences and
+    Mental Health, Istituto Superiore di Sanità, Rome); Alessandro Giuliani (Environment
+    and Health Department, Istituto Superiore di Sanità, Rome); Igor Branchi (Center
+    for Behavioral Sciences and Mental Health, Istituto Superiore di Sanità, Rome)
+- Session name: Thursday Lightnings
+  Paper ID: '420'
+  Presenter: Claudia Delli Colli
+  Talk title: Towards a network-based operationalization of plasticity for predicting
+    the transition from depression to mental health
+  Authors: Claudia Delli Colli (Istituto Superiore di Sanità)*; Aurelia Viglione (Istituto
+    Superiore di Sanità); Silvia Poggini (Istituto Superiore di Sanità); Igor Branchi
+    (Istituto Superiore di Sanità)
+- Session name: Thursday Lightnings
+  Paper ID: '31'
+  Presenter: Miko Stulajter
+  Talk title: Exploring Chemical Space Through Reaction Networks
+  Authors: Miko Stulajter (University of California, Irvine)*; Dmitrij Rappoport (University
+    of California, Irvine)
+- Session name: Thursday Lightnings
+  Paper ID: '143'
+  Presenter: Sakim Samad
+  Talk title: Functional selectivity of Receptor Tyrosine Kinases (RTKs) regulates
+    cellular outputs
+  Authors: Sakim Samad (University of Manchester)*; Chiara Francavilla (Danish Technological
+    University); Jean-Marc Schwartz (University of Manchester)
+- Session name: Thursday Lightnings
+  Paper ID: '28'
+  Presenter: Perrin Ruth
+  Talk title: Cyclic Random Graphs Predicting Giant Molecules in Hydrocarbon Pyrolysis
+  Authors: Perrin Ruth (University of Maryland, College Park)*
+- Session name: Thursday Lightnings
+  Paper ID: '352'
+  Presenter: Lucas Chatelain
+  Talk title: Graph modeling of cellular porosity in dentin
+  Authors: Lucas Chatelain (CNRS)*; Elsa Vennat (CNRS); Nicolas Tremblay (CNRS); David
+    Rousseau (Université d'Angers + INRAe-IRHS); Aurélien Gourrier (CNRS)
+- Session name: Thursday Lightnings
+  Paper ID: '160'
+  Presenter: Kate Meeson
+  Talk title: A multi-omics, constraint-based modelling approach to predict the metabolic
+    mechanisms underlying improved monoclonal antibody production in Chinese hamster
+    ovary (CHO) cells
+  Authors: Kate Meeson (University of Manchester)*; Jean-Marc Schwartz (University
+    of Manchester); Alan Dickson (University of Manchester); Magnus Rattray (University
+    of Manchester); Leon Pybus (FUJIFILM Diosynth Biotechnologies UK)
+- Session name: Thursday Lightnings
+  Paper ID: '236'
+  Presenter: Riccardo Sbarbati
+  Talk title: Competition between pathogenic elements using a pathogen-centric framework
+  Authors: Riccardo Sbarbati (University of Padua)*; Johannes Nauta (University of
+    Padua); Manlio De Domenico (University of Padua)
+- Session name: Thursday Lightnings
+  Paper ID: '379'
+  Presenter: Rebecca Carstens
+  Talk title: Modelling the Impact of Extreme Events on Vector-Borne Pathogen Evolution
+  Authors: Rebecca Carstens (Roslin Institute)*; Anthony Wood (Roslin Institute);
+    Richard Blythe (School of Physics and Astronomy, University of Edinburgh); Rowland
+    Kao (Roslin Institute)
+- Session name: Thursday Lightnings
+  Paper ID: '449'
+  Presenter: Mark Wittek
+  Talk title: Balancing Conventionality and Unconventionality Elevates Scientific
+    Impact in Biomedical Research
+  Authors: Mark Wittek (Central European University (CEU))*; Tianyu Du (Stanford University);
+    Daniel McFarland (Stanford University); Raphael Heiberger (University of Stuttgart)
+- Session name: Thursday Lightnings
+  Paper ID: '431'
+  Presenter: Eli Newby
+  Talk title: Analysis and comparison of microRNA-mRNA bipartite networks reveals
+    evolutionary mechanisms and key therapeutic vulnerabilities in cancers
+  Authors: Eli Newby (Cleveland Clinic)*; Andrew Dhawan (Cleveland Clinic)
+- Session name: Thursday Lightnings
+  Paper ID: '257'
+  Presenter: Giorgos Morakis
+  Talk title: 'Firm-level Supply Networks and Shock Resilience: A GNN Approach'
+  Authors: Emmanuel Dhyne (National Bank of Belgium); Giorgos Morakis (IMT School
+    of Advanced Studies Lucca)*; Massimo Riccaboni (IMT School of Advanced Studies
+    Lucca); Hylke Vandenbussche (KU Leuven)
+- Session name: Thursday Lightnings
+  Paper ID: '270'
+  Presenter: Seyda Köse
+  Talk title: Reconstructing the Dynamics of the Semiconductor Supply Chain with NLP
+  Authors: Seyda Köse (Complexity Science Hub)*; Elma Dervic (Complexity Science Hub);
+    Georg Heiler (Complexity Science Hub); Hernan Picatto (Supply Chain Intelligence
+    Institute Austria (ASCII)); Peter Klimek (Complexity Science Hub)
+- Session name: Thursday Lightnings
+  Paper ID: '184'
+  Presenter: Laura Carranza
+  Talk title: Network Analysis to Understand the structure and evolution of Global
+    Supply Chains along the Project Life Cycle
+  Authors: Jose Meisel (Universidad Nacional Abierta y a Distancia)*; Laura Carranza
+    (Universidad Nacional Abierta y a Distancia); Carlos Meisel (Universidad de Ibagué);
+    Juan Betancourt (Universidad de Ibagué)
+- Session name: Thursday Lightnings
+  Paper ID: '119'
+  Presenter: Hiroyasu Inoue
+  Talk title: Market Reaction to News Flows in Supply Chain Networks
+  Authors: Hiroyasu Inoue (University of Hyogo)*; Yasuyuki Todo (Waseda University)
+- Session name: Thursday Lightnings
+  Paper ID: '29'
+  Presenter: Tanu Raghav
+  Talk title: Fragility in Food Supply Chain
+  Authors: Eugene Ang (National University of Singapore)*; Prasanta Bhattacharya (Institute
+    of High Performance Computing, Agency of Science Technology and Research); Chaik
+    Ming Koh (Institute of Operations Research and Analytics); Andrew Lim (National
+    University of Singapore)
+- Session name: Thursday Lightnings
+  Paper ID: '349'
+  Presenter: Tekilu Tadesse Choramo
+  Talk title: 'Economic Integration and Growth in Africa: A Network-Based Approach'
+  Authors: Tekilu Choramo (Ghent University)*; Jemal Abafita (Jimma University); Yerali
+    Gandica (Universidad Internacional de Valencia (VIU)); Luis E C Rocha (Ghent University)
+- Session name: Thursday Lightnings
+  Paper ID: '593'
+  Presenter: Martin Ho
+  Talk title: 'People, Places & Things: How R&D Funders Shape Networks Of Innovation'
+  Authors: Henry Price (Imperial College London)*; Tim Evans (Imperial College );
+    Martin Ho (Cambridge )
+- Session name: Thursday Lightnings
+  Paper ID: '578'
+  Presenter: Sam Westby
+  Talk title: Using an Occupation Co-Occurrence Network to Understand Labor Market
+    Evolution
+  Authors: Samuel Westby (Northeastern University)*; Alicia Sasser Modestino (Northeastern
+    University)
+- Session name: Thursday Lightnings
+  Paper ID: '568'
+  Presenter: Feifan Liu
+  Talk title: Homophilic and Heterophilic club phenomenon in scientific collaborative
+    networks
+  Authors: Feifan Liu (East China University of Science and Technology)*; Shuang Zhang
+    (Dalian University of Technology); Haoxiang Xia (Dalian University of Technology);
+    Tieju Ma (Shanghai Jiao Tong University)
+- Session name: Thursday Lightnings
+  Paper ID: '552'
+  Presenter: Bernardo Buarque
+  Talk title: Revisiting the citation networks from policy documents to science
+  Authors: Bernardo Buarque (Motu Economic and Public Policy)*
+- Session name: Thursday Lightnings
+  Paper ID: '507'
+  Presenter: Francesco Gravili
+  Talk title: Computation of temporal centralities in regional water networks
+  Authors: Francesco Gravili (Alma Mater Studiorum- Università di Bologna)*; Kai Bergermann
+    (TU Chemnitz); Valeria Simoncini (Alma Mater Studiorum- Università di Bologna);
+    Martin Stoll (TU Chemnitz)
+- Session name: Thursday Lightnings
+  Paper ID: '572'
+  Presenter: Shusei Hayashi
+  Talk title: Investigation of Parental Visitation Patterns and Exposure Segregation
+    Using Mobility Data
+  Authors: Shusei Hayashi (Tohoku University)*; Takahiro Yabe (New York University);
+    Naoya Fujiwara (Tohoku University)
+- Session name: Thursday Lightnings
+  Paper ID: '133'
+  Presenter: Nora Molkenthin
+  Talk title: Understanding the phase space of pooled mobility
+  Authors: Nora Molkenthin (Potsdam Institut für Klimafolgenforschung (PIK))*; Samuel
+    Bien (Potsdam Institut für Klimafolgenforschung (PIK)); Moritz Bauer (Universität
+    Tübingen)
+- Session name: Thursday Lightnings
+  Paper ID: '294'
+  Presenter: Florian Hack
+  Talk title: Displacement, Labor Mobility and Transferable Tasks in a Network Structure
+  Authors: Florian Hack (IAB)*
+- Session name: Thursday Lightnings
+  Paper ID: '413'
+  Presenter: Pau Esteve
+  Talk title: Exploring delay propagation in air transport using temporal networks
+  Authors: Pau Esteve (IFISC (CSIC-UIB))*; Massimiliano Zanin ( IFISC (CSIC-UIB))
+- Session name: Thursday Lightnings
+  Paper ID: '328'
+  Presenter: Kyriaki Kalimeri
+  Talk title: 'A tale of two data sources: Diverse views of mobility dynamics during
+    emergencies'
+  Authors: Timur Naushirvanov (CEU); Erick Elejalde (L3S); Kyriaki Kalimeri (ISI Foundation);
+    Elisa Omodei (CEU); Marton Karsai (CEU); Leo Ferres (UDD)*
+- Session name: Thursday Lightnings
+  Paper ID: '366'
+  Presenter: Suliman Alhomidan
+  Talk title: Scalable Computational Framework for Big Data Human Mobility Modelling
+  Authors: Zexun Chen (University of Edinburgh)*; Suliman Alhomidan (University of
+    Edinburgh)
+- Session name: Thursday Lightnings
+  Paper ID: '452'
+  Presenter: Márton Karsai
+  Talk title: 'One rule does not fit all: deviations from universality in human mobility
+    modeling'
+  Authors: Ludovico Napoli (Central European University); Marton Karsai (Central European
+    Universtiy)*; Esteban Moro (Northeastern University)
+- Session name: Thursday Lightnings
+  Paper ID: '137'
+  Presenter: Elisa Botteghi
+  Talk title: Network Security under Heterogeneous Cyber-Risk Profiles and Contagion
+  Authors: Elisa Botteghi (University of Bologna)*; Daniele Tantari (University of
+    Bologna); Davide Pastorello (University of Bologna)
+- Session name: Thursday Lightnings
+  Paper ID: '262'
+  Presenter: Luis Agustin Olivares Quiroz
+  Talk title: 'Evaluating Robustness and Stability for the Mexican National Airport
+    System: Perspectives from network science'
+  Authors: Luis Olivares-Quiroz (Universidad Autónoma de la Ciudad de México)*; Omar
+    Martinez-Rosas (Universidad Autónoma de la Ciudad de México UACM)
+- Session name: Thursday Lightnings
+  Paper ID: '310'
+  Presenter: Regino Criado Herrero
+  Talk title: 'Combining multiplex networks, time series attributes and Big Data:
+    New tools in cybersecurity'
+  Authors: Regino Criado Herrero (Universidad Rey Juan Carlos)*; Sergio Iglesias (Universidad
+    Rey Juan Carlos); Santiago Moral (Universidad Rey Juan Carlos)
+- Session name: Thursday Lightnings
+  Paper ID: '154'
+  Presenter: LOBBE QUENTIN
+  Talk title: 'Chronoblox: Chronophotographic Graph Visualization'
+  Authors: Quentin Lobbé (Centre d'Analyse et de Mathématiques Sociales (CAMS), CNRS/EHESS)*;
+    Camille Roth (Centre d'Analyse et de Mathématiques Sociales (CAMS), CNRS/EHESS);
+    Mangold Lena (Centre d'Analyse et de Mathématiques Sociales (CAMS), CNRS/EHESS)
+- Session name: Thursday Lightnings
+  Paper ID: '172'
+  Presenter: Zachary Neal
+  Talk title: Developing Guidelines for Reporting About Network Data (GRAND)
+  Authors: Zachary Neal (Michigan State University)*
+- Session name: Thursday Lightnings
+  Paper ID: '204'
+  Presenter: Loizos Bitsikokos
+  Talk title: 'Mapping Justice: Data Collection on U.S. District Court Citational
+    Networks'
+  Authors: Loizos Bitsikokos (Purdue University)*; Ross M. Stolzenberg (The University
+    of Chicago)
+- Session name: Thursday Lightnings
+  Paper ID: '80'
+  Presenter: Titus Pünder
+  Talk title: 'ParaGraph: Analyzing legal citation networks across document types'
+  Authors: Titus Pünder (Aalto University)*; Corinna Coupette (Aalto University)
+- Session name: Thursday Lightnings
+  Paper ID: '241'
+  Presenter: Lluc Bono Rosselló
+  Talk title: On music network representation and its implication on how humans perceive
+    information
+  Authors: Lluc Bono Rosselló (Université Libre de Bruxelles)*; Robert Jankowski (Departament
+    de Física de la Matèria Condensada, Universitat de Barcelona)
+- Session name: Thursday Lightnings
+  Paper ID: '259'
+  Presenter: Maksim Kitsak
+  Talk title: Are civilizations destined to collapse? Lessons from the Mediterranean
+    Bronze Age
+  Authors: Maksim Kitsak (TU Delft)*; Igor Linkov (US Army Corps of Engineers); Stephanie
+    Galaitsi (US Army Corps of Engineers); Benjamin Trump (US Army Corps of Engineers);
+    Elizaveta Pinigina (US Army Corps of Engineers); Krista Rand (US Army Corps of
+    Engineers); Eric Cline (Capitol Archaeological Institute)
+- Session name: Thursday Lightnings
+  Paper ID: '482'
+  Presenter: Cillian Hourican
+  Talk title: 'The Dynamics of Multimorbidity: Hypernetworks and Synergistic Interactions
+    in Symptom Networks of Older Adults'
+  Authors: Cillian Hourican (Computational Science Lab, University of Amsterdam)*;
+    Rick Quax (Computational Science Lab, University of Amsterdam)
+- Session name: Thursday Lightnings
+  Paper ID: '106'
+  Presenter: Dirk Hartung
+  Talk title: Harnessing Higher-Order Networks to Trace the Development of Doctrine
+  Authors: Corinna Coupette (Aalto University)*; Dirk Hartung (Singapore Management
+    University)
+- Session name: Thursday Lightnings
+  Paper ID: '336'
+  Presenter: Chiara Giaquinta
+  Talk title: Coevolutionary Axelrod Model with Weighted Overlap and Features Competition
+  Authors: Chiara Giaquinta (CNRS)*; Laura Hernandez (CNRS); David Chavalarias (CNRS)
+- Session name: Thursday Lightnings
+  Paper ID: '117'
+  Presenter: Yutong Bu
+  Talk title: Influence of networked partisans on perceptions of media bias
+  Authors: Yutong Bu (The University of Melbourne)*; Andrew Melatos (The University
+    of Melbourne)
+- Session name: Thursday Lightnings
+  Paper ID: '120'
+  Presenter: Nicholas Kah Yean Low
+  Talk title: 'Discerning media bias within a network of political allies and opponents:
+    the idealized example of a biased coin'
+  Authors: Nicholas Kah Yean Low (University of Melbourne)*
+- Session name: Thursday Lightnings
+  Paper ID: '144'
+  Presenter: Mariano Beguerisse
+  Talk title: Consumption-based approaches in proactive detection for content moderation
+  Authors: Shahar Elisha (Spotify); John Pougué-Biyong (University of Oxford); Mariano
+    Beguerisse-Díaz (Spotify)*
+- Session name: Thursday Lightnings
+  Paper ID: '220'
+  Presenter: Peng Chen
+  Talk title: Diffusion capacity analysis and immunization of complex networked systems
+    based on the cluster distribution
+  Authors: Peng Chen (National University of Defense Technology)*; Mingze Qi (National
+    University of Defense Technology); Chengli Zhao (National University of Defense
+    Technology); Xiaojun Duan ( National University of Defense Technology)
+- Session name: Thursday Lightnings
+  Paper ID: '251'
+  Presenter: Alessia Galdeman
+  Talk title: Mapping the Climate Discourse on Tiktok
+  Authors: Alessia Galdeman (IT University of Copenhagen)*; Luca Maria Aiello (IT
+    University of Copenhagen)
+- Session name: Thursday Lightnings
+  Paper ID: '295'
+  Presenter: Marijn ten Thij
+  Talk title: Assessing news consumption in European fringe communities
+  Authors: Marijn ten Thij (Tilburg University)*; Cay Rahn (Maastricht University)
+- Session name: Thursday Lightnings
+  Paper ID: '557'
+  Presenter: Masaki Chujyo
+  Talk title: Community Notes for Preventing the Spread of Scam-Related Posts in Japan
+  Authors: Masaki Chujyo (The University of Tokyo)*; Fujio Toriumi (the university
+    of tokyo)
+- Session name: Thursday Lightnings
+  Paper ID: '543'
+  Presenter: Edoardo Loru
+  Talk title: A Compression-Based Approach to Detecting Automated and Coordinated
+    Behavior on Social Media
+  Authors: Edoardo Loru (Sapienza University of Rome)*; Niccolò Di Marco (Sapienza
+    University of Rome); Matteo Cinelli (Sapienza University of Rome); Walter Quattrociocchi
+    (Sapienza University of Rome)
+- Session name: Thursday Lightnings
+  Paper ID: '556'
+  Presenter: Chenyu Li
+  Talk title: Behavioral Microdynamics and Trends in Online Dating
+  Authors: Chenyu Li (Aalto University)*; Petter Holme (Aalto University); Taha Yasseri
+    (Technological University Dublin)
+- Session name: Thursday Lightnings
+  Paper ID: '126'
+  Presenter: Otti D'Huys
+  Talk title: Excitability and stochastic effects in an experimental spiking laser
+    network
+  Authors: Otti D'Huys (Maastricht University)*; Valentin Kotolup (Maastricht University);
+    Romain Veltz (Inria Sophia-Antipolis); Stephane Barland (Universite Cote d'Azur
+    - CNRS)
+- Session name: Thursday Lightnings
+  Paper ID: '526'
+  Presenter: Julie Bauer
+  Talk title: Identifying the Presence and Influence of Covert Political Endorsements
+    and Advocacy on Social Media
+  Authors: Sarah Suleman (Maastricht University)*; Abdulhai Alali (Maastricht University);
+    Adriana Iamnitchi (Maastricht University); Gianluca Rando (Maastricht University);
+    Julie Bauer (Maastricht University); Taisia Pimenova (Maastricht University);
+    Ada Panghe (Maastricht University); Thales Bertaglia (Utrecht University)
+- Session name: Thursday Lightnings
+  Paper ID: '607'
+  Presenter: Yuan Zhang
+  Talk title: 'Echoing But Not in a Chamber: Modeling Dynamic Information Consumption
+    Patterns in Higher-Order Political News Networks'
+  Authors: Yuan Zhang (University of Zurich)*; Laia Castro Herrero (University of
+    Barcelona); Frank Esser (University of Zurich); Alexandre Bovet (University of
+    Zurich)
+- Session name: Thursday Lightnings
+  Paper ID: '181'
+  Presenter: Fabian Veider
+  Talk title: Population-driven influencers through preferential links in social networks
+  Authors: Fabian Veider (University of Graz)*; Georg Jäger (University of Graz);
+    Bao Quoc Tang (University of Graz)
+- Session name: Thursday Lightnings
+  Paper ID: '371'
+  Presenter: Yuliia Kazmina
+  Talk title: Pathways to Upward Mobility in a Longitudinal Population-scale Social
+    Network
+  Authors: Yuliia Kazmina (University of Amsterdam)*; Eszter Bokanyi (University of
+    Amsterdam); Eelke Heemskerk (University of Amsterdam); Frank Takes (Leiden University)
+- Session name: Thursday Lightnings
+  Paper ID: '68'
+  Presenter: Hongyu Dong
+  Talk title: 'Exploring the Evolutionary Dynamics of Wikipedia: The Interplay of
+    Knowledge Community Formation and Editorial Behavior'
+  Authors: Dong Hongyu (Dalian University of Technology)*; Xia Haoxiang (Dalian University
+    of Technology)
+- Session name: Thursday Lightnings
+  Paper ID: '267'
+  Presenter: Yukie Sano
+  Talk title: Structural stability of mutualistic social networks on a live streaming
+    platform
+  Authors: Makoto Takeuchi (CyberAgent, Inc.); Yukie Sano (University of Tsukuba)*
+- Session name: Thursday Lightnings
+  Paper ID: '55'
+  Presenter: Tao Wen
+  Talk title: Evidential Reasoning-based Early-stage Inference of Information Propagation
+    Source in Large-scale Social Networks
+  Authors: Tao Wen (The University of Manchester)*; Yu-wang Chen (The University of
+    Manchester)
+- Session name: Thursday Lightnings
+  Paper ID: '465'
+  Presenter: Nils Van de Berg
+  Talk title: 'Switching for cospectral graphs: new methods and enumeration'
+  Authors: Nils Van de Berg (Eindhoven University of Technology)*; Aida Abiad (Eindhoven
+    University of Technology); Robin Simoens (Ghent University)
+- Session name: Thursday Lightnings
+  Paper ID: '527'
+  Presenter: Rogier Noldus
+  Talk title: Network load reduction through betweenness equalization
+  Authors: Rogier Noldus (Ericsson)*; Zhihao Qiu (TU Delft)
+- Session name: Thursday Lightnings
+  Paper ID: '538'
+  Presenter: Gonzalo Marcelo Ramirez Avila
+  Talk title: Response to synchronization in distance-dependent coupled heterogeneous
+    oscillators
+  Authors: Gonzalo Marcelo Ramirez-Avila (naXys, UNamur)*; Timoteo Carletti (naXys,
+    UNamur)
+- Session name: Thursday Lightnings
+  Paper ID: '435'
+  Presenter: Carolyn Fiore
+  Talk title: Configuring Networks with Semi-Randomized Location Data
+  Authors: Carolyn Fiore (United States Military Academy)*; Sebastian Neumann (United
+    States Military Academy); Geoffrey Moores (United States Military Academy)
+- Session name: Thursday Lightnings
+  Paper ID: '529'
+  Presenter: Benedetta Giovannelli
+  Talk title: Markovian ε-SIR on the complete graph
+  Authors: Benedetta Giovannelli (Delft University of Technology)*; Piet Van Mieghem
+    (Delft University of Technology)
+- Session name: Thursday Lightnings
+  Paper ID: '533'
+  Presenter: Orkun Irsoy
+  Talk title: Analysis and Optimization of Robustness in Multiplex Flow Networks Against
+    Cascading Failures
+  Authors: Orkun Irsoy (Carnegie Mellon University)*; Osman Yağan (Carnegie Mellon
+    University)
+- Session name: Thursday Lightnings
+  Paper ID: '430'
+  Presenter: Marco Fernandez da Silva
+  Talk title: 'CoarseNet: a Python Package for Network Coarse-Graining'
+  Authors: Marco Fernández Da Silva (Universidad de Zaragoza)*; Alberto Aleta (Universidad
+    de Zaragoza); Marcus Engsig (Technology Innovation Institute)
+- Session name: Thursday Lightnings
+  Paper ID: '8'
+  Presenter: Ofer Biham
+  Talk title: The distribution of first passage times of random walks on random regular
+    graphs
+  Authors: Ofer Biham (The Hebrew University)*; Eytan Katzav (The Hebrew University);
+    Ido Tishby (The Hebrew University)
+- Session name: Thursday Lightnings
+  Paper ID: '404'
+  Presenter: Lucia Ramirez
+  Talk title: Noise Filtering in Bipartite Networks
+  Authors: Lucia Ramirez (Universitat de Barcelona)*; Roya Aliakbarisani (Universitat
+    de Barcelona); M. Ángeles Serrano (Universitat de Barcelona); Marian Boguña (Universitat
+    de Barcelona)
+- Session name: Thursday Lightnings
+  Paper ID: '565'
+  Presenter: Tobias Timofeyev
+  Talk title: A Sheaf Theoretic Approach to Near Space Network Routing
+  Authors: Tobias Timofeyev (University of Vermont)*; Alan Hylton (NASA Goddard);
+    Oliver Chiriac (University of Oxford); Jacob Cleveland (NASA Glenn); Jihun Hwang
+    (Purdue University); Daniel Koizumi (University of Texas Austin); Karuna Petwe
+    (University of Washington)
+- Session name: Thursday Lightnings
+  Paper ID: '587'
+  Presenter: Andreia Sofia Teixeira
+  Talk title: Approximating the spanning edge betweenness on weighted graphs
+  Authors: Andreia Sofia Teixeira (Network Science Institute, Northeastern University
+    London)*; Pedro T. Monteiro (INESC-ID, Instituto Superior Tecnico, Universidade
+    de Lisboa ); Alexandre P. Francisco (INESC-ID, Instituto Superior Tecnico, Universidade
+    de Lisboa )
+- Session name: Thursday Lightnings
+  Paper ID: '499'
+  Presenter: Cédric Simal
+  Talk title: Operator Induced distances on graphs and graphons
+  Authors: Cédric Simal (UNamur)*; Julien Petit (Royal Military Academy); Timoteo
+    Carletti (UNamur)
+- Session name: Thursday Lightnings
+  Paper ID: '620'
+  Presenter: Vivek Kothari
+  Talk title: Homophily on the edge
+  Authors: Vivek Kothari (University of Oxford)*; Nicholas Lane (University of Cambridge)
+- Session name: Thursday Lightnings
+  Paper ID: '195'
+  Presenter: Nirmala Jenifer Selvaraj
+  Talk title: Stability of synchronization in adaptive higher-order networks
+  Authors: Nirmala Jenifer Selvaraj (Bharathidasan University)*; Timoteo Carletti
+    (University of Namur); Md Sayeed Anwar (Indian Statistical Institute); Paulsamy
+    Muruganandam (Bharathidasan University); Dibakar Ghosh (Inidan Statistical Institute)
+- Session name: Thursday Lightnings
+  Paper ID: '150'
+  Presenter: Carolina Mattsson
+  Talk title: Coinciding random walks on networks
+  Authors: Carolina Mattsson (CENTAI Institute)*; Bruno C. Coutinho (Instituto de
+    Telecomunicacoes); Michele Starnini (Universitat Pompeu Fabra)
+- Session name: Thursday Lightnings
+  Paper ID: '71'
+  Presenter: Gonzalo Contreras-Aso
+  Talk title: Heterogeneous hypergraphs and their spectral centralities
+  Authors: Gonzalo Contreras-Aso (Universidad Rey Juan Carlos)*; Regino Criado (Universidad
+    Rey Juan Carlos); Miguel Romance (Universidad Rey Juan Carlos)
+- Session name: Thursday Lightnings
+  Paper ID: '316'
+  Presenter: Fernando P. Santos
+  Talk title: Analyzing the Effect of Link Recommenders in Degree Inequality
+  Authors: Elif Erdem (University of Amsterdam)*; Fernando Santos (University of Amsterdam)
+- Session name: Thursday Lightnings
+  Paper ID: '315'
+  Presenter: Krishnadas Mohandas
+  Talk title: Critical properties of Heider balance on multiplex networks
+  Authors: Krishnadas Mohandas (Warsaw University of Technology)*; Krzysztof Suchecki
+    (Warsaw University of Technology); Janusz Hołyst (Warsaw University of Technology)
+- Session name: Thursday Lightnings
+  Paper ID: '78'
+  Presenter: Sinan Dede
+  Talk title: 'Methodological Advancement in Causal Loops Diagrams Data Collection
+    and Analysis: A Network Approach'
+  Authors: Claudia Zucca (Tilburg Universtity)*
+- Session name: Thursday Lightnings
+  Paper ID: '314'
+  Presenter: Niek Mooij
+  Talk title: An evolutionary mechanism of triadic closure
+  Authors: Niek Mooij (Utrecht University)*; Ivan Kryven (Utrecht University); Mara
+    Baudena (ISAC - Torino); Anna von der Heydt (Utrecht University)
+- Session name: Thursday Lightnings
+  Paper ID: '97'
+  Presenter: Elisabetta Salvai
+  Talk title: 'Toward Fairness in Network Algorithms: Rankings by Biased Random Walks'
+  Authors: Elisabetta Salvai (University of Copenhagen)*; Jacob Aarup Dalsgaard (University
+    of Copenhagen); Giovanni Petri (Northeastern University London); Roberta Sinatra
+    (University of Copenhagen)
+- Session name: Thursday Lightnings
+  Paper ID: '95'
+  Presenter: Christian Kluge
+  Talk title: Cascades on constrained multiplex networks
+  Authors: Christian Kluge (Technical University of Munich)*; Christian Kuehn (Technical
+    University of Munich)
+- Session name: Thursday Lightnings
+  Paper ID: '163'
+  Presenter: Ahmed Amer Abdullah Zaid
+  Talk title: Designing Higher-Order Synchronization Pattern with the Dirac Operator
+  Authors: Ahmed Zaid (Queen Mary University of London)*; Ginestra Bianconi (Queen
+    Mary University of London)
+- Session name: Thursday Lightnings
+  Paper ID: '282'
+  Presenter: Miguel Romance
+  Talk title: A new approach for analyzing structural resilience of complex networks
+    based on local and composed measures
+  Authors: Rocio Casablanca (Universidad de Sevilla); Regino Criado (Universidad Rey
+    Juan Carlos); Juan A. Mesa (Universidad de Sevilla); Miguel Romance (Universidad
+    Rey Juan Carlos)*
+- Session name: Thursday Lightnings
+  Paper ID: '194'
+  Presenter: Ryota Kobayashi
+  Talk title: Inference of higher-order interaction in coupled oscillators
+  Authors: Weiwei Su (University of Tokyo); Shigefumi Hata (Kagoshima University);
+    Hiroya Nakao (Institute of Science Tokyo); Hiroshi Kori (University of Tokyo);
+    Ryota Kobayashi (University of Tokyo)*
+- Session name: Thursday Lightnings
+  Paper ID: '62'
+  Presenter: Cosimo Agostinelli
+  Talk title: Higher-order similarity measures for hypergraphs comparison
+  Authors: Cosimo Agostinelli (Centre de Physique Théorique, Marseille)*; Marco Mancastroppa
+    (Centre de Physique Théorique, Marseille); Alain Barrat (Centre de Physique Théorique,
+    Marseille)
+- Session name: Thursday Lightnings
+  Paper ID: '475'
+  Presenter: Lucia Cavallaro
+  Talk title: Unraveling the impact of Random Rewiring on Graph Neural Networks
+  Authors: Christos Aronis (Radboud University)*; Lucia Cavallaro (Radboud University);
+    Yuliya Shapovalova (Radboud University)
+- Session name: Thursday Lightnings
+  Paper ID: '148'
+  Presenter: Michela Lapenna
+  Talk title: How do Probabilistic Graphical Models and Graph Neural Networks handle
+    network data?
+  Authors: Michela Lapenna (University of Bologna)*; Caterina De Bacco (Delft University
+    of Technology)
+- Session name: Thursday Lightnings
+  Paper ID: '289'
+  Presenter: Vincenzo Perri
+  Talk title: Path Representation Learning with Contextualized Embeddings
+  Authors: Vincenzo Perri (University of Wuerzburg)*; Ingo Scholtes (University of
+    Wuerzburg )
+- Session name: Thursday Lightnings
+  Paper ID: '200'
+  Presenter: Pascal Welke
+  Talk title: 'WILTing Trees: Interpreting the Distance Between MPNN Embeddings'
+  Authors: Masahiro Negishi (University of Tokio); Thomas Gärtner (TU Wien); Pascal
+    Welke (TU Wien)*
+- Session name: Thursday Lightnings
+  Paper ID: '123'
+  Presenter: Jan von Pichowski
+  Talk title: Inference of Sequential Patterns for Neural Message Passing in Temporal
+    Graphs
+  Authors: Jan von Pichowski (Julius-Maximilians-Universität Würzburg)*; Vincenzo
+    Perri (Julius-Maximilians-Universität Würzburg); Lisi Qarkaxhija (Julius-Maximilians-Universität
+    Würzburg); Ingo Scholtes (Julius-Maximilians-Universität Würzburg)
+- Session name: Thursday Lightnings
+  Paper ID: '575'
+  Presenter: Tamanna Urmi
+  Talk title: Hypergraph Convolutional Neural Network with Edge-Dependent Vertex Weight
+    for Node Classification applications
+  Authors: Tamanna Urmi (Northeastern University)*; Xiyu Yang (Northeastern University);
+    Sharaj Kunjar (Northeastern University)
+- Session name: Thursday Lightnings
+  Paper ID: '69'
+  Presenter: Bastian Epping
+  Talk title: Graph Neural Networks Do Not Always Oversmooth
+  Authors: Bastian Epping (RWTH Aachen University)*; Alexandre René (RWTH Aachen University);
+    Moritz Helias (Forschungszentrum Jülich); Michael T. Schaub (RWTH Aachen University)
+- Session name: Thursday Lightnings
+  Paper ID: '17'
+  Presenter: Jiaze Li
+  Talk title: Detectability of Minority Communities in Networks
+  Authors: Jiaze Li (Maastricht University)*; Leto Peel (Maastricht University)
+- Session name: Thursday Lightnings
+  Paper ID: '474'
+  Presenter: Lennard Rompelberg
+  Talk title: Uncertainty Quantification for Graph Signal Estimates through Bayesian
+    Inference
+  Authors: Lennard Rompelberg (RWTH Aachen University)*; Michael Schaub (RWTH Aachen
+    University)
+- Session name: Thursday Lightnings
+  Paper ID: '471'
+  Presenter: Mingrong She
+  Talk title: Gender differences in collaboration and career progression in physics
+  Authors: Mingrong She (Maastricht University)*; Jan Bachmann (Complexity Science
+    Hub); Fariba Karimi (Graz University of Technology); Leto Peel (Maastricht University)
+- Session name: Thursday Lightnings
+  Paper ID: '520'
+  Presenter: Faezeh Fadaei
+  Talk title: Gender Dynamics Over Time in a Social Network of LLM Agents
+  Authors: Faezeh Fadaei (University College Dublin)*; Taha Yasseri (Trinity College
+    Dublin)
+- Session name: Thursday Lightnings
+  Paper ID: '265'
+  Presenter: Toshihiro Tanizawa
+  Talk title: The structure and evolution of a growing social network in a car manufacturing
+    company
+  Authors: Toshihiro Tanizawa (Toyota Motor Corporation)*; Ken Motozawa (Toyota Motor
+    Corporation); Masaya Furutani (Toyota Motor Corporation); Kazuto Matsunaga (Toyota
+    Motor Corporation); Yuta Suzuki (Toyota Motor Corporation); Erina Hata (CMC Corporation);
+    Hiroki Ohno (CMC Corporation); Yasumasa Fujita (CMC Corporation)
+- Session name: Thursday Lightnings
+  Paper ID: '54'
+  Presenter: Gloria Timm
+  Talk title: Exploring Gender's Impact on Co-authorship and Citation Networks in
+    Cancer Research
+  Authors: Gloria Timm (Central European University)*
+- Session name: Thursday Lightnings
+  Paper ID: '274'
+  Presenter: Bart Peters
+  Talk title: Higher-order temporal network prediction and interpretation
+  Authors: Bart Peters (Delft University of Technology)*; Alberto Ceria (Leiden University);
+    Huijuan Wang (Delft University of Technology)
+- Session name: Thursday Lightnings
+  Paper ID: '182'
+  Presenter: Tianrui Mao
+  Talk title: Estimating nodal spreading influence using partially observed temporal
+    network
+  Authors: Tianrui Mao (TU Delft)*; Shilun Zhang (TU Delft); Huijuan Wang (TU Delft)
+- Session name: Thursday Lightnings
+  Paper ID: '515'
+  Presenter: Letizia Iannucci
+  Talk title: Detecting Coordinated Activities through Temporal, Contextual, and Collaborative
+    Analysis
+  Authors: Letizia Iannucci (Aalto University)*; Antonis Matakos (Aalto University);
+    Mikko Kivelä (Aalto University)
+- Session name: Thursday Lightnings
+  Paper ID: '240'
+  Presenter: David Aleja
+  Talk title: 'Time-dependent personalized PageRank for temporal networks: Discrete
+    and continuos scales'
+  Authors: David Aleja (Universidad Rey Juan Carlos)*; Julio Flores (Universidad Rey
+    Juan Carlos); Eva Primo (Universidad Rey Juan Carlos); Miguel Romance (Universidad
+    Rey Juan Carlos)
+- Session name: Thursday Lightnings
+  Paper ID: '455'
+  Presenter: Yang Li
+  Talk title: Centrality-Based Ranking of Temporal Pair Comparison
+  Authors: Yang Li (Florida Atlantic University)*
+- Session name: Thursday Lightnings
+  Paper ID: '437'
+  Presenter: Tassilo Schwarz
+  Talk title: 'Mind the memory: Emergence of higher-order dynamics due to coarse graining
+    and its role for entropy production rate inference'
+  Authors: Tassilo Schwarz (University of Oxford)*; Aljaz Godec (Max Planck Institute
+    for Multidisciplinary Sciences); Renaud Lambiotte (University of Oxford)
+- Session name: Thursday Lightnings
+  Paper ID: '215'
+  Presenter: Filip Blaskovic
+  Talk title: 'Clustering Time-Snapshots of Temporal Networks: From Synthetic Data
+    to Real-World Applications'
+  Authors: Filip Blašković (Zuse Institute Berlin)*; Tim Conrad (Zuse Institute Berlin);
+    Stefan Klus (Heriot-Watt University, Edinburgh); Nataša Djurdjevac Conrad (Zuse
+    Institute Berlin)
+- Session name: Thursday Lightnings
+  Paper ID: '42'
+  Presenter: Lluís Torres-Hugas
+  Talk title: Interplay Between Structure and Diffusion Dynamics in Random and Multiplex
+    Networks
+  Authors: Lluís Torres-Hugas (Universitat Rovira i Virgili)*; Jordi Duch (Universitat
+    Rovira i Virgili); Sergio Gómez (Universitat Rovira i Virgili)
+- Session name: Thursday Lightnings
+  Paper ID: '553'
+  Presenter: .nan
+  Talk title: Heteroclinic dynamics in network dynamical systems with higher-order
+    interactions
+  Authors: Christian Bick (Vrije Universiteit Amsterdam)*; Sören von der Gracht (Universität
+    Paderborn)
+- Session name: Thursday Lightnings
+  Paper ID: '231'
+  Presenter: .nan
+  Talk title: 'Let the data surprise us: uncovering insights from high-dimensional
+    timeline data with information theory'
+  Authors: Hagit Ben-Shoshan (University of Haifa); Osnat Mokryn (University of Haifa)*
+- Session name: Thursday Lightnings
+  Paper ID: '79'
+  Presenter: .nan
+  Talk title: '``When her family finds [out] you are using the wrong metric\dots'''':
+    investigating dilemmas and trade-offs in the diffusion of conventions with inverse
+    problems'
+  Authors: Lucas Gautheron (University of Wuppertal and École Normale Supérieure)*
+- Session name: Thursday Lightnings
+  Paper ID: '14'
+  Presenter: .nan
+  Talk title: Embedding-based Markov stability scale selection for producing robust
+    partitions
+  Authors: Samin Aref (University of Toronto)*; Sanchaai Mathiyarasan (University
+    of Toronto)
+- Session name: Thursday Lightnings
+  Paper ID: '40'
+  Presenter: .nan
+  Talk title: Dynamic stability of complex networks
+  Authors: Baruch Barzel (Bar-Ilan University)*; Chandrakala Meena ( Indian Institute
+    of Science Education and Research Thiruvananthapuram)
+- Session name: Thursday Lightnings
+  Paper ID: '36'
+  Presenter: Personal Reason Later Confirmation
+  Talk title: How centrality measures can reduce complexity of Elementary Conversion
+    Modes
+  Authors: Antonia Berger (University Hospital RWTH Aachen); Maja Strauch (University
+    Hospital RWTH Aachen); Omer Bay (University Hospital RWTH Aachen); Lars Kuepfer
+    (University Hospital RWTH Aachen); Zita Soons (University Hospital RWTH Aachen)*
+- Session name: Thursday Lightnings
+  Paper ID: '47'
+  Presenter: .nan
+  Talk title: Explicit exact solutions of the SI and Bass models on sparse random
+    networks
+  Authors: Gadi Fibich (Tel Aviv University)*; Yonatan Warman (Tel Aviv University)
+- Session name: Thursday Lightnings
+  Paper ID: '118'
+  Presenter: .nan
+  Talk title: Exact Explicit Solutions and Phase Transitions in Spreading Models on
+    Hypergraphs
+  Authors: Guy Rothmann (Tel Aviv University)*; Juan G. Restrepo (University of Colorado
+    at Boulder); Gadi Fibich (Tel Aviv University)
+- Session name: Thursday Lightnings
+  Paper ID: '206'
+  Presenter: .nan
+  Talk title: On the Algebraic Connectivity of Token Graphs and Graphs under Perturbations
+  Authors: Xiaodi Song (Northwestern Polytechnical University)*; Cristina Dalfó (Universitat
+    de Lleida); Miguel Angel Fiol (Universitat Politècnica de Catalunya); Shenggui
+    Zhang (Northwestern Polytechnical University)
+- Session name: Thursday Lightnings
+  Paper ID: '214'
+  Presenter: .nan
+  Talk title: Combined voltage assignments, factored lifts, and their spectra
+  Authors: Cristina Dalfó (Universitat de Lleida)*; Miquel Àngel Fiol (Universitat
+    Politècnica de Catalunya); Sona Pavlíková (Slovak University of Technology); Jozef
+    Sirán (Slovak University of Technology)
+- Session name: Thursday Lightnings
+  Paper ID: '603'
+  Presenter: .nan
+  Talk title: Estimates of the reproduction ratio from epidemic surveillance may be
+    biased in spatially structured populations
+  Authors: Eugenio Valdano (INSERM)*; Piero Birello (CEU); Michele Re Fiorentin (Polito);
+    Vittoria Colizza (INSERM); Boxuan Wang (Sorbonne University)
+- Session name: Thursday Lightnings
+  Paper ID: '506'
+  Presenter: .nan
+  Talk title: 'Googling meta-food webs: Identifying key species in meta-communities'
+  Authors: Guillaume Rollin (Université de Franche-Comté); Susanne Kortsch (University
+    of Helsinki); Benoît Gauzens (German Centre for Integrative Biodiversity); José
+    Lages (Université de Franche-Comté)*
+- Session name: Thursday Lightnings
+  Paper ID: '351'
+  Presenter: .nan
+  Talk title: Adaptive Regional Management Strategies for Plant-Pollinator Networks
+    in the Context of Anthropogenic Warming Scenarios
+  Authors: Adrija Datta (Indian Institute of Technology Gandhinagar)*
+- Session name: Thursday Lightnings
+  Paper ID: '523'
+  Presenter: .nan
+  Talk title: 'Navigating Danger: Behavioural Spreading and Misinformation Suppression
+    in Coral Reef Fish'
+  Authors: Sara Linde Neven (University of Amsterdam)*
+- Session name: Thursday Lightnings
+  Paper ID: '524'
+  Presenter: Personal Reason Later Confirmation
+  Talk title: Integrating topological data analysis with time series gene expression
+    in cellular systems
+  Authors: Hugo Chenel (Centre de Recherches en Cancérologie de Toulouse (CRCT))*;
+    Malvina Marku (CRCT); Julie Bordenave (CRCT); Marcin Domagala (CRCT); Mary Poupot
+    (CRCT); Loic Ysebaert (IUCT); Andrei Zinovyev (Evotec); Vera Pancaldi (CRCT)
+- Session name: Thursday Lightnings
+  Paper ID: '229'
+  Presenter: .nan
+  Talk title: Evaluating the dynamic interplay of social distancing policies regarding
+    airborne pathogens through a temporal interaction-driven model that uses real-world
+    and synthetic data
+  Authors: Osnat Mokryn (University of Haifa)*; Alex Abbey (University of Haifa );
+    Yanir Marmor (University of Haifa ); Yuval Sahar (Ben Gurion University)
+- Session name: Thursday Lightnings
+  Paper ID: '50'
+  Presenter: .nan
+  Talk title: Inductive link prediction boosts data availability and enables cross-community
+    link prediction in ecological networks
+  Authors: Shai Pilosof (Ben Gurion University of the Negev)*; Barry Biton (Ben-Gurion
+    Universirt of the Negev); Rami Puzis (Ben-Gurion Universirt of the Negev)
+- Session name: Thursday Lightnings
+  Paper ID: '158'
+  Presenter: .nan
+  Talk title: Vector-borne multiscale models encompassing mobility and climate features
+  Authors: Charley Presigny (University of Padua)*; Manlio De Domenico (University
+    of Padua)
