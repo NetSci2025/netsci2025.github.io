@@ -1,0 +1,160 @@
+session: Algorithms, Measures and Statistics
+slug: algorithms-measures-and-statistics
+talks:
+- Session name: Algorithms, Measures and Statistics
+  Talk Order: '1'
+  Abstract ID: '354'
+  Presenter: Tim Evans
+  Talk title: Longest Path and Main Path Analysis of Directed Acyclic Graphs
+  Abstract: (Abbreviated abstract, see pdf for figure and full text) Innovation leaves
+    its marks in many documents. For technical innovations, academic papers, patents,
+    and documents related to formal medical trials and approvals all contain references
+    to relevant earlier work in their bibliography. Thus, the flow of ideas is encoded
+    in the links made by citations between documents. These define a citation network
+    (Price, 1965), where documents are the nodes, and there is a directed link from
+    an older to a newer document when the older document is listed in the bibliography
+    of the newer document. This is a DAG (a directed acyclic graph) and the tools
+    used to analyse a DAG must consider the inherent order in a DAG.One of the main
+    tools used has been “main path analysis” proposed by Hummon and Doreian (1989)
+    but used in many studies since then, e.g. it is available in the pajek network
+    analysis package. Yet, main path analysis was proposed in an ad hoc manner and
+    so the support for main path analysis rests on expert opinion in these later studies.
+    Recently, we showed that the path of innovation can be studied using the longest
+    path in a DAG (Ho et al., 2024a,b). The longest path is a natural measure for
+    any DAG, e.g. it is linked to the geodesic in simple spacetime DAG models (Brightwell
+    & Gregory 1991).We review the methods and results for large vaccine approval citation
+    networks from Ho et al. (2024a,b). We will then compare the main path method used
+    elsewhere (SPC in figure) and the longest path method that proved effective for
+    the vaccine data. We will do this on simple toy models, some based on simple geometries,
+    others on more realistic citation networks. We will also develop a new main path-like
+    method based on information (SPE path in figure). Our conclusion is that Ho et
+    al.'s (2024a,b) approach using the longest path is simpler, better motivated,
+    and more effective than the historical main path method and our newer information-theoretic
+    approach.
+- Session name: Algorithms, Measures and Statistics
+  Talk Order: '2'
+  Abstract ID: '468'
+  Presenter: Rachel de Jong
+  Talk title: Navigating the privacy vs. utility trade-off in network anonymization
+  Abstract: Data on social connectivity and human interaction is frequently used in
+    social network analysis and network science research. However, since these network
+    datasets can contain information on individual entities, publishing or sharing
+    them can lead to a breach of privacy. Even after pseudonymization, i.e., removing
+    identifiers such as a person’s name, individuals can still be identified based
+    on their surrounding network structure. In this work, we study approaches for
+    anonymizing networks through perturbation to alleviate these privacy concerns.
+    We aim to do so while still ensuring data utility, i.e., the extent to which the
+    network data remains useful for analysis. This means ensuring retention of topological
+    properties, but also robustness in results of, e.g., community detection or node
+    ranking based on centrality. We focus on k-anonymity with k = 2, implying that
+    nodes are deemed anonymous if they are not at a structurally unique position.
+    This allows us to summarize anonymity for a given network by uniqueness, i.e.,
+    the fraction of unique nodes in the network. To optimize k-anonymity, i.e., minimize
+    uniqueness, anonymization algorithms alter a network by means of edge deletion
+    to obtain a perturbed network. We compare five such algorithms, targeting edges
+    based on different criteria. In our experiments, we compare the five algorithms
+    on 17 real-world datasets ranging from hundreds to thousands of nodes. Overall,
+    results show that our heuristic algorithms achieve far better results compared
+    to a random baseline in terms of both anonymity and utility; important steps towards
+    automated techniques for meaningful anonymization of networks.
+- Session name: Algorithms, Measures and Statistics
+  Talk Order: '3'
+  Abstract ID: '558'
+  Presenter: Helcio Felippe
+  Talk title: Network mutual information measures for graph similarity
+  Abstract: A wide range of tasks in network analysis, such as clustering network
+    populations or identifying anomalies in temporal graph streams, require a measure
+    of the similarity between two graphs. To provide a meaningful data summary for
+    downstream scientific analyses, the graph similarity measures used for these tasks
+    must be principled, interpretable, and capable of distinguishing meaningful overlapping
+    network structure from statistical noise at different scales of interest. Here
+    we derive a family of graph mutual information measures that satisfy these criteria
+    and are constructed using only fundamental information theoretic principles. Our
+    measures capture the information shared among networks according to different
+    encodings of their structural information, with our mesoscale mutual information
+    measure allowing for network comparison under any specified network coarse-graining.
+    We test our measures in a range of applications on real and synthetic network
+    data, finding that they effectively highlight intuitive aspects of network similarity
+    across scales in a variety of systems.
+- Session name: Algorithms, Measures and Statistics
+  Talk Order: '4'
+  Abstract ID: '493'
+  Presenter: Eline Bouwmeesters
+  Talk title: A comparison of network sampling techniques that preserve local structure
+  Abstract: Preserving important structural properties is a fundamental challenge
+    in constructing robust null models for networks. The dk-series framework provides
+    a systematic methodology for defining and controlling the structural complexity
+    of network models, from degree sequences (1k) to higher-order subgraph motifs
+    (2k, 3k, etc.). However, sampling networks that preserve higher-order constraints
+    (i.e., 3k and above) remains computationally challenging, significantly limiting
+    the practical applicability of this framework in real-world analyses. This work
+    systematically evaluates a suite of null models designed to preserve local structures,
+    including motif counts, degree correlations, and higher-order patterns. Our goal
+    is to balance the theoretical rigor of the dk-series framework with computational
+    feasibility. To this end, we introduce the d-Motif Configuration Model (d-MCM),
+    a novel extension of Karrer & Newman (2010) based on the dk-series framework,
+    which probabilistically preserves motif structures and degree correlations. The
+    d-MCM model builds on the strengths of the dk-series while addressing its computational
+    limitations through innovative sampling techniques. We compare the d-MCM approach
+    to other null models, including the dk-series and Neighborhood Structure Configuration
+    Models (NeSt), across various levels of structural preservation (e.g., 1k, 2k,
+    3k-series, and NeSt with neighborhood sizes between 1 and 5). Using the dk-series
+    as a unifying framework, we evaluate these methods on synthetic and empirical
+    networks by documenting properties that are and are not preserved, including degree
+    distributions, clustering coefficients, and motif frequencies. Additionally, we
+    assess their ability to generate new graphs that are non-isomorphic to the original
+    network.
+- Session name: Algorithms, Measures and Statistics
+  Talk Order: '5'
+  Abstract ID: '457'
+  Presenter: Vincent Labatut
+  Talk title: 'Impact of Incomplete Data on Character Network Extraction: The Case
+    of Comics'
+  Abstract: 'Most of humanity’s literature has been lost .For example, of the eight
+    Trojan epics, only the Iliad and Odyssey havesurvived in full. A commonality between
+    many culture’s myths and epics, is that they frequently have shared characters
+    which allow us to create and study a large social network.In previous analyses
+    of sagas and epic literature centrality measures such as the betweenness centrality
+    strongly correlate with character importance. However, a key issue with this analysis
+    is that we have no accurate estimate for how much of the social network is intact,
+    even when creating one with all available narratives from one culture. Many texts
+    are still missing and the ones we have frequently incomplete.In this study, we
+    focus on  a dataset we have that is almost complete to test the effect of information
+    loss (i.e. incomplete texts) and source loss (i.e. missing narratives). Marvel
+    and DC are two of the largest comic-book publishing houses in the world, each
+    with an average of 500 comics per year since the 1960s. We use data from the Grand
+    Comics Database to obtain estimates for the effect of source loss from a complex-networks
+    perspective.We perform simulations representing information loss (random edge
+    removal) and source loss (random comic removal).We split the comics into periods
+    of years known as “ages” which are pre-defined by the comic-book community. We
+    find that using the different ages, different sets of characters, simulating random-comic
+    loss or random-edge loss, all results are similar: once a sizeable amount of information
+    is lost, some of the central characters become less important to the network.
+    This has major implications for our understanding of central characters in world
+    mythology.'
+- Session name: Algorithms, Measures and Statistics
+  Talk Order: '6'
+  Abstract ID: '597'
+  Presenter: Yasaman Asgari
+  Talk title: Multiscale Temporal Node Assortativity in Feature-rich Temporal Networks
+  Abstract: The assortativity coefficient in static networks measures the tendency
+    of nodes to connect to other nodes with similar or dissimilar attributes, such
+    as age, gender, or political views. While extensively studied in static networks
+    across fields like biology and social networks, its exploration in temporal networks
+    remains limited. Citaro et al developed an assortativity measure for categorical
+    attributes, but assortativity for scalar attributes has not been generalized to
+    temporal networks yet. The typical approach often analyzes temporal networks by
+    aggregating them into static snapshots, which overlook the temporal order of connections
+    and may lead to misleading results. To address this, we propose a multiscale temporal
+    assortativity framework that captures the temporal intricacies of high-resolution
+    temporal networks and can be applied to categorical and scalar attributes.Assortativity
+    on static networks can be interpreted as the autocorrelation with a time lag of
+    1 of attributes visited by a random walker moving on the network. We generalized
+    this idea to temporal networks by modeling a continuous-time random walk (CTRW)
+    with jumping rate on fine-grained temporal networks and introduce temporal assortativity
+    as the correlation of attributes visited by the random walker. We also derive
+    a local temporal assortativity by considering CTRWs with initial probability localized
+    on a specific node.Our framework generalizes assortativity measures for temporal
+    networks that capture temporal and topological multi-scale effects. This is particularly
+    valuable for understanding network generation processes and estimating the impact
+    of homophily on network dynamics.
