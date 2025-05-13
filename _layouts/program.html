@@ -7,7 +7,7 @@ layout: default
 
 <style>
 :root {
-  --slot-width: 120px;
+  --slot-width: 95px;
   --room-name-width: 110px;
   --start-hour: 8;
   --end-hour: 19;
@@ -181,6 +181,17 @@ main {
     font-size: 0.6rem;
   }
 }
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover,
+a:visited {
+  color: black;
+  text-decoration: underline;
+}
 </style>
 
 
@@ -207,7 +218,6 @@ main {
           <div id="{{ slug }}" class="accordion-collapse collapse">
             <div class="accordion-body mt-2">
               <div class="mb-4">
-                <h5 class="fw-bold">Visual Overview</h5>
                 <div class="schedule-container">
                   <div class="scroll-sync-container">
                     <div class="scroll-inner">
@@ -265,24 +275,34 @@ main {
                             {% endfor %}
                             
                             {% for event in main_events %}
-                              {% assign start_time = event.time | split: " - " | first %}
-                              {% assign end_time = event.time | split: " - " | last %}
-                              {% assign start_h = start_time | split: ":" | first | plus: 0 %}
-                              {% assign start_m = start_time | split: ":" | last | plus: 0 %}
-                              {% assign end_h = end_time | split: ":" | first | plus: 0 %}
-                              {% assign end_m = end_time | split: ":" | last | plus: 0 %}
-                              {% assign start_min = start_h | times: 60 | plus: start_m %}
-                              {% assign end_min = end_h | times: 60 | plus: end_m %}
-                              {% assign left = start_min | minus: 450 | divided_by: 60.0 %}
-                              {% assign width = end_min | minus: start_min | divided_by: 60.0 %}
-                              {% assign cat_color = site.data.program.legend.categories | where: "name", event.category | map: "color" | first | default: "grey-6" %}
+                            {% assign start_time = event.time | split: " - " | first %}
+                            {% assign end_time = event.time | split: " - " | last %}
+                            {% assign start_h = start_time | split: ":" | first | plus: 0 %}
+                            {% assign start_m = start_time | split: ":" | last | plus: 0 %}
+                            {% assign end_h = end_time | split: ":" | first | plus: 0 %}
+                            {% assign end_m = end_time | split: ":" | last | plus: 0 %}
+                            {% assign start_min = start_h | times: 60 | plus: start_m %}
+                            {% assign end_min = end_h | times: 60 | plus: end_m %}
+                            {% assign left = start_min | minus: 450 | divided_by: 60.0 %}
+                            {% assign width = end_min | minus: start_min | divided_by: 60.0 %}
+                            {% assign cat_color = site.data.program.legend.categories | where: "name", event.category | map: "color" | first | default: "grey-6" %}
+                          
+                            {% if event.url %}
+                              <a href="{{ event.url }}" target="_blank" class="event-block bg-{{ cat_color }}"
+                                style="left: calc({{ left }} * var(--slot-width)); width: calc({{ width }} * var(--slot-width) - 4px);"
+                                title="{{ event.title }} | {{ event.time }}">
+                                <div class="event-time">{{ event.time }}</div>
+                                {{ event.title }}
+                              </a>
+                            {% else %}
                               <div class="event-block bg-{{ cat_color }}"
                                 style="left: calc({{ left }} * var(--slot-width)); width: calc({{ width }} * var(--slot-width) - 4px);"
                                 title="{{ event.title }} | {{ event.time }}">
                                 <div class="event-time">{{ event.time }}</div>
                                 {{ event.title }}
                               </div>
-                            {% endfor %}
+                            {% endif %}
+                          {% endfor %}
                           </div>
                         </div>
                         {% endif %}
@@ -340,7 +360,7 @@ main {
                               {% assign width = end_min | minus: start_min | divided_by: 60.0 %}
                               {% assign cat_color = site.data.program.legend.categories | where: "name", event.category | map: "color" | first | default: "grey-6" %}
                               {% if event.url %}
-                              <a href="{{ event.url }}" target="_blank" class="event-block bg-{{ cat_color }} satellite"
+                              <a href="{{ event.url }}" class="event-block bg-{{ cat_color }} satellite"
                                 style="left: calc({{ left }} * var(--slot-width)); width: calc({{ width }} * var(--slot-width) - 4px);"
                                 title="{{ event.title }} | {{ event.time }}">
                                 <div class="event-time">{{ event.time }}</div>
@@ -354,7 +374,6 @@ main {
                                 {{ event.title }}
                               </div>
                             {% endif %}
-
                             {% endfor %}
                           </div>
                         </div>
@@ -365,87 +384,10 @@ main {
                 </div> <!-- schedule-container -->
               </div>
 
-              <!-- List --> 
-              <ul class="list-unstyled ms-3 ms-lg-0 lh-sm">
-              {% assign categories = site.data.program.legend.categories %}
-              {% assign shown_satellite_times = "" %}
-            
-              {% comment %} Sort time {% endcomment %}
-              {% assign sorted_events = day.events | sort: "time" %}
-            
-              {% for event in sorted_events %}
-                {% assign color = categories | where: 'name', event.category | map: 'color' | first | default: 'gray-4' %}
-                {% assign time_parts = event.time | split: ' - ' %}
-                {% assign start = time_parts[0] %}
-                {% assign end = time_parts[1] %}
-                {% assign time_key = event.time | strip %}
-            
-                {% assign display = false %}
-                {% assign display_text = event.title %}
-            
-                {% if event.row == 1 %}
-                  {% assign display = true %}
-                  {% assign display_text = event.title %}
-                {% elsif event.row == 2 %}
-                  {% unless shown_satellite_times contains time_key %}
-                    {% assign display = true %}
-                    {% assign display_text = "Satellites" %}
-                    {% assign shown_satellite_times = shown_satellite_times | append: time_key | append: "|" %}
-                  {% endunless %}
-                {% elsif event.category == "Break" %}
-                  {% assign display = true %}
-                  {% assign display_text = event.title %}
-                {% endif %}
-            
-                {% if display %}
-                  <li class="d-flex flex-column flex-lg-row">
-                    {% assign classes = color | prepend: 'border-start border-3 border-' %}
-                    <div class="row col-lg-2 pb-2 {{ classes }} border-lg-0">
-                      <small class="fw-light text-muted">{{ start }} - {{ end }}</small>
-                    </div>
-                    {% unless forloop.last %}
-                      {% assign classes = classes | append: ' mb-4' %}
-                    {% endunless %}
-                    <div class="row col-lg-10 {{ classes }}">
-                      <h5 class="fw-normal m-0 mb-2">{{ display_text }}</h5>
-            
-                      {% if event.subtitle and event.row == 1 %}
-                        <p class="fw-light m-0">{{ event.subtitle }}</p>
-                      {% endif %}
-            
-                      <p class="fw-light m-0">
-                        {% if event.paper.first %}
-                          {% for paper in event.paper %}
-                            <a href="{{ paper | relative_url }}">[Paper {{ forloop.index }}]</a>
-                          {% endfor %}
-                        {% elsif event.paper %}
-                          <a href="{{ event.paper | relative_url }}">[Paper]</a>
-                        {% endif %}
-                        {% if event.poster.first %}
-                          {% for poster in event.poster %}
-                            <a href="{{ poster | relative_url }}">[Poster {{ forloop.index }}]</a>
-                          {% endfor %}
-                        {% elsif event.poster %}
-                          <a href="{{ event.poster | relative_url }}">[Poster]</a>
-                        {% endif %}
-                        {% if event.slides.first %}
-                          {% for slides in event.slides %}
-                            <a href="{{ slides | relative_url }}">[Slides {{ forloop.index }}]</a>
-                          {% endfor %}
-                        {% elsif event.slides %}
-                          <a href="{{ event.slides | relative_url }}">[Slides]</a>
-                        {% endif %}
-                      </p>
-                    </div>
-                  </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
-
-
-
+              
 
               <!-- LEGEND -->
+              {% assign categories = site.data.program.legend.categories %}
               {% assign legend = day.events | map: 'category' | compact | uniq %}
               {% assign size = legend | size %}
               {% if size > 0 %}
@@ -466,6 +408,8 @@ main {
                 {% endfor %}
               </div>
               {% endif %}
+
+
             </div>
           </div>
         </div>
@@ -474,6 +418,8 @@ main {
     </div>
     {% endif %}
   </div>
+
+
 </main>
 
 
