@@ -3,7 +3,9 @@ legend:
     - name: Lightning
       color: lime-4
     - name: Parallel
-      color: blue-6
+      color: blue-1
+    - name: Invited Speaker
+      color: orange-6
     - name: Break
       color: grey-6
     - name: Other Activities
@@ -19,28 +21,28 @@ days:
   - name: Mon 2 June 2025
     events:
       - time: 09:30 - 10:30
-        title: "School Speaker: Manlio De Domenico" 
+        title: "Manlio De Domenico (School Speaker)" 
         type: speaker
         category: Faculty FPN
         row: 1  
         room: FPN Heerlen Zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 11:00 - 12:30
-        title: "School Speaker: Manlio De Domenico"   
+        title: "Manlio De Domenico (School Speaker)"   
         category: Faculty FPN
         type: speaker
         row: 1  
         room: FPN Heerlen Zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 14:30 - 16:00
-        title: "School Speaker: Huijuan Wang"   
+        title: "Huijuan Wang (School Speaker)"   
         category: Faculty FPN
         type: speaker
         row: 1
         room: FPN Heerlen Zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 16:30 - 17:30
-        title: "School Speaker: Huijuan Wang"   
+        title: "Huijuan Wang (School Speaker)"   
         category: Faculty FPN
         type: speaker
         row: 1
@@ -387,28 +389,28 @@ days:
   - name: Tue 3 June 2025
     events:
       - time: 09:30 - 10:30
-        title: "School Speaker: Joseph Lizier"   
+        title: "Joseph Lizier (School Speaker)"   
         category: Faculty FPN
         type: speaker
         row: 1  
         room: FPN Heerlen Zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 11:00 - 12:30
-        title: "School Speaker: Joseph Lizier"   
+        title: "Joseph Lizier (School Speaker)"   
         category: Faculty FPN
         type: speaker
         row: 1  
         room: FPN Heerlen Zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 14:30 - 16:00
-        title: "School Speaker: Dillon Eastoe"   
+        title: "illon Eastoe (School Speaker)"   
         category: Faculty FPN
         type: speaker
         row: 1
         room: FPN Heerlen Zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 16:30 - 17:30
-        title: "School Speaker: Dillon Eastoe"   
+        title: "Dillon Eastoe (School Speaker)"   
         category: Faculty FPN
         type: speaker
         row: 1
@@ -699,94 +701,371 @@ days:
   - name: Wed 4 June 2025
     events:
       - time: 09:00 - 09:45
-        title: "Plenary Speaker: Sonia Kefi"
+        title: "Sonia Kefi (Plenary Speaker)"
         category: Invited Speaker
         row: 1
+        room: Auditorium 1
       - time: 09:45 - 10:30
         title: Lightning 1
         category: Lightning
         row: 1
+        room: Auditorium 1
+        url: /lightnings/wednesday-lightnings/
       - time: 10:30 - 11:00
         title: Coffee break + posters
         category: Break
         row: 1
+        room: Auditorium 1
       - time: 11:00 - 13:00
-        title: Parallel 1 
+        title: Social networks 1
         category: Parallel
         row: 1
+        room: Auditorium 1
+        url: /parallel/social-networks-1/
       - time: 13:00 - 14:30
         title: Lunch + posters
         category: Break
         row: 1
+        room: Auditorium 1
+        url: /posters/wednesday-posters/
       - time: 14:30 - 16:00
-        title: Parallel 2
+        title: Statistical analysis and inference 1
         category: Parallel
         row: 1
+        room: Auditorium 1
+        url: /parallel/statistical-analysis-and-inference-1/
       - time: 16:00 - 16:30
         title: Coffee break + posters 
         category: Break
         row: 1
+        room: Auditorium 1
       - time: 16:30 - 17:45
-        title: Parallel 3
+        title: Dynamics 1
         category: Parallel
         row: 1
+        room: Auditorium 1
+        url: /parallel/dynamics-1/
       - time: 17:45 - 18:30
-        title: "Plenary Speaker: Jari Saramaki"   
+        title: "Jari Saramaki (Plenary Speaker)"   
         category: Invited Speaker
         row: 1
+        room: Auditorium 1
       - time: 18:30 - 19:30 
         title: Welcome reception
+        category: Other Activities
+        row: 1
+        room: Auditorium 1
+      - time: 10:30 - 11:00
+        title: Coffee break + posters
         category: Break
         row: 1
+        room: Auditorium 1
+      - time: 11:00 - 13:00
+        title: Higher order networks 1
+        category: Parallel
+        row: 2
+        room: 0.11 Cape Town
+        url: /parallel/higher-order-networks-1/
+      - time: 13:00 - 14:30
+        title: Lunch + posters
+        category: Break
+        row: 2
+        room: 0.11 Cape Town
+        url: /posters/wednesday-posters/
+      - time: 14:30 - 16:00
+        title: Network Epidemics 1
+        category: Parallel
+        row: 2
+        room: 0.11 Cape Town
+        url: /parallel/network-epidemics-1/
+      - time: 16:00 - 16:30
+        title: Coffee break + posters 
+        category: Break
+        row: 2
+        room: 0.11 Cape Town
+      - time: 16:30 - 17:45
+        title: Network models
+        category: Parallel
+        row: 2
+        room: 0.11 Cape Town
+        url: /parallel/network-models/
+      - time: 11:00 - 13:00
+        title: Brain networks
+        category: Parallel
+        row: 3
+        room: 0.10 Sydney
+        url: /parallel/brain-networks/
+      - time: 13:00 - 14:30
+        title: Lunch + posters
+        category: Break
+        row: 3
+        room: 0.10 Sydney
+        url: /posters/wednesday-posters/
+      - time: 14:30 - 16:00
+        title: Machine Learning 1
+        category: Parallel
+        row: 3
+        room: 0.10 Sydney
+        url: /parallel/machine-learning-1/
+      - time: 16:00 - 16:30
+        title: Coffee break + posters 
+        category: Break
+        row: 3
+        room: 0.10 Sydney
+      - time: 16:30 - 17:45
+        title: Multilayer networks
+        category: Parallel
+        row: 3
+        room: 0.10 Sydney  
+        url: /parallel/multilayer-networks/
+      - time: 11:00 - 13:00
+        title: Culture & Technology
+        category: Parallel
+        row: 4
+        room: 0.05 Paris
+        url: /parallel/culture-and-technology/
+      - time: 13:00 - 14:30
+        title: Lunch + posters
+        category: Break
+        row: 4
+        room: 0.05 Paris
+        url: /posters/wednesday-posters/
+      - time: 14:30 - 16:00
+        title: Mobiity and spatial networks 1
+        category: Parallel
+        row: 4
+        room: 0.05 Paris
+        url: /parallel/mobiity-and-spatial-networks-1/
+      - time: 16:00 - 16:30
+        title: Coffee break + posters 
+        category: Break
+        row: 4
+        room: 0.05 Paris
+      - time: 16:30 - 17:45
+        title: Science of science
+        category: Parallel
+        row: 4
+        room: 0.05 Paris
+        url: /parallel/science-of-science/
+      - time: 11:00 - 13:00
+        title: Biological networks
+        category: Parallel
+        row: 5
+        room: 0.04 Brussels
+        url: /parallel/biological-networks/
+      - time: 13:00 - 14:30
+        title: Lunch + posters
+        category: Break
+        row: 5
+        room: 0.04 Brussels
+        url: /posters/wednesday-posters/
+      - time: 14:30 - 16:00
+        title: Finance networks and supply chains
+        category: Parallel
+        row: 5
+        room: 0.04 Brussels
+        url: /parallel/finance-networks-and-supply-chains/
+      - time: 16:00 - 16:30
+        title: Coffee break + posters 
+        category: Break
+        row: 5
+        room: 0.04 Brussels
+      - time: 16:30 - 17:45
+        title: Network Geometry
+        category: Parallel
+        row: 5
+        room: 0.04 Brussels 
+        url: /parallel/network-geometry/
         
   - name: Thu 5 June 2025
     events:
       - time: 09:00 - 09:45
-        title: "Plenary Speaker: Iza Romanowska"
+        title: "Iza Romanowska (Plenary Speaker)"
         category: Invited Speaker
         row: 1
+        room: Auditorium 1
       - time: 09:45 - 10:30
         title: Lightning 2
         category: Lightning
         row: 1
+        room: Auditorium 1
+        url: /lightnings/thursday-lightnings/
       - time: 10:30 - 11:00
         title: Coffee break + posters
         category: Break
         row: 1
+        room: Auditorium 1
       - time: 11:00 - 13:00
-        title: Parallel 4
+        title: Social networks 2
         category: Parallel
         row: 1
+        room: Auditorium 1
+        url: /parallel/social-networks-2/
       - time: 13:00 - 14:30
         title: Lunch + posters
         category: Break
         row: 1
+        room: Auditorium 1
+        url: /posters/thursday-posters/
       - time: 14:30 - 16:00
-        title: Parallel 5
+        title: Statistical analysis and inference 2
         category: Parallel
         row: 1
+        room: Auditorium 1
+        url: /parallel/statistical-analysis-and-inference-2/
       - time: 16:00 - 16:30
         title: Coffee break + posters 
         category: Break
         row: 1
+        room: Auditorium 1
       - time: 16:30 - 17:45
-        title: Parallel 6
+        title: Dynamics 3
         category: Parallel
         row: 1
+        room: Auditorium 1
+        url: /parallel/dynamics-3/
       - time: 17:45 - 18:30
-        title: "Plenary Speaker: Linda Douw (Chair: Chris Bick)"
+        title: "Linda Douw (Chair: Chris Bick) (Plenary Speaker)"
         category: Invited Speaker
         row: 1
+        room: Auditorium 1
       - time: 19:00 - 23:00
         title: Conference dinner
         category: Break
         row: 1
-
+        room: Auditorium 1
+      - time: 10:30 - 11:00
+        title: Coffee break + posters
+        category: Break
+        row: 2
+        room: 0.11 Cape Town
+      - time: 11:00 - 13:00
+        title: Higher order networks 2
+        category: Parallel
+        row: 2
+        room: 0.11 Cape Town
+        url: /parallel/higher-order-networks-2/
+      - time: 13:00 - 14:30
+        title: Lunch + posters
+        category: Break
+        row: 2
+        room: 0.11 Cape Town
+        url: /posters/thursday-posters/
+      - time: 14:30 - 16:00
+        title: Network epidemics 2
+        category: Parallel
+        row: 2
+        room: 0.11 Cape Town
+        url: /parallel/network-epidemics-2/
+      - time: 16:00 - 16:30
+        title: Coffee break + posters 
+        category: Break
+        row: 2
+        room: 0.11 Cape Town
+      - time: 16:30 - 17:45
+        title: Critical Phenomena In Networks
+        category: Parallel
+        row: 2
+        room: 0.11 Cape Town
+        url: /parallel/critical-phenomena-in-networks/
+      - time: 10:30 - 11:00
+        title: Coffee break + posters
+        category: Break
+        row: 3
+        room: 0.10 Sydney
+      - time: 11:00 - 13:00
+        title: Dynamics 2
+        category: Parallel
+        row: 3
+        room: 0.10 Sydney
+        url: /parallel/dynamics-2/
+      - time: 13:00 - 14:30
+        title: Lunch + posters
+        category: Break
+        row: 3
+        room: 0.10 Sydney
+        url: /posters/thursday-posters/
+      - time: 14:30 - 16:00
+        title: Algorithms, Measures and Statistics
+        category: Parallel
+        row: 3
+        room: 0.10 Sydney
+        url: /parallel/algorithms-measures-and-statistics/
+      - time: 16:00 - 16:30
+        title: Coffee break + posters 
+        category: Break
+        row: 3
+        room: 0.10 Sydney
+      - time: 16:30 - 17:45
+        title: Machine Learning 2
+        category: Parallel
+        row: 3
+        room: 0.10 Sydney
+        url: /parallel/machine-learning-2/
+      - time: 11:00 - 13:00
+        title: Contagion and spreading processes
+        category: Parallel
+        row: 4
+        room: 0.05 Paris
+        url: /parallel/contagion-and-spreading-processes/
+      - time: 13:00 - 14:30
+        title: Lunch + posters
+        category: Break
+        row: 4
+        room: 0.05 Paris
+        url: /posters/thursday-posters/
+      - time: 14:30 - 16:00
+        title: Mobility and spatial networks 2
+        category: Parallel
+        row: 4
+        room: 0.05 Paris
+        url: /parallel/mobility-and-spatial-networks-2/
+      - time: 16:00 - 16:30
+        title: Coffee break + posters 
+        category: Break
+        row: 4
+        room: 0.05 Paris
+      - time: 16:30 - 17:45
+        title: Signed networks
+        category: Parallel
+        row: 4
+        room: 0.05 Paris
+        url: /parallel/signed-networks/
+      - time: 11:00 - 13:00
+        title: Ecological networks
+        category: Parallel
+        row: 5
+        room: 0.05 Paris
+        url: /parallel/ecological-networks/
+      - time: 13:00 - 14:30
+        title: Lunch + posters
+        category: Break
+        row: 5
+        room: 0.04 Brussels
+        url: /posters/thursday-posters/
+      - time: 14:30 - 16:00
+        title: Temporal networks
+        category: Parallel
+        row: 5
+        room: 0.04 Brussels
+        url: /parallel/temporal-networks/
+      - time: 16:00 - 16:30
+        title: Coffee break + posters 
+        category: Break
+        row: 5
+        room: 0.04 Brussels
+      - time: 16:30 - 17:45
+        title: Synchronization and Control Theory
+        category: Parallel
+        row: 5
+        room: 0.04 Brussels
+        url: /parallel/synchronization-and-control-theory/
+    
         
   - name: Fri 6 June 2025
     events:
       - time: 09:00 - 10:00
-        title: "Plenary Speaker: Michael Macy"
+        title: "Michael Macy (Plenary Speaker)"
         category: Invited Speaker
         row: 1
       - time: 10:00 - 10:30
@@ -801,6 +1080,7 @@ days:
         title: Lunch + posters
         category: Break
         row: 1
+        url: /posters/friday-posters/
       - time: 14:00 - 16:00
         title: Focus sessions
         category: Invited Speaker 
