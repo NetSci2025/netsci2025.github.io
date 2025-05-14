@@ -15,3 +15,5 @@ The NetSci School and Satellite meetings (June 2–3) will be held at various Ma
 Click on individual events (e.g., satellite or parallel sessions) for more details on the talks.
 
 A full downloadable program will be available soon.
+
+All Parallels, Lightning Talks, and Posters can be found on [this page](https://netsci2025.github.io/all/).
