@@ -6,8 +6,19 @@ navorder: 7
 permalink: /partnerships/
 ---
 
-## Platinium sponsors
-[![Maastricht Convention Bureau](/assets/images/sponsors/Maastricht_Conv_Bureau.jpg){:width="500px"}](https://www.maastrichtconventionbureau.com/){:target="_blank"}
+## Platinum sponsors
+
+
+<div style="display: flex; justify-content: left; gap: 20px; align-items: center; text-align: center;">
+    <a href="https://www.maastrichtconventionbureau.com/" target="_blank">
+        <img src="/assets/images/sponsors/Maastricht_Conv_Bureau.jpg" alt="Maastricht Convention Bureau" style="width: 500px;">
+    </a>
+    <br>
+    <a href="https://www.nwo.nl/" target="_blank">
+        <img src="/assets/images/sponsors/nwo.jpg" alt="NWO" style="width: 150px;">
+    </a>
+</div>
+
 
 ---
 

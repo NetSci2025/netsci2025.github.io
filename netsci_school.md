@@ -11,7 +11,8 @@ permalink: /school/
 
 ## NetSci School
 
-The NetSci School is a two-day educational program (June 2nd-3th) that takes place just before the main NetSci conference. It offers intensive tutorials and hands-on workshops designed for students, early-career researchers, and newcomers to network science. Participants gain a solid foundation in key concepts, methods, and applications across disciplines. The School is a unique opportunity to learn from leading experts and connect with peers in an informal, collaborative setting.
+The NetSci School is a two-day educational program just before the main NetSci conference. It offers intensive tutorials and hands-on workshops designed for students, early-career researchers, and newcomers to network science. Participants gain a solid foundation in state-of-the-art methods across the various network science disciplines. The school is a unique opportunity to learn from experts in the field and connect with peers in an informal, collaborative setting.
+
 
 
 The school will take place at the room "FPN Heerlen Zaal" of the [Faculty of Psychology and Neuroscience](https://www.google.co.uk/maps/place/Universiteitssingel+40,+6229+ER+Maastricht/@50.8358356,5.7138384,17z/data=!3m1!4b1!4m6!3m5!1s0x47c0e9838bb71633:0xf86151ae38f3c588!8m2!3d50.8358322!4d5.7164133!16s%2Fg%2F11kfbv0hys?entry=tts&g_ep=EgoyMDI1MDQyMy4wIPu8ASoASAFQAw%3D%3D&skid=5a2ab926-26e3-4e0c-8b0d-a4f66d23dd9a). For exact times, please check the [Program](https://netsci2025.github.io/program_at_a_glance/)
