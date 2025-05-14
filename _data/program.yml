@@ -23,6 +23,7 @@ days:
       - time: 09:30 - 10:30
         title: "Manlio De Domenico (School Speaker)" 
         type: speaker
+        url: https://netsci2025.github.io/school/
         category: Faculty FPN
         row: 1  
         room: FPN Heerlen Zaal 
@@ -31,6 +32,7 @@ days:
         title: "Manlio De Domenico (School Speaker)"   
         category: Faculty FPN
         type: speaker
+        url: https://netsci2025.github.io/school/
         row: 1  
         room: FPN Heerlen Zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
@@ -38,6 +40,7 @@ days:
         title: "Huijuan Wang (School Speaker)"   
         category: Faculty FPN
         type: speaker
+        url: https://netsci2025.github.io/school/
         row: 1
         room: FPN Heerlen Zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
@@ -45,6 +48,7 @@ days:
         title: "Huijuan Wang (School Speaker)"   
         category: Faculty FPN
         type: speaker
+        url: https://netsci2025.github.io/school/
         row: 1
         room: FPN Heerlen Zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
@@ -392,6 +396,7 @@ days:
         title: "Joseph Lizier (School Speaker)"   
         category: Faculty FPN
         type: speaker
+        url: https://netsci2025.github.io/school/
         row: 1  
         room: FPN Heerlen Zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
@@ -399,6 +404,7 @@ days:
         title: "Joseph Lizier (School Speaker)"   
         category: Faculty FPN
         type: speaker
+        url: https://netsci2025.github.io/school/
         row: 1  
         room: FPN Heerlen Zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
@@ -406,6 +412,7 @@ days:
         title: "Dillon Eastoe (School Speaker)"   
         category: Faculty FPN
         type: speaker
+        url: https://netsci2025.github.io/school/
         row: 1
         room: FPN Heerlen Zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
@@ -413,6 +420,7 @@ days:
         title: "Dillon Eastoe (School Speaker)"   
         category: Faculty FPN
         type: speaker
+        url: https://netsci2025.github.io/school/
         row: 1
         room: FPN Heerlen Zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
