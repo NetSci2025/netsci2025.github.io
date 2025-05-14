@@ -162,7 +162,8 @@ layout: default
     <table class="custom-table">
       <thead>
         <tr>
-          {% for key in site.data.all[0] %}
+          {% assign keys = site.data.all[0] | keys %}
+          {% for key in keys %}
             <th>{{ key | replace: "_", " " | capitalize }}</th>
           {% endfor %}
         </tr>
@@ -170,7 +171,7 @@ layout: default
       <tbody>
         {% for item in site.data.all %}
           <tr>
-            {% for key in item %}
+            {% for key in keys %}
               <td>{{ item[key] }}</td>
             {% endfor %}
           </tr>
