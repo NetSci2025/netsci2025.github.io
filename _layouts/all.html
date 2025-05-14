@@ -158,26 +158,26 @@ layout: default
   <div class="container">
     <h1 class="display-5">{{ title }}</h1>
     <hr class="my-4">
-
-    <table class="custom-table">
-      <thead>
-        <tr>
-          {% assign keys = site.data.all[0] | keys %}
-          {% for key in keys %}
-            <th>{{ key | replace: "_", " " | capitalize }}</th>
-          {% endfor %}
-        </tr>
-      </thead>
-      <tbody>
-        {% for item in site.data.all %}
-          <tr>
-            {% for key in keys %}
-              <td>{{ item[key] }}</td>
+        <table class="custom-table">
+          <thead>
+            <tr>
+              {% assign keys = "Contribution_type,Session_name,Time,Abstract_ID,Presenter,Contribution_title" | split: "," %}
+              {% for key in keys %}
+                <th>{{ key | replace: "_", " " | capitalize }}</th>
+              {% endfor %}
+            </tr>
+          </thead>
+          <tbody>
+            {% for item in site.data.all %}
+              <tr>
+                {% for key in keys %}
+                  <td>{{ item[key] }}</td>
+                {% endfor %}
+              </tr>
             {% endfor %}
-          </tr>
-        {% endfor %}
-      </tbody>
-    </table>
+          </tbody>
+        </table>
+
   </div>
 </main>
 
