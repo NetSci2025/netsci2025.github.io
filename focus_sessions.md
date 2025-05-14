@@ -12,6 +12,9 @@ permalink: /focus_sessions/
 Focus Sessions at NetSci are thematic mini-symposia that bring together researchers working on specific topics within network science. They offer a platform for focused presentations, discussion, and collaboration around emerging or specialized areas.
 
 
+The school will take place on Friday June 6th between 14:00-16:00. For more information, please check the [Program](https://netsci2025.github.io/program_at_a_glance/)
+
+
 
 ## Focus Session 1: Network Psychometrics
 
