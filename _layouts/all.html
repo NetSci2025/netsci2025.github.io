@@ -161,7 +161,7 @@ layout: default
         <table class="custom-table">
           <thead>
             <tr>
-              {% assign keys = site.data.all[0] | keys %}
+              {% assign keys = "Contribution_type,Session_name,Time,Abstract_ID,Presenter,Contribution_title" | split: "," %}
               {% for key in keys %}
                 <th>{{ key | replace: "_", " " | capitalize }}</th>
               {% endfor %}
