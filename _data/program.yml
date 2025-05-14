@@ -839,11 +839,11 @@ days:
         room: 0.05 Paris
         url: /posters/wednesday-posters/
       - time: 14:30 - 16:00
-        title: Mobiity and spatial networks 1
+        title: Mobility and spatial networks 1
         category: Parallel
         row: 4
         room: 0.05 Paris
-        url: /parallel/mobiity-and-spatial-networks-1/
+        url: /parallel/mobility-and-spatial-networks-1/
       - time: 16:00 - 16:30
         title: Coffee break + posters 
         category: Break
