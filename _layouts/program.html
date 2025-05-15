@@ -238,7 +238,7 @@ a:visited {
                         <!-- School row -->
                         {% assign main_events = day.events | where_exp: "item", "item.row == 1" %}
                         {% assign school_room = main_events | map: "room" | uniq | first %}
-                        {% assign break_events = day.events | where: "category", "Break" %}
+                        {% assign break_events = day.events | where: "category", "Break" | where: "room", "Lobby" %}
                         {% if main_events.size > 0 %}
                         <div class="room-row">
                           <div class="room-name">
