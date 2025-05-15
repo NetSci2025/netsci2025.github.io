@@ -10,83 +10,183 @@ layout: default
         padding-top: 70px;
     }
 
-    main h2, main h3, main h4, main h5, main h6 {
-        margin-top: 1.25em; 
-        margin-bottom: 1em; 
+    .poster-search .input-group {
+        width: 300px;
     }
 
-    table.custom-table {
+    .poster-section > h2 {
+        text-align: center;
+        margin: 25px 0;
+    }
+
+    .card-container {
+        --card-max-width: 400px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, var(--card-max-width)));
+        gap: 15px;
+        padding: 0 40px;
+        justify-content: center;
+    }
+
+    .card-container + .card-container {
+        padding-top: 30px;
+    }
+
+    .card-container > h3 {
+        grid-column: 1 / -1;
+    }
+
+    .card-container .card {
+        max-width: var(--card-max-width);
         width: 100%;
-        border-collapse: collapse;
-        margin-top: 2em;
-        font-size: 0.95rem;
-        background-color: #f4f1f9; 
     }
 
-    table.custom-table th, table.custom-table td {
-        border: 1px solid #ccc;
-        padding: 8px 10px;
-        vertical-align: top;
+    .card-container .card:hover {
+        color: inherit;
     }
 
-    table.custom-table th {
-        border: 2px solid #666;
+    .poster-thumbnail {
+        max-height: 300px;
+        object-fit: cover;
+        object-position: top;
+    }
+
+    .poster-authors {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        font-size: 0.8rem;
+    }
+
+    .poster-authors > li:not(:last-child)::after {
+        content: ", ";
+        padding-right: 0.3em;
+        font-weight: normal;
+    }
+
+    .poster-authors .corresponding-author {
         font-weight: bold;
-        background-color: #ffffff;
-    }
-
-    table.custom-table tr:nth-child(even) {
-        background-color: #f4f1f9;
     }
 </style>
 
-<main class="my-4 {{ page.class }}">
+{% assign posters = site.data.posters | group_by: 'session' %}
+
+<main class="my-4">
     <div class="container">
-        <h1 class="display-5">{{ title }}</h1>
-        <hr class="my-4">
-        {{ content }}
+        <h1 class="display-5">{{ page.title }}</h1>
+        <p>
+            NetSci hosts poster sessions on <a href="#poster-section-Wednesday">Wednesday</a>, <a href="#poster-section-Thursday">Thursday</a>, and <a href="#poster-section-Friday">Friday</a>.
+            Publication of posters is optional on this page.
+        </p>
+        <hr class="my-4" />
 
-
-        <table class="custom-table">
-            <thead>
-                <tr>
-                    <th>Poster board</th>
-                    <th>Paper ID</th>
-                    <th>Presenter</th>
-                    <th>Poster Title</th>
-                    <th>Authors</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% assign poster_data = site.data.posters[page.slug] %}
-                {% for talk in poster_data.talks %}
-                <tr>
-                    <td>{{ talk['Poster board'] }}</td>
-                    <td>{{ talk['Paper ID'] }}</td>
-                    <td>{{ talk.Presenter }}</td>
-                    <td>{{ talk['Talk title'] }}</td>
-                    <td>{{ talk.Authors }}</td>
-                </tr>
-                {% endfor %}
-            </tbody>
-        </table>
-
+        <div class="poster-search d-flex flex-row-reverse">
+            <div class="input-group">
+                <div class="input-group-text"><i class="fas fa-search"></i></div>
+                <input type="text" class="form-control" id="poster-search" placeholder="Search..." />
+            </div>
+        </div>
     </div>
+
+    {% for group in posters %}
+    <div class="poster-section" id="poster-section-{{ group.name }}">
+        <h2 class="text-center">{{ group.name }}</h2>
+
+        {% assign categories = group.items | group_by: 'category' %}
+        {% for category in categories %}
+
+        <div class="card-container">
+            <h3>{{ page.categories[category.name] }}</h3>
+
+            {% assign category_posters = category.items | sort: 'title' %}
+            {% for poster in category_posters %}
+
+            {% if poster.poster_uploaded == "1" %}
+            <a class="poster-card card shadow-sm" href="https://rwth-aachen.sciebo.de/s/aI1ICq6jtfxcqgn/download?files={{ poster.id }}.pdf" target="_blank" data-title="{{ poster.title | downcase }}" data-authors="{{ poster.authors | downcase }}">
+            {% else %}
+            <div class="poster-card card shadow-sm" data-title="{{ poster.title |downcase }}" data-authors="{{ poster.authors | downcase }}">
+            {% endif %}
+
+                {% if poster.poster_uploaded == "1" %}
+                <img class="poster-thumbnail card-img-top" src="https://raw.githubusercontent.com/NetSci2025/poster-thumbnails/refs/heads/main/{{ poster.id }}.webp" alt="Thumbnail of {{ poster.title }}" loading="lazy" />
+                {% endif %}
+
+                <div class="card-body">
+                    <h3 class="card-title fs-5">{{ poster.title }}</h3>
+
+                    <ul class="poster-authors">
+                        {% assign authors = poster.authors | split: "; " %}
+                        {% for author in authors %}
+
+                        {% assign author_size = author | size | minus: 1 %}
+                        {% assign last_character = author | slice: author_size, 1 %}
+
+                        {% assign author_split = author | split: "(" %}
+                        {% assign author_name = author_split[0] | strip %}
+
+                        <li{% if last_character == '*' %} class="corresponding-author"{% endif %}>{{ author_name }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+
+                {% if poster.poster_uploaded == "1" %}
+                <div class="card-footer text-body-secondary text-center">
+                    View Poster
+                </div>
+                {% endif %}
+
+            {% if poster.poster_uploaded == "1" %}
+            </a>
+            {% else %}
+            </div>
+            {% endif %}
+
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </section>
+    {% endfor %}
 </main>
 
-
 <script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']]
-    },
-    svg: {
-      fontCache: 'global'
+search_field = document.getElementById("poster-search")
+posters = document.getElementsByClassName("poster-card")
+card_containers = document.getElementsByClassName("card-container")
+
+function search(query) {
+  query_words = query.split(" ")
+
+  // hide posters that do not match query
+  for (poster of posters) {
+    if (query_words.every((word) => poster.dataset.title.includes(word) || poster.dataset.authors.includes(word))) {
+      poster.classList.remove("d-none")
+    } else {
+      poster.classList.add("d-none")
     }
-  };
+  }
+
+  // hide card container in case all posters inside are hidden from this search
+  for (card_container of card_containers) {
+    if (card_container.querySelector(".card:not(.d-none)")) {
+      card_container.classList.remove("d-none")
+    } else {
+      card_container.classList.add("d-none")
+    }
+  }
+}
+
+wait_for_input_timeout = null
+search_field.addEventListener("input", (event) => {
+  query = event.target.value.toLowerCase()
+
+  if (wait_for_input_timeout) {
+    clearTimeout(wait_for_input_timeout)
+  }
+
+  wait_for_input_timeout = setTimeout(search, 200, query)
+});
 </script>
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
 
 {% include footer.html %}
-
