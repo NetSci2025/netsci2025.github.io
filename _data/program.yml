@@ -884,6 +884,22 @@ days:
         row: 5
         room: 0.04 Brussels 
         url: /parallel/network-geometry/
+      - time: 10:30 - 11:00
+        title: Coffee break + posters
+        category: Break
+        row: 6
+        room: Lobby
+      - time: 13:00 - 14:30
+        title: Lunch + posters
+        category: Break
+        row: 6   
+        room: Lobby
+      - time: 16:00 - 16:30
+        title: Coffee break + posters 
+        category: Break
+        row: 6
+        room: Lobby
+        
         
   - name: Thu 5 June 2025
     events:
@@ -1068,7 +1084,22 @@ days:
         row: 5
         room: 0.04 Brussels
         url: /parallel/synchronization-and-control-theory/
-    
+      - time: 10:30 - 11:00
+        title: Coffee break + posters
+        category: Break
+        row: 6
+        room: Lobby
+      - time: 13:00 - 14:30
+        title: Lunch + posters
+        category: Break
+        row: 6   
+        room: Lobby
+      - time: 16:00 - 16:30
+        title: Coffee break + posters 
+        category: Break
+        row: 6
+        room: Lobby
+        
         
   - name: Fri 6 June 2025
     events:
@@ -1097,3 +1128,18 @@ days:
         title: Closing
         category: Other Activities
         row: 1
+      - time: 10:30 - 11:00
+        title: Coffee break + posters
+        category: Break
+        row: 2
+        room: Lobby
+      - time: 13:00 - 14:30
+        title: Lunch + posters
+        category: Break
+        row: 2
+        room: Lobby
+      - time: 16:00 - 16:30
+        title: Coffee break + posters 
+        category: Break
+        row: 2
+        room: Lobby
