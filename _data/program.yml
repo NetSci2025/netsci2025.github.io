@@ -1212,18 +1212,22 @@ days:
         title: "Michael Macy (Plenary Speaker)"
         category: Invited Speaker
         row: 1
+        room: Auditorium 1
       - time: 10:30 - 12:30
         title: NSS Awards
         category: Other Activities
         row: 1
+        room: Auditorium 1
       - time: 14:00 - 16:00
         title: Focus sessions
         category: Invited Speaker 
         row: 1
+        room: Auditorium 1
       - time: 16:00 - 16:20
         title: Closing
         category: Other Activities
         row: 1
+        room: Auditorium 1
       - time: 10:00 - 10:30
         title: Coffee break + posters
         category: Break
