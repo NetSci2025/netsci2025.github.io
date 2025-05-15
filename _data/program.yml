@@ -889,17 +889,20 @@ days:
         category: Break
         row: 6
         room: Lobby
+        url: /posters/wednesday-posters/
       - time: 13:00 - 14:30
         title: Lunch + posters
         category: Break
         row: 6   
         room: Lobby
+        url: /posters/wednesday-posters/
       - time: 16:00 - 16:30
         title: Coffee break + posters 
         category: Break
         row: 6
         room: Lobby
-        
+        url: /posters/wednesday-posters/
+
         
   - name: Thu 5 June 2025
     events:
@@ -1088,16 +1091,19 @@ days:
         title: Coffee break + posters
         category: Break
         row: 6
+        url: /posters/thursday-posters/
         room: Lobby
       - time: 13:00 - 14:30
         title: Lunch + posters
         category: Break
         row: 6   
+        url: /posters/thursday-posters/
         room: Lobby
       - time: 16:00 - 16:30
         title: Coffee break + posters 
         category: Break
         row: 6
+        url: /posters/thursday-posters/
         room: Lobby
         
         
