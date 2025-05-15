@@ -719,34 +719,18 @@ days:
         row: 1
         room: Auditorium 1
         url: /lightnings/wednesday-lightnings/
-      - time: 10:30 - 11:00
-        title: Coffee break + posters
-        category: Break
-        row: 1
-        room: Auditorium 1
       - time: 11:00 - 13:00
         title: Social networks 1
         category: Parallel
         row: 1
         room: Auditorium 1
         url: /parallel/social-networks-1/
-      - time: 13:00 - 14:30
-        title: Lunch + posters
-        category: Break
-        row: 1
-        room: Auditorium 1
-        url: /posters/wednesday-posters/
       - time: 14:30 - 16:00
         title: Statistical analysis and inference 1
         category: Parallel
         row: 1
         room: Auditorium 1
         url: /parallel/statistical-analysis-and-inference-1/
-      - time: 16:00 - 16:30
-        title: Coffee break + posters 
-        category: Break
-        row: 1
-        room: Auditorium 1
       - time: 16:30 - 17:45
         title: Dynamics 1
         category: Parallel
@@ -763,34 +747,18 @@ days:
         category: Other Activities
         row: 1
         room: Auditorium 1
-      - time: 10:30 - 11:00
-        title: Coffee break + posters
-        category: Break
-        row: 1
-        room: Auditorium 1
       - time: 11:00 - 13:00
         title: Higher order networks 1
         category: Parallel
         row: 2
         room: 0.11 Cape Town
         url: /parallel/higher-order-networks-1/
-      - time: 13:00 - 14:30
-        title: Lunch + posters
-        category: Break
-        row: 2
-        room: 0.11 Cape Town
-        url: /posters/wednesday-posters/
       - time: 14:30 - 16:00
         title: Network Epidemics 1
         category: Parallel
         row: 2
         room: 0.11 Cape Town
         url: /parallel/network-epidemics-1/
-      - time: 16:00 - 16:30
-        title: Coffee break + posters 
-        category: Break
-        row: 2
-        room: 0.11 Cape Town
       - time: 16:30 - 17:45
         title: Network models
         category: Parallel
@@ -803,23 +771,12 @@ days:
         row: 3
         room: 0.10 Sydney
         url: /parallel/brain-networks/
-      - time: 13:00 - 14:30
-        title: Lunch + posters
-        category: Break
-        row: 3
-        room: 0.10 Sydney
-        url: /posters/wednesday-posters/
       - time: 14:30 - 16:00
         title: Machine Learning 1
         category: Parallel
         row: 3
         room: 0.10 Sydney
         url: /parallel/machine-learning-1/
-      - time: 16:00 - 16:30
-        title: Coffee break + posters 
-        category: Break
-        row: 3
-        room: 0.10 Sydney
       - time: 16:30 - 17:45
         title: Multilayer networks
         category: Parallel
@@ -832,23 +789,12 @@ days:
         row: 4
         room: 0.05 Paris
         url: /parallel/culture-and-technology/
-      - time: 13:00 - 14:30
-        title: Lunch + posters
-        category: Break
-        row: 4
-        room: 0.05 Paris
-        url: /posters/wednesday-posters/
       - time: 14:30 - 16:00
         title: Mobility and spatial networks 1
         category: Parallel
         row: 4
         room: 0.05 Paris
         url: /parallel/mobility-and-spatial-networks-1/
-      - time: 16:00 - 16:30
-        title: Coffee break + posters 
-        category: Break
-        row: 4
-        room: 0.05 Paris
       - time: 16:30 - 17:45
         title: Science of science
         category: Parallel
@@ -861,23 +807,12 @@ days:
         row: 5
         room: 0.04 Brussels
         url: /parallel/biological-networks/
-      - time: 13:00 - 14:30
-        title: Lunch + posters
-        category: Break
-        row: 5
-        room: 0.04 Brussels
-        url: /posters/wednesday-posters/
       - time: 14:30 - 16:00
         title: Finance networks and supply chains
         category: Parallel
         row: 5
         room: 0.04 Brussels
         url: /parallel/finance-networks-and-supply-chains/
-      - time: 16:00 - 16:30
-        title: Coffee break + posters 
-        category: Break
-        row: 5
-        room: 0.04 Brussels
       - time: 16:30 - 17:45
         title: Network Geometry
         category: Parallel
@@ -917,34 +852,18 @@ days:
         row: 1
         room: Auditorium 1
         url: /lightnings/thursday-lightnings/
-      - time: 10:30 - 11:00
-        title: Coffee break + posters
-        category: Break
-        row: 1
-        room: Auditorium 1
       - time: 11:00 - 13:00
         title: Social networks 2
         category: Parallel
         row: 1
         room: Auditorium 1
         url: /parallel/social-networks-2/
-      - time: 13:00 - 14:30
-        title: Lunch + posters
-        category: Break
-        row: 1
-        room: Auditorium 1
-        url: /posters/thursday-posters/
       - time: 14:30 - 16:00
         title: Statistical analysis and inference 2
         category: Parallel
         row: 1
         room: Auditorium 1
         url: /parallel/statistical-analysis-and-inference-2/
-      - time: 16:00 - 16:30
-        title: Coffee break + posters 
-        category: Break
-        row: 1
-        room: Auditorium 1
       - time: 16:30 - 17:45
         title: Dynamics 3
         category: Parallel
@@ -961,68 +880,36 @@ days:
         category: Break
         row: 1
         room: Auditorium 1
-      - time: 10:30 - 11:00
-        title: Coffee break + posters
-        category: Break
-        row: 2
-        room: 0.11 Cape Town
       - time: 11:00 - 13:00
         title: Higher order networks 2
         category: Parallel
         row: 2
         room: 0.11 Cape Town
         url: /parallel/higher-order-networks-2/
-      - time: 13:00 - 14:30
-        title: Lunch + posters
-        category: Break
-        row: 2
-        room: 0.11 Cape Town
-        url: /posters/thursday-posters/
       - time: 14:30 - 16:00
         title: Network epidemics 2
         category: Parallel
         row: 2
         room: 0.11 Cape Town
         url: /parallel/network-epidemics-2/
-      - time: 16:00 - 16:30
-        title: Coffee break + posters 
-        category: Break
-        row: 2
-        room: 0.11 Cape Town
       - time: 16:30 - 17:45
         title: Critical Phenomena In Networks
         category: Parallel
         row: 2
         room: 0.11 Cape Town
         url: /parallel/critical-phenomena-in-networks/
-      - time: 10:30 - 11:00
-        title: Coffee break + posters
-        category: Break
-        row: 3
-        room: 0.10 Sydney
       - time: 11:00 - 13:00
         title: Dynamics 2
         category: Parallel
         row: 3
         room: 0.10 Sydney
         url: /parallel/dynamics-2/
-      - time: 13:00 - 14:30
-        title: Lunch + posters
-        category: Break
-        row: 3
-        room: 0.10 Sydney
-        url: /posters/thursday-posters/
       - time: 14:30 - 16:00
         title: Algorithms, Measures and Statistics
         category: Parallel
         row: 3
         room: 0.10 Sydney
         url: /parallel/algorithms-measures-and-statistics/
-      - time: 16:00 - 16:30
-        title: Coffee break + posters 
-        category: Break
-        row: 3
-        room: 0.10 Sydney
       - time: 16:30 - 17:45
         title: Machine Learning 2
         category: Parallel
@@ -1035,23 +922,12 @@ days:
         row: 4
         room: 0.05 Paris
         url: /parallel/contagion-and-spreading-processes/
-      - time: 13:00 - 14:30
-        title: Lunch + posters
-        category: Break
-        row: 4
-        room: 0.05 Paris
-        url: /posters/thursday-posters/
       - time: 14:30 - 16:00
         title: Mobility and spatial networks 2
         category: Parallel
         row: 4
         room: 0.05 Paris
         url: /parallel/mobility-and-spatial-networks-2/
-      - time: 16:00 - 16:30
-        title: Coffee break + posters 
-        category: Break
-        row: 4
-        room: 0.05 Paris
       - time: 16:30 - 17:45
         title: Signed networks
         category: Parallel
@@ -1064,23 +940,12 @@ days:
         row: 5
         room: 0.05 Paris
         url: /parallel/ecological-networks/
-      - time: 13:00 - 14:30
-        title: Lunch + posters
-        category: Break
-        row: 5
-        room: 0.04 Brussels
-        url: /posters/thursday-posters/
       - time: 14:30 - 16:00
         title: Temporal networks
         category: Parallel
         row: 5
         room: 0.04 Brussels
         url: /parallel/temporal-networks/
-      - time: 16:00 - 16:30
-        title: Coffee break + posters 
-        category: Break
-        row: 5
-        room: 0.04 Brussels
       - time: 16:30 - 17:45
         title: Synchronization and Control Theory
         category: Parallel
@@ -1113,19 +978,10 @@ days:
         title: "Michael Macy (Plenary Speaker)"
         category: Invited Speaker
         row: 1
-      - time: 10:00 - 10:30
-        title: Coffee break + posters
-        category: Break
-        row: 1
       - time: 10:30 - 12:30
         title: NSS Awards
         category: Other Activities
         row: 1
-      - time: 12:30 - 14:00
-        title: Lunch + posters
-        category: Break
-        row: 1
-        url: /posters/friday-posters/
       - time: 14:00 - 16:00
         title: Focus sessions
         category: Invited Speaker 
@@ -1143,6 +999,6 @@ days:
       - time: 12:30 - 14:00
         title: Lunch + posters
         category: Break
-        row: 1
+        row: 2
         url: /posters/friday-posters/
         room: Lobby
