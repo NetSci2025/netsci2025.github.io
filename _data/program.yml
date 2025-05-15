@@ -1128,18 +1128,15 @@ days:
         title: Closing
         category: Other Activities
         row: 1
-      - time: 10:30 - 11:00
+      - time: 10:00 - 10:30
         title: Coffee break + posters
         category: Break
         row: 2
+        url: /posters/friday-posters/
         room: Lobby
-      - time: 13:00 - 14:30
+      - time: 12:30 - 14:00
         title: Lunch + posters
         category: Break
-        row: 2
-        room: Lobby
-      - time: 16:00 - 16:30
-        title: Coffee break + posters 
-        category: Break
-        row: 2
+        row: 1
+        url: /posters/friday-posters/
         room: Lobby
