@@ -52,6 +52,18 @@ days:
         row: 1
         room: FPN Heerlen Zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 1
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 1
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 1
       - time: 08:30 - 10:30
         title: (Satellite) The Science of Connections--Urban Mobility and Health Network
         category: Faculty FPN
@@ -84,6 +96,18 @@ days:
         row: 2
         room: FPN Tongeren zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 2
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 2
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 2
       - time: 08:30 - 10:30
         title: (Satellite) Networks in Science of Science
         category: Faculty FPN
@@ -116,6 +140,18 @@ days:
         row: 3
         room: FPN Aken zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 3
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 3
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 3
       - time: 08:30 - 10:30
         title: (Satellite) Software and Data for Supporting Network Science
         category: Faculty FPN
@@ -148,6 +184,18 @@ days:
         row: 4
         room: FPN Groente zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 4
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 4
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 4
       - time: 08:30 - 10:30
         title: (Satellite) TEmporal NETworks (TENET)
         category: Faculty FSE
@@ -180,6 +228,18 @@ days:
         row: 5
         room: FSE Conference hall EPD150
         room url: https://maps.app.goo.gl/rqy3Vewj6tbC8QjL7
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 5
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 5
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 5
       - time: 08:30 - 10:30
         title: (Satellite) Critical Phenomena In Networks (CPIN)
         category: Faculty FSE
@@ -212,6 +272,18 @@ days:
         row: 6
         room: FSE C1.005 at PHS1
         room url: https://maps.app.goo.gl/miyQLvWukxrTFPfK6
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 6
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 6
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 6
       - time: 08:30 - 10:30
         title: (Satellite) Network Renormalization (NetRG)
         category: Faculty FSE
@@ -244,6 +316,18 @@ days:
         row: 7
         room: FSE C1.005 at PHS1
         room url: https://maps.app.goo.gl/miyQLvWukxrTFPfK6
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 7
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 7
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 7
       - time: 08:30 - 10:30
         title: (Satellite) Networks in Biology and Medicine (NetBioMed)
         category: Faculty FASOS
@@ -276,6 +360,18 @@ days:
         row: 8
         room: FASoS GG76 1.02
         room url: https://maps.app.goo.gl/keqLmM9kXgwEoeoG8
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 8
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 8
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 8
       - time: 08:30 - 10:30
         title: (Satellite) Network Neuroscience
         category: Faculty FASOS
@@ -308,6 +404,18 @@ days:
         row: 9
         room: FASoS GG76S 1.018
         room url: https://maps.app.goo.gl/NVxXJbJyiwX8PfDGA
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 9
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 9
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 9
       - time: 08:30 - 10:30
         title: (Satellite) Higher-Order Network Science meets AI (HONAI)
         category: Faculty FASOS
@@ -340,6 +448,18 @@ days:
         row: 10
         room: FASoS GG90-92 A0 Turnzaal
         room url: https://maps.app.goo.gl/MxemXftStCLKWnZG9
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 10
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 10
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 10
       - time: 08:30 - 10:30
         title: (Satellite) A Workshop on Directed Acyclic Graphs (DAGshop)
         category: Faculty FASOS
@@ -372,6 +492,18 @@ days:
         row: 11
         room: FASoS GG76 0.07 
         room url: https://maps.app.goo.gl/keqLmM9kXgwEoeoG8
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 11
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 11
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 11
       - time: 14:30 - 16:00
         title: (Satellite) Networking and Clustering Network Scientists
         category: Faculty FASOS
@@ -380,15 +512,6 @@ days:
         row: 12
         room: FASoS GG76 0.16
         room url: https://maps.app.goo.gl/keqLmM9kXgwEoeoG8
-      - time: 12:30 - 14:30
-        title: Lunch break
-        category: Break
-      - time: 10:30 - 11:00
-        title: Coffee break
-        category: Break
-      - time: 16:00 - 16:30
-        title: Coffee break
-        category: Break
         
   - name: Tue 3 June 2025
     events:
@@ -424,6 +547,18 @@ days:
         row: 1
         room: FPN Heerlen Zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 1
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 1
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 1
       - time: 08:30 - 10:30
         title: (Satellite) 2nd NetSci Satellite on Firm-Level Supply Chain Networks (FLSCN)
         category: Faculty FPN
@@ -456,6 +591,18 @@ days:
         row: 2
         room: FPN Tongeren zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 2
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 2
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 2
       - time: 08:30 - 10:30
         title: (Satellite) Between higher-order mechanisms and phenomena (TopoNets25)
         category: Faculty FPN
@@ -488,6 +635,18 @@ days:
         row: 3
         room: FPN Paarse zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 3
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 3
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 3
       - time: 08:30 - 10:30
         title: (Satellite) Network Geometry--Theory and Applications
         category: Faculty FPN
@@ -520,6 +679,18 @@ days:
         row: 4
         room: FPN Groente zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 4
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 4
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 4
       - time: 08:30 - 10:30
         title: (Satellite) Statistical Inference for Network Models (SINM)
         category: Faculty FSE
@@ -552,6 +723,18 @@ days:
         row: 5
         room: FSE Conference hall EPD150
         room url: https://maps.app.goo.gl/rqy3Vewj6tbC8QjL7
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 5
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 5
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 5
       - time: 08:30 - 10:30
         title: (Satellite) Multiscale & Integrative compleX Networks--EXperiments & Theories (MIX-NEXT)
         category: Faculty FSE
@@ -584,6 +767,18 @@ days:
         row: 6
         room: FSE C1.005 at PHS1
         room url: https://maps.app.goo.gl/miyQLvWukxrTFPfK6
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 6
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 6
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 6
       - time: 08:30 - 10:30
         title: (Satellite) Networked Criminal Complexity
         category: Faculty FSE
@@ -616,6 +811,18 @@ days:
         row: 7
         room: FSE C1.015 at PHS1
         room url: https://maps.app.goo.gl/miyQLvWukxrTFPfK6
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 7
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 7
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 7
       - time: 08:30 - 10:30
         title: (Satellite) Epidemic control--From mobility data to public health (EpiMob)
         category: Faculty FASOS
@@ -648,6 +855,18 @@ days:
         row: 8
         room: FASoS GG76 1.02
         room url: https://maps.app.goo.gl/keqLmM9kXgwEoeoG8
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 8
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 8
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 8
       - time: 08:30 - 10:30
         title: (Satellite) Algorithmic Fairness in Network Science
         category: Faculty FASOS
@@ -680,6 +899,18 @@ days:
         row: 9
         room: FASoS GG76S 1.018
         room url: https://maps.app.goo.gl/NVxXJbJyiwX8PfDGA
+      - time: 12:30 - 14:30
+        title: Lunch break
+        category: Break
+        row: 9
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 9
+      - time: 16:00 - 16:30
+        title: Coffee break
+        category: Break
+        row: 9
       - time: 08:30 - 10:30
         title: (Satellite) Understudied Networks in Computational Social Science
         category: Faculty FASOS
@@ -697,14 +928,17 @@ days:
         room: FASoS GG90-92 A0 Turnzaal 
         room url: https://maps.app.goo.gl/MxemXftStCLKWnZG9
       - time: 12:30 - 14:30
-        title: Coffee break
-        category: Break
-      - time: 10:30 - 11:00
         title: Lunch break
         category: Break
+        row: 10
+      - time: 10:30 - 11:00
+        title: Coffee break
+        category: Break
+        row: 10
       - time: 16:00 - 16:30
         title: Coffee break
         category: Break
+        row: 10
         
   - name: Wed 4 June 2025
     events:
