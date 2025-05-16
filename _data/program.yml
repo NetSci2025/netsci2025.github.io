@@ -158,7 +158,7 @@ days:
         type: satellite
         url: https://netsci.nascol.net
         row: 4
-        room: FPN Groente zaal
+        room: FPN Groene zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 11:00 - 12:30
         title: (Satellite) Software and Data for Supporting Network Science
@@ -166,7 +166,7 @@ days:
         type: satellite
         url: https://netsci.nascol.net
         row: 4
-        room: FPN Groente zaal
+        room: FPN Groene zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 14:30 - 16:00
         title: (Satellite) Software and Data for Supporting Network Science
@@ -174,7 +174,7 @@ days:
         type: satellite
         url: https://netsci.nascol.net
         row: 4
-        room: FPN Groente zaal
+        room: FPN Groene zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 16:30 - 18:30
         title: (Satellite) Software and Data for Supporting Network Science
@@ -182,7 +182,7 @@ days:
         type: satellite
         url: https://netsci.nascol.net
         row: 4
-        room: FPN Groente zaal
+        room: FPN Groene zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 12:30 - 14:30
         title: Lunch break
@@ -653,7 +653,7 @@ days:
         type: satellite
         url: https://mappingcomplexity.net/mainpage/netsci-2025/
         row: 4
-        room: FPN Groente zaal 
+        room: FPN Groene zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 11:00 - 12:30
         title: (Satellite) Network Geometry--Theory and Applications
@@ -661,7 +661,7 @@ days:
         type: satellite
         url: https://mappingcomplexity.net/mainpage/netsci-2025/
         row: 4
-        room: FPN Groente zaal 
+        room: FPN Groene zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 14:30 - 16:00
         title: (Satellite) Network Geometry--Theory and Applications
@@ -669,7 +669,7 @@ days:
         type: satellite
         url: https://mappingcomplexity.net/mainpage/netsci-2025/
         row: 4
-        room: FPN Groente zaal 
+        room: FPN Groene zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 16:30 - 18:30
         title: (Satellite) Network Geometry--Theory and Applications
@@ -677,7 +677,7 @@ days:
         type: satellite
         url: https://mappingcomplexity.net/mainpage/netsci-2025/
         row: 4
-        room: FPN Groente zaal 
+        room: FPN Groene zaal 
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 12:30 - 14:30
         title: Lunch break
