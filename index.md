@@ -23,6 +23,20 @@ NetSci, the International School and Conference on Network Science, is the flags
 - ~~**Late breaking work submission deadline**: 2 April, 2025~~
 - **Conference Dates**: June 2 to 6 2025
 
+## Instructions for preparing your contribution: 
+- Lightning talks: 3 min / 3 slides. 
+- Contributed oral: 12 min + 3 min for questions. 
+- Posters: A0 portrait (vertical). Poster pins will be available. 
+
+If you prefer to print your poster in Maastricht instead of traveling with it, you can also find printing services in town. One such service is listed below---please contact them directly to order, pay for and pick up your posters. Note that the shop is closed on weekends; the schedule is 9 am to 5 pm CEST; and Thursday, May 29th, and Friday, May 30th, are holidays this year in the Netherlands.
+
+Houx Digiprint Maastricht
+Brusselsestraat 134, 6211 PJ Maastricht 
+Open Monday to Friday, 09:00 – 17:00 
+T +31 43 325 65 05 
+maastricht@houxdigiprint.nl
+
+
 
 ## Discover Maastricht
 
