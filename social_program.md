@@ -33,6 +33,15 @@ See more photos [here](https://www.dropbox.com/scl/fo/ueob1yg2xnjns595dbjg7/APVN
 
 ---
 
+## Match them all! poster game & best poster award 
+
+Looking for a fun way to connect with other participants at NetSci? As part of the NetPlace activities, this game is designed to foster connections through a network-inspired challenge. Each attendee receives a small graph on their badge and must find matching posters and people during the conference. It’s a playful way to encourage interactions and explore structural similarities---just like in network science. Learn more and see the full rules on the [NetPlace page](https://netplace.site/event/netsci25/match_them_all_social_activity/)
+
+Organized by NetPlace. NetPlace serves as a welcoming space where researchers can share their work, discuss challenges, and build connections. Not only we talk about our research developments, but also we discuss various challenges and difficulties we face in our journey to become a network scientist.
+
+
+
+---
 
 ## 🍺 NetSci 2025 Signature Brew at Stadsherberg de Poshoorn
 “Hoppy Connectivity Tripel” “Where every sip builds a new link.”
