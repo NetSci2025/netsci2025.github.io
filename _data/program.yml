@@ -1,4 +1,4 @@
-legend:
+pylegend:
   categories:
     - name: Lightning
       color: lime-4
@@ -260,7 +260,7 @@ days:
         title: (Satellite) Physical Networks, III Edition
         category: Faculty FSE
         type: satellite
-        url: https://tinyurl.com/tpajjdz9
+        url: https://sites.google.com/view/physnet25/physnet25
         row: 6
         room: FSE C1.005 at PHS1
         room url: https://maps.app.goo.gl/miyQLvWukxrTFPfK6
@@ -268,7 +268,7 @@ days:
         title: (Satellite) Physical Networks, III Edition
         category: Faculty FSE
         type: satellite
-        url: https://tinyurl.com/tpajjdz9
+        url: https://sites.google.com/view/physnet25/physnet25
         row: 6
         room: FSE C1.005 at PHS1
         room url: https://maps.app.goo.gl/miyQLvWukxrTFPfK6
