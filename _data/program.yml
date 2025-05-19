@@ -1228,15 +1228,20 @@ days:
         category: Other Activities
         row: 1
         room: Auditorium 1
+      - time: 14:00 - 16:00
+        title: Focus sessions
+        category: Invited Speaker 
+        row: 2
+        room: 0.11 Cape Town
       - time: 10:00 - 10:30
         title: Coffee break + posters
         category: Break
-        row: 2
+        row: 3
         url: /posters/friday-posters/
         room: Lobby
       - time: 12:30 - 14:00
         title: Lunch + posters
         category: Break
-        row: 2
+        row: 3
         url: /posters/friday-posters/
         room: Lobby
