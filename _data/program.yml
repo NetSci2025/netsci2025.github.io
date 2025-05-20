@@ -1,4 +1,4 @@
-pylegend:
+legend:
   categories:
     - name: Lightning
       color: lime-4
