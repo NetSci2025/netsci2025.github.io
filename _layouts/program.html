@@ -195,8 +195,6 @@ a:visited {
 </style>
 
 
-
-
 <main class="my-4">
   <div class="container">
     <h1 class="display-5">{{ title }}</h1>
@@ -232,164 +230,60 @@ a:visited {
                         {% endfor %}
                       </div>
 
-                      <!-- Room Rows (in same scroll area) -->
+                      <!-- Room Rows -->
                       <div class="room-rows">
+                        {% assign all_rows = day.events | map: "row" | uniq | sort %}
+                        {% for row in all_rows %}
+                          {% assign row_events = day.events | where: "row", row %}
+                          {% assign room_name = row_events | map: "room" | uniq | first %}
 
-                        <!-- School row -->
-                        {% assign main_events = day.events | where_exp: "item", "item.row == 1" %}
-                        {% assign school_room = main_events | map: "room" | uniq | first %}
-                        {% assign break_events = day.events | where: "category", "Break" | where: "room", school_room %}
-                        {% if school_room != "Lobby" and main_events.size > 0 %}
-                        <div class="room-row">
-                          <div class="room-name">
-                            {% assign school_room_url = main_events | map: "room url" | uniq | first %}
-                            {% if school_room_url %}
-                              <a href="{{ school_room_url }}" target="_blank" class="text-decoration-none">{{ school_room }}</a>
-                            {% else %}
-                              {{ school_room }}
-                            {% endif %}
-                          </div>
-                          <div class="time-slots">
-                            {% for h in (start_hour..end_hour) %}
-                              <div class="time-slot"></div>
-                            {% endfor %}
-
-                            {% if break_events.size > 0 %}
-                              {% for break_event in break_events %}
-                                {% assign break_start = break_event.time | split: " - " | first %}
-                                {% assign break_end = break_event.time | split: " - " | last %}
-                                {% assign break_start_h = break_start | split: ":" | first | plus: 0 %}
-                                {% assign break_start_m = break_start | split: ":" | last | plus: 0 %}
-                                {% assign break_end_h = break_end | split: ":" | first | plus: 0 %}
-                                {% assign break_end_m = break_end | split: ":" | last | plus: 0 %}
-                                {% assign break_start_min = break_start_h | times: 60 | plus: break_start_m %}
-                                {% assign break_end_min = break_end_h | times: 60 | plus: break_end_m %}
-                                {% assign break_left = break_start_min | minus: 450 | divided_by: 60.0 %}
-                                {% assign break_width = break_end_min | minus: break_start_min | divided_by: 60.0 %}
-                                <div class="event-block bg-grey-6 break"
-                                  style="left: calc({{ break_left }} * var(--slot-width)); width: calc({{ break_width }} * var(--slot-width) - 4px);"
-                                  title="{{ break_event.title }} | {{ break_event.time }}">
-                                  <div class="event-time">{{ break_event.time }}</div>
-                                  {{ break_event.title }}
-                                </div>
-                              {% endfor %}
-                            {% endif %}
-                            
-                            {% for event in main_events %}
-                            {% assign start_time = event.time | split: " - " | first %}
-                            {% assign end_time = event.time | split: " - " | last %}
-                            {% assign start_h = start_time | split: ":" | first | plus: 0 %}
-                            {% assign start_m = start_time | split: ":" | last | plus: 0 %}
-                            {% assign end_h = end_time | split: ":" | first | plus: 0 %}
-                            {% assign end_m = end_time | split: ":" | last | plus: 0 %}
-                            {% assign start_min = start_h | times: 60 | plus: start_m %}
-                            {% assign end_min = end_h | times: 60 | plus: end_m %}
-                            {% assign left = start_min | minus: 450 | divided_by: 60.0 %}
-                            {% assign width = end_min | minus: start_min | divided_by: 60.0 %}
-                            {% assign cat_color = site.data.program.legend.categories | where: "name", event.category | map: "color" | first | default: "grey-6" %}
-                          
-                            {% if event.url %}
-                              <a href="{{ event.url }}" target="_blank" class="event-block bg-{{ cat_color }}"
-                                style="left: calc({{ left }} * var(--slot-width)); width: calc({{ width }} * var(--slot-width) - 4px);"
-                                title="{{ event.title }} | {{ event.time }}">
-                                <div class="event-time">{{ event.time }}</div>
-                                {{ event.title }}
-                              </a>
-                            {% else %}
-                              <div class="event-block bg-{{ cat_color }}"
-                                style="left: calc({{ left }} * var(--slot-width)); width: calc({{ width }} * var(--slot-width) - 4px);"
-                                title="{{ event.title }} | {{ event.time }}">
-                                <div class="event-time">{{ event.time }}</div>
-                                {{ event.title }}
-                              </div>
-                            {% endif %}
-                          {% endfor %}
-                          </div>
-                        </div>
-                        {% endif %}
-
-                        <!-- Satellite rows -->
-                        {% assign satellite_events = day.events | where_exp: "item", "item.row > 1" %}
-                        {% assign satellite_break_events = day.events | where: "category", "Break" | where: "room", room_name %}
-                        {% assign rows = satellite_events | map: "row" | uniq | sort %}
-                        {% for row in rows %}
-                        {% assign row_events = satellite_events | where: "row", row %}
-                        {% assign room_name = row_events | map: "room" | uniq | first %}
-                        {% assign satellite_break_events = day.events | where: "category", "Break" | where: "room", room_name %}
-                        
-                        <div class="room-row">
-                          <div class="room-name">
-                            {% assign room_url = row_events | map: "room url" | uniq | first %}
-                            {% if room_url %}
-                              <a href="{{ room_url }}" target="_blank" class="text-decoration-none">{{ room_name }}</a>
-                            {% else %}
+                          <div class="room-row">
+                            <div class="room-name">
                               {{ room_name }}
-                            {% endif %}
-                          </div>
-                          <div class="time-slots">
-                            {% for h in (start_hour..end_hour) %}
-                              <div class="time-slot"></div>
-                            {% endfor %}
-                      
-                            {% if satellite_break_events.size > 0 %}
-                              {% for break_event in satellite_break_events %}
-                                {% assign break_start = break_event.time | split: " - " | first %}
-                                {% assign break_end = break_event.time | split: " - " | last %}
-                                {% assign break_start_h = break_start | split: ":" | first | plus: 0 %}
-                                {% assign break_start_m = break_start | split: ":" | last | plus: 0 %}
-                                {% assign break_end_h = break_end | split: ":" | first | plus: 0 %}
-                                {% assign break_end_m = break_end | split: ":" | last | plus: 0 %}
-                                {% assign break_start_min = break_start_h | times: 60 | plus: break_start_m %}
-                                {% assign break_end_min = break_end_h | times: 60 | plus: break_end_m %}
-                                {% assign break_left = break_start_min | minus: 450 | divided_by: 60.0 %}
-                                {% assign break_width = break_end_min | minus: break_start_min | divided_by: 60.0 %}
-                                <div class="event-block bg-grey-6 break"
-                                  style="left: calc({{ break_left }} * var(--slot-width)); width: calc({{ break_width }} * var(--slot-width) - 4px);"
-                                  title="{{ break_event.title }} | {{ break_event.time }}">
-                                  <div class="event-time">{{ break_event.time }}</div>
-                                  {{ break_event.title }}
-                                </div>
+                            </div>
+                            <div class="time-slots">
+                              {% for h in (start_hour..end_hour) %}
+                                <div class="time-slot"></div>
                               {% endfor %}
-                            {% endif %}
 
-                            {% for event in row_events %}
-                              {% assign start_time = event.time | split: " - " | first %}
-                              {% assign end_time = event.time | split: " - " | last %}
-                              {% assign start_h = start_time | split: ":" | first | plus: 0 %}
-                              {% assign start_m = start_time | split: ":" | last | plus: 0 %}
-                              {% assign end_h = end_time | split: ":" | first | plus: 0 %}
-                              {% assign end_m = end_time | split: ":" | last | plus: 0 %}
-                              {% assign start_min = start_h | times: 60 | plus: start_m %}
-                              {% assign end_min = end_h | times: 60 | plus: end_m %}
-                              {% assign left = start_min | minus: 450 | divided_by: 60.0 %}
-                              {% assign width = end_min | minus: start_min | divided_by: 60.0 %}
-                              {% assign cat_color = site.data.program.legend.categories | where: "name", event.category | map: "color" | first | default: "grey-6" %}
-                              {% if event.url %}
-                              <a href="{{ event.url }}" class="event-block bg-{{ cat_color }} satellite"
-                                style="left: calc({{ left }} * var(--slot-width)); width: calc({{ width }} * var(--slot-width) - 4px);"
-                                title="{{ event.title }} | {{ event.time }}">
-                                <div class="event-time">{{ event.time }}</div>
-                                {{ event.title }}
-                              </a>
-                            {% else %}
-                              <div class="event-block bg-{{ cat_color }} satellite"
-                                style="left: calc({{ left }} * var(--slot-width)); width: calc({{ width }} * var(--slot-width) - 4px);"
-                                title="{{ event.title }} | {{ event.time }}">
-                                <div class="event-time">{{ event.time }}</div>
-                                {{ event.title }}
-                              </div>
-                            {% endif %}
-                            {% endfor %}
+                              {% for event in row_events %}
+                                {% assign start_time = event.time | split: " - " | first %}
+                                {% assign end_time = event.time | split: " - " | last %}
+                                {% assign start_h = start_time | split: ":" | first | plus: 0 %}
+                                {% assign start_m = start_time | split: ":" | last | plus: 0 %}
+                                {% assign end_h = end_time | split: ":" | first | plus: 0 %}
+                                {% assign end_m = end_time | split: ":" | last | plus: 0 %}
+                                {% assign start_min = start_h | times: 60 | plus: start_m %}
+                                {% assign end_min = end_h | times: 60 | plus: end_m %}
+                                {% assign left = start_min | minus: 450 | divided_by: 60.0 %}
+                                {% assign width = end_min | minus: start_min | divided_by: 60.0 %}
+                                {% assign cat_color = site.data.program.legend.categories | where: "name", event.category | map: "color" | first | default: "grey-6" %}
+
+                                {% if event.url %}
+                                  <a href="{{ event.url }}" class="event-block bg-{{ cat_color }}"
+                                    style="left: calc({{ left }} * var(--slot-width)); width: calc({{ width }} * var(--slot-width) - 4px);"
+                                    title="{{ event.title }} | {{ event.time }}">
+                                    <div class="event-time">{{ event.time }}</div>
+                                    {{ event.title }}
+                                  </a>
+                                {% else %}
+                                  <div class="event-block bg-{{ cat_color }}"
+                                    style="left: calc({{ left }} * var(--slot-width)); width: calc({{ width }} * var(--slot-width) - 4px);"
+                                    title="{{ event.title }} | {{ event.time }}">
+                                    <div class="event-time">{{ event.time }}</div>
+                                    {{ event.title }}
+                                  </div>
+                                {% endif %}
+                              {% endfor %}
+                            </div>
                           </div>
-                        </div>
                         {% endfor %}
                       </div> <!-- room-rows -->
+
                     </div> <!-- scroll-inner -->
                   </div> <!-- scroll-sync-container -->
                 </div> <!-- schedule-container -->
               </div>
-
-              
 
               <!-- LEGEND -->
               {% assign categories = site.data.program.legend.categories %}
@@ -414,18 +308,16 @@ a:visited {
               </div>
               {% endif %}
 
-
-            </div>
-          </div>
-        </div>
+            </div> <!-- accordion-body -->
+          </div> <!-- accordion-collapse -->
+        </div> <!-- accordion-item -->
         {% endfor %}
-      </div>
-    </div>
+      </div> <!-- accordion -->
+    </div> <!-- row -->
     {% endif %}
-  </div>
-
-
+  </div> <!-- container -->
 </main>
 
 
 
+{% include footer.html %}
