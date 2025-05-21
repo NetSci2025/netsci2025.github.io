@@ -13,15 +13,16 @@ permalink: /committees/
 If you have any questions, please do not hesitate to contact us: [helpdesk@klinkhamergroup.com](mailto:helpdesk@klinkhamergroup.com)
 
 
-- **General Chairs**: Leto, Adriana
-- **Program Chairs**: Alex, Luis, Daniele, Natasa, Michael, Timoteo, Joao, David
-- **Satellite Chairs**: Luis, Daniele, Tjeerd, Natasa, Alex, Timoteo
-- **Childcare Chairs**: Javier
-- **Travel Awards Chairs**: Caterina, Fariba, Aida, Alex, Timoteo
-- **Poster Chairs**: Aida, Timoteo, Michael <!-- + Michael's students -->
-- **Invited speaker Chairs**: Clara, Luis, Chris, Alex, Ivan, Fariba, Daniele, Natasa
-- **Sponsor Chairs**: Chris, Ivan, Clara
-- **Web and Social Media Chairs**: Yijie, Javier, Maria 
+- **General Chairs**: Leto Peel, Adriana Iamnitchi  
+- **Program Chairs**: Alexandre Bovet, Luis E C Rocha, Daniele Marinazzo, Natasa Djurdjevac Conrad, Michael Schaub, Timoteo Carletti, João Barretto Bittar, Dávid Ferenczi  
+- **Satellite Chairs**: Luis E C Rocha, Daniele Marinazzo, Tjeerd Boonstra, Natasa Djurdjevac Conrad, Alexandre Bovet, Timoteo Carletti
+- **Childcare Chair**: Javier Garcia-Bernardo  
+- **Travel Awards Chairs**: Caterina De Bacco, Fariba Karimi, Aida Abiad, Alexandre Bovet, Timoteo Carletti  
+- **Poster Chairs**: Aida Abiad, Timoteo Carletti, Michael Schaub  
+- **Invited Speaker Chairs**: Clara Stegehuis, Luis E C Rocha, Christian Bick, Alexandre Bovet, Ivan Kryven, Fariba Karimi, Daniele Marinazzo, Natasa Djurdjevac Conrad  
+- **Sponsor Chairs**: Christian Bick, Ivan Kryven, Clara Stegehuis  
+- **Web and Social Media Chairs**: Yijie Zhou, Javier Garcia-Bernardo, Maria Duţă
+
 
 
 <div class="card-container">
