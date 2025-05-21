@@ -1002,12 +1002,12 @@ days:
       - time: 17:45 - 18:30
         title: "Jari Saramaki (Plenary Speaker)"   
         category: Invited Speaker
-        row: 3
+        row: 2
         room: Auditorium 1
       - time: 18:30 - 19:30 
         title: Welcome reception
         category: Other Activities
-        row: 3
+        row: 2
         room: Auditorium 1
       - time: 11:00 - 13:00
         title: Higher order networks 1
