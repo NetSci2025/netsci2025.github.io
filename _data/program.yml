@@ -1096,19 +1096,19 @@ days:
         category: Break
         row: 1
         room: Lobby
-        url: /posters/wednesday-posters/
+        url: /posters/thursday-posters/
       - time: 13:00 - 14:30
         title: Lunch + posters
         category: Break
         row: 1
         room: Lobby
-        url: /posters/wednesday-posters/
+        url: /posters/thursday-posters/
       - time: 16:00 - 16:30
         title: Coffee break + posters 
         category: Break
         row: 1
         room: Lobby
-        url: /posters/wednesday-posters/
+        url: /posters/thursday-posters/
       - time: 09:00 - 09:45
         title: "Iza Romanowska (Plenary Speaker)"
         category: Invited Speaker
@@ -1224,40 +1224,45 @@ days:
         
   - name: Fri 6 June 2025
     events:
-      - time: 09:00 - 10:00
-        title: "Michael Macy (Plenary Speaker)"
-        category: Invited Speaker
+      - time: 8:00 - 9:00
+        title: Morning coffee
+        category: Break
         row: 1
-        room: Auditorium 1
-      - time: 10:30 - 12:30
-        title: NSS Awards
-        category: Other Activities
-        row: 1
-        room: Auditorium 1
-      - time: 14:00 - 16:00
-        title: Focus sessions
-        category: Invited Speaker 
-        row: 1
-        room: Auditorium 1
-      - time: 16:00 - 16:20
-        title: Closing
-        category: Other Activities
-        row: 1
-        room: Auditorium 1
-      - time: 14:00 - 16:00
-        title: Focus sessions
-        category: Invited Speaker 
-        row: 2
-        room: 0.11 Cape Town
+        room: Lobby
       - time: 10:00 - 10:30
         title: Coffee break + posters
         category: Break
-        row: 3
+        row: 1
         url: /posters/friday-posters/
         room: Lobby
       - time: 12:30 - 14:00
         title: Lunch + posters
         category: Break
-        row: 3
+        row: 1
         url: /posters/friday-posters/
         room: Lobby
+      - time: 09:00 - 10:00
+        title: "Michael Macy (Plenary Speaker)"
+        category: Invited Speaker
+        row: 2
+        room: Auditorium 1
+      - time: 10:30 - 12:30
+        title: NSS Awards
+        category: Other Activities
+        row: 2
+        room: Auditorium 1
+      - time: 14:00 - 16:00
+        title: Focus sessions
+        category: Invited Speaker 
+        row: 2
+        room: Auditorium 1
+      - time: 16:00 - 16:20
+        title: Closing
+        category: Other Activities
+        row: 2
+        room: Auditorium 1
+      - time: 14:00 - 16:00
+        title: Focus sessions
+        category: Invited Speaker 
+        row: 3
+        room: 0.11 Cape Town
