@@ -239,7 +239,14 @@ a:visited {
 
                           <div class="room-row">
                             <div class="room-name">
-                              {{ room_name }}
+                              {% assign room_url = row_events | map: "room url" | uniq | first %}
+                              {% if room_url %}
+                                <a href="{{ room_url }}" class="text-decoration-underline text-decoration-hover-underline text-primary" target="_blank">
+                                  {{ room_name }}
+                                </a>
+                              {% else %}
+                                {{ room_name }}
+                              {% endif %}
                             </div>
                             <div class="time-slots">
                               {% for h in (start_hour..end_hour) %}
