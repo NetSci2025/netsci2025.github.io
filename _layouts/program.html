@@ -241,7 +241,7 @@ a:visited {
                             <div class="room-name">
                               {% assign room_url = row_events | map: "room url" | uniq | first %}
                               {% if room_url %}
-                                <a href="{{ room_url }}" class="text-decoration-underline text-decoration-hover-underline text-primary" target="_blank">
+                                <a href="{{ room_url }}" class="text-decoration-underline text-dark" target="_blank">
                                   {{ room_name }}
                                 </a>
                               {% else %}
