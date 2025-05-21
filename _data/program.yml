@@ -942,6 +942,11 @@ days:
         
   - name: Wed 4 June 2025
     events:
+      - time: 08:45 - 09:00
+        title: Opening
+        category: Other Activities
+        row: 1
+        room: Auditorium 1
       - time: 09:00 - 09:45
         title: "Sonia Kefi (Plenary Speaker)"
         category: Invited Speaker
