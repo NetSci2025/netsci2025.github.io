@@ -195,7 +195,7 @@ a:visited {
 </style>
 
 
-<main class="my-4">
+<main class="my-4"> 
   <div class="container">
     <h1 class="display-5">{{ title }}</h1>
     {{ content }}
@@ -237,10 +237,10 @@ a:visited {
                           {% assign row_events = day.events | where: "row", row %}
                           {% assign room_name = row_events | map: "room" | uniq | first %}
 
-                          <div class="room-name">
-                            {{ room_name }}
-                          </div>
-                        
+                          <div class="room-row">
+                            <div class="room-name">
+                              {{ room_name }}
+                            </div>
                             <div class="time-slots">
                               {% for h in (start_hour..end_hour) %}
                                 <div class="time-slot"></div>
@@ -317,6 +317,9 @@ a:visited {
     {% endif %}
   </div> <!-- container -->
 </main>
+
+
+
 
 
 
