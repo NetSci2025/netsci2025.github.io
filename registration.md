@@ -13,7 +13,7 @@ The NetSci conference registration fee includes access to all conference session
 
 You should receive a registration confirmation via email when you register online (along with a payment confirmation email from the payment processing site). If you do not receive your confirmation within a few minutes, please check your SPAM box or contact Klinkhamer conferences & events in writing through [helpdesk@klinkhamergroup.com](mailto:helpdesk@klinkhamergroup.com). 
 
-Register for NetSci 2025 [here](https://insight.klinkhamergroup.com/netsci2025/login){:target="_blank"}.
+Register for NetSci 2025 [here](https://insight.klinkhamergroup.com/netsci2025/login){:target="_blank"}. **Online registration closes 29th May 2025.** Onsite registration will be possible.
 
 For accomodation, see [this page](/maastricht)
 
