@@ -942,140 +942,146 @@ days:
         
   - name: Wed 4 June 2025
     events:
-      - time: 08:45 - 09:00
-        title: Opening
-        category: Other Activities
+      - time: 8:00 - 8:45
+        title: Morning coffee
+        category: Break
         row: 1
-        room: Auditorium 1
-      - time: 09:00 - 09:45
-        title: "Sonia Kefi (Plenary Speaker)"
-        category: Invited Speaker
-        row: 1
-        room: Auditorium 1
-      - time: 09:45 - 10:30
-        title: Lightning 1
-        category: Lightning
-        row: 1
-        room: Auditorium 1
-        url: /lightnings/wednesday-lightnings/
-      - time: 11:00 - 13:00
-        title: Social networks 1
-        category: Parallel
-        row: 1
-        room: Auditorium 1
-        url: /parallel/social-networks-1/
-      - time: 14:30 - 16:00
-        title: Statistical analysis and inference 1
-        category: Parallel
-        row: 1
-        room: Auditorium 1
-        url: /parallel/statistical-analysis-and-inference-1/
-      - time: 16:30 - 17:45
-        title: Dynamics 1
-        category: Parallel
-        row: 1
-        room: Auditorium 1
-        url: /parallel/dynamics-1/
-      - time: 17:45 - 18:30
-        title: "Jari Saramaki (Plenary Speaker)"   
-        category: Invited Speaker
-        row: 1
-        room: Auditorium 1
-      - time: 18:30 - 19:30 
-        title: Welcome reception
-        category: Other Activities
-        row: 1
-        room: Auditorium 1
-      - time: 11:00 - 13:00
-        title: Higher order networks 1
-        category: Parallel
-        row: 2
-        room: 0.11 Cape Town
-        url: /parallel/higher-order-networks-1/
-      - time: 14:30 - 16:00
-        title: Network Epidemics 1
-        category: Parallel
-        row: 2
-        room: 0.11 Cape Town
-        url: /parallel/network-epidemics-1/
-      - time: 16:30 - 17:45
-        title: Network models
-        category: Parallel
-        row: 2
-        room: 0.11 Cape Town
-        url: /parallel/network-models/
-      - time: 11:00 - 13:00
-        title: Brain networks
-        category: Parallel
-        row: 3
-        room: 0.10 Sydney
-        url: /parallel/brain-networks/
-      - time: 14:30 - 16:00
-        title: Machine Learning 1
-        category: Parallel
-        row: 3
-        room: 0.10 Sydney
-        url: /parallel/machine-learning-1/
-      - time: 16:30 - 17:45
-        title: Multilayer networks
-        category: Parallel
-        row: 3
-        room: 0.10 Sydney  
-        url: /parallel/multilayer-networks/
-      - time: 11:00 - 13:00
-        title: Culture & Technology
-        category: Parallel
-        row: 4
-        room: 0.05 Paris
-        url: /parallel/culture-and-technology/
-      - time: 14:30 - 16:00
-        title: Mobility and spatial networks 1
-        category: Parallel
-        row: 4
-        room: 0.05 Paris
-        url: /parallel/mobility-and-spatial-networks-1/
-      - time: 16:30 - 17:45
-        title: Science of science
-        category: Parallel
-        row: 4
-        room: 0.05 Paris
-        url: /parallel/science-of-science/
-      - time: 11:00 - 13:00
-        title: Biological networks
-        category: Parallel
-        row: 5
-        room: 0.04 Brussels
-        url: /parallel/biological-networks/
-      - time: 14:30 - 16:00
-        title: Finance networks and supply chains
-        category: Parallel
-        row: 5
-        room: 0.04 Brussels
-        url: /parallel/finance-networks-and-supply-chains/
-      - time: 16:30 - 17:45
-        title: Network Geometry
-        category: Parallel
-        row: 5
-        room: 0.04 Brussels 
-        url: /parallel/network-geometry/
+        room: Lobby
       - time: 10:30 - 11:00
         title: Coffee break + posters
         category: Break
-        row: 6
+        row: 1
         room: Lobby
         url: /posters/wednesday-posters/
       - time: 13:00 - 14:30
         title: Lunch + posters
         category: Break
-        row: 6   
+        row: 1
         room: Lobby
         url: /posters/wednesday-posters/
       - time: 16:00 - 16:30
         title: Coffee break + posters 
         category: Break
-        row: 6
+        row: 1
         room: Lobby
         url: /posters/wednesday-posters/
+      - time: 08:45 - 09:00
+        title: Opening
+        category: Other Activities
+        row: 2
+        room: Auditorium 1
+      - time: 09:00 - 09:45
+        title: "Sonia Kefi (Plenary Speaker)"
+        category: Invited Speaker
+        row: 2
+        room: Auditorium 1
+      - time: 09:45 - 10:30
+        title: Lightning 1
+        category: Lightning
+        row: 2
+        room: Auditorium 1
+        url: /lightnings/wednesday-lightnings/
+      - time: 11:00 - 13:00
+        title: Social networks 1
+        category: Parallel
+        row: 2
+        room: Auditorium 1
+        url: /parallel/social-networks-1/
+      - time: 14:30 - 16:00
+        title: Statistical analysis and inference 1
+        category: Parallel
+        row: 2
+        room: Auditorium 1
+        url: /parallel/statistical-analysis-and-inference-1/
+      - time: 16:30 - 17:45
+        title: Dynamics 1
+        category: Parallel
+        row: 2
+        room: Auditorium 1
+        url: /parallel/dynamics-1/
+      - time: 17:45 - 18:30
+        title: "Jari Saramaki (Plenary Speaker)"   
+        category: Invited Speaker
+        row: 3
+        room: Auditorium 1
+      - time: 18:30 - 19:30 
+        title: Welcome reception
+        category: Other Activities
+        row: 3
+        room: Auditorium 1
+      - time: 11:00 - 13:00
+        title: Higher order networks 1
+        category: Parallel
+        row: 3
+        room: 0.11 Cape Town
+        url: /parallel/higher-order-networks-1/
+      - time: 14:30 - 16:00
+        title: Network Epidemics 1
+        category: Parallel
+        row: 3
+        room: 0.11 Cape Town
+        url: /parallel/network-epidemics-1/
+      - time: 16:30 - 17:45
+        title: Network models
+        category: Parallel
+        row: 3
+        room: 0.11 Cape Town
+        url: /parallel/network-models/
+      - time: 11:00 - 13:00
+        title: Brain networks
+        category: Parallel
+        row: 4
+        room: 0.10 Sydney
+        url: /parallel/brain-networks/
+      - time: 14:30 - 16:00
+        title: Machine Learning 1
+        category: Parallel
+        row: 4
+        room: 0.10 Sydney
+        url: /parallel/machine-learning-1/
+      - time: 16:30 - 17:45
+        title: Multilayer networks
+        category: Parallel
+        row: 4
+        room: 0.10 Sydney  
+        url: /parallel/multilayer-networks/
+      - time: 11:00 - 13:00
+        title: Culture & Technology
+        category: Parallel
+        row: 5
+        room: 0.05 Paris
+        url: /parallel/culture-and-technology/
+      - time: 14:30 - 16:00
+        title: Mobility and spatial networks 1
+        category: Parallel
+        row: 5
+        room: 0.05 Paris
+        url: /parallel/mobility-and-spatial-networks-1/
+      - time: 16:30 - 17:45
+        title: Science of science
+        category: Parallel
+        row: 5
+        room: 0.05 Paris
+        url: /parallel/science-of-science/
+      - time: 11:00 - 13:00
+        title: Biological networks
+        category: Parallel
+        row: 6
+        room: 0.04 Brussels
+        url: /parallel/biological-networks/
+      - time: 14:30 - 16:00
+        title: Finance networks and supply chains
+        category: Parallel
+        row: 6
+        room: 0.04 Brussels
+        url: /parallel/finance-networks-and-supply-chains/
+      - time: 16:30 - 17:45
+        title: Network Geometry
+        category: Parallel
+        row: 6
+        room: 0.04 Brussels 
+        url: /parallel/network-geometry/
+
 
         
   - name: Thu 5 June 2025
