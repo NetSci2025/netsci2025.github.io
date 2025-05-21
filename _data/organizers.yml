@@ -1,59 +1,722 @@
 groups:
-  - title: Scientific committee
-    columns: false
+  - title: Program committee
+    columns: true
     members:
-      - name: Leto
-        surname: Peel
-        affiliation: Maastricht University
-      - name: Adriana
-        surname: Iamnitchi
-        affiliation: Maastricht University
-      - name: Michael
-        surname: Schaub
-        affiliation: RWTH Aachen University
-      - name: Luis E C
-        surname: Rocha
-        affiliation: Ghent University
-      - name: Clara
-        surname: Stegehuis
-        affiliation: Twente University
-      - name: Daniele
-        surname: Marinazzo
+      - name: Albert 
+        surname: Solé-Ribalta 
+        affiliation: Universitat Oberta de Catalunya 
+      - name: Albert 
+        surname: Diaz-Guilera 
+        affiliation: Universitat de Barcelona 
+      - name: Alberto 
+        surname: Antonioni 
+        affiliation: Carlos III University of Madrid 
+      - name: Alec 
+        surname: Kirkley 
+        affiliation: University of Hong Kong 
+      - name: Aleksandar 
+        surname: Tomašević 
+        affiliation: University of Novi Sad 
+      - name: Alessandro 
+        surname: Lonardi 
+        affiliation: Sony AI 
+      - name: Alessandro 
+        surname: Pluchino 
+        affiliation: University of Catania 
+      - name: Alessandro 
+        surname: Galeazzi 
+        affiliation: University of Padova 
+      - name: Alessia 
+        surname: Galdeman 
+        affiliation: IT University of Copenhagen 
+      - name: Alessio 
+        surname: Cardillo 
+        affiliation: Universitat de Barcelona 
+      - name: Alex 
+        surname: Arenas 
+        affiliation: Universitat Rovira i Virgili 
+      - name: Alexandre 
+        surname: Francisco 
+        affiliation: INESC-ID 
+      - name: Alexandre 
+        surname: Francisco 
+        affiliation: Universidade Federal Fluminense 
+      - name: Alexandre 
+        surname: Bovet 
+        affiliation: University of Zurich 
+      - name: Alina 
+        surname: Dubovskaya 
+        affiliation: University of Limerick 
+      - name: Alireza 
+        surname: Javadian Sabet 
+        affiliation: University of Pittsburgh 
+      - name: Alyssa 
+        surname: Smith 
+        affiliation: Northeastern University 
+      - name: Ana 
+        surname: Vranić 
+        affiliation: Social Physics and Complexity Laboratory, LIP 
+      - name: Andrea 
+        surname: Santoro 
+        affiliation: CENTAI 
+      - name: Andrea 
+        surname: Zaccaria 
+        affiliation: Istituto dei Sistemi COmplessi - CNR 
+      - name: Anees 
+        surname: Baqir 
+        affiliation: Northeastern University - London 
+      - name: Annamaria 
+        surname: Defilippo 
+        affiliation: Magna Graecia University of Catanzaro 
+      - name: Anshuman 
+        surname: Swain 
+        affiliation: Harvard University 
+      - name: Antoine 
+        surname: Allard 
+        affiliation: Université Laval 
+      - name: Antonio 
+        surname: Desiderio 
+        affiliation: Technical University of Denmark 
+      - name: Aurelio 
+        surname: Patelli 
+        affiliation: Enrico Fermi Research Center 
+      - name: Balázs 
+        surname: Lengyel 
+        affiliation: HUN-REN Centre for Economic- and Regional Studies 
+      - name: Basim 
+        surname: Mahmood 
+        affiliation: University of Mosul 
+      - name: Brennan 
+        surname: Klein 
+        affiliation: Northeastern University 
+      - name: Byungjoon 
+        surname: Min 
+        affiliation: Chungbuk National University 
+      - name: C 
+        surname: DB 
+        affiliation: TU Delft 
+      - name: Camille 
+        surname: Roth 
+        affiliation: CNRS & EHESS 
+      - name: Carlo 
+        surname: Piccardi 
+        affiliation: Politecnico di Milano 
+      - name: Carlo 
+        surname: Cannistraci 
+        affiliation: Tsinghua University 
+      - name: Carlo 
+        surname: Campajola 
+        affiliation: University College London 
+      - name: Carolina 
+        surname: Mattsson 
+        affiliation: CENTAI Institute 
+      - name: Changqing 
+        surname: Cheng 
+        affiliation: Binghamton University 
+      - name: Charlie 
+        surname: Joyez 
+        affiliation: GREDEG, Université Côte d'Azur 
+      - name: Charo 
+        surname: del Genio 
+        affiliation: Trakia University 
+      - name: Chiara 
+        surname: Poletto 
+        affiliation: University of Padova 
+      - name: Chiara 
+        surname: Zappalà 
+        affiliation: Center for Collective Learning, CIAS, Corvinus University 
+      - name: Christian 
+        surname: Diem 
+        affiliation: INET, University of Oxford 
+      - name: Claudio 
+        surname: Castellano 
+        affiliation: Istituto dei Sistemi Complessi (ISC-CNR) 
+      - name: Colin 
+        surname: Campbell 
+        affiliation: University of Mount Union 
+      - name: Cristina 
+        surname: Masoller 
+        affiliation: Universitat Politecnica de Catalunya 
+      - name: Daniela 
+        surname: Cialfi 
+        affiliation: National Research Council of Italy 
+      - name: Daniele 
+        surname: Marinazzo 
         affiliation: Ghent University 
-      - name: Javier
-        surname: Garcia-Bernardo
-        affiliation: Utrecht University
-      - name: Natasa
-        surname: Djurdjevac Conrad
-        affiliation: Zuse Institute Berlin
-      - name: Christian
-        surname: Bick
-        affiliation: Vrije Universiteit Amsterdam
-      - name: Alexandre
-        surname: Bovet
-        affiliation: University of Zurich
-      - name: Caterina
-        surname: De Bacco
-        affiliation: Max Planck Institute for Intelligent Systems
-      - name: Timoteo
-        surname: Carletti
-        affiliation: University of Namur
-      - name: Aida
-        surname: Abiad
-        affiliation: Eindhoven University of Technology
-      - name: Fariba
-        surname: Karimi
-        affiliation: Graz University of Technology
-      - name: Ivan
-        surname: Kryven
-        affiliation: Utrecht University
-      - name: Tjeerd
-        surname: Boonstra
-        affiliation: Maastricht University
-  # - title: Local organizer
-  #   columns: false
-  #   members:
-  #     - name: Pygoscelis
-  #       surname: Papua
-  #       email: gentoo@pengu.in
+      - name: Daniele 
+        surname: Vilone 
+        affiliation: ISTC-CNR 
+      - name: Darja 
+        surname: Cvetkovic 
+        affiliation: Institute of Physics Belgrade 
+      - name: David 
+        surname: Bowater 
+        affiliation: University of New Brunswick 
+      - name: David 
+        surname: Soriano-Paños 
+        affiliation: Universitat Rovira i Virgili 
+      - name: Deok-Sun 
+        surname: Lee 
+        affiliation: KIAS 
+      - name: Dion 
+        surname: O'Neale 
+        affiliation: Nicholson consulting 
+      - name: Dirk 
+        surname: Witthaut 
+        affiliation: Forschungszentrum Jülich 
+      - name: Doina 
+        surname: Bucur 
+        affiliation: University of Twente 
+      - name: Dorian 
+        surname: Quelle 
+        affiliation: UZH 
+      - name: Edward 
+        surname: Lee 
+        affiliation: Complexity Science Hub Vienna 
+      - name: Elena 
+        surname: Candellone 
+        affiliation: Utrecht University 
+      - name: Enrico 
+        surname: Glerean 
+        affiliation: Aalto University 
+      - name: Eszter 
+        surname: Bokanyi 
+        affiliation: UvA 
+      - name: Éverton 
+        surname: Fernandes da Cunha 
+        affiliation: University of Twente 
+      - name: Fabio 
+        surname: Saracco 
+        affiliation: Centro Ricerche "Enrico Fermi" 
+      - name: fabrizio 
+        surname: De Vico Fallani 
+        affiliation: Inria-ICM 
+      - name: Fabrizio 
+        surname: Lillo 
+        affiliation: Università di Bologna 
+      - name: Fakhteh 
+        surname: Ghanbarnejad 
+        affiliation: SRH Berlin University of Applied Sciences 
+      - name: Fatemeh 
+        surname: Hadaeghi 
+        affiliation: University Medical Center Hamburg-Eppendorf 
+      - name: Federico 
+        surname: Botta 
+        affiliation: University of Exeter 
+      - name: Federico 
+        surname: Malizia 
+        affiliation: Network Science Institute 
+      - name: Feng 
+        surname: Xia 
+        affiliation: RMIT University 
+      - name: Fernando 
+        surname: Santos 
+        affiliation: University of Amsterdam 
+      - name: Fernando 
+        surname: Rosas 
+        affiliation: University of Sussex 
+      - name: Fernando 
+        surname: Diaz-Diaz 
+        affiliation: Institute for Cross-Disciplinary Physics and Complex Systems, IFISC (UIB-CSIC) 
+      - name: Filipi 
+        surname: Nascimento Silva 
+        affiliation: Indiana University 
+      - name: filippo 
+        surname: simini 
+        affiliation: Argonne National Lab 
+      - name: FRAGKISKOS 
+        surname: PAPADOPOULOS 
+        affiliation: Cyprus University of Technology 
+      - name: François 
+        surname: Thibault 
+        affiliation: Université Laval 
+      - name: Furkan 
+        surname: Gursoy 
+        affiliation: Bogazici University 
+      - name: Gareth 
+        surname: Baxter 
+        affiliation: University of Aveiro 
+      - name: Giancarlo 
+        surname: Ruffo 
+        affiliation: Università degli Studi del Piemonte Orientale "A. Avogadro" 
+      - name: Ginestra 
+        surname: Bianconi 
+        affiliation: Queen Mary University of London 
+      - name: Giovanni 
+        surname: Mauro 
+        affiliation: Scuola Normale Superiore 
+      - name: Giulia 
+        surname: Cencetti 
+        affiliation: CNRS 
+      - name: Giuliano 
+        surname: Cornacchia 
+        affiliation: University of Pisa 
+      - name: Giulio 
+        surname: Rossetti 
+        affiliation: CNR-ISTI 
+      - name: Gonzalo 
+        surname: Contreras-Aso 
+        affiliation: Universidad Rey Juan Carlos 
+      - name: Gonzalo Marcelo 
+        surname: Ramirez-Avila 
+        affiliation: naXys, UNamur 
+      - name: Gregorio 
+        surname: D'Agostino 
+        affiliation: ENEA 
+      - name: Guangyuan 
+        surname: Weng 
+        affiliation: Northeastern University 
+      - name: Guilherme 
+        surname: Ferraz de Arruda 
+        affiliation: Institute of Physics Gleb Wataghin (IFGW), State University of Campinas 
+      - name: Guillermo 
+        surname: Romero Moreno 
+        affiliation: University of Edinburgh 
+      - name: Hang-Hyun 
+        surname: Jo 
+        affiliation: The Catholic University of Korea 
+      - name: Haoxiang 
+        surname: Xia 
+        affiliation: Dalian University of Technology 
+      - name: Hiroki 
+        surname: Sayama 
+        affiliation: Binghamton University, State University of New York 
+      - name: Hocine 
+        surname: Cherifi 
+        affiliation: University of Burgundy 
+      - name: Huijuan 
+        surname: Wang 
+        affiliation: Delft University of Technology 
+      - name: Iacopo 
+        surname: Iacopini 
+        affiliation: Northeastern University London 
+      - name: Ingo 
+        surname: Scholtes 
+        affiliation: Julius-Maximilians-Universität Würzburg 
+      - name: Inmaculada 
+        surname: Leyva 
+        affiliation: Universidad Rey Juan Carlos 
+      - name: Irene 
+        surname: Sendiña-Nadal 
+        affiliation: Universidad Rey Juan Carlos 
+      - name: ISSA MOUSSA 
+        surname: Diop 
+        affiliation: Université Cote d'Azur 
+      - name: Iulia Martina 
+        surname: Bulai 
+        affiliation: University of Sassari 
+      - name: Ivan 
+        surname: Bonamassa 
+        affiliation: Dipartment of Network and Data Science, Central European University 
+      - name: János 
+        surname: Török 
+        affiliation: BME 
+      - name: Javier 
+        surname: Garcia-bernardo 
+        affiliation: Utrecht University 
+      - name: Jean-Gabriel 
+        surname: Young 
+        affiliation: University of Vermont 
+      - name: Joaquin 
+        surname: Torres 
+        affiliation: University of Granada 
+      - name: Johannes 
+        surname: Wachs 
+        affiliation: Vienna University of Econ. and Bus. 
+      - name: Johannes 
+        surname: Nauta 
+        affiliation: University of Padova 
+      - name: Jordi 
+        surname: Duch 
+        affiliation: Universitat Rovira i Virgili 
+      - name: Jorge 
+        surname: Gomez Tejeda Zanudo 
+        affiliation: Broad Institute 
+      - name: Jorge 
+        surname: Mejias 
+        affiliation: University of Amsterdam 
+      - name: José 
+        surname: Lages 
+        affiliation: Université de Franche-Comté 
+      - name: José 
+        surname: Mendes 
+        affiliation: Departamento de Física da Universidade de Aveiro 
+      - name: José Roberto 
+        surname: Nicolás-Carlock 
+        affiliation: National Autonomous University of Mexico 
+      - name: Joshua 
+        surname: Grochow 
+        affiliation: University of Colorado Boulder 
+      - name: Juniper 
+        surname: Lovato 
+        affiliation: University of Vermont Complex Systems Center 
+      - name: Juyong 
+        surname: Park 
+        affiliation: KAIST 
+      - name: Kaveh 
+        surname: Kadkhoda 
+        affiliation: Fondazione Bruno Kessler 
+      - name: Kazuki 
+        surname: Nakajima 
+        affiliation: Tokyo Metropolitan University 
+      - name: Kwang-Il 
+        surname: Goh 
+        affiliation: Korea University 
+      - name: Kyriaki 
+        surname: Kalimeri 
+        affiliation: ISI Foundation 
+      - name: Leto 
+        surname: Peel 
+        affiliation: Maastricht University 
+      - name: liubov 
+        surname: tupikina 
+        affiliation: lpi, bell labs, itmo 
+      - name: Lorenzo 
+        surname: Dall'Amico 
+        affiliation: ISI Foundation 
+      - name: Lotte 
+        surname: Weedage 
+        affiliation: Eindhoven University of Technology 
+      - name: Louis 
+        surname: Shekhtman 
+        affiliation: Northeastern University 
+      - name: Lovro 
+        surname: Šubelj 
+        affiliation: University of Ljubljana 
+      - name: Luca 
+        surname: Pappalardo 
+        affiliation: ISTI 
+      - name: Luca 
+        surname: Verginer 
+        affiliation: ETH Zürich 
+      - name: Luca 
+        surname: Gallo 
+        affiliation: Corvinus University of Budapest 
+      - name: Luca Maria 
+        surname: Aiello 
+        affiliation: IT University of Copenhagen 
+      - name: Lucas 
+        surname: Lacasa 
+        affiliation: IFISC (CSIC-UIB) 
+      - name: Lucia Valentina 
+        surname: Gambuzza 
+        affiliation: DIEEI University of Catania 
+      - name: Lucio 
+        surname: La Cava 
+        affiliation: University of Calabria 
+      - name: Luis E C 
+        surname: Rocha 
+        affiliation: Ghent University 
+      - name: M. Ángeles 
+        surname: Serrano 
+        affiliation: Unversitat de Barcelona 
+      - name: Maksim 
+        surname: Kitsak 
+        affiliation: TU Delft 
+      - name: Manlio 
+        surname: De Domenico 
+        affiliation: University of Padua 
+      - name: Manuel Sebastian 
+        surname: Mariani 
+        affiliation: University of Zurich 
+      - name: Mar 
+        surname: Barrantes-Cepas 
+        affiliation: Amsterdam UMC 
+      - name: Marco 
+        surname: Mancastroppa 
+        affiliation: CNRS, Centre de physique théorique (CPT), Aix-Marseille Université 
+      - name: maria 
+        surname: del rio chanona 
+        affiliation: University College London 
+      - name: Mariana 
+        surname: Macedo 
+        affiliation: Northeastern University London 
+      - name: Marija 
+        surname: Mitrovic Dankulov 
+        affiliation: Institute of Physics Belgrade 
+      - name: Marijn 
+        surname: ten Thij 
+        affiliation: Tilburg University 
+      - name: Mario 
+        surname: Giacobini 
+        affiliation: University of Torino 
+      - name: Martin 
+        surname: Moriamé 
+        affiliation: University of Namur 
+      - name: Marton 
+        surname: Posfai 
+        affiliation: CEU 
+      - name: Masaki 
+        surname: Chujyo 
+        affiliation: The University of Tokyo 
+      - name: Massimiliano 
+        surname: Zanin 
+        affiliation: IFISC (CSIC-UIB) 
+      - name: Mathieu 
+        surname: Génois 
+        affiliation: Centre de Physique Théorique 
+      - name: Matteo 
+        surname: Bruno 
+        affiliation: Sony CSL Rome 
+      - name: Matteo 
+        surname: Cinelli 
+        affiliation: Sapienza University of Rome 
+      - name: Mattia 
+        surname: Mazzoli 
+        affiliation: ISI Foundation 
+      - name: Matus 
+        surname: Medo 
+        affiliation: University of Bern 
+      - name: Michele 
+        surname: Tizzoni 
+        affiliation: University of Trento 
+      - name: Michele 
+        surname: Tizzani 
+        affiliation: ISI Foundation 
+      - name: Michele 
+        surname: Coscia 
+        affiliation: IT University of Copenhagen 
+      - name: Michele 
+        surname: Starnini 
+        affiliation: CENTAI 
+      - name: Michele 
+        surname: Allegra 
+        affiliation: Università di Padova 
+      - name: Mikko 
+        surname: Kivelä 
+        affiliation: Aalto University 
+      - name: Minsuk 
+        surname: Kim 
+        affiliation: Indiana University 
+      - name: Morgan 
+        surname: Frank 
+        affiliation: University of Pittsburgh 
+      - name: Moritz 
+        surname: Laber 
+        affiliation: Network Science Institute, Northeastern University 
+      - name: Naoki 
+        surname: Masuda 
+        affiliation: State University of New York at Buffalo 
+      - name: Natasa 
+        surname: Djurdjevac Conrad 
+        affiliation: Zuse Institute Berlin 
+      - name: Nicholas 
+        surname: Landry 
+        affiliation: University of Virginia 
+      - name: Nicola 
+        surname: Pedreschi 
+        affiliation: University of Oxford 
+      - name: Nicolò 
+        surname: Pagan 
+        affiliation: University of Zürich 
+      - name: Nino 
+        surname: Antulov-Fantulin 
+        affiliation: ETH Zurich 
+      - name: Onkar 
+        surname: Sadekar 
+        affiliation: Central European University 
+      - name: Oriol 
+        surname: Artime 
+        affiliation: University of Barcelona 
+      - name: Oscar 
+        surname: Granados 
+        affiliation: Universidad Jorge Tadeo Lozano 
+      - name: Osnat 
+        surname: Mokryn 
+        affiliation: University of Haifa 
+      - name: P 
+        surname: Pollner 
+        affiliation: ELTE 
+      - name: Pablo 
+        surname: Villegas 
+        affiliation: Enrico Fermi Research Center (CREF) 
+      - name: Paul 
+        surname: Expert 
+        affiliation: University College London 
+      - name: Paulo 
+        surname: Bandeira 
+        affiliation: GEAPAM-URCA 
+      - name: Pedro 
+        surname: Rivera Torres 
+        affiliation: Universidad de Salamanca 
+      - name: Per Sebastian 
+        surname: Skardal 
+        affiliation: Trinity College 
+      - name: Petter 
+        surname: Holme 
+        affiliation: Aalto University 
+      - name: Piet 
+        surname: Van Mieghem 
+        affiliation: Delft University of Technology 
+      - name: Pietro 
+        surname: Coletti 
+        affiliation: Université catholique de Louvain 
+      - name: Pietro 
+        surname: Gravino 
+        affiliation: Sony CSL - Paris 
+      - name: Pranavathiyani 
+        surname: Gnanasekar 
+        affiliation: CSIR-Institute of Microbial Technology (IMTech) 
+      - name: Prathyush 
+        surname: Sambaturu 
+        affiliation: University of Oxford 
+      - name: Quintino Francesco 
+        surname: Lotito 
+        affiliation: University of Trento 
+      - name: Rahul 
+        surname: Singh 
+        affiliation: IIT Bombay 
+      - name: remy 
+        surname: cazabet 
+        affiliation: Lyon 1 
+      - name: Renaud 
+        surname: Lambiotte 
+        affiliation: University of Oxford 
+      - name: Robert 
+        surname: Jankowski 
+        affiliation: University of Barcelona 
+      - name: Rosa 
+        surname: Benito 
+        affiliation: Universidad Politécnica de Madrid 
+      - name: Rossana 
+        surname: Mastrandrea 
+        affiliation: University of Turin 
+      - name: Rossano 
+        surname: Schifanella 
+        affiliation: University of Turin 
+      - name: Ruiqi 
+        surname: Li 
+        affiliation: Beihang University 
+      - name: Ruixue 
+        surname: Jing 
+        affiliation: Ghent University 
+      - name: Ryota 
+        surname: Kobayashi 
+        affiliation: University of Tokyo 
+      - name: Sam 
+        surname: Seaver 
+        affiliation: Argonne National Laboratory 
+      - name: Samuel 
+        surname: Martin-Gutierrez 
+        affiliation: Complexity Science Hub Vienna 
+      - name: Samuel 
+        surname: Koovely 
+        affiliation: University of Zurich 
+      - name: Sandor 
+        surname: Juhasz 
+        affiliation: Corvinus University of Budapest 
+      - name: Sandro 
+        surname: Meloni 
+        affiliation: IFISC - CSIC 
+      - name: Sang Hoon 
+        surname: Lee 
+        affiliation: Gyeongsang National University 
+      - name: Satyam 
+        surname: Mukherjee 
+        affiliation: Shiv Nadar University 
+      - name: Sergi 
+        surname: Lozano 
+        affiliation: Universitat de Barcelona 
+      - name: Sergio 
+        surname: Gómez 
+        affiliation: Universitat Rovira i Virgili 
+      - name: SHU 
+        surname: LIU 
+        affiliation: The University of Tokyo 
+      - name: Siddharth 
+        surname: Patwardhan 
+        affiliation: Northwestern University 
+      - name: Silvia 
+        surname: Bartolucci 
+        affiliation: University College London 
+      - name: Spencer 
+        surname: Fox 
+        affiliation: UGa 
+      - name: Sukankana 
+        surname: Chakraborty 
+        affiliation: UCL 
+      - name: Tao 
+        surname: Wen 
+        affiliation: The University of Manchester 
+      - name: Tarun 
+        surname: Kumar 
+        affiliation: Hewlett Packard Labs 
+      - name: Tatsuya 
+        surname: Akutsu 
+        affiliation: Kyoto University 
+      - name: Teruyoshi 
+        surname: Kobayashi 
+        affiliation: Kobe University 
+      - name: Thilo 
+        surname: Gross 
+        affiliation: HIFMB Helmholtz Institute for Functional Marine Biodiversity 
+      - name: Tiago 
+        surname: Peixoto 
+        affiliation: IT:U Interdisciplinary Transformation University Austria 
+      - name: Tim 
+        surname: Evans 
+        affiliation: Imperial College London 
+      - name: Timoteo 
+        surname: Carletti 
+        affiliation: University of Namur 
+      - name: Tiziano 
+        surname: Squartini 
+        affiliation: IMT School for Advanced Studies Lucca 
+      - name: Tzu-Chi 
+        surname: Yen 
+        affiliation: Department of Computer Science, University of Colorado Boulder 
+      - name: Vedran 
+        surname: Sekara 
+        affiliation: IT University of Copenhagen 
+      - name: Víctor 
+        surname: Eguíluz 
+        affiliation: Basque Centre for Climate Change BC3 
+      - name: Vincent 
+        surname: Thibeault 
+        affiliation: Université Laval 
+      - name: Wei 
+        surname: Zhang 
+        affiliation: the University of Sydney 
+      - name: Wesley 
+        surname: Cota 
+        affiliation: Universidade Federal de Viçosa (UFV) 
+      - name: Xiangnan 
+        surname: Feng 
+        affiliation: Complexity Science Hub 
+      - name: Xin 
+        surname: Lu 
+        affiliation: National University of Defense Technology 
+      - name: Yang-Yu 
+        surname: Liu 
+        affiliation: Harvard Medical School 
+      - name: Yanna 
+        surname: Kraakman 
+        affiliation: University of Twente 
+      - name: Yasaman 
+        surname: Asgari 
+        affiliation: University of Zurich 
+      - name: Yérali 
+        surname: Gandica 
+        affiliation: Valencian International University 
+      - name: Yifang 
+        surname: MA 
+        affiliation: Southern University of Science and Technology 
+      - name: Yohsuke 
+        surname: Murase 
+        affiliation: RIKEN R-CCS 
+      - name: young sul 
+        surname: cho 
+        affiliation: jeonbuk national university 
+      - name: Yuliia 
+        surname: Kazmina 
+        affiliation: University of Amsterdam 
+      - name: Zachary 
+        surname: Nicolaou 
+        affiliation: University of Washington 
+      - name: Zachary 
+        surname: Neal 
+        affiliation: Michigan State University 
+      - name: Zexun 
+        surname: Chen 
+        affiliation: University of Edinburgh 
 
