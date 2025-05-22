@@ -1004,6 +1004,7 @@ days:
         category: Invited Speaker
         row: 2
         room: Auditorium 1
+        url: /speakers/
       - time: 18:30 - 19:30 
         title: Welcome reception
         category: Other Activities
@@ -1114,6 +1115,7 @@ days:
         category: Invited Speaker
         row: 2
         room: Auditorium 1
+        url: /speakers/
       - time: 09:45 - 10:30
         title: Lightning 2
         category: Lightning
@@ -1143,6 +1145,7 @@ days:
         category: Invited Speaker
         row: 2
         room: Auditorium 1
+        url: /speakers/
       - time: 19:00 - 23:00
         title: Conference dinner
         category: Break
@@ -1246,23 +1249,26 @@ days:
         category: Invited Speaker
         row: 2
         room: Auditorium 1
+        url: /speakers/
       - time: 10:30 - 12:30
         title: NSS Awards
         category: Other Activities
         row: 2
         room: Auditorium 1
       - time: 14:00 - 16:00
-        title: Focus sessions
+        title: Network Dynamical Systems Focus Session
         category: Invited Speaker 
         row: 2
         room: Auditorium 1
+        url: /focus_sessions/
       - time: 16:00 - 16:20
         title: Closing
         category: Other Activities
         row: 2
         room: Auditorium 1
       - time: 14:00 - 16:00
-        title: Focus sessions
+        title: Network Psychometrics Focus Session
         category: Invited Speaker 
         row: 3
         room: 0.11 Cape Town
+        url: /focus_sessions/
