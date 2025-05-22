@@ -964,6 +964,11 @@ days:
         category: Break
         row: 1
         room: Lobby
+      - time: 18:30 - 19:30 
+        title: Welcome reception
+        category: Other Activities
+        row: 1
+        room: Lobby
         url: /posters/wednesday-posters/
       - time: 08:45 - 09:00
         title: Opening
@@ -1005,11 +1010,6 @@ days:
         row: 2
         room: Auditorium 1
         url: /speakers/
-      - time: 18:30 - 19:30 
-        title: Welcome reception
-        category: Other Activities
-        row: 2
-        room: Auditorium 1
       - time: 11:00 - 13:00
         title: Higher order networks 1
         category: Parallel
