@@ -21,7 +21,7 @@ The school will take place on Friday June 6th between 14:00-16:00. For more info
 Join us for a focus session introducing network psychometrics to the NetSci community. Network psychometrics applies network science to psychological assessment, modeling psychological attributes as interconnected systems rather than isolated variables. While this approach has become well-established within psychology and has changed the way researchers understand mental health, personality, and cognitive processes, there has been surprisingly little interaction between network psychometricians and the broader network science community. This session aims to bridge that gap, showcasing how psychological networks differ from and complement other network applications in physics, biology, and social sciences. We invite NetSci researchers to discover this rich application domain where their expertise could drive new theoretical and methodological advances, while exposing the unique challenges and innovations that network psychometrics brings to complex systems research.
 
 
-### Presentations
+### Speakers
 
 
   <div class="card-container">
@@ -70,10 +70,25 @@ Join us for a focus session introducing network psychometrics to the NetSci comm
 
 ## Focus Session 2: Network dynamical systems
 
-Information to be added
+Networks of interacting dynamical units—or simply network dynamical systems—give rise to fascinating collective emergent dynamics such as synchronization and clustering. A pertinent question is how the underlying network structure affects the collective dynamics. The tools to answer this question lie at the intersection of network science, topology and dynamical systems theory. This focus session brings together experts, whose work lies in this novel emerging field, to showcase how dynamical systems techniques can be useful to analyze network dynamical systems in theory and applications. This focus session will be supported by The Berlin Mathematics Research Center MATH+, BeyondTheEdge and VIDI Kryven.
+
+### Organizers:
+Christian Bick (Vrije Universiteit Amsterdam), Nataša Djurdjevac Conrad (Zuse Institute Berlin), Timoteo Carletti (University of Namur), Ivan Kryven (Utrecht University)
+
+#### Speaker: Ginestra Bianconi (Queen Mary University of London)
+##### Title: Topology and geometry shape the dynamics of higher-order networks
+Abstract: -
+
+#### Speaker: Christof Schütte (Freie Universitaet Berlin and Zuse Institute Berlin) 
+##### Title: Emergence in multiscale social networks
+Abstract: This talk explores emergence in social networks by extending classical opinion dynamics models to incorporate layered structures of influencers, media, and followers. We examine how these interactions give rise to complex collective behaviors, such as opinion clustering. By leveraging dimensionality reduction techniques, we reveal how low-dimensional models can effectively capture the essence of the emergent dynamics. Special attention is given to identifying the structural and dynamical ingredients—such as attractive and repulsive terms of the interaction forces-that are critical to the formation and stability of these patterns.
+
+#### Speaker: Tiago Pereira (Universidade de São Paulo) 
+##### Title: Emergent hypernetworks in weakly coupled oscillators
+Abstract: Networks of weakly coupled oscillators have significantly advanced our understanding of complex systems. Studies on model reconstruction have revealed that hypernetworks with  triplet and higher-order interactions frequently arise, despite initial models assuming pairwise interactions. We demonstrate that hypernetworks can spontaneously emerge from pairwise nonlinear coupling under certain resonance conditions. This is supported by experiments with electrochemical oscillators and simulations with integrate-and-fire neurons. Our theory uncovers the mechanism behind emergent hypernetworks and shows that microscopic linear coupling leads to nonlinear mean fields, facilitating hypernetwork formation. These findings help explain the prevalence of hypernetworks and offer a method for predicting and engineering their emergence. 
 
 
-### Presentations
+### Spakers
 
 <div class="card-container">
           
