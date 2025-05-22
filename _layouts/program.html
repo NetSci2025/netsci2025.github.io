@@ -121,7 +121,9 @@ main {
   padding: 8px;
   border-radius: 4px;
   font-size: 0.8rem;
-  overflow: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
   position: absolute;
   top: 2px;
   bottom: 2px;
@@ -130,6 +132,10 @@ main {
   cursor: pointer;
   transition: all 0.2s ease;
   box-sizing: border-box;
+}
+
+.event-block::-webkit-scrollbar {
+  display: none;
 }
 
 .event-block:hover {
