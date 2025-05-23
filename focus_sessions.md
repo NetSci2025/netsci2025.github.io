@@ -20,6 +20,9 @@ The school will take place on Friday June 6th between 14:00-16:00. For more info
 
 Join us for a focus session introducing network psychometrics to the NetSci community. Network psychometrics applies network science to psychological assessment, modeling psychological attributes as interconnected systems rather than isolated variables. While this approach has become well-established within psychology and has changed the way researchers understand mental health, personality, and cognitive processes, there has been surprisingly little interaction between network psychometricians and the broader network science community. This session aims to bridge that gap, showcasing how psychological networks differ from and complement other network applications in physics, biology, and social sciences. We invite NetSci researchers to discover this rich application domain where their expertise could drive new theoretical and methodological advances, while exposing the unique challenges and innovations that network psychometrics brings to complex systems research.
 
+### Organizers:
+Daniele Marinazzo (Ghent University), Niels Van Santen (Ghent University)
+
 
 ### Speakers
 
@@ -57,8 +60,7 @@ Join us for a focus session introducing network psychometrics to the NetSci comm
              alt="Picture of Omid Ebrahimi">
       </div>
       <p class="speaker-name">Omid Ebrahimi</p>
-      <p class="title">Towards precision in the diagnostic profiling of patients:</p>
-      <p class="subtitle">leveraging psychometric networks and symptom dynamics in the assessment and treatment of mental disorders</p>
+      <p class="title">Towards precision in the diagnostic profiling of patients: leveraging psychometric networks and symptom dynamics in the assessment and treatment of mental disorders</p>
       <div class="red-line"></div>
       <p class="description">
         Omid V. Ebrahimi is a Senior Researcher at the University of Oxford. His research focuses on the mechanisms underlying the development and maintenance of common mental health disorders (i.e. depression and anxiety) using multi-level and systems-based approaches, including models from network psychometrics and the dynamical systems field. In particular, this research examines how critical incidents occurring at the national and global level (e.g., infectious disease outbreaks, climate change, and economic recession) impact the development of common mental disorders and can alter human behaviour.
