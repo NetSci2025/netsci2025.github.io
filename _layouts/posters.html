@@ -50,6 +50,7 @@ layout: default
         <table class="custom-table">
             <thead>
                 <tr>
+                    <th>Poster board</th>
                     <th>Paper ID</th>
                     <th>Presenter</th>
                     <th>Poster Title</th>
@@ -60,6 +61,7 @@ layout: default
                 {% assign poster_data = site.data.posters[page.slug] %}
                 {% for talk in poster_data.talks %}
                 <tr>
+                    <td>{{ talk['Poster board'] }}</td>
                     <td>{{ talk['Paper ID'] }}</td>
                     <td>{{ talk.Presenter }}</td>
                     <td>{{ talk['Talk title'] }}</td>
