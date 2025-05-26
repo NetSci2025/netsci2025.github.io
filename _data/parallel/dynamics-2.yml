@@ -20,128 +20,99 @@ talks:
     \geq 0.\end{equation}In the above relation, $B(s)$ is the standard Brownian motion,
     $B_0$ is the initial position, $H \in (0,1)$ is the Hurst exponent, $\Gamma$ is
     the gamma function, and $\mu(s)$ and $\sigma(s)$ are respectively the trend and
-    noise-induced volatility at time $s$. As an example, Fig.~\ref{pop_clt}  shows
+    noise-induced volatility at time $s$. As an example, Fig.~\ref{pop_clt} shows
     the popularity trajectory of the Charlotte Douglas International Airport (CLT)
     in the US Air transportation network. The observed behavior can be qualitatively
     reproduced in synthetic networks that possess a latent geometric space, but not
     in networks that lack such space~[1], suggesting that the observed subdiffusive
-    dynamics are inherently linked to the hidden geometry of real networks.  We will
+    dynamics are inherently linked to the hidden geometry of real networks. We will
     also briefly discuss ongoing work of how to predict link kinetics in real networks,
     once the historical evolution of node connectivity and popularity-similarity trajectories
     are known.
+  Time: Thu 11:00 - 11:15
 - Session name: Dynamics 2
   Talk Order: '2'
-  Abstract ID: '400'
-  Presenter: Alexandra Tits
-  Talk title: Fluid flow through the lacunocanalicular network in bone
-  Abstract: The bones of most animals, including humans, are permeated by two nested
-    network structures. The lacunocanalicular network (LCN) consists of pores, called
-    lacunae, interconnected by channels, called canaliculi. The lacunae accommodate
-    the cell bodies of osteocytes, with their cell processes extending through the
-    canaliculi. Multiple functions are attributed to the LCN and the osteocyte network,
-    including facilitating transport and signaling, and potentially playing a critical
-    role in mechanosensing and the orchestration of bone remodeling. According to
-    the fluid flow hypothesis, bone deformation from physical activity results in
-    load-induced fluid flow through the LCN. This flow generates shear and drag forces,
-    which can be sensed by osteocytes.To investigate these processes, we have developed
-    an experimental and computational workflow which allows us to (a) image the three-dimensional
-    architecture of the LCN; (b) quantify the architecture of the spatial network
-    and (c) calculate the fluid flow through the network. We use confocal laser scanning
-    microscopy to capture high-resolution images of the LCN. A custom-made software
-    is then used to transform the image data into a mathematical network of nodes
-    and edges. Hydraulic circuit theory can further be applied to calculate the fluid
-    flow velocity in each canaliculus.In our study, we investigate the fluid flow
-    through the LCN in human osteons, the basic cylindrical building blocks of cortical
-    bone. Our aim is to characterize how aging of bone and the occurrence of micropetrosis,
-    i.e. the mineralization of lacunae after osteocyte death, influence the fluid
-    flow through the LCN. To achieve this, we systematically “close” specific lacunae
-    in our computational model and analyze how these changes influence the fluid flow
-    pattern. Our analysis should clarify the resilience of the LCN - in clinical terms,
-    how much micropetrosis contributes to a reduced mechanosensation of osteonal bone
-    as we age.
-- Session name: Dynamics 2
-  Talk Order: '3'
-  Abstract ID: '333'
-  Presenter: Maja Lindström
-  Talk title: Mapping memory-biased random walks reveals overlapping communities
-  Abstract: Overlapping communities capture the complexity of real-world networks,
-    where nodes often play diverse roles across various contexts. However, identifying
-    overlapping flow-based communities requires path or other higher-order data, which
-    is commonly unavailable. To address this challenge, we draw inspiration from the
-    representation-learning algorithm node2vec and employ memory-biased random walks
-    to approximate higher-order dynamics. But instead of explicitly simulating the
-    walks, we model them with sparse memory networks and control the complexity of
-    the higher-order model with an information-theoretic approach through a tunable
-    information-loss parameter. Using the map equation framework, we partition the
-    resulting higher-order networks into overlapping modules. To validate the efficacy
-    of our proposed approach, we conducted extensive experiments and conclude that
-    this method captures overlapping flow-based communities in both synthetic and
-    real-world networks.
-- Session name: Dynamics 2
-  Talk Order: '4'
   Abstract ID: '34'
   Presenter: Shilong Yu
   Talk title: Using sample cross covariance to potentially improve early warning signals
     for network dynamics
-  Abstract: Please see the pdf abstract.
+  Abstract: 'Many real-life ecosystems experience sudden changes, also referred to
+    as regime shifts. These systems can be modeled
+
+    using a system of stochastic differential equations on a network. An early warning
+    signal (EWS) is a quantity that attempts
+
+    to anticipate a regime shift in the network dynamics. It can be both computationally
+    and economically expensive to
+
+    observe how every node behaves in a network over long time periods in order to
+    predict a regime shift. Thus, a key problem
+
+    is how to combine, select, and observe a small portion of the nodes within a network
+    so that we can still successfully
+
+    anticipate a sudden change in the system. We use an index we previously proposed
+    [2], d, whose maximization determines
+
+    an optimal node set to be used for constructing an early warning signal. Prior
+    work [1,2] considered the sample variance
+
+    of different nodes (i.e., the diagonal entries of the covariance matrix) and took
+    the average of the selected entries as an
+
+    EWS. We used theories based on the Lyapunov equation, considered sample covariance
+    of different nodes, and took the
+
+    average of the selected entries as a potential EWS. The overall aim is to use
+    the sample covariance to try to improve
+
+    EWSs, and we analyzed small and large networks to address this.
+
+    We generalized the formula for d to include the sample covariance case and explicitly
+    calculated its value in various four-
+
+    node networks. We discussed why certain entry or node selections lead to higher
+    d values and are good for constructing
+
+    EWSs. We found that, for three types of four-node networks with high symmetry,
+    which allow exact analysis, using
+
+    only diagonal entries of the covariance matrix (i.e., sample variance as opposed
+    to the sample covariance) almost always
+
+    produces the largest d under various noise scenarios.
+
+    Next, we tried to determine whether it is beneficial to use off-diagonal entries
+    of the covariance matrix (i.e., sample
+
+    covariance) to construct EWSs in larger networks. We performed simulations on
+    both model and empirical networks.
+
+    We analyzed the effectiveness of the four selection methods (see Fig. 1(a)) in
+    terms of d and Kendall’s τ ; the latter
+
+    is a standard performance measure in EWS research. We ran the analysis of variance
+    and Tukey’s honestly significant
+
+    difference test to statistically compare d and τ for the four node selection methods
+    across various networks and dynamics.
+
+    Figure 1(b) is an example that illustrates the effectiveness of different selection
+    methods. We see that, on average, using
+
+    only diagonal entries (i.e., sample variance; shown in red) produces the largest
+    d and τ values. We found similar results
+
+    for various networks and dynamic models in general. Thus, we deduce that using
+    off-diagonal entries of the covariance
+
+    matrix does not improve the quality of EWSs, supporting the use of sample variance
+    rather than covariance in EWS
+
+    research.'
+  Time: Thu 11:15 - 11:30
 - Session name: Dynamics 2
-  Talk Order: '5'
-  Abstract ID: '318'
-  Presenter: James Gleeson
-  Talk title: Time-dependent influence metric for cascade dynamics on networks
-  Abstract: An algorithm for efficiently calculating the expected size of single-seed
-    cascade dynamics on networks is proposed and tested. The expected size is a time-dependent
-    quantity and so enables the identification of nodes who are the most influential
-    early or late in the spreading process. The measure is accurate for both critical
-    and subcritical dynamic regimes and so generalises the nonbacktracking centrality
-    that was previously shown to successfully identify the most influential single
-    spreaders in a model of critical epidemics on networks.
-- Session name: Dynamics 2
-  Talk Order: '6'
-  Abstract ID: '74'
-  Presenter: Marvin Lücke
-  Talk title: Learning interpretable collective variables for dynamical systems on
-    networks
-  Abstract: Collective variables (CVs) are low-dimensional projections of high-dimensional
-    system states. They can be used to gain insights into complex emergent dynamical
-    behaviors of processes on networks. The relation between CVs and network measures
-    is not well understood and its derivation typically requires detailed knowledge
-    of both the dynamical system and the network topology. In this work, we present
-    a data-driven method for algorithmically learning and understanding CVs for binary-state
-    spreading processes on networks of arbitrary topology. Our results deliver evidence
-    for the existence of low-dimensional CVs even in cases that are not yet understood
-    theoretically.
-- Session name: Dynamics 2
-  Talk Order: '7'
-  Abstract ID: '126'
-  Presenter: Otti D'Huys
-  Talk title: Excitability and stochastic effects in an experimental spiking laser
-    network
-  Abstract: 'The collective dynamics of spiking elements is of particular interest
-    due to its prominence in both neuroscience and for applications in the context
-    of physics-based neuromorphic computing. Here, we present experimental and analytical
-    results of a network of up to 500 semiconductor lasers with non-linear optoelectronic
-    feedback.  We can tune the network configuration from one to all to globally coupled.  A
-    key feature of this system is that the coupling takes place through the slowly
-    evolving electronic signal - our experimental setup can be seen as a network with
-    adaptive coupling.The system is modelled by a set of stochastic differential equations
-    with three different time scales: the fast (optical) time scales describe the
-    semiconductor laser dynamics and the slow time scale describes the electronic
-    signal in the feedback loop. We consider independent additive noise terms in the
-    nodes - this noise is based on spontaneous emission noise. We also include noise
-    in the adaptive coupling - this electronic noise is common for the whole network.The
-    individual nodes are not excitable; however, with sum-coupling the network becomes
-    excitable as its size increases.  We study experimentally and numerically the
-    excitable character of the network, by recording the response to an external perturbation.
-    We show that increasing the network size has a stabilizing effect on the excitability,
-    making the response more consistent, when only considering noise in each node.
-    However, such effect is not reproduced in the experiment. We find that the inclusion
-    of electronic noise in the coupling counteracts this effect, and reproduces the
-    experimental data. We explain the interplay of the network dynamics, noise in
-    the nodes and noise in the adaptive coupling in framework of slow-fast dynamics,
-    and the existence of a sepatrix in phase space.'
-- Session name: Dynamics 2
-  Talk Order: '8'
+  Talk Order: '3'
   Abstract ID: '42'
   Presenter: Lluís Torres-Hugas
   Talk title: Interplay Between Structure and Diffusion Dynamics in Random and Multiplex
@@ -170,3 +141,113 @@ talks:
     enhances the diffusion process—in random networks using perturbation theory. Moreover,
     we find a new topological phase transition in the abundance of indirect channels
     for a critical connection probability.'
+  Time: Thu 11:30 - 11:45
+- Session name: Dynamics 2
+  Talk Order: '4'
+  Abstract ID: '74'
+  Presenter: Marvin Lücke
+  Talk title: Learning interpretable collective variables for dynamical systems on
+    networks
+  Abstract: Collective variables (CVs) are low-dimensional projections of high-dimensional
+    system states. They can be used to gain insights into complex emergent dynamical
+    behaviors of processes on networks. The relation between CVs and network measures
+    is not well understood and its derivation typically requires detailed knowledge
+    of both the dynamical system and the network topology. In this work, we present
+    a data-driven method for algorithmically learning and understanding CVs for binary-state
+    spreading processes on networks of arbitrary topology. Our results deliver evidence
+    for the existence of low-dimensional CVs even in cases that are not yet understood
+    theoretically.
+  Time: Thu 11:45 - 12:00
+- Session name: Dynamics 2
+  Talk Order: '5'
+  Abstract ID: '126'
+  Presenter: Otti D'Huys
+  Talk title: Excitability and stochastic effects in an experimental spiking laser
+    network
+  Abstract: 'The collective dynamics of spiking elements is of particular interest
+    due to its prominence in both neuroscience and for applications in the context
+    of physics-based neuromorphic computing. Here, we present experimental and analytical
+    results of a network of up to 500 semiconductor lasers with non-linear optoelectronic
+    feedback. We can tune the network configuration from one to all to globally coupled.
+    A key feature of this system is that the coupling takes place through the slowly
+    evolving electronic signal - our experimental setup can be seen as a network with
+    adaptive coupling.The system is modelled by a set of stochastic differential equations
+    with three different time scales: the fast (optical) time scales describe the
+    semiconductor laser dynamics and the slow time scale describes the electronic
+    signal in the feedback loop. We consider independent additive noise terms in the
+    nodes - this noise is based on spontaneous emission noise. We also include noise
+    in the adaptive coupling - this electronic noise is common for the whole network.The
+    individual nodes are not excitable; however, with sum-coupling the network becomes
+    excitable as its size increases. We study experimentally and numerically the excitable
+    character of the network, by recording the response to an external perturbation.
+    We show that increasing the network size has a stabilizing effect on the excitability,
+    making the response more consistent, when only considering noise in each node.
+    However, such effect is not reproduced in the experiment. We find that the inclusion
+    of electronic noise in the coupling counteracts this effect, and reproduces the
+    experimental data. We explain the interplay of the network dynamics, noise in
+    the nodes and noise in the adaptive coupling in framework of slow-fast dynamics,
+    and the existence of a sepatrix in phase space.'
+  Time: Thu 12:00 - 12:15
+- Session name: Dynamics 2
+  Talk Order: '6'
+  Abstract ID: '318'
+  Presenter: James Gleeson
+  Talk title: Time-dependent influence metric for cascade dynamics on networks
+  Abstract: An algorithm for efficiently calculating the expected size of single-seed
+    cascade dynamics on networks is proposed and tested. The expected size is a time-dependent
+    quantity and so enables the identification of nodes who are the most influential
+    early or late in the spreading process. The measure is accurate for both critical
+    and subcritical dynamic regimes and so generalises the nonbacktracking centrality
+    that was previously shown to successfully identify the most influential single
+    spreaders in a model of critical epidemics on networks.
+  Time: Thu 12:15 - 12:30
+- Session name: Dynamics 2
+  Talk Order: '7'
+  Abstract ID: '333'
+  Presenter: Maja Lindström
+  Talk title: Mapping memory-biased random walks reveals overlapping communities
+  Abstract: Overlapping communities capture the complexity of real-world networks,
+    where nodes often play diverse roles across various contexts. However, identifying
+    overlapping flow-based communities requires path or other higher-order data, which
+    is commonly unavailable. To address this challenge, we draw inspiration from the
+    representation-learning algorithm node2vec and employ memory-biased random walks
+    to approximate higher-order dynamics. But instead of explicitly simulating the
+    walks, we model them with sparse memory networks and control the complexity of
+    the higher-order model with an information-theoretic approach through a tunable
+    information-loss parameter. Using the map equation framework, we partition the
+    resulting higher-order networks into overlapping modules. To validate the efficacy
+    of our proposed approach, we conducted extensive experiments and conclude that
+    this method captures overlapping flow-based communities in both synthetic and
+    real-world networks.
+  Time: Thu 12:30 - 12:45
+- Session name: Dynamics 2
+  Talk Order: '8'
+  Abstract ID: '400'
+  Presenter: Alexandra Tits
+  Talk title: Fluid flow through the lacunocanalicular network in bone
+  Abstract: The bones of most animals, including humans, are permeated by two nested
+    network structures. The lacunocanalicular network (LCN) consists of pores, called
+    lacunae, interconnected by channels, called canaliculi. The lacunae accommodate
+    the cell bodies of osteocytes, with their cell processes extending through the
+    canaliculi. Multiple functions are attributed to the LCN and the osteocyte network,
+    including facilitating transport and signaling, and potentially playing a critical
+    role in mechanosensing and the orchestration of bone remodeling. According to
+    the fluid flow hypothesis, bone deformation from physical activity results in
+    load-induced fluid flow through the LCN. This flow generates shear and drag forces,
+    which can be sensed by osteocytes.To investigate these processes, we have developed
+    an experimental and computational workflow which allows us to (a) image the three-dimensional
+    architecture of the LCN; (b) quantify the architecture of the spatial network
+    and (c) calculate the fluid flow through the network. We use confocal laser scanning
+    microscopy to capture high-resolution images of the LCN. A custom-made software
+    is then used to transform the image data into a mathematical network of nodes
+    and edges. Hydraulic circuit theory can further be applied to calculate the fluid
+    flow velocity in each canaliculus.In our study, we investigate the fluid flow
+    through the LCN in human osteons, the basic cylindrical building blocks of cortical
+    bone. Our aim is to characterize how aging of bone and the occurrence of micropetrosis,
+    i.e. the mineralization of lacunae after osteocyte death, influence the fluid
+    flow through the LCN. To achieve this, we systematically “close” specific lacunae
+    in our computational model and analyze how these changes influence the fluid flow
+    pattern. Our analysis should clarify the resilience of the LCN - in clinical terms,
+    how much micropetrosis contributes to a reduced mechanosensation of osteonal bone
+    as we age.
+  Time: Thu 12:45 - 13:00

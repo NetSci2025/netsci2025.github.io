@@ -16,8 +16,32 @@ talks:
     dynamics and random walks within this context. Our results reveal that the coherence
     of MWNs gives rise to non-trivial steady states that generalize the notions of
     communities and structural balance in traditional networks.'
+  Time: Thu 16:30 - 16:45
 - Session name: Dynamics 3
   Talk Order: '2'
+  Abstract ID: '218'
+  Presenter: Natasa Djurdjevac Conrad
+  Talk title: Co-evolving Networks for Opinion and Social Dynamics in Agent-Based
+    Models
+  Abstract: Digital media has fundamentally transformed social interactions and reshaped
+    the ways in which individual opinions influence and are influenced by these interactions
+    [2]. While many studies explore how opinions influence social ties, existing models
+    mostly fail to include the interplay between opinion and social dynamics. We introduce
+    a novel stochastic agent-based model (ABM) [1] that captures this co-evolutionary
+    process. Our model considers agents moving in a social space influenced by both
+    positions and opinions of other agents. Agents with similar opinions of the same
+    stance exhibit social closeness, while opinion dissimilarity reinforces social
+    distancing between agents. Opinion dynamics is driven by agents’ spatial proximity
+    and their opinion similarity. By analyzing the underlying social and opinion temporal
+    interaction networks, we explore the emergence of phenomena like echo chambers
+    and opinion consensus [3]. We apply our model to General Social Survey Data (GSS)
+    [4], demonstrating its ability to capture the co-evolution of political identity
+    and individual opinions regarding governmental issues, see Figure. Our findings
+    highlight the crucial role of this interplay in shaping social structures and
+    collective outcomes.
+  Time: Thu 16:45 - 17:00
+- Session name: Dynamics 3
+  Talk Order: '3'
   Abstract ID: '293'
   Presenter: Pietro Traversa
   Talk title: Rumor propagation on hypergraphs
@@ -30,7 +54,7 @@ talks:
     propagation model on hypergraphs suited to higher-order dynamics. Our model has
     three possible node states, ignorant (X), spreader (Y) and stifler (Z). An ignorant
     node becomes a spreader (contagion) with rate λ once one of its groups reached
-    a critical mass of spreaders (defined with a threshold θ_λ), a mechanism  introduced
+    a critical mass of spreaders (defined with a threshold θ_λ), a mechanism introduced
     before in related work. However, here we also keep track of how many groups reached
     the critical mass thus becoming active. Then, a spreader becomes a stifler (annihilation)
     with rate α once enough of their groups are active, which is controlled with a
@@ -46,29 +70,37 @@ talks:
     our model on the empirical hypergraphs with the statistics from timestamps in
     the datasets and show that the parametric space is capable of capturing some of
     the temporal dynamics in the real-world systems.
-- Session name: Dynamics 3
-  Talk Order: '3'
-  Abstract ID: '218'
-  Talk title: Co-evolving Networks for Opinion and Social Dynamics in Agent-Based
-    Models
-  Abstract: Digital media has fundamentally transformed social interactions and reshaped
-    the ways in which individual opinions influence and are influenced by these interactions
-    [2]. While many studies explore how opinions influence social ties, existing models
-    mostly fail to include the  interplay between opinion and social dynamics. We
-    introduce a novel stochastic agent-based model (ABM) [1] that captures this co-evolutionary
-    process. Our model considers agents moving in a social space influenced by both
-    positions and opinions of other agents. Agents with similar opinions of the same
-    stance exhibit social closeness, while opinion dissimilarity reinforces social
-    distancing between agents. Opinion dynamics is driven by agents’ spatial proximity
-    and their opinion similarity. By analyzing the underlying social and opinion temporal
-    interaction networks, we explore the emergence of phenomena like echo chambers
-    and opinion consensus [3]. We apply our model to  General Social Survey Data (GSS)
-    [4],  demonstrating its ability to capture the co-evolution of political identity
-    and individual opinions regarding governmental issues, see Figure. Our findings
-    highlight the crucial role of this interplay in shaping social structures and
-    collective outcomes.
+  Time: Thu 17:00 - 17:15
 - Session name: Dynamics 3
   Talk Order: '4'
+  Abstract ID: '322'
+  Presenter: Lars Schroeder
+  Talk title: Stationary distribution of node2vec random walks on household models
+  Abstract: node2vec random walks are tuneable random walks that come from the popular
+    algorithm node2vec which is used for network embedding. The transition prob`abilities
+    of the random walks depend on the previous visited node and on the triangles that
+    contain the current and the previous node. In the node2vec algorithm, node2vec
+    random walks are used to sample neighborhoods for each node of the network and
+    by comparing these an embedding of the network into a Euclidean space can be computed.
+    Since the parameters of the random walks can be tuned to create different types
+    of neighborhoods, this approach is very flexible and advantageous over just using
+    simple random walks.Even though the algorithm is widely used in practice, mathematical
+    properties of node2vec random walks almost have not been investigated and even
+    basic questions such as how the stationary distribution depends on the walk parameters
+    are unexplored. We study household models, graphs with clique-structured communities,
+    and we present an explicit formula for the stationary distribution of node2vec
+    random walks on these models and compare it with the stationary distribution of
+    the simple random walk. The stationary distribution varies strongly depending
+    on the chosen parameters. Since the transition probabilities are only determined
+    by the ratio of $\alpha, \beta$ and $\gamma$, we can fix $\gamma = 1$. Comparing
+    the other two parameters, changing $\beta$ seems to have a much stronger effect
+    than changing $\alpha$. The larger $\beta$ is chosen, the longer the random walk
+    stays in bigger cliques which leads to higher stationary probabilities of the
+    nodes of that cliques. Numerical results show that for $\alpha \to \infty$ the
+    node2vec and the simple random walk converge to the same stationary distribution.
+  Time: Thu 17:15 - 17:30
+- Session name: Dynamics 3
+  Talk Order: '5'
   Abstract ID: '492'
   Presenter: Erica Cau
   Talk title: Modeling opinion dynamics of LLM populations
@@ -95,4 +127,4 @@ talks:
     of negative opinions, agents tend to be more biased toward the negative side without
     reaching a positive stance. Moreover, Llama agents were mostly persuaded by fallacious
     statements (79% of cases), particularly in a polarized context.
-
+  Time: Thu 17:30 - 17:45

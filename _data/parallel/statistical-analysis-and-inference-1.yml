@@ -3,36 +3,6 @@ slug: statistical-analysis-and-inference-1
 talks:
 - Session name: Statistical analysis and inference 1
   Talk Order: '1'
-  Abstract ID: '284'
-  Presenter: Tiago Peixoto
-  Talk title: Network reconstruction via the minimum description length principle
-  Abstract: A fundamental problem associated with the task of network reconstruction
-    from dynamical or behavioral data consists in determining the most appropriate
-    model complexity in a manner that prevents overfitting, and produces an inferred
-    network with a statistically justifiable number of edges and their weight distribution.
-    The status quo in this context is based on L1 regularization combined with cross-validation.
-    However, besides its high computational cost, this commonplace approach unnecessarily
-    ties the promotion of sparsity, i.e. abundance of zero weights, with weight “shrinkage.”
-    This combination forces a trade off between the bias introduced by shrinkage and
-    the network sparsity, which often results in substantial overfitting even after
-    cross-validation. In this work we propose an alternative nonparametric regularization
-    scheme based on hierarchical Bayesian inference and weight quantization, which
-    does not rely on weight shrinkage to promote sparsity. Our approach follows the
-    minimum description length (MDL) principle, and uncovers the weight distribution
-    that allows for the most compression of the data, thus avoiding overfitting without
-    requiring cross-validation. The latter property renders our approach substantially
-    faster and simpler to employ, as it requires a single fit to the complete data,
-    instead of many fits for multiple data splits and choice of regularization parameter.
-    As a result, we have a principled and efficient inference scheme that can be used
-    with a large variety of generative models, without requiring the number of reconstructed
-    edges and their weight distribution to be known in advance. In a series of examples,
-    we also demonstrate that our scheme yields systematically increased accuracy in
-    the reconstruction of both artificial and empirical networks. We highlight the
-    use of our method with the reconstruction of interaction networks between microbial
-    communities from large-scale abundance samples involving in the order of 10⁴ to
-    10⁵ species.
-- Session name: Statistical analysis and inference 1
-  Talk Order: '2'
   Abstract ID: '13'
   Presenter: Alec Kirkley
   Talk title: Parameter-free network sparsification with information theory
@@ -61,30 +31,59 @@ talks:
     We demonstrate that our methods perform favorably compared to existing backboning
     methods with respect to a number of metrics on a broad range of real and synthetic
     networks.
+  Time: Wed 14:30 - 14:45
+- Session name: Statistical analysis and inference 1
+  Talk Order: '2'
+  Abstract ID: '159'
+  Presenter: Maximilien Dreveton
+  Talk title: Why the Metric Backbone Preserves Community Structure
+  Abstract: The metric backbone of a weighted graph is the union of all-pairs shortest
+    paths. It is obtained by removing all edges (u,v) that are not the shortest path
+    between u and v. In networks with well-separated communities, the metric backbone
+    tends to preserve many inter-community edges, because these edges serve as bridges
+    connecting two communities, but tends to delete many intra-community edges because
+    the communities are dense. This suggests that the metric backbone would dilute
+    or destroy the community structure of the network. However, this is not borne
+    out by prior empirical work, which instead showed that the metric backbone of
+    real networks preserves the community structure of the original network well.
+    In this work, we analyze the metric backbone of a broad class of weighted random
+    graphs with communities, and we formally prove the robustness of the community
+    structure with respect to the deletion of all the edges that are not in the metric
+    backbone. An empirical comparison of several graph sparsification techniques confirms
+    our theoretical finding and shows that the metric backbone is an efficient sparsifier
+    in the presence of communities.
+  Time: Wed 14:45 - 15:00
 - Session name: Statistical analysis and inference 1
   Talk Order: '3'
-  Abstract ID: '419'
-  Presenter: Diego Garlaschelli
-  Talk title: Description length of canonical and microcanonical models
-  Abstract: 'The (non-)equivalence of canonical and microcanonical ensembles is a
-    central concept in statistical physics. Non-equivalence has recently been established
-    in models with an extensive number of constraints, common, e.g., in network science,
-    via a non-vanishing difference in relative entropy, corresponding to higher microcanonical
-    log-likelihood per node. However, from a model selection perspective, comparing
-    canonical and microcanonical models requires consideration of both log-likelihood
-    and complexity. To compare both terms under the Minimum Description Length (MDL)
-    principle, we compute the Normalized Maximum Likelihood (NML) of binary canonical
-    and microcanonical models, finding that (i) microcanonical models, though higher
-    in likelihood, are always more complex, making the choice of model non-trivial.
-    (ii) The optimal model choice depends on the empirical values of the constraints:
-    the canonical model performs best when its fit to observed data exceeds its uniform
-    average fit across all data. (iii) Notably, in the thermodynamic limit the difference
-    in description length per node vanishes for the equivalent models considered but
-    persists otherwise, showing that non-equivalence implies extensive differences
-    between large canonical and microcanonical models. Finally, we compare the NML
-    approach to Bayesian methods, showing that (iv) the choice of priors, while practically
-    uninfluential in equivalent models, becomes crucial when an extensive number of
-    constraints is enforced, possibly leading to very different outcomes.'
+  Abstract ID: '284'
+  Presenter: Tiago Peixoto
+  Talk title: Network reconstruction via the minimum description length principle
+  Abstract: A fundamental problem associated with the task of network reconstruction
+    from dynamical or behavioral data consists in determining the most appropriate
+    model complexity in a manner that prevents overfitting, and produces an inferred
+    network with a statistically justifiable number of edges and their weight distribution.
+    The status quo in this context is based on L1 regularization combined with cross-validation.
+    However, besides its high computational cost, this commonplace approach unnecessarily
+    ties the promotion of sparsity, i.e. abundance of zero weights, with weight “shrinkage.”
+    This combination forces a trade off between the bias introduced by shrinkage and
+    the network sparsity, which often results in substantial overfitting even after
+    cross-validation. In this work we propose an alternative nonparametric regularization
+    scheme based on hierarchical Bayesian inference and weight quantization, which
+    does not rely on weight shrinkage to promote sparsity. Our approach follows the
+    minimum description length (MDL) principle, and uncovers the weight distribution
+    that allows for the most compression of the data, thus avoiding overfitting without
+    requiring cross-validation. The latter property renders our approach substantially
+    faster and simpler to employ, as it requires a single fit to the complete data,
+    instead of many fits for multiple data splits and choice of regularization parameter.
+    As a result, we have a principled and efficient inference scheme that can be used
+    with a large variety of generative models, without requiring the number of reconstructed
+    edges and their weight distribution to be known in advance. In a series of examples,
+    we also demonstrate that our scheme yields systematically increased accuracy in
+    the reconstruction of both artificial and empirical networks. We highlight the
+    use of our method with the reconstruction of interaction networks between microbial
+    communities from large-scale abundance samples involving in the order of 10⁴ to
+    10⁵ species.
+  Time: Wed 15:00 - 15:15
 - Session name: Statistical analysis and inference 1
   Talk Order: '4'
   Abstract ID: '417'
@@ -108,26 +107,32 @@ talks:
     and the Partial Configuration Model (PCM, enforcing local constraints). Our results
     are interpreted based on recent findings on the difference between canonical and
     microcanonical models when local constraints are enforced.'
+  Time: Wed 15:15 - 15:30
 - Session name: Statistical analysis and inference 1
   Talk Order: '5'
-  Abstract ID: '159'
-  Presenter: Maximilien Dreveton
-  Talk title: Why the Metric Backbone Preserves Community Structure
-  Abstract: The metric backbone of a weighted graph is the union of all-pairs shortest
-    paths. It is obtained by removing all edges (u,v) that are not the shortest path
-    between u and v. In networks with well-separated communities, the metric backbone
-    tends to preserve many inter-community edges, because these edges serve as bridges
-    connecting two communities, but tends to delete many intra-community edges because
-    the communities are dense. This suggests that the metric backbone would dilute
-    or destroy the community structure of the network. However, this is not borne
-    out by prior empirical work, which instead showed that the metric backbone of
-    real networks preserves the community structure of the original network well.
-    In this work, we analyze the metric backbone of a broad class of weighted random
-    graphs with communities, and we formally prove the robustness of the community
-    structure with respect to the deletion of all the edges that are not in the metric
-    backbone. An empirical comparison of several graph sparsification techniques confirms
-    our theoretical finding and shows that the metric backbone is an efficient sparsifier
-    in the presence of communities.
+  Abstract ID: '419'
+  Presenter: Diego Garlaschelli
+  Talk title: Description length of canonical and microcanonical models
+  Abstract: 'The (non-)equivalence of canonical and microcanonical ensembles is a
+    central concept in statistical physics. Non-equivalence has recently been established
+    in models with an extensive number of constraints, common, e.g., in network science,
+    via a non-vanishing difference in relative entropy, corresponding to higher microcanonical
+    log-likelihood per node. However, from a model selection perspective, comparing
+    canonical and microcanonical models requires consideration of both log-likelihood
+    and complexity. To compare both terms under the Minimum Description Length (MDL)
+    principle, we compute the Normalized Maximum Likelihood (NML) of binary canonical
+    and microcanonical models, finding that (i) microcanonical models, though higher
+    in likelihood, are always more complex, making the choice of model non-trivial.
+    (ii) The optimal model choice depends on the empirical values of the constraints:
+    the canonical model performs best when its fit to observed data exceeds its uniform
+    average fit across all data. (iii) Notably, in the thermodynamic limit the difference
+    in description length per node vanishes for the equivalent models considered but
+    persists otherwise, showing that non-equivalence implies extensive differences
+    between large canonical and microcanonical models. Finally, we compare the NML
+    approach to Bayesian methods, showing that (iv) the choice of priors, while practically
+    uninfluential in equivalent models, becomes crucial when an extensive number of
+    constraints is enforced, possibly leading to very different outcomes.'
+  Time: Wed 15:30 - 15:45
 - Session name: Statistical analysis and inference 1
   Talk Order: '6'
   Abstract ID: '464'
@@ -158,3 +163,4 @@ talks:
     The aim of this project is to expand our ability to explore the diversity of partition
     landscapes and to address questions around the coexistence of multiple latent
     roles of network nodes.
+  Time: Wed 15:45 - 16:00

@@ -3,35 +3,36 @@ slug: network-epidemics-1
 talks:
 - Session name: Network Epidemics 1
   Talk Order: '1'
-  Abstract ID: '429'
-  Presenter: Anna Gamza
-  Talk title: Spatial aggregation areas for infectious contact network inferred from
-    pathogen sequence data
-  Abstract: As contact tracing is costly and usually provides subjective and fragmented
-    data, study of infectious contact networks is difficult, especially for systems
-    with complex transmission patterns. The genetic distance between pathogen sequence
-    data, is correlated to the proximity of contacts on a transmission tree and is
-    a direct insight into the contact patterns driving the spread of infection in
-    a community or ecosystem. As such genetic distance can be used to determine the
-    size of aggregation areas in spatial network by finding the best scales for aggregations
-    of variables.  The transmission dynamics of Highly Pathogenic Avian Influenza
-    (HPAI) is complex as it spans multiple bird species and production systems. To
-    quantify the scales of potentially infectious interactions we use the genetic
-    distances between HPAI H5N1 sequences in the 2020-2022 from Great Britain with
-    the set of other variables (i.e. number of cases, wild bird abundance and poultry
-    farms count) calculated over various geographical scales1. We demonstrate that
-    spatial scales of aggregation depend both on the variable and the time of analysis.
-    Variables that are directly describing HPAI outbreaks (number of wild and domestic
-    bird cases) have different scales of aggregation for the variable type and period
-    of analysis, while indirectly correlated, constant in time variables (wild bird
-    abundance and farm density) generally have the same scale for both analysed periods.
-    Our study shows that the interactions driving complex transmission systems are
-    variable, and separate spatial networks may need to be considered to represent
-    a range of epidemiological interactions. The network with time dynamic spatial
-    aggregation may be necessary for variables directly describing temporal changes
-    of outbreaks.1 Gamża, A., Lycett, S., Sanchez, A. & Kao, R. Using sequence data
-    to study spatial scales of interactions driving spread of Highly Pathogenic Avian
-    Influenza in Great Britain.arXiv preprint arXiv:2411.10424(2024)
+  Abstract ID: '268'
+  Presenter: Amanda Perofsky
+  Talk title: Modelling the effects of COVID-19 mobility disruptions on RSV transmission
+    in Seattle, Washington
+  Abstract: Respiratory Syncytial Virus (RSV) infection is a major cause of acute
+    respiratory hospitalizations in young children and older adults. In early 2020
+    most countries implemented non-pharmaceutical interventions (NPIs) to slow the
+    spread of SARS-CoV-2. COVID-19 NPIs disrupted the transmission of RSV on a global
+    scale, and many locations did not experience widespread recirculation until late
+    2020 or 2021. Here, we use a dynamic mathematical model to investigate the impacts
+    of human mobility on the reemergence of RSV in Seattle, Washington.We characterized
+    within-city mixing, in-flows, and foot traffic to points of interest (POIs) using
+    SafeGraph mobility data. We calibrated an age-structured epidemic model to data
+    on weekly RSV hospitalizations in Seattle-King County, WA (2017–2023), allowing
+    for fluctuations in transmission due to changes in mobility during the pandemic.
+    We focused on mobility metrics that may best approximate transmission-relevant
+    contacts, spatial spread, or external case importations and used maximum likelihood
+    to determine the best-fitting models.COVID-19 NPIs perturbed RSV seasonality from
+    2020 to 2022. Seattle experienced a small out-of-season outbreak in Summer 2021
+    and an atypically large and early wave in Fall 2022. Transmission models incorporating
+    mobility network connectivity (measured as the mean shortest path length between
+    Seattle neighborhoods) or the inflow of visitors residing outside of Seattle most
+    accurately captured the timing and magnitude of the first two post-pandemic waves,
+    outperforming models that included foot traffic to schools or child daycares (Figure
+    1).These results suggest that case importations from other regions and local spread
+    between neighborhoods had the greatest influence on the timing of RSV reemergence
+    in Seattle. Our study contributes crucial insights into the behavioral factors
+    underlying RSV epidemic spread and could potentially inform preventative measures,
+    such as the timing of immunizations.
+  Time: Wed 14:30 - 14:45
 - Session name: Network Epidemics 1
   Talk Order: '2'
   Abstract ID: '281'
@@ -62,39 +63,9 @@ talks:
     household and sexual contacts can provide valuable insights into real-life outbreaks.
     The clade Ib mpox outbreak in the DRC serves as a practical application, highlighting
     its potential for public health insights into optimal control strategies.
+  Time: Wed 14:45 - 15:00
 - Session name: Network Epidemics 1
   Talk Order: '3'
-  Abstract ID: '268'
-  Presenter: Amanda Perofsky
-  Talk title: Modelling the effects of COVID-19 mobility disruptions on RSV transmission
-    in Seattle, Washington
-  Abstract: Respiratory Syncytial Virus (RSV) infection is a major cause of acute
-    respiratory hospitalizations in young children and older adults. In early 2020
-    most countries implemented non-pharmaceutical interventions (NPIs) to slow the
-    spread of SARS-CoV-2. COVID-19 NPIs disrupted the transmission of RSV on a global
-    scale, and many locations did not experience widespread recirculation until late
-    2020 or 2021. Here, we use a dynamic mathematical model to investigate the impacts
-    of human mobility on the reemergence of RSV in Seattle, Washington.We characterized
-    within-city mixing, in-flows, and foot traffic to points of interest (POIs) using
-    SafeGraph mobility data. We calibrated an age-structured epidemic model to data
-    on weekly RSV hospitalizations in Seattle-King County, WA (2017–2023), allowing
-    for fluctuations in transmission due to changes in mobility during the pandemic.
-    We focused on mobility metrics that may best approximate transmission-relevant
-    contacts, spatial spread, or external case importations and used maximum likelihood
-    to determine the best-fitting models.COVID-19 NPIs perturbed RSV seasonality from
-    2020 to 2022. Seattle experienced a small out-of-season outbreak in Summer 2021
-    and an atypically large and early wave in Fall 2022. Transmission models incorporating
-    mobility network connectivity (measured as the mean shortest path length between
-    Seattle neighborhoods) or the inflow of visitors residing outside of Seattle most
-    accurately captured the timing and magnitude of the first two post-pandemic waves,
-    outperforming models that included foot traffic to schools or child daycares (Figure
-    1).These results suggest that case importations from other regions and local spread
-    between neighborhoods had the greatest influence on the timing of RSV reemergence
-    in Seattle. Our study contributes crucial insights into the behavioral factors
-    underlying RSV epidemic spread and could potentially inform preventative measures,
-    such as the timing of immunizations.
-- Session name: Network Epidemics 1
-  Talk Order: '4'
   Abstract ID: '370'
   Presenter: Davide Maniscalco
   Talk title: Adaptive behavior in response to the 2022 mpox epidemic in the Paris
@@ -121,6 +92,39 @@ talks:
     and community engagement in outbreak management. Tailored public health responses
     that encourage adaptive behaviors, especially as vaccination efforts ramp up,
     are essential for supporting affected communities.
+  Time: Wed 15:00 - 15:15
+- Session name: Network Epidemics 1
+  Talk Order: '4'
+  Abstract ID: '429'
+  Presenter: Anna Gamza
+  Talk title: Spatial aggregation areas for infectious contact network inferred from
+    pathogen sequence data
+  Abstract: As contact tracing is costly and usually provides subjective and fragmented
+    data, study of infectious contact networks is difficult, especially for systems
+    with complex transmission patterns. The genetic distance between pathogen sequence
+    data, is correlated to the proximity of contacts on a transmission tree and is
+    a direct insight into the contact patterns driving the spread of infection in
+    a community or ecosystem. As such genetic distance can be used to determine the
+    size of aggregation areas in spatial network by finding the best scales for aggregations
+    of variables. The transmission dynamics of Highly Pathogenic Avian Influenza (HPAI)
+    is complex as it spans multiple bird species and production systems. To quantify
+    the scales of potentially infectious interactions we use the genetic distances
+    between HPAI H5N1 sequences in the 2020-2022 from Great Britain with the set of
+    other variables (i.e. number of cases, wild bird abundance and poultry farms count)
+    calculated over various geographical scales1. We demonstrate that spatial scales
+    of aggregation depend both on the variable and the time of analysis. Variables
+    that are directly describing HPAI outbreaks (number of wild and domestic bird
+    cases) have different scales of aggregation for the variable type and period of
+    analysis, while indirectly correlated, constant in time variables (wild bird abundance
+    and farm density) generally have the same scale for both analysed periods. Our
+    study shows that the interactions driving complex transmission systems are variable,
+    and separate spatial networks may need to be considered to represent a range of
+    epidemiological interactions. The network with time dynamic spatial aggregation
+    may be necessary for variables directly describing temporal changes of outbreaks.1
+    Gamża, A., Lycett, S., Sanchez, A. & Kao, R. Using sequence data to study spatial
+    scales of interactions driving spread of Highly Pathogenic Avian Influenza in
+    Great Britain.arXiv preprint arXiv:2411.10424(2024)
+  Time: Wed 15:15 - 15:30
 - Session name: Network Epidemics 1
   Talk Order: '5'
   Abstract ID: '485'
@@ -151,9 +155,11 @@ talks:
     immunity within the population. We believe that our proposed method is an ambitious
     and important step towards a new generation of operational epidemic models, which
     integrate genetic sequence data in addition to traditional surveillance reports.
+  Time: Wed 15:30 - 15:45
 - Session name: Network Epidemics 1
   Talk Order: '6'
   Abstract ID: '603'
+  Presenter: Eugenio Valdano
   Talk title: Estimates of the reproduction ratio from epidemic surveillance may be
     biased in spatially structured populations
   Abstract: 'Accurate estimates of the reproduction ratio (Rt) are crucial for projecting
@@ -179,3 +185,4 @@ talks:
     Our findings may help improve epidemic monitoring and surveillance and inform
     strategies for public health responses.Ref: Birello P, et.al. Nature Physics 20,
     1204-1210 (2024) doi:10.1038/s41567-024-02471-7'
+  Time: Wed 15:45 - 16:00

@@ -3,72 +3,6 @@ slug: network-epidemics-2
 talks:
 - Session name: Network epidemics 2
   Talk Order: '1'
-  Abstract ID: '347'
-  Presenter: Anthony Wood
-  Talk title: Placement of monitoring sites on a wastewater network for effective
-    disease surveillance
-  Abstract: Wastewater-based epidemiology (WWBE) emerged as a method for monitoring
-    infectious diseases SARS-COV-2 during the COVID-19 pandemic [1]. One strength
-    of WWBE is that diseases can be monitored passively over entire populations, removing
-    demographic biases due to, for example, reporting behaviour, but introducing challenges
-    due to multiple sources of variation associated with signal detection. A key issue
-    is the intersection between two complex networks – mobility networks spreading
-    the disease, and the network of sewage pipes accumulating virus (Figure 1).  Here,
-    we develop an algorithm for choosing where to place a limited number of monitoring
-    sites, given the overall structure of the wastewater network and the distribution
-    of residents on that network, and test this method against a set of real wastewater
-    systems, where the aim is to either quickly detect a novel disease outbreak or
-    target containment measures, or both. We simulate disease surveillance in sewer
-    catchment areas containing up to half a million residents and compare it to (i)
-    COVID-19 case data distributions and (ii) simulations where infection is driven
-    by recorded mobility networks and spatial proximity. We quantify the tradeoffs
-    in spatial and temporal resolution associated with having only a limited sampling
-    capacity (e.g. is it better to test 2x per week in a single location, or 1x per
-    week at two?). We show that our placement of monitoring sites further "upstream"
-    substantially outperforms simple monitoring at the "sink" as well as random placement,
-    by more quickly and precisely detecting infected individuals which may otherwise
-    fall under the threshold for detection at the "sink" node. We then use a previous
-    approach [2] to quantify the sensitivity and specificity that our approach has
-    to detect incidence patterns as COVID-19 burdens rise and fall. [1] Fitzgerald
-    et al. https://doi.org/10.1021/acs.est.1c05029[2] Colman & Kao, ttps://doi.org/10.1101/2023.03.07.23286904
-- Session name: Network epidemics 2
-  Talk Order: '2'
-  Abstract ID: '392'
-  Presenter: Sámuel Gáspár Balogh
-  Talk title: Disease-induced immunization is efficient in dense geometric networks
-  Abstract: Herd immunity depends heavily on the structure of contact networks, and
-    also on the mechanism through which individuals have gained immunity. Extending
-    the work of Hiraoka et al. (2024), here we demonstrate that the average degree
-    in geometric networks plays a crucial role in the effectiveness of vaccine- and
-    disease-induced immunization strategies. Our results show that vaccine-induced
-    immunity is more effective in sparse, moderately degree-heterogeneous networks.
-    However, as the edge density increases, disease-induced immunity becomes more
-    advantageous - a switchover phenomenon absent in non-geometric network models.
-    In addition to the epidemiological implications, we also discuss the fundamental
-    properties of disease-induced immunization as a spatially-correlated node percolation
-    process, including the susceptibility, the degree distribution and the component
-    statistics, from a statistical physics perspective.
-- Session name: Network epidemics 2
-  Talk Order: '3'
-  Abstract ID: '329'
-  Presenter: Tommaso Bertola
-  Talk title: Critical behavior in multiscale epidemic models based on force of infection
-  Abstract: The spread of epidemics when coupled with human behavior dynamics presents
-    a challenge for accurate modeling and prediction.Leveraging on previous studies,
-    we construct an epidemiological model that simultaneously accounts for the age
-    structure of individuals, the heterogeneity of mobility, and the interplay between
-    the time scales of infection and mobility processes.Starting from a metapopulation
-    SIR model with reaction diffusion epidemic dynamic, we introduce an alternative
-    formulation based on the force of infection framework, showing how both methods
-    produce qualitatively comparable results and how the presence of heterogeneity
-    in mobility reduces the final fraction of infected subpopulations.Additionally,
-    the force of infection framework, capable of preserving the initial spatial distribution
-    of population, is used to forecast the number of seasonal influenza infections
-    in Italy.Overall, this work demonstrates how the impact of mobility varies depending
-    on the modeling of the spreading process and provides an independent estimate
-    for the Italian seasonalinfluenza forecasting service.
-- Session name: Network epidemics 2
-  Talk Order: '4'
   Abstract ID: '53'
   Presenter: Katharina Ledebur
   Talk title: Optimal prevention strategies for chronic diseases in a compartmental
@@ -93,8 +27,9 @@ talks:
     approach identifies leverage points for proactive preparation by physicians and
     policymakers to reduce the overall disease burden in the population, emphasizing
     a shift towards patient-centered care.
+  Time: Thu 14:30 - 14:45
 - Session name: Network epidemics 2
-  Talk Order: '5'
+  Talk Order: '2'
   Abstract ID: '75'
   Presenter: Pavlos Alexandros Dimitriou
   Talk title: 'Non-Markovian dynamics and basic reproduction number in COVID-19: evidence
@@ -124,8 +59,60 @@ talks:
     allows us to approximate the disease dynamics (via α) and quantify the strength
     of the epidemic process (approximations of R0). This knowledge refines epidemic
     spreading models and improves preparedness for future pandemics.
+  Time: Thu 14:45 - 15:00
 - Session name: Network epidemics 2
-  Talk Order: '6'
+  Talk Order: '3'
+  Abstract ID: '329'
+  Presenter: Tommaso Bertola
+  Talk title: Critical behavior in multiscale epidemic models based on force of infection
+  Abstract: The spread of epidemics when coupled with human behavior dynamics presents
+    a challenge for accurate modeling and prediction.Leveraging on previous studies,
+    we construct an epidemiological model that simultaneously accounts for the age
+    structure of individuals, the heterogeneity of mobility, and the interplay between
+    the time scales of infection and mobility processes.Starting from a metapopulation
+    SIR model with reaction diffusion epidemic dynamic, we introduce an alternative
+    formulation based on the force of infection framework, showing how both methods
+    produce qualitatively comparable results and how the presence of heterogeneity
+    in mobility reduces the final fraction of infected subpopulations.Additionally,
+    the force of infection framework, capable of preserving the initial spatial distribution
+    of population, is used to forecast the number of seasonal influenza infections
+    in Italy.Overall, this work demonstrates how the impact of mobility varies depending
+    on the modeling of the spreading process and provides an independent estimate
+    for the Italian seasonalinfluenza forecasting service.
+  Time: Thu 15:00 - 15:15
+- Session name: Network epidemics 2
+  Talk Order: '4'
+  Abstract ID: '347'
+  Presenter: Anthony Wood
+  Talk title: Placement of monitoring sites on a wastewater network for effective
+    disease surveillance
+  Abstract: Wastewater-based epidemiology (WWBE) emerged as a method for monitoring
+    infectious diseases SARS-COV-2 during the COVID-19 pandemic [1]. One strength
+    of WWBE is that diseases can be monitored passively over entire populations, removing
+    demographic biases due to, for example, reporting behaviour, but introducing challenges
+    due to multiple sources of variation associated with signal detection. A key issue
+    is the intersection between two complex networks – mobility networks spreading
+    the disease, and the network of sewage pipes accumulating virus (Figure 1). Here,
+    we develop an algorithm for choosing where to place a limited number of monitoring
+    sites, given the overall structure of the wastewater network and the distribution
+    of residents on that network, and test this method against a set of real wastewater
+    systems, where the aim is to either quickly detect a novel disease outbreak or
+    target containment measures, or both. We simulate disease surveillance in sewer
+    catchment areas containing up to half a million residents and compare it to (i)
+    COVID-19 case data distributions and (ii) simulations where infection is driven
+    by recorded mobility networks and spatial proximity. We quantify the tradeoffs
+    in spatial and temporal resolution associated with having only a limited sampling
+    capacity (e.g. is it better to test 2x per week in a single location, or 1x per
+    week at two?). We show that our placement of monitoring sites further "upstream"
+    substantially outperforms simple monitoring at the "sink" as well as random placement,
+    by more quickly and precisely detecting infected individuals which may otherwise
+    fall under the threshold for detection at the "sink" node. We then use a previous
+    approach [2] to quantify the sensitivity and specificity that our approach has
+    to detect incidence patterns as COVID-19 burdens rise and fall. [1] Fitzgerald
+    et al. https://doi.org/10.1021/acs.est.1c05029[2] Colman & Kao, ttps://doi.org/10.1101/2023.03.07.23286904
+  Time: Thu 15:15 - 15:30
+- Session name: Network epidemics 2
+  Talk Order: '5'
   Abstract ID: '385'
   Presenter: Chris Banks
   Talk title: Assessing the potential impact of environmental land management schemes
@@ -152,3 +139,22 @@ talks:
     It provides a foundation for examining potential risk mitigation strategies, such
     as targeting subsidies in low-risk areas or creating buffer zones between woodland
     and agricultural holdings.
+  Time: Thu 15:30 - 15:45
+- Session name: Network epidemics 2
+  Talk Order: '6'
+  Abstract ID: '392'
+  Presenter: Sámuel Gáspár Balogh
+  Talk title: Disease-induced immunization is efficient in dense geometric networks
+  Abstract: Herd immunity depends heavily on the structure of contact networks, and
+    also on the mechanism through which individuals have gained immunity. Extending
+    the work of Hiraoka et al. (2024), here we demonstrate that the average degree
+    in geometric networks plays a crucial role in the effectiveness of vaccine- and
+    disease-induced immunization strategies. Our results show that vaccine-induced
+    immunity is more effective in sparse, moderately degree-heterogeneous networks.
+    However, as the edge density increases, disease-induced immunity becomes more
+    advantageous - a switchover phenomenon absent in non-geometric network models.
+    In addition to the epidemiological implications, we also discuss the fundamental
+    properties of disease-induced immunization as a spatially-correlated node percolation
+    process, including the susceptibility, the degree distribution and the component
+    statistics, from a statistical physics perspective.
+  Time: Thu 15:45 - 16:00

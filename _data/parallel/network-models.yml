@@ -3,49 +3,6 @@ slug: network-models
 talks:
 - Session name: Network models
   Talk Order: '1'
-  Abstract ID: '402'
-  Presenter: Maxime Lucas
-  Talk title: Functional reducibility of higher-order networks
-  Abstract: '(Full abstract in PDF) Higher-order networks encode more information
-    than pairwise interactions: for example, some metabolic reactions can only take
-    place if three or more reactants are present, but this information would not be
-    captured by pairwise interactions.However, this modeling flexibility comes at
-    a cost: new data needs to be adequately recorded, and new analytical andcomputational
-    tools need to be developed. Moreover, the complexity and computational cost of
-    these tools increaseexponentially as larger group interactions are considered.
-    It is therefore crucial to understand under which conditionshigher-order representations
-    need to be favored over classical pairwise ones.Here [2], we propose a principled
-    approach to optimally compress systems with higher-order interactions—accounting
-    for the complexity of the data and the complexity of the model. Specifically,
-    we determine an optimal order of interactions up to which interactions need be
-    considered to obtain a functionally optimal representation of the system—larger
-    orders can be safely discarded.Formally, we do so by generalizing the concept
-    of network density matrix [3] to account for higher-order diffusivedynamics with
-    the multiorder Laplacian [4] and calculate a (modified) message length corresponding
-    to each order.By minimizing this message length, in the spirit of the original
-    minimum message length principle, we find the optimalcompression of the data.
-    We refer to this procedure as functional reduction. A higher-order network is
-    fully reducible—to a pairwise network—if the optimal order is 1, while its reducibility
-    decreases for increasing optimal orders. We demonstrate the validity of our method
-    by performing an extensive analysis of synthetic networks and investigate the
-    functional reducibility of a broad spectrum of real-world higher-order systems.'
-- Session name: Network models
-  Talk Order: '2'
-  Abstract ID: '405'
-  Presenter: Marcos Oliveira
-  Talk title: Stronger together? The homophily trap in networks
-  Abstract: 'While homophily---the tendency to link with similar others---may nurture
-    a sense of belonging and shared values, it can also hinder diversity and widen
-    inequalities. Here, we unravel this trade-off analytically, revealing homophily
-    traps for minority groups: scenarios where increased homophilic interaction among
-    minorities negatively affects their structural opportunities within a network.
-    We demonstrate that homophily traps arise when minority size falls below 25% of
-    a network, at which point homophily comes at the expense of lower structural visibility
-    for the minority group. Our work reveals that social groups require a critical
-    size to benefit from homophily without incurring structural costs, providing insights
-    into core processes underlying the emergence of group inequality in networks.'
-- Session name: Network models
-  Talk Order: '3'
   Abstract ID: '24'
   Presenter: Thao Le
   Talk title: Community Structure in Markov Influence Graphs with Heterogeneous Holding
@@ -66,8 +23,40 @@ talks:
     dimension significantly impacts the community structure of a network. Our algorithm
     offers wide-ranging applications, from social sciences, economics, and finance
     to the natural sciences, providing a new lens for exploring complex systems.
+  Time: Wed 16:30 - 16:45
 - Session name: Network models
-  Talk Order: '4'
+  Talk Order: '2'
+  Abstract ID: '28'
+  Presenter: Perrin Ruth
+  Talk title: Cyclic Random Graphs Predicting Giant Molecules in Hydrocarbon Pyrolysis
+  Abstract: Various structures arising in nature can be modeled using random graphs.
+    We propose to use random graphs for describing the molecular composition in the
+    hydrocarbon pyrolysis, a complex chemical reaction system with two atom types,
+    carbon and hydrogen. The ensemble of the carbon skeletons of the molecules makes
+    up a realization of a random graph. Our goal is to design a random graph model
+    that yields accurate predictions for the molecule size distribution and the size
+    of the largest molecule for any initial composition and any temperature within
+    certain ranges. The locally tree-like behavior – i.e. that neighborhoods of nodes
+    are almost always trees and that small loops are rare – underlies many classical
+    random graph models, including the configuration model [1]. However, many real
+    networks exhibit small loops with non-zero density. We argue that loops are crucial
+    for measuring emergent properties of networks, such as the size of the largest
+    connected component. In particular, carbons tend to form small loops peaking at
+    the size of five, as observed from the molecular simulation data (Figs. 1a—b).
+    The presence of these loops reduces the size of the giant component approximately
+    by a factor of 2.We propose a random graph model featuring disjoint loops as an
+    analytically tractable model for real networks with sparse loops. We observe this
+    model has assortative mixing by degree, where edges connect nodes of similar degrees.
+    Ultimately, our proposed model has disjoint loops and does not exhibit assortative
+    mixing by degree [2]. The model uses works of Karrer and Newman [3] and Newman
+    [4] as building blocks.We apply the proposed model to hydrocarbon pyrolysis and
+    demonstrate that it accurately predicts the size distribution for small molecules
+    as well as the size distribution of the largest molecule in reaction systems at
+    the pressure of 40.5 GPa, temperature range of 3200K–5000K, and H/C ratio range
+    from 2.25 as in octane through 4 as in methane – see Fig. 1c.
+  Time: Wed 16:45 - 17:00
+- Session name: Network models
+  Talk Order: '3'
   Abstract ID: '135'
   Presenter: Jun Sun
   Talk title: Can driving mechanisms of contact duration distributions be distinguished?
@@ -96,32 +85,49 @@ talks:
     to distinguish between the two mechanisms. To this end, Bayesian inference will
     be used, as it allows for the quantification of evidence for or against the two
     competing mechanisms.'
+  Time: Wed 17:00 - 17:15
+- Session name: Network models
+  Talk Order: '4'
+  Abstract ID: '402'
+  Presenter: Maxime Lucas
+  Talk title: Functional reducibility of higher-order networks
+  Abstract: '(Full abstract in PDF) Higher-order networks encode more information
+    than pairwise interactions: for example, some metabolic reactions can only take
+    place if three or more reactants are present, but this information would not be
+    captured by pairwise interactions.However, this modeling flexibility comes at
+    a cost: new data needs to be adequately recorded, and new analytical andcomputational
+    tools need to be developed. Moreover, the complexity and computational cost of
+    these tools increaseexponentially as larger group interactions are considered.
+    It is therefore crucial to understand under which conditionshigher-order representations
+    need to be favored over classical pairwise ones.Here [2], we propose a principled
+    approach to optimally compress systems with higher-order interactions—accounting
+    for the complexity of the data and the complexity of the model. Specifically,
+    we determine an optimal order of interactions up to which interactions need be
+    considered to obtain a functionally optimal representation of the system—larger
+    orders can be safely discarded.Formally, we do so by generalizing the concept
+    of network density matrix [3] to account for higher-order diffusivedynamics with
+    the multiorder Laplacian [4] and calculate a (modified) message length corresponding
+    to each order.By minimizing this message length, in the spirit of the original
+    minimum message length principle, we find the optimalcompression of the data.
+    We refer to this procedure as functional reduction. A higher-order network is
+    fully reducible—to a pairwise network—if the optimal order is 1, while its reducibility
+    decreases for increasing optimal orders. We demonstrate the validity of our method
+    by performing an extensive analysis of synthetic networks and investigate the
+    functional reducibility of a broad spectrum of real-world higher-order systems.'
+  Time: Wed 17:15 - 17:30
 - Session name: Network models
   Talk Order: '5'
-  Abstract ID: '158'
-  Talk title: Vector-borne multiscale models encompassing mobility and climate features
-  Abstract: 'Due to both international trade and travels as well as climate change,
-    temperate areas in the Americas and in themediterranean basin are now at risk
-    of future significant and recurrent vector-borne epidemics. Meanwhile, mathe-matical
-    modeling of vector-borne diseases progressively acknowledged the interplay between
-    epidemics and human mobility or between epidemics and climate on spatially distributed
-    models due to ever-growing data availability. However, vector-borne disease models
-    encompassing both climate dependence and multi-scale mobility are still missing
-    to accurately forecast vector-borne epidemics in temperate areas. Here we introduce
-    and compare two multiscale reaction-diffusion metapopulation models based on ordinary
-    differential equations which differ in the modeling of human mobility: one integrating
-    it into the force of infection, the other using a diffusion pattern. Both models
-    encompass a tunable time-scale separation between human mobility and the epidemics,
-    short-range vector mobility, human-mediated vector mobility (e.g. vectors in cars),
-    long-range human mobility due to airline traffic and climate dependency in the
-    demographic and epidemiological parameters. Through exhaustive computational analysis,
-    we assess the impact of mobility features on the emergence of epidemics in the
-    two models on synthetic and real-world networks. We show that systems below the
-    epidemics threshold can undergo significant epidemics due to mobility and that
-    the modeling choice of the latter has a dramatic impact on the emergence and magnitude
-    of the epidemics across spatial and temporal scales. We explain analytically the
-    behavior of the force of infection model using perturbation analysis and discuss
-    the comparative relevance of both models. Then, to study the emergence of those
-    disease in temperate areas we will establish risk maps for dengue epidemics in
-    Italy according to several climate change scenarios, based on demographic, mobility
-    and epidemiological data.'
+  Abstract ID: '405'
+  Presenter: Marcos Oliveira
+  Talk title: Stronger together? The homophily trap in networks
+  Abstract: 'While homophily---the tendency to link with similar others---may nurture
+    a sense of belonging and shared values, it can also hinder diversity and widen
+    inequalities. Here, we unravel this trade-off analytically, revealing homophily
+    traps for minority groups: scenarios where increased homophilic interaction among
+    minorities negatively affects their structural opportunities within a network.
+    We demonstrate that homophily traps arise when minority size falls below 25% of
+    a network, at which point homophily comes at the expense of lower structural visibility
+    for the minority group. Our work reveals that social groups require a critical
+    size to benefit from homophily without incurring structural costs, providing insights
+    into core processes underlying the emergence of group inequality in networks.'
+  Time: Wed 17:30 - 17:45

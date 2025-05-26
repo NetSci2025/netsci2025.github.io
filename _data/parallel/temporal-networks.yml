@@ -31,8 +31,38 @@ talks:
     transition rates and activity levels, as well as different memory mechanisms,
     are used. We thus highlight the flexibility of the model, which provides us with
     a detailed control on the generated temporal hypergraph''s properties.'
+  Time: Thu 14:30 - 14:45
 - Session name: Temporal networks
   Talk Order: '2'
+  Abstract ID: '136'
+  Presenter: Andrea Failla
+  Talk title: Tracking Community Evolution via Multi-Faceted Events
+  Abstract: Many real-world networks come as evolving topologies whose nodes and edges
+    appear/vanish as time goes by. Similarly, the meso-scale substructures within
+    these networks also undergo constant change. The task of Dynamic Community Detection
+    addresses the challenge of identifying and tracking the evolution of network communities
+    over time. This process is typically described using community events, which represent
+    the transformations a community can experience throughout its lifecycle. However,
+    real-world community evolution often involves complex, multi-faceted transformations
+    that do not fit neatly into these mutually exclusive categories. As a result,
+    traditional classifications fail to adequately capture these dynamics, and frequently
+    resort to arbitrary thresholds and assumptions. In this work, we reconceptualize
+    classical events as archetypes, i.e., typical examples of a category conveying
+    its most salient features. In contrast, real-world events can exhibit features
+    from multiple of these archetypes. To tackle this more complex definition, we
+    reimagine events as a unique combination of three dimensions, which we call Unicity,
+    Identity, and Outflow.Each event is thus defined by its position in this 3D space,
+    in which classical events occupy corners. Consequently, we can compute the similarity
+    between real and archetypal events as a combination of these dimensions.We applied
+    this methodology to dynamic communities extracted from datasets capturing face-to-face
+    interactions, demonstrating its ability to provide more reliable insights into
+    group dynamics compared to state-of-the-art approaches. Furthermore, we show that
+    our framework has applications beyond simply characterizing community evolution.
+    This includes selecting appropriate aggregation time scales, assessing temporal
+    partition stability, and evaluating event quality.
+  Time: Thu 14:45 - 15:00
+- Session name: Temporal networks
+  Talk Order: '3'
   Abstract ID: '388'
   Presenter: Giulia de Meijere
   Talk title: Emergence of stationarity in social and informational temporal networks
@@ -60,36 +90,35 @@ talks:
     revealing previously hidden scales of temporal networks. Our work provides insight
     on how society-wide collective patterns of stationarity may arise from irregular
     interactions between individuals.'
-- Session name: Temporal networks
-  Talk Order: '3'
-  Abstract ID: '136'
-  Presenter: Andrea Failla
-  Talk title: Tracking Community Evolution via Multi-Faceted Events
-  Abstract: Many real-world networks come as evolving topologies whose nodes and edges
-    appear/vanish as time goes by. Similarly, the meso-scale substructures within
-    these networks also undergo constant change. The task of Dynamic Community Detection
-    addresses the challenge of identifying and tracking the evolution of network communities
-    over time. This process is typically described using community events, which represent
-    the transformations a community can experience throughout its lifecycle. However,
-    real-world community evolution often involves complex, multi-faceted transformations
-    that do not fit neatly into these mutually exclusive categories. As a result,
-    traditional classifications fail to adequately capture these dynamics, and frequently
-    resort to arbitrary thresholds and assumptions. In this work, we reconceptualize
-    classical events as archetypes, i.e., typical examples of a category conveying
-    its most salient features. In contrast, real-world events can exhibit features
-    from multiple of these archetypes. To tackle this more complex definition, we
-    reimagine events as a unique combination of three dimensions, which we call Unicity,
-    Identity, and Outflow.Each event is thus defined by its position in this 3D space,
-    in which classical events occupy corners. Consequently, we can compute the similarity
-    between real and archetypal events as a combination of these dimensions.We applied
-    this methodology to dynamic communities extracted from datasets capturing face-to-face
-    interactions, demonstrating its ability to provide more reliable insights into
-    group dynamics compared to state-of-the-art approaches. Furthermore, we show that
-    our framework has applications beyond simply characterizing community evolution.
-    This includes selecting appropriate aggregation time scales, assessing temporal
-    partition stability, and evaluating event quality.
+  Time: Thu 15:00 - 15:15
 - Session name: Temporal networks
   Talk Order: '4'
+  Abstract ID: '394'
+  Presenter: Antonio Longa
+  Talk title: Patterns in Temporal Networks with Higher-Order Egocentric Structures
+  Abstract: Classical network representations often fail to fully capture the complexity
+    of real-world systems. While more sophisticated frameworks, such as temporal networks,
+    offer flexibility but with increased analytical complexity. Longa et al. [1] introduced
+    an egocentric perspective, focusing on a node’s evolving neighborhood (ETN), useful
+    for characterizing temporal social networks but limited in addressing higher-order
+    interactions that impact network dynamics.We propose a framework extending ETN
+    from graphs to hypergraphs, defining the hyper egocentric temporal neighborhood
+    (HETN) to capture more complex information, including hyperedges and their evolution
+    [2]. We encode HETN information into vectors called hyper egocentric temporal
+    neighborhood signatures (HETNS). Furthermore we can reduce an entire set of HETNs
+    to the only significant structures with respect to a null model, leading to a
+    set of hyper egocentric temporal motifs (HETM). Using data from 10 proximity datasets,
+    we find that the differences between hypergraphs are mostly due to second-order
+    HETMs. At individual node level second-order structures are more sensitive to
+    node dissimilarities.Our results show that second-order structures in HETNs are
+    critical for capturing variability in social interactions, unveiling behaviors
+    that could not be appreciated if limiting the analysis to the first order. This
+    approach has potential for classifying temporal data and generating synthetic
+    datasets.[1] Longa, A., et al. Data Min Knowl Disc 36, 355-378 (2022)[2] Arregui-Garc´ıa
+    B., et al. Entropy 26,(3):256 (2024)
+  Time: Thu 15:15 - 15:30
+- Session name: Temporal networks
+  Talk Order: '5'
   Abstract ID: '540'
   Presenter: Arash Badie-Modiri
   Talk title: 'Decentralised federated learning over temporal networks: the role of
@@ -109,8 +138,9 @@ talks:
     time paradox. This highlights that temporal heterogeneity is an important factor
     in shaping the initial synchronisation phase in decentralised federated learning
     as well as many other systems that can be modelled as diffusion processes.
+  Time: Thu 15:30 - 15:45
 - Session name: Temporal networks
-  Talk Order: '5'
+  Talk Order: '6'
   Abstract ID: '600'
   Presenter: Samuel Koovely
   Talk title: Entropy-Informed Dynamic Community Detection
@@ -139,28 +169,4 @@ talks:
     networks and those that do not: for the former, we get a principled way to aggregate
     the temporal network; for the latter, we obtain sub-intervals where the networks
     are more stable and suited for clustering.'
-- Session name: Temporal networks
-  Talk Order: '6'
-  Abstract ID: '394'
-  Presenter: Antonio Longa
-  Talk title: Patterns in Temporal Networks with Higher-Order Egocentric Structures
-  Abstract: Classical network representations often fail to fully capture the complexity
-    of real-world systems. While more sophisticated frameworks, such as temporal networks,
-    offer flexibility but with increased analytical complexity. Longa et al. [1] introduced
-    an  egocentric perspective, focusing on a node’s evolving neighborhood (ETN),
-    useful for characterizing temporal social networks but limited in addressing higher-order
-    interactions that impact network dynamics.We propose a framework extending ETN
-    from graphs to hypergraphs, defining the hyper egocentric temporal neighborhood
-    (HETN) to capture more complex information, including hyperedges and their evolution
-    [2]. We encode HETN information into vectors called hyper egocentric temporal
-    neighborhood signatures (HETNS). Furthermore we can reduce an entire set of HETNs
-    to the only significant structures with respect to a null model, leading to a
-    set of hyper egocentric temporal motifs (HETM). Using data from 10 proximity datasets,
-    we find that the differences between hypergraphs are mostly due to second-order
-    HETMs. At individual node level second-order structures are more sensitive to
-    node dissimilarities.Our results show that second-order structures in HETNs are
-    critical for capturing variability in social interactions, unveiling behaviors
-    that could not be appreciated if limiting the analysis to the first order. This
-    approach has potential for classifying temporal data and generating synthetic
-    datasets.[1] Longa, A., et al. Data Min Knowl Disc 36, 355-378 (2022)[2] Arregui-Garc´ıa
-    B., et al. Entropy 26,(3):256 (2024)
+  Time: Thu 15:45 - 16:00

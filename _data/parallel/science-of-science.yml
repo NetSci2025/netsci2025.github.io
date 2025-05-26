@@ -3,6 +3,45 @@ slug: science-of-science
 talks:
 - Session name: Science of science
   Talk Order: '1'
+  Abstract ID: '59'
+  Presenter: Kazuki Nakajima
+  Talk title: Quantitative analysis of citation imbalance in computer science using
+    reference models
+  Abstract: Citation analysis is a standard bibliometric tool for assessing the impact
+    of different papers, researchers, institutions, and countries [1]. Achieving fair
+    citation analysis remains challenging due to the diverse citation practices across
+    individual researchers and research disciplines. Indeed, the number of citations
+    received by papers often exhibits imbalances in terms of the author's country
+    of affiliation and gender. Gender imbalance persists in computer science across
+    various aspects, including educational attainment, faculty representation, and
+    career progression. While recent studies have highlighted citation imbalances
+    related to authors’ gender in neuroscience and physics [2, 3], the extent of gendered
+    citation imbalance in computer science remains largely unknown. Here, by deploying
+    a family of reference models for citation networks, we quantify gender imbalance
+    in citations between papers published in computer science conferences [4].
+  Time: Wed 16:30 - 16:45
+- Session name: Science of science
+  Talk Order: '2'
+  Abstract ID: '252'
+  Presenter: Elizaveta Evmenova
+  Talk title: Who are your collaborators? Uncovering collaboration patterns in science
+  Abstract: 'Scientific collaborations are shaped by many factors: common scientific
+    interests, background, social interactions, availability, and so on. But what
+    are the core mechanisms that drive collaborations? In our research, we focused
+    on how researchers collaborate based on the similarity or complementarity of their
+    skills. What we found is that these two mechanisms (similarity and complementarity)
+    have distinct topological properties: similar collaborations have a higher tendency
+    to form triangles since similarity is transitive and may lead to triangle closure,
+    while complementary collaborations are characterized by the high density of quadrangles
+    because complementarity leads to the formation of even-length motifs if the number
+    of complementary domains is small. Our findings highlight the organization of
+    collaborations in different fields of science. These results may help domain experts
+    identify plausible new collaborations and also better understand the mid-scale
+    structure of scientific fields, including communities ofcollaborators and relationships
+    between scientific problems.'
+  Time: Wed 16:45 - 17:00
+- Session name: Science of science
+  Talk Order: '3'
   Abstract ID: '272'
   Presenter: Shuang Zhang
   Talk title: Neural Embeddings of Citation Flows Capturing the Narrowing Idea Mobility
@@ -31,43 +70,7 @@ talks:
     reflect increasingly localized and myopic information foraging in modern scientific
     practices. This trend underscores the urgent need to promote diverse knowledge
     exchange, ensuring long-term scientific innovation.
-- Session name: Science of science
-  Talk Order: '2'
-  Abstract ID: '252'
-  Presenter: Elizaveta Evmenova
-  Talk title: Who are your collaborators? Uncovering collaboration patterns in science
-  Abstract: 'Scientific collaborations are shaped by many factors: common scientific
-    interests, background, social interactions, availability, and so on. But what
-    are the core mechanisms that drive collaborations? In our research, we focused
-    on how researchers collaborate based on the similarity or complementarity of their
-    skills. What we found is that these two mechanisms (similarity and complementarity)
-    have distinct topological properties: similar collaborations have a higher tendency
-    to form triangles since similarity is transitive and may lead to triangle closure,
-    while complementary collaborations are characterized by the high density of quadrangles
-    because complementarity leads to the formation of even-length motifs if the number
-    of complementary domains is small. Our findings highlight the organization of
-    collaborations in different fields of science. These results may help domain experts
-    identify plausible new collaborations and also better understand the mid-scale
-    structure of scientific fields, including communities ofcollaborators and relationships
-    between scientific problems.'
-- Session name: Science of science
-  Talk Order: '3'
-  Abstract ID: '59'
-  Presenter: Kazuki Nakajima
-  Talk title: Quantitative analysis of citation imbalance in computer science using
-    reference models
-  Abstract: Citation analysis is a standard bibliometric tool for assessing the impact
-    of different papers, researchers, institutions, and countries [1]. Achieving fair
-    citation analysis remains challenging due to the diverse citation practices across
-    individual researchers and research disciplines. Indeed, the number of citations
-    received by papers often exhibits imbalances in terms of the author's country
-    of affiliation and gender. Gender imbalance persists in computer science across
-    various aspects, including educational attainment, faculty representation, and
-    career progression. While recent studies have highlighted citation imbalances
-    related to authors’ gender in neuroscience and physics [2, 3], the extent of gendered
-    citation imbalance in computer science remains largely unknown. Here, by deploying
-    a family of reference models for citation networks, we quantify gender imbalance
-    in citations between papers published in computer science conferences [4].
+  Time: Wed 17:00 - 17:15
 - Session name: Science of science
   Talk Order: '4'
   Abstract ID: '346'
@@ -93,32 +96,29 @@ talks:
     understanding and addressing these patterns, we can ensure that the scientific
     recognition system evolves to better support innovation and equity in the years
     to come.'
+  Time: Wed 17:15 - 17:30
 - Session name: Science of science
   Talk Order: '5'
-  Abstract ID: '367'
-  Talk title: Quantifying Diversity, Equity and Inclusion (DEI) in Scientific Recognition
-  Abstract: Diversity, Equity, and Inclusion are crucial for fostering creativity
-    in scientific research. Despite its importance, DEI remains a persistent issue,
-    particularly in scientific recognition and leadership. In this study, we curated
-    large-scaled datasets to investigate gender disparities in scientific recognition
-    and its relationship with collaboration networks. These datasets include career
-    trajectories of over 900 prize winners and 700 journal editors, together with
-    2M publications, and collaboration patterns of 900K scholars. Our findings reveal
-    a significant underrepresentation of female scholars in leadership positions which
-    cannot be fully explained by differences in productivity, citation counts, research
-    fields, or career lengths. Instead, network effects provide a more compelling
-    explanation. Specifically, scholars who collaborate more frequently with prize
-    winners and journal editors are more likely to receive prizes or secure major
-    editorial roles in the future. However, these collaboration opportunities are
-    not distributed equitably where female scholars have fewer chances to collaborate
-    with distinguished peers, a disparity potentially stemming from gender homophily
-    in collaboration patterns. To further explore the connection between gender homophily
-    and systemic equity by developing a dynamical network model. This model revealed
-    a critical threshold for gender homophily. When homophily is below this threshold,
-    gender equity can emerge organically. However, when it exceeds the threshold,
-    gender disparity becomes entrenched, leading to the persistent underrepresentation
-    of female scholars in leadership roles. Our study not only highlights the pervasive
-    nature of gender disparity but also provides insights into its underlying causes.
-    These findings carry strong policy implications, emphasizing the need for targeted
-    interventions to address collaboration inequities and foster a more inclusive
-    scientific community.
+  Abstract ID: '409'
+  Presenter: Julian Sienkiewicz
+  Talk title: Memetic analysis of Big Tech influence over AI research
+  Abstract: 'There exists a growing discourse around the domination of Big Tech on
+    the landscape of artificial intelligence (AI) research, yet our comprehension
+    of this phenomenon remains cursory. This paper aims to broaden and deepen our
+    understanding of Big Tech''s reach and power within AI research. It highlights
+    the dominance not merely in terms of sheer publication volume but rather in the
+    propagation of new ideas or memes. Current studies often oversimplify the concept
+    of influence to the share of affiliations in academic papers, typically sourced
+    from limited databases such as arXiv or specific academic conferences.The main
+    goal of this paper is to unravel the specific nuances of such influence, determining
+    which AI ideas are predominantly driven by Big Tech entities. By employing network
+    and memetic analysis on AI-oriented paper abstracts and their citation network,
+    we are able to grasp a deeper insight into this phenomenon. By utilizing two databases:
+    OpenAlex and S2ORC, we are able to perform such analysis on a much bigger scale
+    than previous attempts.Our findings suggest that while Big Tech-affiliated papers
+    are disproportionately more cited in some areas, the most cited papers are those
+    affiliated with both Big Tech and Academia. Focusing on the most contagious memes,
+    their attribution to specific affiliation groups (Big Tech, Academia, mixed affiliation)
+    seems equally distributed between those three groups. This suggests that the notion
+    of Big Tech domination over AI research is oversimplified in the discourse.'
+  Time: Wed 17:30 - 17:45

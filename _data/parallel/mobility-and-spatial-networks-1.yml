@@ -3,77 +3,26 @@ slug: mobiity-and-spatial-networks-1
 talks:
 - Session name: Mobiity and spatial networks 1
   Talk Order: '1'
-  Abstract ID: '70'
-  Presenter: Rohit Sahasrabuddhe
-  Talk title: Concise variable-order networks from path data
-  Abstract: While they are defined at the micro-scale of nodes and edges, a key feature
-    of networks is their ability to capture structure across scales by modelling indirect
-    interactions as paths and walks. This assumes that flow along edges is transitive
-    and can be represented as a first-order Markov model. However, trajectory or path
-    data from a variety of systems such as passenger itineraries, career paths, and
-    clickstreams have higher-order dependencies that first-order networks cannot capture.
-    In this work, we present a pipeline to create 'concise' networks that interpolate
-    between first and second-order models by capitalising on patterns in second-order
-    effects. At the core of our method, we use Convex Non-negative Matrix Factorisation
-    to create state nodes that model latent modes of behaviour. Our method includes
-    an interpretable measure to guide the complexity-quality trade-off, a prior to
-    regularise the data, and is designed to process nodes in parallel. In addition
-    to showing that it recovers planted modes of behaviour in synthetic data, we explore
-    the insights created by our method into two real-world systems. First, from flight
-    itineraries in the US, we uncover intuitive transit behaviour through national
-    hubs, revealing their role in routing passengers across geographic regions. Second,
-    we show that despite being much less complex, our concise network model captures
-    the modular structure of a full second-order model of information flow on a social
-    network.
+  Abstract ID: '599'
+  Presenter: Vincent Grande
+  Talk title: Topological Trajectory Classification and Landmark Inference on Simplicial
+    Complexes
+  Abstract: We consider the problem of classifying trajectories on a discrete or discretised
+    2-dimensional manifold modelled by a simplicial complex.Previous works have proposed
+    to project the trajectories into the harmonic eigenspace of the Hodge~Laplacian,
+    and then cluster the resulting embeddings. However, if the considered space has
+    vanishing homology (i.e., no "holes"), then the harmonic space of the 1-Hodge
+    Laplacian is trivial and thus the approach fails. Here we propose to view this
+    issue akin to a sensor placement problem and present an algorithm that aims to
+    learn "optimal holes" to distinguish a set of given trajectory classes. Specifically,
+    given a set of labelled trajectories, which we interpret as edge-flows on the
+    underlying simplicial complex, we search for 2-simplices whose deletion results
+    in an optimal separation of the trajectory labels according to the corresponding
+    spectral embedding of the trajectories into the harmonic space.Finally, we generalise
+    this approach to the unsupervised setting.
+  Time: Wed 14:30 - 14:45
 - Session name: Mobiity and spatial networks 1
   Talk Order: '2'
-  Abstract ID: '210'
-  Presenter: Minsuk Kim
-  Talk title: Minimum-cost percolation on US air transportation network
-  Abstract: 'Transportation infrastructure systems are the backbone of our society,
-    fostering economic growth and driving innovation by conveying people and goods
-    from origin to destination in a timely manner. Successful operation of these infrastructures
-    depends on efficient routing of origin-destination demands given a fixed amount
-    of resources available. Here, we extend the previous framework of the shortest-path
-    percolation, which is a stylized model defined on a simple graph describing how
-    the macroscopic structure of the transportation system collapses as resources
-    are consumed to fulfill the origin-destination demands, considering a generalized
-    structure of the transportation network with time-stamp, directionality, weight,
-    and capacity: the minimum-cost percolation (MCP) model. We applied the MCP framework
-    to the US air transportation system using publicly available data and conducted
-    extensive experiments considering various costs and different origin-destination
-    demands. Our results indicate that cooperation among airline carriers through
-    shared flights can significantly improve the overall efficiency of the US air
-    transportation system. These findings demonstrate the potential of the MCP framework
-    to guide cooperative policies that enhance resource utilization and overall efficiency.'
-- Session name: Mobiity and spatial networks 1
-  Talk Order: '3'
-  Abstract ID: '292'
-  Presenter: Erick Elejalde Sierra
-  Talk title: Behavioral response to mobile phone evacuation alerts
-  Abstract: SMS-based alerts during emergencies are a highly effective communication
-    tool due to their broad reach, low cost, and immediacy [1]. However, overly broad
-    alerts can lead to over-evacuation, straining infrastructure, and eroding public
-    trust. We analyzed the SMS-based alerts issued during Chile’s most devastating
-    wildfire in 30 years, which struck Valpara\'so on February 2, 2024, causing 137
-    fatalities and affecting over 16,000 people. Using spatio-temporal data from a
-    national mobile network and census-based proxies for socioeconomic status (SES),
-    we categorized telecommunication towers into lower, middle, and higher SES groups.
-    Official alerts from SENAPRED provided the timing and location of evacuation messages,
-    while to analyse people's mobility, we employed XDR spatio-temporal data from
-    a national mobile communication company.Our findings show that the first SMS alert
-    prompted significant evacuation behavior across all SES groups, regardless of
-    proximity to the wildfire (Figure 1a). Higher SES areas exhibited fewer connections
-    (Figure 1b), suggesting greater capacity for proactive evacuation. Interrupted
-    time-series analysis confirmed that the initial alert was the primary driver of
-    evacuation, with higher SES evacuations influenced more by prudence than direct
-    alert targeting (Figure 1c). Our findings show several interesting patterns; initial
-    alerts elicit stronger responses, repeated alerts risk desensitization, and SES
-    shapes evacuation patterns, with higher SES groups better positioned to act. These
-    insights inform strategies to enhance emergency communication, ensuring precision
-    and improved safety for all communities.
-- Session name: Mobiity and spatial networks 1
-  Talk Order: '4'
   Abstract ID: '170'
   Presenter: Esteban Moro
   Talk title: Behavior-based contact structure in mobility networks
@@ -100,6 +49,56 @@ talks:
     homophily in networks, were contacts occur more frequently between individuals
     with similar behavioral characteristics, and behavior-based community structure
     which is not captured by demographic features.
+  Time: Wed 14:45 - 15:00
+- Session name: Mobiity and spatial networks 1
+  Talk Order: '3'
+  Abstract ID: '210'
+  Presenter: Minsuk Kim
+  Talk title: Minimum-cost percolation on US air transportation network
+  Abstract: 'Transportation infrastructure systems are the backbone of our society,
+    fostering economic growth and driving innovation by conveying people and goods
+    from origin to destination in a timely manner. Successful operation of these infrastructures
+    depends on efficient routing of origin-destination demands given a fixed amount
+    of resources available. Here, we extend the previous framework of the shortest-path
+    percolation, which is a stylized model defined on a simple graph describing how
+    the macroscopic structure of the transportation system collapses as resources
+    are consumed to fulfill the origin-destination demands, considering a generalized
+    structure of the transportation network with time-stamp, directionality, weight,
+    and capacity: the minimum-cost percolation (MCP) model. We applied the MCP framework
+    to the US air transportation system using publicly available data and conducted
+    extensive experiments considering various costs and different origin-destination
+    demands. Our results indicate that cooperation among airline carriers through
+    shared flights can significantly improve the overall efficiency of the US air
+    transportation system. These findings demonstrate the potential of the MCP framework
+    to guide cooperative policies that enhance resource utilization and overall efficiency.'
+  Time: Wed 15:00 - 15:15
+- Session name: Mobiity and spatial networks 1
+  Talk Order: '4'
+  Abstract ID: '292'
+  Presenter: Erick Elejalde Sierra
+  Talk title: Behavioral response to mobile phone evacuation alerts
+  Abstract: SMS-based alerts during emergencies are a highly effective communication
+    tool due to their broad reach, low cost, and immediacy [1]. However, overly broad
+    alerts can lead to over-evacuation, straining infrastructure, and eroding public
+    trust. We analyzed the SMS-based alerts issued during Chile’s most devastating
+    wildfire in 30 years, which struck Valpara\'so on February 2, 2024, causing 137
+    fatalities and affecting over 16,000 people. Using spatio-temporal data from a
+    national mobile network and census-based proxies for socioeconomic status (SES),
+    we categorized telecommunication towers into lower, middle, and higher SES groups.
+    Official alerts from SENAPRED provided the timing and location of evacuation messages,
+    while to analyse people's mobility, we employed XDR spatio-temporal data from
+    a national mobile communication company.Our findings show that the first SMS alert
+    prompted significant evacuation behavior across all SES groups, regardless of
+    proximity to the wildfire (Figure 1a). Higher SES areas exhibited fewer connections
+    (Figure 1b), suggesting greater capacity for proactive evacuation. Interrupted
+    time-series analysis confirmed that the initial alert was the primary driver of
+    evacuation, with higher SES evacuations influenced more by prudence than direct
+    alert targeting (Figure 1c). Our findings show several interesting patterns; initial
+    alerts elicit stronger responses, repeated alerts risk desensitization, and SES
+    shapes evacuation patterns, with higher SES groups better positioned to act. These
+    insights inform strategies to enhance emergency communication, ensuring precision
+    and improved safety for all communities.
+  Time: Wed 15:15 - 15:30
 - Session name: Mobiity and spatial networks 1
   Talk Order: '5'
   Abstract ID: '463'
@@ -118,8 +117,8 @@ talks:
     time, and measure their size, closure, and geographical dispersion.First, we show
     that while the average size of ego networks stays stable over the observed period,
     average closure drops by as much as 10%, leading to more open local network structures.
-    Second,  we see that the average geographical distance from network neighbors
-    grows, and in parallel, the average share of network neighbors in the same municipality
+    Second, we see that the average geographical distance from network neighbors grows,
+    and in parallel, the average share of network neighbors in the same municipality
     decreases. Third, we link the two using multivariate difference-in-difference
     type regressions which show that the observed decrease in the closure is indeed
     significantly linked to the growing geographic dispersion. The regressions thus
@@ -127,8 +126,9 @@ talks:
     impacts on people’s access to information, or the level of trust in communities.This
     work is among the first ones that aims to map the temporal network of an entire
     population structure comprehensively [2]. As such, it offers a starting point
-    for a wide variety of impactful network  science research at the level of a complete
+    for a wide variety of impactful network science research at the level of a complete
     population.
+  Time: Wed 15:30 - 15:45
 - Session name: Mobiity and spatial networks 1
   Talk Order: '6'
   Abstract ID: '589'
@@ -148,3 +148,4 @@ talks:
     scenarios. Moreover, the analysis highlights how city density promotes gentrification.
     This framework offers valuable insights for understanding gentrification dynamics
     and informing urban planning and policy decisions.
+  Time: Wed 15:45 - 16:00

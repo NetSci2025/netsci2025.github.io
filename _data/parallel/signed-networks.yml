@@ -27,28 +27,31 @@ talks:
     the analysis of political networks, tribal systems, and international relations.
     Overall, our results provide a rigorous mathematical foundation and a set of versatile
     tools for the empirical analysis of signed networks.
+  Time: Thu 16:30 - 16:45
 - Session name: Signed networks
   Talk Order: '2'
-  Abstract ID: '397'
-  Presenter: Rachith Aiyappa
-  Talk title: Emergence of Shared and Polarized Beliefs from the Dynamics of Networked
-    Belief Systems
-  Abstract: Beliefs shape how we interact with the world, and cognitive and social
-    biases guide these interactions, reinforcing the dynamic interplay between our
-    beliefs and environment. Beliefs are interconnected, often forming coherent “belief
-    systems” through which we make sense of the world. For example, refusal of childhood
-    vaccinations is associated with home births. Although many of such correlations
-    between beliefs can be naturally explained by how much they coherently fit together,
-    our understanding of nontrivial associations is still in its infancy. For instance,
-    why do people who support strong gun rights deny climate change? Why are liberals
-    stereotyped as “tax-hiking, government-expanding, latte-drinking, sushi-eating,
-    Volvo-driving, New York Times-reading, body-piercing, Hollywood-loving”? In this
-    work, we build on a previous belief system dynamics framework, by adding a spontaneous
-    internal belief update mechanism and the mechanism where we observe others’ expressed
-    beliefs and form our beliefs about them. We show that the addition of this simple
-    mechanism is enough to produce the emergence of unrelated yet correlated beliefs
-    in a population. We also show that these new beliefs can be polarized or shared
-    among subpopulations.
+  Abstract ID: '235'
+  Presenter: Shazia Ayn Babul
+  Talk title: Negative Ties Highlight Hidden Extremes in Social Media Polarization
+  Abstract: Human interactions in the online world are made of a combination of positive
+    and negative exchanges. These diverse interactions can be captured using signed
+    network representations, where the edges can take either positive or negative
+    weights to indicate friendship or animosity between individuals. In political
+    contexts, signed networks offer valuable insights into online social polarization
+    by capturing antagonistic interactions and ideological divides. This study analyzes
+    polarization on the Menéame platform, a Spanish social media site that facilitates
+    engagement with news stories through comments and voting. Using a dual-method
+    approach---Signed Hamiltonian Eigenvector Embedding for Proximity (SHEEP) for
+    signed networks and Correspondence Analysis (CA) for unsigned networks---we investigate
+    how including negative ties enhances the understanding of structural polarization.
+    We quantify the level of positive and negative structural polarization on the
+    platform across different conversation topics. We find that on the Menéame network,
+    negative ties are necessary for detecting antagonism, while the unsigned network
+    delineates ideological communities. We also show that far-left users on the platform
+    are more likely to engage with users across ideological lines, even if through
+    negative interactions, whereas far-right users interact primarily with users similar
+    to themselves.
+  Time: Thu 16:45 - 17:00
 - Session name: Signed networks
   Talk Order: '3'
   Abstract ID: '275'
@@ -77,8 +80,16 @@ talks:
     model, we apply it to four, social real-world configurations: in all cases, non-trivial,
     mesoscopic structures, induced by relationships that cannot be traced back to
     the constraints defining the employed benchmarks, are detected.'
+  Time: Thu 17:00 - 17:15
 - Session name: Signed networks
   Talk Order: '4'
+  Abstract ID: '120'
+  Presenter: Nicholas Kah Yean Low
+  Talk title: .nan
+  Abstract: .nan
+  Time: .nan
+- Session name: Signed networks
+  Talk Order: '5'
   Abstract ID: '546'
   Presenter: Piotr Górski
   Talk title: Multidimensional attributes make structural balance dynamics measurable
@@ -96,7 +107,7 @@ talks:
     this aim, we use static and dynamical structural balance metrics, such as density
     of balanced triads and triad transition probabilities, respectively. We compare
     the measures obtained for the real network with those for three different null
-    models and two randomized processes.  Our results show that for the analyzed dataset,
+    models and two randomized processes. Our results show that for the analyzed dataset,
     SBT influence is not observed in the case of signs constructed using separate
     attributes. Triad densities for real networks are not statistically different
     from densities in null models. However, when considering all attributes together,
@@ -106,26 +117,4 @@ talks:
     transition probabilities better than randomized processes for a similar range
     of tolerance values. Summing up, multidimensional attributes are sufficient to
     measure SBT influence.
-- Session name: Signed networks
-  Talk Order: '5'
-  Abstract ID: '235'
-  Presenter: Shazia Ayn Babul
-  Talk title: Negative Ties Highlight Hidden Extremes in Social Media Polarization
-  Abstract: Human interactions in the online world are made of a combination of positive
-    and negative exchanges. These diverse interactions can be captured using signed
-    network representations, where the edges can take either positive or negative
-    weights to indicate friendship or animosity between individuals. In political
-    contexts, signed networks offer valuable insights into online social polarization
-    by capturing antagonistic interactions and ideological divides. This study analyzes
-    polarization on the Menéame platform, a Spanish social media site that facilitates
-    engagement with news stories through comments and voting.  Using a dual-method
-    approach---Signed Hamiltonian Eigenvector Embedding for Proximity (SHEEP) for
-    signed networks and Correspondence Analysis (CA) for unsigned networks---we investigate
-    how including negative ties enhances the understanding of structural polarization.  We
-    quantify the level of positive and negative structural polarization on the platform
-    across different conversation topics. We find that on the Menéame network, negative
-    ties are necessary for detecting antagonism, while the unsigned network delineates
-    ideological communities. We also show that far-left users on the platform are
-    more likely to engage with users across ideological lines, even if through negative
-    interactions, whereas far-right users interact primarily with users similar to
-    themselves.
+  Time: Thu 17:15 - 17:30

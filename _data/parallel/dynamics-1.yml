@@ -3,80 +3,6 @@ slug: dynamics-1
 talks:
 - Session name: Dynamics 1
   Talk Order: '1'
-  Abstract ID: '542'
-  Presenter: Ana Barioni
-  Talk title: 'Networking drones of different feathers: the secret sauce for flocking'
-  Abstract: The study of flocking in biological systems has identified conditions
-    for self-organized collective behavior, inspiring the development of decentralized
-    strategies to coordinate the dynamics of swarms of drones and other autonomous
-    vehicles [1]. Previous research has predominantly focused on the role of the interaction
-    network while assuming identical or nearly identical agents, owing to the widely
-    held assumption that inter-individual differences inhibit consensus. In this talk,
-    we depart from this assumption to examine how heterogeneity among agents influences
-    stability and convergence in flocking dynamics. We reveal that appropriate choice
-    of inter-individual differences can in fact promote consensus, significantly outperforming
-    their homogeneous counterparts [2]. Fig. 1a compares the convergence error in
-    target tracking for optimized flocks of heterogeneous and homogeneous agents,
-    showing that heterogeneous agents converge to a desired formation 36% faster.
-    We show how this counterintuitive phenomenon can be leveraged to enhance performance
-    in a range of collective tasks, including flock formation, target tracking, and
-    obstacle maneuvering. The latter is illustrated in Fig.1b,c, which shows the improvement
-    in cohesion and collision avoidance for flocks of heterogeneous agents. Finally,
-    we conclude the talk by establishing system disorder as a mechanism to promote
-    collective behavior across a wide variety of systems beyond flocking dynamics.
-- Session name: Dynamics 1
-  Talk Order: '2'
-  Abstract ID: '35'
-  Presenter: Hanlin Sun
-  Talk title: Triadic percolation induces dynamical topological patterns in higher-order
-    networks
-  Abstract: Triadic interactions are higher-order interactions which occur when a
-    set of nodes affects the interaction between two other nodes. Examples of triadic
-    interactions are present in the brain when glia modulate the synaptic signals
-    among neuron pairs or when interneuron axo-axonic synapses enable presynaptic
-    inhibition and facilitation, and in ecosystems when one or more species can affect
-    the interaction among two other species. On random graphs, triadic percolation
-    has been recently shown to turn percolation into a fully fledged dynamical process
-    in which the size of the giant component undergoes a route to chaos. However,
-    in many real cases, triadic interactions are local and occur on spatially embedded
-    networks. In this work, we show that triadic interactions in spatial networks
-    induce a very complex spatio-temporal modulation of the giant component which
-    gives rise to triadic percolation patterns with significantly different topology.
-    We classify the observed patterns (stripes, octopus, and small clusters) with
-    topological data analysis and we assess their information content (entropy and
-    complexity). Moreover, we illustrate the multistability of the dynamics of the
-    triadic percolation patterns, and we provide a comprehensive phase diagram of
-    the model. These results open new perspectives in percolation as they demonstrate
-    that in presence of spatial triadic interactions, the giant component can acquire
-    a time-varying topology. Hence, this work provides a theoretical framework that
-    can be applied to model realistic scenarios in which the giant component is time
-    dependent as in neuroscience.
-- Session name: Dynamics 1
-  Talk Order: '3'
-  Abstract ID: '191'
-  Presenter: Jun Yamamoto
-  Talk title: Delocalization of Physical Laplacian Eigenvectors due to Degree-Volume
-    Correlation
-  Abstract: Physical networks, embedded in three-dimensional space under physical
-    constraints, are found in various physical and biological systems, ranging from
-    self-assembling systems and meta-materials to biological neural networks and vascular
-    networks, to name a few. Recent studies have revealed that the physicality of
-    networks results in emergent structural and dynamical features, such as topological
-    entanglement, bundling, and correlations between network structure and physical
-    layout. Particularly, linear correlations between node degree and node volume
-    were shown to arise both in real and model physical networks. In this work, we
-    study the effect of linear degree-volume correlations on the dynamics on physical
-    networks.  For this, we systematically investigate the so-called physical Laplacian,
-    which captures diffusion-like dynamics on nodes with heterogeneous volumes. We
-    focus on the roles of the degree-volume correlation strength, noise in volumes,
-    and network topology by examining the spectral properties of physical Laplacians.
-    Our results show that the emergent volume-degree correlations in physical networks
-    can suppress or mitigate the effect of hubs, preventing extreme localizations
-    of Fiedler and leading eigenvectors in heterogeneous networks. While our motivation
-    arose from physical networks, our results can also apply to network-of-networks
-    and multilayer networks in which layer sizes are heterogeneous.
-- Session name: Dynamics 1
-  Talk Order: '4'
   Abstract ID: '22'
   Presenter: Ramon Nartallo-Kaluarachchi
   Talk title: Decomposing nonequilibrium force-fields by reconstructing graphs from
@@ -106,9 +32,161 @@ talks:
     vs arrhythmic heartbeats. Our work represents a powerful new tool for the analysis
     of real-world time-series using topological signal processing, from the perspective
     of nonequilibrium physics.
+  Time: Wed 16:30 - 16:45
 - Session name: Dynamics 1
-  Talk Order: '5'
+  Talk Order: '2'
+  Abstract ID: '35'
+  Presenter: Hanlin Sun
+  Talk title: Triadic percolation induces dynamical topological patterns in higher-order
+    networks
+  Abstract: Triadic interactions are higher-order interactions which occur when a
+    set of nodes affects the interaction between two other nodes. Examples of triadic
+    interactions are present in the brain when glia modulate the synaptic signals
+    among neuron pairs or when interneuron axo-axonic synapses enable presynaptic
+    inhibition and facilitation, and in ecosystems when one or more species can affect
+    the interaction among two other species. On random graphs, triadic percolation
+    has been recently shown to turn percolation into a fully fledged dynamical process
+    in which the size of the giant component undergoes a route to chaos. However,
+    in many real cases, triadic interactions are local and occur on spatially embedded
+    networks. In this work, we show that triadic interactions in spatial networks
+    induce a very complex spatio-temporal modulation of the giant component which
+    gives rise to triadic percolation patterns with significantly different topology.
+    We classify the observed patterns (stripes, octopus, and small clusters) with
+    topological data analysis and we assess their information content (entropy and
+    complexity). Moreover, we illustrate the multistability of the dynamics of the
+    triadic percolation patterns, and we provide a comprehensive phase diagram of
+    the model. These results open new perspectives in percolation as they demonstrate
+    that in presence of spatial triadic interactions, the giant component can acquire
+    a time-varying topology. Hence, this work provides a theoretical framework that
+    can be applied to model realistic scenarios in which the giant component is time
+    dependent as in neuroscience.
+  Time: Wed 16:45 - 17:00
+- Session name: Dynamics 1
+  Talk Order: '3'
   Abstract ID: '49'
   Presenter: Naoki Masuda
   Talk title: Fixation dynamics on various networks
-  Abstract: Please see the attached pdf.
+  Abstract: 'Many real-life ecosystems experience sudden changes, also referred to
+    as regime shifts. These systems can be modeled
+
+    using a system of stochastic differential equations on a network. An early warning
+    signal (EWS) is a quantity that attempts
+
+    to anticipate a regime shift in the network dynamics. It can be both computationally
+    and economically expensive to
+
+    observe how every node behaves in a network over long time periods in order to
+    predict a regime shift. Thus, a key problem
+
+    is how to combine, select, and observe a small portion of the nodes within a network
+    so that we can still successfully
+
+    anticipate a sudden change in the system. We use an index we previously proposed
+    [2], d, whose maximization determines
+
+    an optimal node set to be used for constructing an early warning signal. Prior
+    work [1,2] considered the sample variance
+
+    of different nodes (i.e., the diagonal entries of the covariance matrix) and took
+    the average of the selected entries as an
+
+    EWS. We used theories based on the Lyapunov equation, considered sample covariance
+    of different nodes, and took the
+
+    average of the selected entries as a potential EWS. The overall aim is to use
+    the sample covariance to try to improve
+
+    EWSs, and we analyzed small and large networks to address this.
+
+    We generalized the formula for d to include the sample covariance case and explicitly
+    calculated its value in various four-
+
+    node networks. We discussed why certain entry or node selections lead to higher
+    d values and are good for constructing
+
+    EWSs. We found that, for three types of four-node networks with high symmetry,
+    which allow exact analysis, using
+
+    only diagonal entries of the covariance matrix (i.e., sample variance as opposed
+    to the sample covariance) almost always
+
+    produces the largest d under various noise scenarios.
+
+    Next, we tried to determine whether it is beneficial to use off-diagonal entries
+    of the covariance matrix (i.e., sample
+
+    covariance) to construct EWSs in larger networks. We performed simulations on
+    both model and empirical networks.
+
+    We analyzed the effectiveness of the four selection methods (see Fig. 1(a)) in
+    terms of d and Kendall’s τ ; the latter
+
+    is a standard performance measure in EWS research. We ran the analysis of variance
+    and Tukey’s honestly significant
+
+    difference test to statistically compare d and τ for the four node selection methods
+    across various networks and dynamics.
+
+    Figure 1(b) is an example that illustrates the effectiveness of different selection
+    methods. We see that, on average, using
+
+    only diagonal entries (i.e., sample variance; shown in red) produces the largest
+    d and τ values. We found similar results
+
+    for various networks and dynamic models in general. Thus, we deduce that using
+    off-diagonal entries of the covariance
+
+    matrix does not improve the quality of EWSs, supporting the use of sample variance
+    rather than covariance in EWS
+
+    research.'
+  Time: Wed 17:00 - 17:15
+- Session name: Dynamics 1
+  Talk Order: '4'
+  Abstract ID: '191'
+  Presenter: Jun Yamamoto
+  Talk title: Delocalization of Physical Laplacian Eigenvectors due to Degree-Volume
+    Correlation
+  Abstract: Physical networks, embedded in three-dimensional space under physical
+    constraints, are found in various physical and biological systems, ranging from
+    self-assembling systems and meta-materials to biological neural networks and vascular
+    networks, to name a few. Recent studies have revealed that the physicality of
+    networks results in emergent structural and dynamical features, such as topological
+    entanglement, bundling, and correlations between network structure and physical
+    layout. Particularly, linear correlations between node degree and node volume
+    were shown to arise both in real and model physical networks. In this work, we
+    study the effect of linear degree-volume correlations on the dynamics on physical
+    networks.  For this, we systematically investigate the so-called physical Laplacian,
+    which captures diffusion-like dynamics on nodes with heterogeneous volumes. We
+    focus on the roles of the degree-volume correlation strength, noise in volumes,
+    and network topology by examining the spectral properties of physical Laplacians.
+    Our results show that the emergent volume-degree correlations in physical networks
+    can suppress or mitigate the effect of hubs, preventing extreme localizations
+    of Fiedler and leading eigenvectors in heterogeneous networks. While our motivation
+    arose from physical networks, our results can also apply to network-of-networks
+    and multilayer networks in which layer sizes are heterogeneous.
+  Time: Wed 17:15 - 17:30
+- Session name: Dynamics 1
+  Talk Order: '5'
+  Abstract ID: '542'
+  Presenter: Ana Barioni
+  Talk title: 'Networking drones of different feathers: the secret sauce for flocking'
+  Abstract: The study of flocking in biological systems has identified conditions
+    for self-organized collective behavior, inspiring the development of decentralized
+    strategies to coordinate the dynamics of swarms of drones and other autonomous
+    vehicles [1]. Previous research has predominantly focused on the role of the interaction
+    network while assuming identical or nearly identical agents, owing to the widely
+    held assumption that inter-individual differences inhibit consensus. In this talk,
+    we depart from this assumption to examine how heterogeneity among agents influences
+    stability and convergence in flocking dynamics. We reveal that appropriate choice
+    of inter-individual differences can in fact promote consensus, significantly outperforming
+    their homogeneous counterparts [2]. Fig. 1a compares the convergence error in
+    target tracking for optimized flocks of heterogeneous and homogeneous agents,
+    showing that heterogeneous agents converge to a desired formation 36% faster.
+    We show how this counterintuitive phenomenon can be leveraged to enhance performance
+    in a range of collective tasks, including flock formation, target tracking, and
+    obstacle maneuvering. The latter is illustrated in Fig.1b,c, which shows the improvement
+    in cohesion and collision avoidance for flocks of heterogeneous agents. Finally,
+    we conclude the talk by establishing system disorder as a mechanism to promote
+    collective behavior across a wide variety of systems beyond flocking dynamics.
+  Time: Wed 17:30 - 17:45

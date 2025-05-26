@@ -3,109 +3,6 @@ slug: finance-networks-and-supply-chains
 talks:
 - Session name: Finance networks and supply chains
   Talk Order: '1'
-  Abstract ID: '477'
-  Presenter: Giacomo Zelbi
-  Talk title: Assessing the systemic risk mitigation potential in supply chains through
-    network rewiring
-  Abstract: The network structure of real-world supply chains inherently carries a
-    vulnerability to systemic risk. Local shocks can escalate into widespread disruptions
-    due to the high level of interdependence between firms. While recent advances
-    have made it possible to quantify systemic risk in production networks, how different
-    network topologies of supply links contribute to this risk remains unclear. To
-    address this question, we employ a method inspired by statistical physics that
-    allows us to find network configurations with minimal systemic risk while respecting
-    firm-level constraints to production. Analyzing six subnetworks derived from Hungary's
-    and Ecuador's countrywide production networks, we demonstrate that the systemic
-    risk can be significantly mitigated without impacting the volume of traded goods
-    or firms' production output. A comparison of the network properties before and
-    after our optimal rewiring indicates that this result is achieved by changing
-    the connectivity in a non-trivial way. These results suggest that production network
-    topologies are suboptimal as they carry a level of risk much larger than is necessary
-    in order to sustain production. Our findings provide new insights to devise policies
-    seeking to reduce systemic risk through targeted interventions in supply chain
-    networks.
-- Session name: Finance networks and supply chains
-  Talk Order: '2'
-  Abstract ID: '287'
-  Presenter: Tiziano Squartini
-  Talk title: Spectral signatures of structural change in financial networks
-  Abstract: The level of systemic risk in economic and financial systems is strongly
-    determined by the structure of the underlying networks of interdependent entities
-    that can propagate shocks and stresses. Since changes in network structure imply
-    changes in risk levels, it is important to identify structural transitions potentially
-    leading to system-wide crises. Methods have been proposed to assess whether a
-    real-world network is in a (quasi-)stationary state by checking the consistency
-    of its structural evolution with appropriate maximum-entropy ensembles of graphs.
-    While previous analyses of this kind have focused on dyadic and triadic motifs,
-    hence disregarding higher-order structures, here we consider closed walks of any
-    length. Specifically, we study the ensemble properties of the spectral radius
-    of random graph models calibrated on real-world evolving networks. Our approach
-    is shown to work remarkably well for directed networks, both binary and weighted.
-    As illustrative examples, we consider the Electronic Market for Interbank Deposit
-    (e-MID), the Dutch Interbank Network (DIN) and the International Trade Network
-    (ITN) in their evolution across the 2008 crisis. By monitoring the deviation of
-    the spectral radius from its ensemble expectation, we find that the ITN remains
-    in a (quasi-)equilibrium state throughout the period considered, while both the
-    DIN and e-MID exhibit a clear out-of-equilibrium behaviour. The spectral deviation
-    therefore captures ongoing topological changes, extending over all length scales,
-    to provide a compact proxy of the resilience of economic and financial networks.
-- Session name: Finance networks and supply chains
-  Talk Order: '3'
-  Abstract ID: '426'
-  Presenter: Ariadna Fosch I Muntané
-  Talk title: Evolution and robustness of the international trade of food products
-  Abstract: The international trade of food products plays an important role in maintaining
-    food security across the globe. However, food trade has changed over time, adapting
-    to political maneuvers, globalization, and even climatic shocks. Comprehending
-    the temporal evolution of food trade networks, and how such changes condition
-    the system's robustness can be very valuable for designing effective interventions
-    against future crises. To this end, we studied the temporal evolution of global
-    food trade networks and characterized how their topological and functional robustness
-    changed between 1986-2021. For each year, we built a multiplex representation
-    of the trade relationships between 219 countries across 12 food categories (defined
-    based on 216 individual products [1]). We then explored the temporal evolution
-    of several multiplex network metrics (e.g. participation coefficient, weighted
-    overlap, inverse participation ratio) to identify trends that could influence
-    network robustness to shocks. Overall, we observed that countries have experienced
-    simultaneously an increase in globalization (dependence on imports) and an increase
-    in export diversification. This export diversification is not uniform across products,
-    with some products exhibiting an increase in regionalization (``Animal and vegetal),
-    while others becoming more decentralized (``Grain and derived products"). Such
-    heterogeneities may generate discrepancies in each layer's robustness to production
-    shocks. To test it, we simulated the impact of single-country production shocks
-    in different years. Using a shock model inspired by [2], we evaluated the changes
-    in shock size, the most affected countries, and the main shock producers. In the
-    case of grain products, though the maximal cascade size generated remains similar
-    between 1986 and 2019, there is an increase in the number of countries that could
-    potentially cause large cascades...
-- Session name: Finance networks and supply chains
-  Talk Order: '4'
-  Abstract ID: '594'
-  Presenter: Daekyung Lee
-  Talk title: 'From Source to Sink: A Route-Based Approach to Supply Chain Stability'
-  Abstract: Modern global trade networks are characterized by complex interdependencies,
-    making supply chain stability for critical commodities a key concern. Expanding
-    the range of trade partners may seem like a straightforward way to enhance resilience,
-    but it can still leave countries exposed if partners rely on the same upstream
-    suppliers. This highlights the need for a more comprehensive approach that traces
-    commodities from their sources to final consumption.We adapt the power tracing
-    technique from electrical grid analysis [1] to address this issue. Originally
-    designed to quantify dependencies between generators and consumers by analyzing
-    electricity flows, we apply this concept to trace commodity pathways in global
-    trade. Using a Markov chain model, our framework simulates the flow of goods and
-    reconstructs observed trade distributions, revealing risks and structural dependencies.
-    We further develop a multilayer framework linking commodity flows across stages
-    of production.We demonstrate the framework's utility through its application to
-    Lithium-Ion Batteries (LIBs) for electric vehicles (EVs). By tracing materials
-    like lithium from mining to final consumption, we identify supply chains balancing
-    route diversity with environmental and human rights standards. This perspective
-    reveals key vulnerabilities and offers strategic guidance for resilient trade
-    portfolios. At the global level, it pinpoints critical hubs and potential failure
-    points that could disrupt supply chains. Incorporating raw materials, intermediate
-    goods, and final products, our method provides a unified framework for analyzing
-    interdependencies and their impacts.
-- Session name: Finance networks and supply chains
-  Talk Order: '5'
   Abstract ID: '278'
   Presenter: Massimiliano Fessina
   Talk title: Inferring firm-level supply chain networks with realistic systemic risk
@@ -131,8 +28,35 @@ talks:
     between industrial sectors, as in the IO scGM. Our findings shed light on the
     minimal amount of empirical information that is needed in order to generate realistic
     synthetic production networks, able to capture the systemic risk of an economy.'
+  Time: Wed 14:30 - 14:45
 - Session name: Finance networks and supply chains
-  Talk Order: '6'
+  Talk Order: '2'
+  Abstract ID: '287'
+  Presenter: Tiziano Squartini
+  Talk title: Spectral signatures of structural change in financial networks
+  Abstract: The level of systemic risk in economic and financial systems is strongly
+    determined by the structure of the underlying networks of interdependent entities
+    that can propagate shocks and stresses. Since changes in network structure imply
+    changes in risk levels, it is important to identify structural transitions potentially
+    leading to system-wide crises. Methods have been proposed to assess whether a
+    real-world network is in a (quasi-)stationary state by checking the consistency
+    of its structural evolution with appropriate maximum-entropy ensembles of graphs.
+    While previous analyses of this kind have focused on dyadic and triadic motifs,
+    hence disregarding higher-order structures, here we consider closed walks of any
+    length. Specifically, we study the ensemble properties of the spectral radius
+    of random graph models calibrated on real-world evolving networks. Our approach
+    is shown to work remarkably well for directed networks, both binary and weighted.
+    As illustrative examples, we consider the Electronic Market for Interbank Deposit
+    (e-MID), the Dutch Interbank Network (DIN) and the International Trade Network
+    (ITN) in their evolution across the 2008 crisis. By monitoring the deviation of
+    the spectral radius from its ensemble expectation, we find that the ITN remains
+    in a (quasi-)equilibrium state throughout the period considered, while both the
+    DIN and e-MID exhibit a clear out-of-equilibrium behaviour. The spectral deviation
+    therefore captures ongoing topological changes, extending over all length scales,
+    to provide a compact proxy of the resilience of economic and financial networks.
+  Time: Wed 14:45 - 15:00
+- Session name: Finance networks and supply chains
+  Talk Order: '3'
   Abstract ID: '303'
   Presenter: Mattia Marzi
   Talk title: Digital twins of economic and financial networks
@@ -160,3 +84,85 @@ talks:
     and financial systems to assess systemic risk and plan policies while preserving
     data privacy. Reproducing the second moment of the degree distribution remains
     crucial to this aim.
+  Time: Wed 15:00 - 15:15
+- Session name: Finance networks and supply chains
+  Talk Order: '4'
+  Abstract ID: '426'
+  Presenter: Ariadna Fosch I Muntané
+  Talk title: Evolution and robustness of the international trade of food products
+  Abstract: The international trade of food products plays an important role in maintaining
+    food security across the globe. However, food trade has changed over time, adapting
+    to political maneuvers, globalization, and even climatic shocks. Comprehending
+    the temporal evolution of food trade networks, and how such changes condition
+    the system's robustness can be very valuable for designing effective interventions
+    against future crises. To this end, we studied the temporal evolution of global
+    food trade networks and characterized how their topological and functional robustness
+    changed between 1986-2021. For each year, we built a multiplex representation
+    of the trade relationships between 219 countries across 12 food categories (defined
+    based on 216 individual products [1]). We then explored the temporal evolution
+    of several multiplex network metrics (e.g. participation coefficient, weighted
+    overlap, inverse participation ratio) to identify trends that could influence
+    network robustness to shocks. Overall, we observed that countries have experienced
+    simultaneously an increase in globalization (dependence on imports) and an increase
+    in export diversification. This export diversification is not uniform across products,
+    with some products exhibiting an increase in regionalization (``Animal and vegetal),
+    while others becoming more decentralized (``Grain and derived products"). Such
+    heterogeneities may generate discrepancies in each layer's robustness to production
+    shocks. To test it, we simulated the impact of single-country production shocks
+    in different years. Using a shock model inspired by [2], we evaluated the changes
+    in shock size, the most affected countries, and the main shock producers. In the
+    case of grain products, though the maximal cascade size generated remains similar
+    between 1986 and 2019, there is an increase in the number of countries that could
+    potentially cause large cascades...
+  Time: Wed 15:15 - 15:30
+- Session name: Finance networks and supply chains
+  Talk Order: '5'
+  Abstract ID: '477'
+  Presenter: Giacomo Zelbi
+  Talk title: Assessing the systemic risk mitigation potential in supply chains through
+    network rewiring
+  Abstract: The network structure of real-world supply chains inherently carries a
+    vulnerability to systemic risk. Local shocks can escalate into widespread disruptions
+    due to the high level of interdependence between firms. While recent advances
+    have made it possible to quantify systemic risk in production networks, how different
+    network topologies of supply links contribute to this risk remains unclear. To
+    address this question, we employ a method inspired by statistical physics that
+    allows us to find network configurations with minimal systemic risk while respecting
+    firm-level constraints to production. Analyzing six subnetworks derived from Hungary's
+    and Ecuador's countrywide production networks, we demonstrate that the systemic
+    risk can be significantly mitigated without impacting the volume of traded goods
+    or firms' production output. A comparison of the network properties before and
+    after our optimal rewiring indicates that this result is achieved by changing
+    the connectivity in a non-trivial way. These results suggest that production network
+    topologies are suboptimal as they carry a level of risk much larger than is necessary
+    in order to sustain production. Our findings provide new insights to devise policies
+    seeking to reduce systemic risk through targeted interventions in supply chain
+    networks.
+  Time: Wed 15:30 - 15:45
+- Session name: Finance networks and supply chains
+  Talk Order: '6'
+  Abstract ID: '594'
+  Presenter: Daekyung Lee
+  Talk title: 'From Source to Sink: A Route-Based Approach to Supply Chain Stability'
+  Abstract: Modern global trade networks are characterized by complex interdependencies,
+    making supply chain stability for critical commodities a key concern. Expanding
+    the range of trade partners may seem like a straightforward way to enhance resilience,
+    but it can still leave countries exposed if partners rely on the same upstream
+    suppliers. This highlights the need for a more comprehensive approach that traces
+    commodities from their sources to final consumption.We adapt the power tracing
+    technique from electrical grid analysis [1] to address this issue. Originally
+    designed to quantify dependencies between generators and consumers by analyzing
+    electricity flows, we apply this concept to trace commodity pathways in global
+    trade. Using a Markov chain model, our framework simulates the flow of goods and
+    reconstructs observed trade distributions, revealing risks and structural dependencies.
+    We further develop a multilayer framework linking commodity flows across stages
+    of production.We demonstrate the framework's utility through its application to
+    Lithium-Ion Batteries (LIBs) for electric vehicles (EVs). By tracing materials
+    like lithium from mining to final consumption, we identify supply chains balancing
+    route diversity with environmental and human rights standards. This perspective
+    reveals key vulnerabilities and offers strategic guidance for resilient trade
+    portfolios. At the global level, it pinpoints critical hubs and potential failure
+    points that could disrupt supply chains. Incorporating raw materials, intermediate
+    goods, and final products, our method provides a unified framework for analyzing
+    interdependencies and their impacts.
+  Time: Wed 15:45 - 16:00

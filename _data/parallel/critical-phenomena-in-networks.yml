@@ -3,42 +3,38 @@ slug: critical-phenomena-in-networks
 talks:
 - Session name: Critical Phenomena In Networks
   Talk Order: '1'
-  Abstract ID: '617'
-  Presenter: Gareth Baxter
-  Talk title: Complex Contagion on Random Highly Clustered Networks
-  Abstract: We study complex contagion on random networks with high clustering. We
-    focus on the homogeneous contagion rule, in which a node is infected if at least
-    two neighbours become infected. This case is representative of higher order interactions,
-    and demonstrates the significant effect of clustering on the contagion. Since
-    complex contagion is frequently used to model social adoption, and social networks
-    are characterised by high clustering, this is an important consideration.In locally
-    treelike networks, this process corresponds to bootstrap percolation. In such
-    networks one observes the continuous appearance of a giant component of infected
-    nodes, which may then be followed by a second discontinuous hybrid transition
-    with a large jump in contagion. However the initial infection required may be
-    large. However, when there are triangles present in the network which share an
-    edge, the contagion spreads directly between them. Clusters of triangles connected
-    in this way thus facilitate the spread of the contagion.We explored this complex
-    contagion on random highly clustered networks, generated using the fSTC random
-    network model. This model closes triads at random in a backbone network (which
-    can be chosen to be locally tree-like). Networks generated in this way contain
-    small motifs in similar distributions to real-world networks, and in particular
-    contain clusters of edge-adjacent triangles. The use of the fSTC random network
-    model allows a theoretical treatment, so we can calculate the size of the contagion,
-    the giant component and the critical thresholds using self-consistency equation
-    techniques.While the critical phenomena remain qualitatively the same, we find
-    the presence of clustering may move the network from a region without a discontinuous
-    transition to one where it is present. Most importantly, with significant clustering,
-    a large contagion may arise from a significantly smaller initial infection than
-    would occur in a comparable non-clustered network.
-- Session name: Critical Phenomena In Networks
-  Talk Order: '2'
   Abstract ID: '298'
   Presenter: Yérali Gandica
   Talk title: Exploring Modular-to-Nested Transitions in Social Demonstrations
-  Abstract: In PDF
+  Abstract: 'Social demonstrations are collective phenomena centred around a shared
+    demand. From the perspective of the fields of complex systems and network science,
+    these events are of particular interest due to the strong correlations that emerge
+    among participants. For instance, the structure of hashtag networks during several
+    demonstrations, show a structural change shifting from a structure characterised
+    by the presence of communities to a hierarchical pyramidal one, marked by high
+    levels of nestedness.
+
+    In two previous studies, we analysed weighted temporal (one-hour) networks of
+    hashtags, where nodes are hashtags, and two nodes are connected if they were posted
+    by the same individual within that hour. The underlying assumption is that linked
+    nodes reflect thematic affinity between users. Subsequently, we used entropy-based
+    metrics to analyse our one-hour temporal networks and found that the modular-to-nested
+    transition can be found in the data without the explicit construction of networks-by
+    using entropic indicators.
+
+    In this talk, I aim to advance our understanding of these transitions by examining
+    alternative network representations: specifically, user networks and bipartite
+    networks. In the user networks, two nodes (users) are connected if they post the
+    same hashtag during a given hour. In the bipartite networks all information is
+    preserved, connecting users to hashtags. All of our networks are temporal and
+    weighted. I will present our most recent findings on the role of network centrality
+    metrics in driving modular-to-nested transitions, the emergence of self-similarity
+    in our networks of demonstrations at the critical point, and preliminary results
+    on cumulative retweet networks. These insights offer new perspectives on the mechanisms
+    shaping the evolution of collective behaviour during social demonstrations.'
+  Time: Thu 16:30 - 16:45
 - Session name: Critical Phenomena In Networks
-  Talk Order: '3'
+  Talk Order: '2'
   Abstract ID: '332'
   Presenter: Claudio Castellano
   Talk title: 'Percolation in networks: beyond nearest neighbors'
@@ -66,8 +62,9 @@ talks:
     nodes are interdependent but inactive nodes are not, Extended-Range percolation
     in multilayer networks exhibits a phase-diagram characterized by two discontinuous
     hybrid transitions with a reentrant nonpercolating phase.
+  Time: Thu 16:45 - 17:00
 - Session name: Critical Phenomena In Networks
-  Talk Order: '4'
+  Talk Order: '3'
   Abstract ID: '337'
   Presenter: Silja Sormunen
   Talk title: 'A new look at self-organized criticality in networks: from critical
@@ -97,8 +94,9 @@ talks:
     our work provides a novel perspective on how self-organizing systems move between
     different topological and dynamical regimes while remaining critical, effectively
     resolving many previous challenges in the field.
+  Time: Thu 17:00 - 17:15
 - Session name: Critical Phenomena In Networks
-  Talk Order: '5'
+  Talk Order: '4'
   Abstract ID: '343'
   Presenter: Michael Coughlan
   Talk title: Anomalous percolation in a dynamical network model for melt ponds on
@@ -123,3 +121,35 @@ talks:
     approach demonstrates how anomalous percolation can be used not just as a descriptor,
     but as an analysis tool, providing insight into the mathematics of processes on
     network models, and into the physics of the systems that these models represent.
+  Time: Thu 17:15 - 17:30
+- Session name: Critical Phenomena In Networks
+  Talk Order: '5'
+  Abstract ID: '617'
+  Presenter: Gareth Baxter
+  Talk title: Complex Contagion on Random Highly Clustered Networks
+  Abstract: We study complex contagion on random networks with high clustering. We
+    focus on the homogeneous contagion rule, in which a node is infected if at least
+    two neighbours become infected. This case is representative of higher order interactions,
+    and demonstrates the significant effect of clustering on the contagion. Since
+    complex contagion is frequently used to model social adoption, and social networks
+    are characterised by high clustering, this is an important consideration.In locally
+    treelike networks, this process corresponds to bootstrap percolation. In such
+    networks one observes the continuous appearance of a giant component of infected
+    nodes, which may then be followed by a second discontinuous hybrid transition
+    with a large jump in contagion. However the initial infection required may be
+    large. However, when there are triangles present in the network which share an
+    edge, the contagion spreads directly between them. Clusters of triangles connected
+    in this way thus facilitate the spread of the contagion.We explored this complex
+    contagion on random highly clustered networks, generated using the fSTC random
+    network model. This model closes triads at random in a backbone network (which
+    can be chosen to be locally tree-like). Networks generated in this way contain
+    small motifs in similar distributions to real-world networks, and in particular
+    contain clusters of edge-adjacent triangles. The use of the fSTC random network
+    model allows a theoretical treatment, so we can calculate the size of the contagion,
+    the giant component and the critical thresholds using self-consistency equation
+    techniques.While the critical phenomena remain qualitatively the same, we find
+    the presence of clustering may move the network from a region without a discontinuous
+    transition to one where it is present. Most importantly, with significant clustering,
+    a large contagion may arise from a significantly smaller initial infection than
+    would occur in a comparable non-clustered network.
+  Time: Thu 17:30 - 17:45

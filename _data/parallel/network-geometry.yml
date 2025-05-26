@@ -3,43 +3,32 @@ slug: network-geometry
 talks:
 - Session name: Network Geometry
   Talk Order: '1'
-  Abstract ID: '389'
-  Presenter: Aarathi Parameswaran
-  Talk title: Mechanisms of Symmetry Breaking in Optimal Networks
-  Abstract: Finding the optimal flow through a given network is relevant in a wide
-    range of systems, including urban transportation, power grids, river basins, plant
-    and animal venation. Gaining insight into the mechanisms behind the structure
-    of optimal networks is of crucial importance, especially in the context of designing
-    transport systems. Many such systems involve multiple modes or layers of transport,
-    motivating the study of optimal flow in multiplex networks.In this article we
-    introduce an analytically solvable model for symmetry breaking in optimal networks.
-    We provide a comprehensive solution for elementary model networks and demonstrate
-    two different mechanisms of symmetry breaking. First, the optimal state can undergo
-    a bifurcation, such that the symmetric state vanishes entirely. Second, the symmetric
-    and the symmetry-broken state co-exist and exchange roles as global and local
-    minima of the optimisation problem.We extend our fundamental results to (i) study
-    the impact of uncertain supply and demand and (ii) the optimal structure of multilayer
-    networks. Combining analytic and numeric tools, we show how noise impacts the
-    emergence to symmetry breaking and construct the phase diagram. For multi-layer
-    networks, we demonstrate symmetry breaking between layers, where one layer carries
-    the entire flow despite a symmetry in supply and demand between the layers.Our
-    results can hold importance for future energy systems, where electricity, gas
-    and heat networks are integrated and generation becomes increasingly uncertain.
+  Abstract ID: '64'
+  Presenter: Robert Jankowski
+  Talk title: Mapping bipartite networks into multidimensional hyperbolic spaces
+  Abstract: 'When nodes can be divided into two disjoint sets and no links connect
+    two nodes in the same set a network is called bipartite. There are many examples
+    of such networks as collaboration networks (authors and articles), actor networks
+    (actors and movies), metabolic networks (metabolites and chemical reactions),
+    and many more. Despite their abundance, these networks are less studied compared
+    to unipartite networks. Recent works show that network geometry framework can
+    be extended to bipartite networks in which nodes of both types lie in a metric
+    space, and the connection depends on their distance. In this work, we extend the
+    current one-dimensional model into $D$ dimensions by introducing a bipartite-$\mathbb{S}^D/\mathbb{H}^{D+1}$
+    model when nodes of two kinds lie in the same $D$-dimensional similarity space.
+    Moreover, we develop an embedding framework that allows the creation of multidimensional
+    hyperbolic maps of real bipartite networks. Using this framework, we analyzed
+    two datasets: Unicodelang and Flavour datasets. In the first one, countries are
+    connected to the languages spoken in that region. In the second one, food ingredients
+    are coupled with the food compounds. Moreover, we apply our approach in the machine
+    learning context, where a node feature matrix is represented as a bipartite graph.
+    Our tests on the node classification and link prediction tasks show a significant
+    improvement when a correlation between nodes'' labels and nodes'' features is
+    high. The findings pinpoint the cases in which a unipartite network is redundant
+    or not when a feature matrix is known.'
+  Time: Wed 16:30 - 16:45
 - Session name: Network Geometry
   Talk Order: '2'
-  Abstract ID: '299'
-  Presenter: Jasper Van der Kolk
-  Talk title: The enhanced geometry in multiplex networks
-  Abstract: Multiplex networks provide a powerful multilayer framework for modeling
-    complex systems with diverse interaction types. The different layers are expected
-    to be correlated, a fact that has been confirmed in previous works. However, a
-    comprehensive analysis of the overlap caused by such correlations has been lacking,
-    especially for higher order structures. We show that the mutual clustering coefficient
-    -- a measure for the amount of triangles present in all layers -- is high in many
-    real networks. This result can be explained through an enhanced coupling of the
-    overlapping edges to the underlying metric space, which conditions their connectivity.
-- Session name: Network Geometry
-  Talk Order: '3'
   Abstract ID: '213'
   Presenter: ZHIHAO QIU
   Talk title: Predicting shortest path nodes in random geometric graphs
@@ -68,31 +57,46 @@ talks:
     which can benefit practical scenarios where the coordinates of nodes are not fixed
     or precisely known. Specifically, the benefits of our method become higher as
     noise increases.'
+  Time: Wed 16:45 - 17:00
+- Session name: Network Geometry
+  Talk Order: '3'
+  Abstract ID: '299'
+  Presenter: Jasper Van der Kolk
+  Talk title: The enhanced geometry in multiplex networks
+  Abstract: Multiplex networks provide a powerful multilayer framework for modeling
+    complex systems with diverse interaction types. The different layers are expected
+    to be correlated, a fact that has been confirmed in previous works. However, a
+    comprehensive analysis of the overlap caused by such correlations has been lacking,
+    especially for higher order structures. We show that the mutual clustering coefficient
+    -- a measure for the amount of triangles present in all layers -- is high in many
+    real networks. This result can be explained through an enhanced coupling of the
+    overlapping edges to the underlying metric space, which conditions their connectivity.
+  Time: Wed 17:00 - 17:15
 - Session name: Network Geometry
   Talk Order: '4'
-  Abstract ID: '64'
-  Presenter: Robert Jankowski
-  Talk title: Mapping bipartite networks into multidimensional hyperbolic spaces
-  Abstract: 'When nodes can be divided into two disjoint sets and no links connect
-    two nodes in the same set a network is called bipartite. There are many examples
-    of such networks as collaboration networks (authors and articles), actor networks
-    (actors and movies), metabolic networks (metabolites and chemical reactions),
-    and many more. Despite their abundance, these networks are less studied compared
-    to unipartite networks. Recent works show that network geometry framework can
-    be extended to bipartite networks in which nodes of both types lie in a metric
-    space, and the connection depends on their distance. In this work, we extend the
-    current one-dimensional model into $D$ dimensions by introducing a bipartite-$\mathbb{S}^D/\mathbb{H}^{D+1}$
-    model when nodes of two kinds lie in the same $D$-dimensional similarity space.
-    Moreover, we develop an embedding framework that allows the creation of multidimensional
-    hyperbolic maps of real bipartite networks. Using this framework, we analyzed
-    two datasets: Unicodelang and Flavour datasets. In the first one, countries are
-    connected to the languages spoken in that region. In the second one, food ingredients
-    are coupled with the food compounds. Moreover, we apply our approach in the machine
-    learning context, where a node feature matrix is represented as a bipartite graph.
-    Our tests on the node classification and link prediction tasks show a significant
-    improvement when a correlation between nodes'' labels and nodes'' features is
-    high. The findings pinpoint the cases in which a unipartite network is redundant
-    or not when a feature matrix is known.'
+  Abstract ID: '389'
+  Presenter: Aarathi Parameswaran
+  Talk title: Mechanisms of Symmetry Breaking in Optimal Networks
+  Abstract: Finding the optimal flow through a given network is relevant in a wide
+    range of systems, including urban transportation, power grids, river basins, plant
+    and animal venation. Gaining insight into the mechanisms behind the structure
+    of optimal networks is of crucial importance, especially in the context of designing
+    transport systems. Many such systems involve multiple modes or layers of transport,
+    motivating the study of optimal flow in multiplex networks.In this article we
+    introduce an analytically solvable model for symmetry breaking in optimal networks.
+    We provide a comprehensive solution for elementary model networks and demonstrate
+    two different mechanisms of symmetry breaking. First, the optimal state can undergo
+    a bifurcation, such that the symmetric state vanishes entirely. Second, the symmetric
+    and the symmetry-broken state co-exist and exchange roles as global and local
+    minima of the optimisation problem.We extend our fundamental results to (i) study
+    the impact of uncertain supply and demand and (ii) the optimal structure of multilayer
+    networks. Combining analytic and numeric tools, we show how noise impacts the
+    emergence to symmetry breaking and construct the phase diagram. For multi-layer
+    networks, we demonstrate symmetry breaking between layers, where one layer carries
+    the entire flow despite a symmetry in supply and demand between the layers.Our
+    results can hold importance for future energy systems, where electricity, gas
+    and heat networks are integrated and generation becomes increasingly uncertain.
+  Time: Wed 17:15 - 17:30
 - Session name: Network Geometry
   Talk Order: '5'
   Abstract ID: '616'
@@ -120,3 +124,4 @@ talks:
     principle underlying hyperbolic models cannot explain mesoscale structures like
     communities, and that an additional term in the expressionof edge probabilities
     is required.
+  Time: Wed 17:30 - 17:45

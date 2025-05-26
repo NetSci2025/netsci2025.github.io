@@ -3,32 +3,35 @@ slug: statistical-analysis-and-inference-2
 talks:
 - Session name: Statistical analysis and inference 2
   Talk Order: '1'
-  Abstract ID: '448'
-  Presenter: Yuri Antonacci
-  Talk title: Partial Information Decomposition in Networks of Random Processes
-  Abstract: Understanding how information is distributed in network systems composed
-    by multiple interacting nodes is a crucial problem in many scientific fields.
-    Partial information decomposition (PID) constitutes a comprehensive framework
-    decomposing the mutual information (MI) that a target random variable shares with
-    a set of source variables into components highlighting how such an information
-    is distributed among the sources, i.e., the unique information exclusively available
-    from each source, the redundant information that can be obtained from at least
-    two different sources, and the synergistic information that is revealed only when
-    multiple sources are considered simultaneously. Since it has been specifically
-    defined for random variables, applying the PID to multivariate time series representing
-    realizations of a vector random process composed by several source processes and
-    a target process may be confounding. In this case, the PID would decompose the
-    information shared by the processes at the same time, thus implicitly disregarding
-    the temporal statistical structure of the multivariate process. To overcome this
-    issue, in this work we formalize a partial information rate decomposition (PIRD)
-    for networks of stationary random processes exhibiting nontrivial temporal correlations,
-    leveraging the use of entropy rates as basic elements of information decomposition.
-    We show that the presence of temporal correlations has a profound impact on the
-    multivariate information shared at lag zero by multiple random processes. Moreover,
-    exploiting the formalism that connects information rates with linear Gaussian
-    regression models and spectral quantities, we provide a joint time and frequency
-    domain formulation of the PIRD which highlights distinct high-order behaviors
-    of oscillatory rhythms.
+  Abstract ID: '264'
+  Presenter: Erik Weis
+  Talk title: Regionalization via nonparametric community detection in spatially embedded
+    networks
+  Abstract: A central question in the study of human mobility concerns how spatial
+    constraints shape individual and collective behavior. To this end, many macroscopic
+    modeling approaches highlight the role of distance, while microscopic models often
+    rely on individual characteristics of locations to predict mobility patterns.
+    A growing body of work also focuses on mesoscopic patterns, such as geographic/social
+    boundaries between regions or regions with disproportionately high visitation---phenomena
+    that often cannot be captured under standard micro/macroscopic modeling applications.
+    Although existing methods for studying mesoscopic structure in non-spatial data
+    have been used to study interregional mobility flows, these methods do not incorporate
+    the distance between locations, which is known to play an important role. Therefore,
+    we introduce an inferential technique for defining mesoscopic regions that directly
+    incorporates spatial patterns, based on the minimum description length (MDL) principle.
+    Our Bayesian generative model is a modification of the stochastic block model
+    (SBM). The standard SBM assumes a random network as a null model, which may be
+    a suboptimal choice for spatial data because the block structure will build regions
+    using purely spatial patterns. Instead, we build a notion of distance directly
+    into the SBM, allowing the model to disentangle regional effects from macroscopic
+    patterns. To do this, we use the distance between nodes in the planar adjacency
+    graph, formed by linking regions that share a border. We implement an MCMC sampling
+    algorithm that allows us to fit the model to data.We evaluate our method on synthetic
+    and empirical data. Then, we compare its output to that of other regionalization
+    methods in a number of synthetic and experimental settings. Our model can be used
+    as a principled way of defining regions based on human behavioral data, which
+    could be used for a number of downstream analysis tasks.
+  Time: Thu 14:30 - 14:45
 - Session name: Statistical analysis and inference 2
   Talk Order: '2'
   Abstract ID: '121'
@@ -59,68 +62,9 @@ talks:
     The picture that emerges is that of a well-separated hierarchy dominated by a
     small group of elite universities with very little upward mobility across the
     rankings.
+  Time: Thu 14:45 - 15:00
 - Session name: Statistical analysis and inference 2
   Talk Order: '3'
-  Abstract ID: '85'
-  Presenter: Seongmin Kim
-  Talk title: Inference accuracy of loopy belief propagation in Ising and percolation
-    models
-  Abstract: Belief propagation (BP) is a message passing algorithm widely employed
-    to solve inference problems in probabilistic graphical models such as percolation
-    models, Ising spin models, and Bayesian networks. While BP computes marginal probabilities
-    exactly on tree networks, it also provides good approximations in non-tree networks
-    containing cycles, contributing to its versatility. However, the accuracy of BP
-    in non-tree networks varies greatly depending on the network structure, and this
-    dependency has not yet been fully clarified.This research aims to investigate
-    the performance of BP in non-tree network structures, identifying key factors
-    that influence its accuracy. Using bond percolation and Ising model as examples,
-    we measure the errors of BP predictions by comparing them with Monte Carlo simulation
-    results in various real-world networks. We identify two major sources of error
-    in BP.One source of error is the finite size of the system, which becomes significant
-    in small networks. The conventional BP method exhibits sharp changes in the order
-    parameter so that it fails to capture the smooth transitions in small networks.
-    We demonstrate that a simple modification to the BP algorithm can significantly
-    reduce this finite-size error without compromising computational efficiency.The
-    other source of error arises from the discrepancy between the BP equation and
-    the actual non-tree structure. This is the error that remains even after reducing
-    the finite-size error using our modified BP. We show how the quality of BP's approximations
-    relates to different topological properties, such as degree distributions, clustering
-    coefficients, shortest path lengths, and non-backtracking matrix spectra.Our findings
-    provide insights into the relationship between the applicability of BP and the
-    network structures. This understanding may help develop more accurate and efficient
-    BP algorithms for various non-tree networks.
-- Session name: Statistical analysis and inference 2
-  Talk Order: '4'
-  Abstract ID: '264'
-  Presenter: Erik Weis
-  Talk title: Regionalization via nonparametric community detection in spatially embedded
-    networks
-  Abstract: A central question in the study of human mobility concerns how spatial
-    constraints shape individual and collective behavior. To this end, many macroscopic
-    modeling approaches highlight the role of distance, while microscopic models often
-    rely on individual characteristics of locations to predict mobility patterns.
-    A growing body of work also focuses on mesoscopic patterns, such as geographic/social
-    boundaries between regions or regions with disproportionately high visitation---phenomena
-    that often cannot be captured under standard micro/macroscopic modeling applications.
-    Although existing methods for studying mesoscopic structure in non-spatial data
-    have been used to study interregional mobility flows, these methods do not incorporate
-    the distance between locations, which is known to play an important role. Therefore,
-    we introduce an inferential technique for defining mesoscopic regions that directly
-    incorporates spatial patterns, based on the minimum description length (MDL) principle.
-    Our Bayesian generative model is a modification of the stochastic block model
-    (SBM). The standard SBM assumes a random network as a null model, which may be
-    a suboptimal choice for spatial data because the block structure will build regions
-    using purely spatial patterns. Instead, we build a notion of distance directly
-    into the SBM, allowing the model to disentangle regional effects from macroscopic
-    patterns. To do this, we use the distance between nodes in the planar adjacency
-    graph, formed by linking regions that share a border. We implement an MCMC sampling
-    algorithm that allows us to fit the model to data.We evaluate our method on synthetic
-    and empirical data. Then, we compare its output to that of other regionalization
-    methods in a number of synthetic and experimental settings. Our model can be used
-    as a principled way of defining regions based on human behavioral data, which
-    could be used for a number of downstream analysis tasks.
-- Session name: Statistical analysis and inference 2
-  Talk Order: '5'
   Abstract ID: '180'
   Presenter: Emma Crenshaw
   Talk title: Latent Space Network Modeling with Covariate Selection
@@ -149,8 +93,40 @@ talks:
     our method improves model robustness and accuracy, particularly in the presence
     of non-informative covariates, while maintaining the interpretability and flexibility
     of LS models.'
+  Time: Thu 15:00 - 15:15
 - Session name: Statistical analysis and inference 2
-  Talk Order: '6'
+  Talk Order: '4'
+  Abstract ID: '85'
+  Presenter: Seongmin Kim
+  Talk title: Inference accuracy of loopy belief propagation in Ising and percolation
+    models
+  Abstract: Belief propagation (BP) is a message passing algorithm widely employed
+    to solve inference problems in probabilistic graphical models such as percolation
+    models, Ising spin models, and Bayesian networks. While BP computes marginal probabilities
+    exactly on tree networks, it also provides good approximations in non-tree networks
+    containing cycles, contributing to its versatility. However, the accuracy of BP
+    in non-tree networks varies greatly depending on the network structure, and this
+    dependency has not yet been fully clarified.This research aims to investigate
+    the performance of BP in non-tree network structures, identifying key factors
+    that influence its accuracy. Using bond percolation and Ising model as examples,
+    we measure the errors of BP predictions by comparing them with Monte Carlo simulation
+    results in various real-world networks. We identify two major sources of error
+    in BP.One source of error is the finite size of the system, which becomes significant
+    in small networks. The conventional BP method exhibits sharp changes in the order
+    parameter so that it fails to capture the smooth transitions in small networks.
+    We demonstrate that a simple modification to the BP algorithm can significantly
+    reduce this finite-size error without compromising computational efficiency.The
+    other source of error arises from the discrepancy between the BP equation and
+    the actual non-tree structure. This is the error that remains even after reducing
+    the finite-size error using our modified BP. We show how the quality of BP's approximations
+    relates to different topological properties, such as degree distributions, clustering
+    coefficients, shortest path lengths, and non-backtracking matrix spectra.Our findings
+    provide insights into the relationship between the applicability of BP and the
+    network structures. This understanding may help develop more accurate and efficient
+    BP algorithms for various non-tree networks.
+  Time: Thu 15:15 - 15:30
+- Session name: Statistical analysis and inference 2
+  Talk Order: '5'
   Abstract ID: '288'
   Presenter: Tomas Scagliarini
   Talk title: Assessing the interdependence of climate tipping elements
@@ -174,3 +150,33 @@ talks:
     the baseline becoming more profound in future years under high-emission scenarios,
     thus callingfor a global effort to mitigate the impact of human activities on
     the environment.
+  Time: Thu 15:30 - 15:45
+- Session name: Statistical analysis and inference 2
+  Talk Order: '6'
+  Abstract ID: '448'
+  Presenter: Yuri Antonacci
+  Talk title: Partial Information Decomposition in Networks of Random Processes
+  Abstract: Understanding how information is distributed in network systems composed
+    by multiple interacting nodes is a crucial problem in many scientific fields.
+    Partial information decomposition (PID) constitutes a comprehensive framework
+    decomposing the mutual information (MI) that a target random variable shares with
+    a set of source variables into components highlighting how such an information
+    is distributed among the sources, i.e., the unique information exclusively available
+    from each source, the redundant information that can be obtained from at least
+    two different sources, and the synergistic information that is revealed only when
+    multiple sources are considered simultaneously. Since it has been specifically
+    defined for random variables, applying the PID to multivariate time series representing
+    realizations of a vector random process composed by several source processes and
+    a target process may be confounding. In this case, the PID would decompose the
+    information shared by the processes at the same time, thus implicitly disregarding
+    the temporal statistical structure of the multivariate process. To overcome this
+    issue, in this work we formalize a partial information rate decomposition (PIRD)
+    for networks of stationary random processes exhibiting nontrivial temporal correlations,
+    leveraging the use of entropy rates as basic elements of information decomposition.
+    We show that the presence of temporal correlations has a profound impact on the
+    multivariate information shared at lag zero by multiple random processes. Moreover,
+    exploiting the formalism that connects information rates with linear Gaussian
+    regression models and spectral quantities, we provide a joint time and frequency
+    domain formulation of the PIRD which highlights distinct high-order behaviors
+    of oscillatory rhythms.
+  Time: Thu 15:45 - 16:00

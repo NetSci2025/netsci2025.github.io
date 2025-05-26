@@ -3,22 +3,6 @@ slug: multilayer-networks
 talks:
 - Session name: Multilayer networks
   Talk Order: '1'
-  Abstract ID: '615'
-  Presenter: Abbas K. Rizi
-  Talk title: Homophily Within and Across Groups
-  Abstract: Traditional social network analysis often reduces homophily—the tendency
-    of similar individuals to connect—to a single parameter, neglecting nuanced biases
-    within and across groups. We propose an exponential family model that incorporates
-    both local homophily (strong ties within cliques) and global homophily (weaker
-    ties across communities), using a maximum entropy approach to analyze their effects
-    on network dynamics under percolation. This framework decomposes homophily into
-    finer levels, revealing how these interactions shape the spread of information,
-    diseases, and innovation. Testing on diverse datasets, the model highlights how
-    varying homophily patterns influence percolation thresholds and the effectiveness
-    of interventions, offering valuable insights for public health strategies, social
-    media information flow, and targeted mitigation efforts.
-- Session name: Multilayer networks
-  Talk Order: '2'
   Abstract ID: '145'
   Presenter: Jean-François de Kemmeter
   Talk title: Multigraph reconstruction via nonlinear random walks
@@ -44,8 +28,117 @@ talks:
     of sparsity and topology. This study strengthens the connection between network
     dynamics and topology, offering a novel framework for structural inference in
     multigraphs with limited information.
+  Time: Wed 16:30 - 16:45
+- Session name: Multilayer networks
+  Talk Order: '2'
+  Abstract ID: '187'
+  Presenter: Luis Rocha
+  Talk title: 'Multilayer network inference via redundancy removal: linking the exposome
+    to multiomics in human health'
+  Abstract: 'Due to the widespread digitization of biomedical and behavioral data,
+    there has been a breakthrough in our abil-
+
+    ity to characterize often overlooked exposome factors in disease, such as social
+    interactions, psychological states, and
+
+    behavioral patterns such as medical treatments, drug use, drinking habits and
+    diet. This is particularly important to
+
+    study chronic health conditions which unfold as a complex interplay among biological,
+    psychological, linguistic, and
+
+    societal multiscale factors that change over time and which traditional organism
+    models cannot capture. The recent
+
+    availability of heterogeneous multiomics and unconventional data from electronic
+    health records, social media, and
+
+    digital cohorts, as well as computational and theoretical advances in characterizing
+    multivariate, multilayer complex
+
+    systems, raise the prospect of “digital twins” in precision medicine, whereby
+    the behavior of a cell, sub-system, organ
+
+    or a whole organism can be accurately simulated to predict disease and intervention
+    outcomes [1].
+
+    Towards that goal, in this presentation we will sum-
+
+    marize our multilayer network reduction methodology
+
+    used to uncover multiscale factors in disease (Figure 1).
+
+    In particular, we show that using distance backbones [2]
+
+    and effective graphs [3] to remove redundant edges or in-
+
+    teractions from network models obtained from biochem-
+
+    ical and social data, reveals optimal information trans-
+
+    mission and regulatory pathways. This greatly facili-
+
+    tates explainable inference, which is essential in biomed-
+
+    ical settings. Indeed, by removing large proportions of
+
+    redundant associations and interactions, it is feasible to
+
+    use the remaining ones to directly backtrack to empir-
+
+    ical evidence, i.e. the data items used to characterize
+
+    correlational strength or information about causal dy-
+
+    namics when available. We demonstrate the approach
+
+    with results from papers published or under review in
+
+    the last year: [1,4,5,6,7,8]. Finally, we demonstrate that
+
+    our network reduction approach naturally extends to multilayer networks. This
+    is exemplified with recent studies of
+
+    multi-organism male infertility from protein interaction networks [9] and patient-centered
+    integration and analysis
+
+    of heterogeneous data sources in epilepsy, ranging from social media data to electronic
+    health records [10,11'
+  Time: Wed 16:45 - 17:00
 - Session name: Multilayer networks
   Talk Order: '3'
+  Abstract ID: '401'
+  Presenter: Haily Merritt
+  Talk title: INFORMED INTER-BRAIN COUPLING IMPROVES PREDICTIONS OF MENTAL HEALTH
+    OUTCOMES
+  Abstract: Multilayer networks are an effective tool for studying variability across
+    an ensemble of networks [1-3]. Traditionally, coupling between layers is defined
+    uniformly by a single parameter, but this approach risks mischaracterizing variability
+    that is consequential for brain function. We leverage the richness of the Human
+    Connectome Project dataset, pitting the uniform model against the informed model
+    to predict a suite of outcome measures. For both models, layer l is defined by
+    subject l’s brain network, as indexed by the Pearson correlation of the time series
+    of the 100 region Schaefer parcellation (see Fig 1a). In the uniform model, all-to-all
+    coupling of layers (i.e., inter-brain coupling) is defined traditionally (see
+    Fig 1b). Inter-brain coupling in the informed model is defined by computing the
+    correlation between all subjects across 9 measures of the social environment (see
+    Fig 1c) and using a mixture model that allows us to tune how much social context
+    similarity informs interlayer coupling (see Fig 1d). We use flexibility and community
+    assignments to compare how well these models predict 37 outcome measures. Community
+    structure of the uniform coupling model is dominated by two communities (see Fig
+    1e). The flexibility of nodes across canonical brain systems varies as expected
+    (see Fig 1f). We found moderate to no predictive power of the uniform model on
+    the outcome measures (see Fig 1g). As inter-brain coupling is increasingly informed
+    by social context similarity, we see greater diversity in community assignments
+    (see Fig 1h), a shift in canonical systems’ flexibility (see Fig 1i), and an improvement
+    on some predictions, e.g. mental health (see Fig 1j). Informed inter-brain coupling
+    in a multilayer model provides useful context for understanding variability in
+    brain network organization. This context serves to improve predictions on associations
+    with mental health outcomes, which has consequences for the identification of
+    brain-network based biomarkers.
+  Time: Wed 17:00 - 17:15
+- Session name: Multilayer networks
+  Talk Order: '4'
   Abstract ID: '560'
   Presenter: Abby Leung
   Talk title: Multilayer Network Clustering to Assess Epidemic Model Dependence
@@ -74,37 +167,21 @@ talks:
     tools to isolate independent error, we offer a framework for improving ensemble
     reliability. These insights are essential for enhancing forecast accuracy and
     supporting public health decision-making.
-- Session name: Multilayer networks
-  Talk Order: '4'
-  Abstract ID: '187'
-  Presenter: Luis Rocha
-  Talk title: 'Multilayer network inference via redundancy removal: linking the exposome
-    to multiomics in human health'
-  Abstract: Please see Uploaded PDF.
+  Time: Wed 17:15 - 17:30
 - Session name: Multilayer networks
   Talk Order: '5'
-  Abstract ID: '263'
-  Talk title: Large-Scale and Multi-Layered Analysis of K-Beauty Patents Using LLMs
-  Abstract: 'In this study, we analyze 19,563 patent abstracts, extracting approximately
-    100,000 keywords with the objective of constructing a comprehensive keyword co-occurrence
-    network. The keywords were categorized into seven predefined tags: efficacy, mechanism,
-    ingredient/substance, natural, formulation/product, technique/manufacturing, and
-    characteristics. This enabled a detailed exploration of the technological domains
-    within K-Beauty.This study addresses the aforementioned limitations by employing
-    a multi-layer network analysis, a novel approach that integrates the seven defined
-    tags and thus represents a significant advancement in the field of cosmetic patents.
-    Centrality analysis is the foundation of our methodology, identifying influential
-    keywords that define key technological areas. The degree centrality metric identifies
-    common keywords such as ''conditioner'', ''toner'' and ''cream'' that represent
-    the formulation/product. Betweenness centrality identifies keywords such as ''anti-inflammatory'',
-    ''antioxidant'', ''anti-wrinkle'' and ''whitening'', which are related to efficacy.A
-    temporal analysis of the keyword network also reveals shifts in the focus of innovation,
-    such as the transition from "whitening" to "anti-aging" and the growth of natural
-    ingredients over time. The introduction of a multi-layered tagging framework to
-    large-scale patent analysis provides a unique perspective on the evolution of
-    the K-beauty technology landscape.The findings contribute to both the academic
-    understanding of network science applications and the practical realm of R\&D
-    planning, patent strategy, and technology forecasting. This research establishes
-    a new standard for the utilization of LLMs and multi-layer network analysis in
-    large-scale patent studies, exemplifying their efficacy in elucidating technological
-    trends and innovation pathways within the cosmetics industry.'
+  Abstract ID: '615'
+  Presenter: Abbas K. Rizi
+  Talk title: Homophily Within and Across Groups
+  Abstract: Traditional social network analysis often reduces homophily—the tendency
+    of similar individuals to connect—to a single parameter, neglecting nuanced biases
+    within and across groups. We propose an exponential family model that incorporates
+    both local homophily (strong ties within cliques) and global homophily (weaker
+    ties across communities), using a maximum entropy approach to analyze their effects
+    on network dynamics under percolation. This framework decomposes homophily into
+    finer levels, revealing how these interactions shape the spread of information,
+    diseases, and innovation. Testing on diverse datasets, the model highlights how
+    varying homophily patterns influence percolation thresholds and the effectiveness
+    of interventions, offering valuable insights for public health strategies, social
+    media information flow, and targeted mitigation efforts.
+  Time: Wed 17:30 - 17:45

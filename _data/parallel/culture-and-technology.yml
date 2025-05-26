@@ -3,19 +3,61 @@ slug: culture-and-technology
 talks:
 - Session name: Culture & Technology
   Talk Order: '1'
-  Abstract ID: '422'
-  Presenter: Christopher Blöcker
-  Talk title: Software Package Complexity - Modular Structure vs. Modular Design
-  Abstract: Function calls extracted from static call graphs can be grouped in different
-    ways, for example by using community detection and according to how developers
-    have collected functions, methods, and classes in the source code files. We use
-    the map equation to quantify the complexity of those two different ways of partitioning
-    the static call graphs of software packages. With flow divergence, we measure
-    the excess complexity of the structure in source code files relative to their
-    communities, which can help hint at the need or opportunity of refactoring the
-    codebase.
+  Abstract ID: '57'
+  Presenter: Michele Coscia
+  Talk title: The Economic Complexity of the Roman Empire
+  Abstract: Economic complexity is a key concept allowing us to forecast the growth
+    of a country. Given its relevance for economic development, much attention has
+    been devoted into studying how countries acquire economic complexity. In this
+    work, we take a historic perspective, hypothesizing that complexity from many
+    centuries in the past leaves detectable traces today.We leverage a dataset of
+    500k Latin inscriptions created during the span of the Roman Empire. From these
+    inscriptions, we obtain geolocated data about the occupations in the Roman Empire.
+    We can create a bipartite province-occupation network, after dealing with biases
+    of archaeological data -- gender disparities, occupation status, diversity in
+    research intensity.The data shows the nestedness pattern typical of modern economies
+    -- with complex places including all occupations and basic occupations expressed
+    in every place. We create an Occupation Space, linking occupations if they co-appear
+    significantly in the same places (Fig 1a).We can estimate the economic complexity
+    of the Roman Empire (Fig 1b). Since the empire spanned an area including 36 modern
+    countries, we can correlate present and past complexity. When we do so, we find
+    that ancient complexity is a marginally significant predictor of modern complexity,
+    hinting that the structures of complexity -- whether they are due to geographical
+    location or other exogenous factors -- survive even after millennia of history.
+  Time: Wed 11:00 - 11:15
 - Session name: Culture & Technology
   Talk Order: '2'
+  Abstract ID: '106'
+  Presenter: Dirk Hartung
+  Talk title: Harnessing Higher-Order Networks to Trace the Development of Doctrine
+  Abstract: 'Modeling collections of historical documents as temporal citation networks
+    allows us to investigate a wide range of dynamic phenomena, such as the diffusion
+    of ideas or the formation of concepts. However, if the documents in question cover
+    multiple topics and exhibit rich internal structure, the traditional modeling
+    of documents as nodes and citations as directed edges discards too much relevant
+    context to obtain nuanced insights. Motivated by the desire to understand how
+    courts in different jurisdictions use existing case law to construct and support
+    the legal reasoning communicated in their decisions, we propose to model a collection
+    of documents as a directed temporal hypergraph, where each document is represented
+    both as a node and as a set of directed hyperedges. Here, each hyperedge captures
+    which documents are cited by a given document in the same context — e.g., in the
+    same paragraph or to support the same argument —, and all nodes and hyperedges
+    are associated with timestamps. This allows us to jointly leverage two order structures
+    in our analyses: the partial order of hyperedges by inclusion and the total order
+    of nodes and hyperedges by their timestamps. To this end, we introduce intuitive
+    methods based on doubly temporal posets – i.e., partially ordered sets with temporal
+    information on the sets as well as on the elements of the ground set –, with active
+    posets recording how a document initially connects to an existing corpus, and
+    passive posets recording how the document is subsequently integrated into the
+    corpus. Our definitions allow us, inter alia, to compute refined versions of bibliographic
+    coupling and co-citation that can be generalized to sets of nodes and sets of
+    hyperedges, and to assess the temporal similarity of nodes or hyperedges based
+    on the temporal structure of their active and passive posets. Our models and methods
+    are readily applicable to all citation networks for which information on citation
+    contexts is both relevant and available.'
+  Time: Wed 11:15 - 11:30
+- Session name: Culture & Technology
+  Talk Order: '3'
   Abstract ID: '323'
   Presenter: Haiko Lietz
   Talk title: A day on Twitter is a fractal in socio-cultural space-time
@@ -44,8 +86,66 @@ talks:
     to our conclusion that a day on Twitter is a fractal in socio-cultural space-time,
     and how we think structure and dynamics go hand in hand to form what we can then
     measure.
+  Time: Wed 11:30 - 11:45
 - Session name: Culture & Technology
-  Talk Order: '3'
+  Talk Order: '4'
+  Abstract ID: '142'
+  Presenter: Veronica Mesina
+  Talk title: 'Framing the Narrative: How Italian Authorities Dominated COVID-19 Twitter
+    Debate'
+  Abstract: 'The COVID-19 pandemic was an unprecedented event that redefined societal
+    structures, communication dynamics, and the collective imagination. Within this
+    context, Online Social Platforms played a critical role in shaping pandemic narratives,
+    contributing to an infodemic that amplified public anxiety and sowed confusion.
+    This study explores the temporal relevance and influence of authority figures
+    in Italy''s vaccine-related discourse during the pandemic on Twitter (now X),
+    with a specific focus on pro-/anti-vaccine stances.Analyzing a dataset of over
+    ~50 million tweets, we identified the key actors in the Italian COVID-19 debate,
+    quantifying both their impact and their influence on users'' opinions. We constructed
+    temporal network snapshots and employed closeness centrality to identify key actors.
+    Subsequently, we developed two novel metrics to capture the critical dimensions
+    of an authority''s temporal relevance: the impact score, which measures their
+    ability to induce opinion changes among general users regardless of alignment,
+    and the influence score, which quantifies their success in persuading general
+    users to align with their specific stance.Our results underscore the dynamic role
+    of authority figures in digital public health discourse. While anti-vaccination
+    authorities initially gained more consensus during the early vaccination phases,
+    pro-vaccination authorities became increasingly influential in the latter stage
+    of the vaccination campaign, effectively realigning public opinion towards vaccination.'
+  Time: Wed 11:45 - 12:00
+- Session name: Culture & Technology
+  Talk Order: '5'
+  Abstract ID: '453'
+  Presenter: Marcella Tambuscio
+  Talk title: 'Digitising History: Network Perspectives of a Medieval Court'
+  Abstract: 'Networks offer a powerful lens for historians, allowing them to analyze
+    the complex interplay of individuals, groups, and institutions over time. Our
+    research, part of the "Managing Maximilian" project, uses the network paradigm
+    to explore the multifaceted interactions around Maximilian I (1459–1519), the
+    Habsburg emperor renowned for his strategic and propagandistic skills. In our
+    subproject, Digitising Maximilian, we are building a digital platform that integrates
+    and analyses data from different contexts. The data model, ibased the “factoid
+    approach”, ensures interoperability while accommodating diverse datasets, providing
+    a large knowledge graph in which several types of Entities are connected through
+    Statements. While building the platform, we ran some preliminary temporal network
+    analysis on short texts from the dataset Regesta Imperii XIII. Standard network
+    methods revealed diachronic shifts in relationships, demonstrating the potential
+    of network techniques for prosopographical studies. Building on these insights,
+    we now incorporate more granular datasets from the ManMax project, introducing
+    multiplex networks that capture distinct types of interactions, such as correspondences,
+    payments, or events. This approach mitigates the overrepresentation issues of
+    co-occurrence models by differentiating layers and their interrelations. Early
+    results are promising: the network, though still small, shows emergent structures
+    like a giant component and recurrent patterns of activities, highlighting the
+    intricate mechanisms of influence and collaboration at the emperor’s court. As
+    the database grows, we anticipate identifying large connected components across
+    multiple layers and future plans include inferring hidden elements in the network—such
+    as unrecorded female actors or emergent communities—using for instance graph embeddings.
+    These tools will help uncover latent connections, offering unprecedented insights
+    into the social fabric of Maximilian''s reign.'
+  Time: Wed 12:00 - 12:15
+- Session name: Culture & Technology
+  Talk Order: '6'
   Abstract ID: '459'
   Presenter: Xiangnan Feng
   Talk title: Learning in a Software Task Space
@@ -64,8 +164,9 @@ talks:
     us to define tasks to facilitate an in-depth analysis of work in the software
     industry. Our research provides a powerful and insightful framework to study the
     software industry landscape and the labour market.
+  Time: Wed 12:15 - 12:30
 - Session name: Culture & Technology
-  Talk Order: '4'
+  Talk Order: '7'
   Abstract ID: '496'
   Presenter: Tomomi Kito
   Talk title: 'Technological portfolio strategies: coherence, coreness, and diversification
@@ -95,89 +196,7 @@ talks:
     strategies, helping them effectively expand or concentrate their technological
     focus based on core strengths, resource constraints, competitive dynamics, and
     market conditions.'
-- Session name: Culture & Technology
-  Talk Order: '5'
-  Abstract ID: '453'
-  Presenter: Marcella Tambuscio
-  Talk title: 'Digitising History: Network Perspectives of a Medieval Court'
-  Abstract: 'Networks offer a powerful lens for historians, allowing them to analyze
-    the complex interplay of individuals, groups, and institutions over time.  Our
-    research, part of the "Managing Maximilian" project, uses the network paradigm
-    to explore the multifaceted interactions around Maximilian I (1459–1519), the
-    Habsburg emperor renowned for his strategic and propagandistic skills. In our
-    subproject, Digitising Maximilian, we are building a digital platform that integrates
-    and analyses data from different contexts. The data model, ibased the “factoid
-    approach”, ensures interoperability while accommodating diverse datasets, providing
-    a large knowledge graph in which several types of Entities are connected through
-    Statements. While building the platform, we ran some preliminary temporal network
-    analysis on short texts from the dataset Regesta Imperii XIII. Standard network
-    methods revealed diachronic shifts in relationships, demonstrating the potential
-    of network techniques for prosopographical studies. Building on these insights,
-    we now incorporate more granular datasets from the ManMax project, introducing
-    multiplex networks that capture distinct types of interactions, such as correspondences,
-    payments, or events. This approach mitigates the overrepresentation issues of
-    co-occurrence models by differentiating layers and their interrelations. Early
-    results are promising: the network, though still small, shows emergent structures
-    like a giant component and recurrent patterns of activities, highlighting the
-    intricate mechanisms of influence and collaboration at the emperor’s court. As
-    the database grows, we anticipate identifying large connected components across
-    multiple layers and future plans include inferring hidden elements in the network—such
-    as unrecorded female actors or emergent communities—using for instance graph embeddings.
-    These tools will help uncover latent connections, offering unprecedented insights
-    into the social fabric of Maximilian''s reign.'
-- Session name: Culture & Technology
-  Talk Order: '6'
-  Abstract ID: '57'
-  Presenter: Michele Coscia
-  Talk title: The Economic Complexity of the Roman Empire
-  Abstract: Economic complexity is a key concept allowing us to forecast the growth
-    of a country. Given its relevance for economic development, much attention has
-    been devoted into studying how countries acquire economic complexity. In this
-    work, we take a historic perspective, hypothesizing that complexity from many
-    centuries in the past leaves detectable traces today.We leverage a dataset of
-    500k Latin inscriptions created during the span of the Roman Empire. From these
-    inscriptions, we obtain geolocated data about the occupations in the Roman Empire.
-    We can create a bipartite province-occupation network, after dealing with biases
-    of archaeological data -- gender disparities, occupation status, diversity in
-    research intensity.The data shows the nestedness pattern typical of modern economies
-    -- with complex places including all occupations and basic occupations expressed
-    in every place. We create an Occupation Space, linking occupations if they co-appear
-    significantly in the same places (Fig 1a).We can estimate the economic complexity
-    of the Roman Empire (Fig 1b). Since the empire spanned an area including 36 modern
-    countries, we can correlate present and past complexity. When we do so, we find
-    that ancient complexity is a marginally significant predictor of modern complexity,
-    hinting that the structures of complexity -- whether they are due to geographical
-    location or other exogenous factors -- survive even after millennia of history.
-- Session name: Culture & Technology
-  Talk Order: '7'
-  Abstract ID: '106'
-  Presenter: Dirk Hartung
-  Talk title: Harnessing Higher-Order Networks to Trace the Development of Doctrine
-  Abstract: 'Modeling collections of historical documents as temporal citation networks
-    allows us to investigate a wide range of dynamic phenomena, such as the diffusion
-    of ideas or the formation of concepts. However, if the documents in question cover
-    multiple topics and exhibit rich internal structure, the traditional modeling
-    of documents as nodes and citations as directed edges discards too much relevant
-    context to obtain nuanced insights. Motivated by the desire to understand how
-    courts in different jurisdictions use existing case law to construct and support
-    the legal reasoning communicated in their decisions, we propose to model a collection
-    of documents as a directed temporal hypergraph, where each document is represented
-    both as a node and as a set of directed hyperedges. Here, each hyperedge captures
-    which documents are cited by a given document in the same context — e.g., in the
-    same paragraph or to support the same argument —, and all nodes and hyperedges
-    are associated with timestamps. This allows us to jointly leverage two order structures
-    in our analyses: the partial order of hyperedges by inclusion and the total order
-    of nodes and hyperedges by their timestamps. To this end, we introduce intuitive
-    methods based on doubly temporal posets – i.e., partially ordered sets with temporal
-    information on the sets as well as on the elements of the ground set –, with active
-    posets recording how a document initially connects to an existing corpus, and
-    passive posets recording how the document is subsequently integrated into the
-    corpus. Our definitions allow us, inter alia, to compute refined versions of bibliographic
-    coupling and co-citation that can be generalized to sets of nodes and sets of
-    hyperedges, and to assess the temporal similarity of nodes or hyperedges based
-    on the temporal structure of their active and passive posets. Our models and methods
-    are readily applicable to all citation networks for which information on citation
-    contexts is both relevant and available.'
+  Time: Wed 12:30 - 12:45
 - Session name: Culture & Technology
   Talk Order: '8'
   Abstract ID: '565'
@@ -208,3 +227,4 @@ talks:
     In particular, the structures revealed in the global sections are more general
     than paths, introducing new questions about what routing should look like on these
     structures.
+  Time: Wed 12:45 - 13:00

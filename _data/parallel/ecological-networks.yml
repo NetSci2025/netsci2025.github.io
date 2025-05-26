@@ -3,6 +3,92 @@ slug: ecological-networks
 talks:
 - Session name: Ecological networks
   Talk Order: '1'
+  Abstract ID: '18'
+  Presenter: Doina Bucur
+  Talk title: Microbial co-occurrence networks in soil ecology do not model functional
+    links
+  Abstract: 'Ecological networks model species-to-species interactions, and are intended
+    to be predictive models for an ecosystem. We infer ecological networks from observational
+    data, and often assume precision and recall, i.e., that (1) a network link reflects
+    a true pairwise functional relationship between species, and (2) all true relationship
+    are modelled as links. Unfortunately, for ecosystems such as the soil, where the
+    species are both numerous and microscopic, functional information is rare because
+    the individual interactions cannot be observed in the field. Instead, spatial
+    co-occurrence networks are inferred from sampling data. We ask the question: how
+    accurate are these spatial co-occurrence networks of microorganisms, as inferred
+    with current soil-sampling methods? No prior result on this question is available
+    in soil ecology.Method. An agent-based model with biologically realistic behaviour
+    and parametrisation simulates a plot of land, with true trophic links between
+    species. We observe the spatial co-occurrence that these trophic links naturally
+    produce in space (with or without an equilibrium state, step 2). We also simulate
+    the taking of samples from this spatial distribution of species. Finally, we evaluate
+    the accuracy of the co-occurrence network inferred from samples, against the true
+    co-occurrence of the plot.Results. We find that biological properties other than
+    the interactions, such as species diversity, can be estimated with relatively
+    low error with sample pooling. On the other hand, the inference of the co-occurrence
+    network is poor. We see high errors of the pairwise link weights, with mean errors
+    around 0.5 and very large standard deviations between experiments. The co-occurrence
+    network inferred is thus both inaccurate and unstable (explaining the large differences
+    seen among algorithms for co-occurrence inference), and this is intuitively explainable
+    in spatial terms.'
+  Time: Thu 11:00 - 11:15
+- Session name: Ecological networks
+  Talk Order: '2'
+  Abstract ID: '102'
+  Presenter: Johannes Nauta
+  Talk title: Species abundance distributions predict maintenance of mobile genetic
+    elements in microbial systems
+  Abstract: Mobile genetic elements appear in nearly all microbial systems and affect
+    ecological processes and, subsequently, macroscopic quantities such as system
+    stability and composition. However, little is known about how the spread of these
+    elements through horizontal gene transfer is affected by ecological processes,
+    or how this spread affects population dynamics. We discuss a model that allows
+    one to leverage techniques from epidemiology to predict whether mobile genetic
+    elements are maintained. Our results show that maintenance depends on the species
+    abundance distribution, thus advancing our understanding of the connection between
+    ecological and epidemiological processes.
+  Time: Thu 11:15 - 11:30
+- Session name: Ecological networks
+  Talk Order: '3'
+  Abstract ID: '233'
+  Presenter: Heetae Kim
+  Talk title: How did the energy transfer network of green plants help them evolve?
+  Abstract: In green plants, there exist two diﬀerent types of chlorophylls, chlorophyll-a
+    and chlorophyll-b, in light-harvesting proteins. Although the characteristics
+    of individual chlorophyll are well understood, the advantages of their coexistence
+    yet to be understood. In this study, we simulate excitation energy transfer within
+    the entire photosystem II supercomplex by employing network analysis integrated
+    with quantum dynamic calculations. We consider the energy transfer process as
+    a Markov process and numerically trace the energy ﬂow during photosynthesis. The
+    result shows that the natural chlorophyll composition allows the excited energy
+    to preferentially ﬂow through speciﬁc domains that act as safety valves, preventing
+    downstream overﬂow. We also investigate the inﬂuence of the proportion between
+    chlorophyll-a and chlorophyll-b on the photosystem by comparing various chlorophyll
+    compositions. Our ﬁndings suggest that the light-harvesting proteins in a photosystem
+    II supercomplex achieve evolutionary advantages with the natural chlorophyll-a/b
+    ratio, capturing light energy eﬃciently and safely across various light intensities.
+    Through this study, we propose a novel method to investigate the photosystem with
+    which one can better understand how green plants harvest light energy and adapt
+    to changing environmental conditions.
+  Time: Thu 11:30 - 11:45
+- Session name: Ecological networks
+  Talk Order: '4'
+  Abstract ID: '236'
+  Presenter: Riccardo Sbarbati
+  Talk title: Competition between pathogenic elements using a pathogen-centric framework
+  Abstract: Natural ecosystems exhibit remarkable diversity and stability, yet the
+    underlying mechanisms remain unclear. Pathogens, often overlooked in ecological
+    models, play a crucial role in maintaining these dynamics. Focusing on microbial
+    systems—characterised by large pathogen diversity—we address the challenges of
+    scaling models to accommodate large, complex infection networks. Employing a pathogen-centric
+    framework, we investigate how pathogen traits and competition for limited hosts
+    influence maintenance and, consequently, their ecological impact. These findings
+    offer insights into the interplay between ecological and epidemiological processes,
+    providing a foundation for future studies on pathogen-driven stability and community
+    composition.
+  Time: Thu 11:45 - 12:00
+- Session name: Ecological networks
+  Talk Order: '5'
   Abstract ID: '273'
   Presenter: Luca Allegri
   Talk title: Extinctions in microbiomes are driven by carrying capacities and interaction
@@ -23,8 +109,36 @@ talks:
     the interaction network density on species abundances and extinction rates. This
     work, which is currently in preparation, highlights the influence of the distribution
     of carrying capacities and the interaction network on community composition.
+  Time: Thu 12:00 - 12:15
 - Session name: Ecological networks
-  Talk Order: '2'
+  Talk Order: '6'
+  Abstract ID: '495'
+  Presenter: Aleksandra Puchalska
+  Talk title: Pangraphs as models of higher-order interactions
+  Abstract: Graphs have long served as effective models for pairwise interactions,
+    providing insights into fundamental properties of trophic and mutualistic networks.
+    However, it is now recognized that non-pairwise (higher-order) interactions significantly
+    influence the stability of underlying dynamical systems. Hypergraphs, where edges
+    can connect arbitrary subsets of vertices, have been proposed as models capable
+    of incorporating such interactions. Yet, their application to interaction modifications
+    often obscures the roles of individual vertices and amplifies centrality measures.In
+    this work, we present an extension of the hypergraph concept that more consistently
+    represents complex higher-order interactions, including the modification of information.
+    We introduce the concept of a pangraph, as an extension of the ubergraph [2] into
+    directed graphs, which allows edges to start and/or end at other edges at arbitrary
+    levels of nesting. In this talk, we will explore the properties of pangraphs,
+    their relationship to classical directed graphs through the Levi representation,
+    and propose centrality measures for these structures. Additionally, we will discuss
+    potential methods for extending the pangraph concept to metric graphs dynamics.Finally,
+    we demonstrate two compelling applications of pangraphs. The first applies the
+    pangraph framework to structures the theory of Petri nets with catalysts. The
+    second challenges the hypothesis about the importance of interaction modifications
+    presented in [1]. Using a real-world coffee ecosystem database, we show that the
+    results in [1] can be interpreted as the amplification of centrality measures
+    in the hypergraph approach.
+  Time: Thu 12:15 - 12:30
+- Session name: Ecological networks
+  Talk Order: '7'
   Abstract ID: '566'
   Presenter: William Ou
   Talk title: Assortative dispersal facilitates the maintenance of alternative stable
@@ -54,73 +168,7 @@ talks:
     results are robust against variation in the strengths of interspecific interaction,
     disturbance rates, and dispersal costs. We discuss our results in the context
     of niche theory.
-- Session name: Ecological networks
-  Talk Order: '3'
-  Abstract ID: '104'
-  Presenter: Johannes Nauta
-  Talk title: Topological conditions drive stability in meta-ecosystems
-  Abstract: 'On a global level, ecological communities are being perturbed at an unprecedented
-    rate. Yet, we understand little about what factors facilitate or impede their
-    long-term persistence. Within this context there has been a severe lack of studies
-    that consider spatial features explicitly, even though nearly all habitats are
-    spatially embedded. To this end, we study here the linear stability of meta-ecosystems
-    on networks that describe how discrete patches are connected by dispersal between
-    them. By combining results from random-matrix theory and network theory, we show
-    that there are three distinct features that underlie stability: edge density,
-    tendency to triadic closure, and isolation or fragmentation. Our work thus indicates
-    that connections between patches are just as important, if not more so, to consider
-    when studying the stability of large ecological systems.'
-- Session name: Ecological networks
-  Talk Order: '4'
-  Abstract ID: '18'
-  Presenter: Doina Bucur
-  Talk title: Microbial co-occurrence networks in soil ecology do not model functional
-    links
-  Abstract: 'Ecological networks model species-to-species interactions, and are intended
-    to be predictive models for an ecosystem. We infer ecological networks from observational
-    data, and often assume precision and recall, i.e., that (1) a network link reflects
-    a true pairwise functional relationship between species, and (2) all true relationship
-    are modelled as links. Unfortunately, for ecosystems such as the soil, where the
-    species are both numerous and microscopic, functional information is rare because
-    the individual interactions cannot be observed in the field. Instead, spatial
-    co-occurrence networks are inferred from sampling data. We ask the question: how
-    accurate are these spatial co-occurrence networks of microorganisms, as inferred
-    with current soil-sampling methods? No prior result on this question is available
-    in soil ecology.Method. An agent-based model with biologically realistic behaviour
-    and parametrisation simulates a plot of land, with true trophic links between
-    species. We observe the spatial co-occurrence that these trophic links naturally
-    produce in space (with or without an equilibrium state, step 2). We also simulate
-    the taking of samples from this spatial distribution of species. Finally, we evaluate  the
-    accuracy of the co-occurrence network inferred from samples, against the true
-    co-occurrence of the plot.Results. We find that biological properties other than
-    the interactions, such as species diversity, can be estimated with relatively
-    low error with sample pooling. On the other hand, the inference of the co-occurrence
-    network is poor. We see high errors of the pairwise link weights, with mean errors
-    around 0.5 and very large standard deviations between experiments. The co-occurrence
-    network inferred is thus both inaccurate and unstable (explaining the large differences
-    seen among algorithms for co-occurrence inference), and this is intuitively explainable
-    in spatial terms.'
-- Session name: Ecological networks
-  Talk Order: '6'
-  Abstract ID: '233'
-  Talk title: How did the energy transfer network of green plants help them evolve?
-  Abstract: In green plants, there exist two diﬀerent types of chlorophylls, chlorophyll-a
-    and chlorophyll-b, in light-harvesting proteins. Although the characteristics
-    of individual chlorophyll are well understood, the advantages of their coexistence
-    yet to be understood. In this study, we simulate excitation energy transfer within
-    the entire photosystem II supercomplex by employing network analysis integrated
-    with quantum dynamic calculations. We consider the energy transfer process as
-    a Markov process and numerically trace the energy ﬂow during photosynthesis. The
-    result shows that the natural chlorophyll composition allows the excited energy
-    to preferentially ﬂow through speciﬁc domains that act as safety valves, preventing
-    downstream overﬂow. We also investigate the inﬂuence of the proportion between
-    chlorophyll-a and chlorophyll-b on the photosystem by comparing various chlorophyll
-    compositions. Our ﬁndings suggest that the light-harvesting proteins in a photosystem
-    II supercomplex achieve evolutionary advantages with the natural chlorophyll-a/b
-    ratio, capturing light energy eﬃciently and safely across various light intensities.
-    Through this study, we propose a novel method to investigate the photosystem with
-    which one can better understand how green plants harvest light energy and adapt
-    to changing environmental conditions.
+  Time: Thu 12:30 - 12:45
 - Session name: Ecological networks
   Talk Order: '8'
   Abstract ID: '582'
@@ -143,3 +191,4 @@ talks:
     results we then discuss more broadly under which conditions functional motifs
     exist. Perhaps more importantly we show that functional motifs that have implications
     other than asymptotic instability are common in networks from applications.
+  Time: Thu 12:45 - 13:00
