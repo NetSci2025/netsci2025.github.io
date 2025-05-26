@@ -1,29 +1,29 @@
 session: Friday Posters
 slug: friday-posters
 talks:
-- Session name: Friday Lightnings
+- Poster board: '1'
   Paper ID: '224'
-  Presenter:  
+  Presenter: ' '
   Talk title: Percolation of interlayer feature-correlated multiplex networks
   Authors: Yuan Liang (National University of Defense Technology)*; Mingze Qi (National
     University of Defense Technology); Pengqizi Huang (National university of defense
     technology); Xiaojun Duan (National university of defense technology)
-- Session name: Friday Lightnings
+- Poster board: '2'
   Paper ID: '101'
-  Presenter:  
+  Presenter: ' '
   Talk title: Zero-shot forecasting of chaotic systems
   Authors: Yuanzhao Zhang (Santa Fe Institute)*; William Gilpin (UT Austin)
-- Session name: Friday Lightnings
+- Poster board: '3'
   Paper ID: '239'
-  Presenter:  
+  Presenter: ' '
   Talk title: Exponential Random Graphs highlight impaired brain connectivity
   Authors: Nicola Amoroso (Bari University)*; Marianna Larocca (Bari University);
     Emanuele Corrado Amato (Bari University); Sabina Tangaro (Bari University); Alfonso
     Monaco (Bari University); Saverio Pascazio (Bari University); Roberto Bellotti
     (Bari University)
-- Session name: Friday Lightnings
+- Poster board: '4'
   Paper ID: '244'
-  Presenter:  
+  Presenter: ' '
   Talk title: Perfect Synchronization of Complex Networks in Presence of Higher-Order
     Interactions
   Authors: SANGITA DUTTA (NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR)*; Prosenjit Kundu
@@ -32,33 +32,28 @@ talks:
     of New York, Buffalo); Chittaranjan Hens (International Institute of Informational
     Technology, Gachibowli, Hyderabad); Pinaki Pal (National Institute of Technology,
     Durgapur )
-- Session name: Friday Lightnings
+- Poster board: '5'
   Paper ID: '83'
-  Presenter:  
+  Presenter: ' '
   Talk title: Evolutive sandpiles
   Authors: Juan Pablo Serrano (Cinvestav)*; Carlos Alfaro (Banco de México); Ralihe
     Villagrán (Worcester Polytechnic Institute)
-- Session name: Friday Lightnings
+- Poster board: '6'
   Paper ID: '225'
-  Presenter: 
+  Presenter: ' '
   Talk title: Community-based stance detection
   Authors: Emanuele Brugnoli (Sony CSL - Rome)*; Donald Ruggiero Lo Sardo (Sony CSL
     - Rome)
-- Session name: Friday Lightnings
+- Poster board: '7'
   Paper ID: '110'
-  Presenter:  
+  Presenter: ' '
   Talk title: If Vanilla Is Enough, Why Do We Need Chocolate and Strawberry? A Neapolitan
     Approach to Artificial Neural Networks
   Authors: Mario Franco (Binghamton University)*; Sadamori Kojaku (Binghamton University);
     Carlos Gershenson (Binghamton University)
-- Session name: Friday Lightnings
-  Paper ID: '263'
-  Presenter:  
-  Talk title: Large-Scale and Multi-Layered Analysis of K-Beauty Patents Using LLMs
-  Authors: Young Jin Kim (KISTI)*; Jungwoo Lee (KISTI); Eunsoo Sohn (KISTI)
-- Session name: Friday Lightnings
+- Poster board: '8'
   Paper ID: '338'
-  Presenter:  
+  Presenter: ' '
   Talk title: Interpretable Machine Learning and Complex Network Analysis for characterizing
     seizure onset in traumatic brain injury patients
   Authors: Emanuele Amato (Univeristy of Bari "A.Moro", Department of Physics)*; Marianna
@@ -70,88 +65,59 @@ talks:
     Neuroimaging and Informatics Institute Keck School of Medicine University of Southern
     California, Los Angeles, CA, USA); Roberto Bellotti (University of Bari "A.Moro",
     Department of Physics)
-- Session name: Friday Lightnings
+- Poster board: '9'
   Paper ID: '205'
-  Presenter:  
+  Presenter: ' '
   Talk title: Network perspective on the evolution and integration of the hippocampus
     representation
   Authors: Giulia Lorenzini (University of Turin)*; Giuseppe Gava (university of oxford);
     Nicola Pedreschi (university of Oxford); Pavel Perestenko (University of Oxford);
     Renaud Lambiotte (University of Oxford); Giovanni Petri (centai institute)
-- Session name: Friday Lightnings
+- Poster board: '10'
   Paper ID: '339'
-  Presenter:  
+  Presenter: ' '
   Talk title: Dynamic Network Analysis for Alzheimer’s Disease Using FAST Functional
     Connectivity
   Authors: Om Roy (University of Strathclyde)*; Yashar Moshfeghi (University of Strathclyde);
     Keith Smith (Unviersity of Strathclyde); Francisco Lopera (University of Antioquia);
     Agustin Ibanez (Trinity College Dublin); Mario Parra (University of Strathclyde)
-- Session name: Friday Lightnings
-  Paper ID: '48'
-  Presenter: 
-  Talk title: A taxonomy of multiple stable states in complex ecological communities
-  Authors: Guim Aguadé-Gorgorió (ISEM)*; Jean-­François Arnoldi (Centre for Biodiversity
-    Theory and Modelling, Theoretical and Experimental Ecology Station, CNRS and Paul
-    Sabatier University); Matthieu Barbier (PHIM Plant Health Institute, University
-    of Montpellier, CIRAD, INRAE, Institut Agro, IRD); Sonia Kéfi (ISEM, Univ Montpellier,
-    CNRS, IRD, Montpellier, France and Santa Fe Institute)
-- Session name: Friday Lightnings
-  Paper ID: '233'
-  Presenter: 
-  Talk title: How did the energy transfer network of green plants help them evolve?
-  Authors: Heetae Kim (Korea Institute of Energy Technology)*
-- Session name: Friday Lightnings
+- Poster board: '11'
   Paper ID: '260'
-  Presenter:  
+  Presenter: ' '
   Talk title: Bringing the action to social-ecological networks can upend our understanding
     of cultural-ecological relationships
   Authors: Katherine Wootton (University of Canterbury)*; Clive Stone (Ngātiwai Rūnanga);
     Puke Timoti (Manaaki Whenua Landcare Research); Jason Tylianakis (University of
     Canterbury); Phil Lyver (Manaaki Whenua Landcare Research)
-- Session name: Friday Lightnings
-  Paper ID: '102'
-  Presenter:  
-  Talk title: Species abundance distributions predict maintenance of mobile genetic
-    elements in microbial systems
-  Authors: Johannes Nauta (University of Padova)*; Manlio De Domenico (University
-    of Padova)
-- Session name: Friday Lightnings
-  Paper ID: '199'
-  Presenter:  
-  Talk title: Optimal Transport to understand sub-optimality in mutualistic networks
-  Authors: Lorenzo Buffa (University of Rome Tor Vergata)*; Giulio Cimini (University
-    of Rome Tor Vergata); Aurelio Patelli (Enrico Fermi Research Center); Dario Mazzilli
-    (Enrico Fermi Research Center); Fabio Saracco (Enrico Fermi Research Center);
-    Riccardo Piombo (Enrico Fermi Research Center)
-- Session name: Friday Lightnings
+- Poster board: '12'
   Paper ID: '362'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'Dynamical modelling of gene regulatory networks from heterogeneous
     datasets: one model fits all?'
   Authors: Malvina Marku (INSERM, Cancer Research Center of Toulouse)*
-- Session name: Friday Lightnings
+- Poster board: '13'
   Paper ID: '308'
-  Presenter:  
+  Presenter: ' '
   Talk title: Network-Driven Vaccination Strategies for Preventing Rebound Dynamics
     in Metapopulation Epidemic Control
   Authors: Piergiorgio Castioni (Universitat Rovira i Virgili)*; Alex Arenas (Universitat
     Rovira i Virgili)
-- Session name: Friday Lightnings
+- Poster board: '14'
   Paper ID: '476'
-  Presenter:  
+  Presenter: ' '
   Talk title: Higher-order interactions in symptom networks
   Authors: Eric Dignum (University of Amsterdam)*; Cillian Hourican (University of
     Amsterdam); Rick Quax (University of Amsterdam); Debraj Roy (University of Amsterdam)
-- Session name: Friday Lightnings
+- Poster board: '15'
   Paper ID: '406'
-  Presenter: 
+  Presenter: ' '
   Talk title: 'Interactions Between Physical Activity, Sedentary Behaviour, Sleep,
     and Motor Skills in Brazilian Toddlers: A Network Analysis Approach'
   Authors: Jessica Mota (IFPB)*; Rafael Tassitano (University of Illinois at Urbana-Champaign);
     Maria Pessoa (University of Paraiba); Clarice Martins (University of Porto)
-- Session name: Friday Lightnings
+- Poster board: '16'
   Paper ID: '494'
-  Presenter:  
+  Presenter: ' '
   Talk title: Modeling the effect of targeted interventions on the spread of Hepatitis
     C through a network of people who inject drugs in Kenya
   Authors: Ewan Colman (University of Bristol)*; Josephine Walker (University of Bristol);
@@ -159,339 +125,293 @@ talks:
     College of Medicine); Lindsey Riback (Albert Einstein College of Medicine); Peter
     Vickerman (University of Bristol); Jack Stone (University of Bristol); Matthew
     Akiyama (Albert Einstein College of Medicine)
-- Session name: Friday Lightnings
-  Paper ID: '353'
-  Presenter:  
-  Talk title: 'Exploring Diabetics'' Online Food Product Space: A Weighted Bipartite
-    Network Approach'
-  Authors: Zhen Zhu (University of Kent)*
-- Session name: Friday Lightnings
+- Poster board: '17'
   Paper ID: '433'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'Toxic Timing: Understanding Polarization in Digital Interactions'
   Authors: Donald Ruggiero Lo Sardo (SONY CSL)*
-- Session name: Friday Lightnings
+- Poster board: '18'
   Paper ID: '427'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'Explaining comment thread popularity on Reddit: Structural, temporal
     and textual features'
   Authors: Wang Ngai Yeung (Network Science Institute, Northeastern University)*;
     Andrew Nicholas Withers Hone (School of Mathematics, Statistics & Actuarial Science,
     University of Kent); Renaud Lambiotte (Mathematical Institute, University of Oxford);
     Riccardo Di Clemente (Network Science Institute, Northeastern University)
-- Session name: Friday Lightnings
+- Poster board: '19'
   Paper ID: '609'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'Navigating Multidimensional Ideologies with Reddit’s Political Compass:
     Economic Conflict and Social Affinity'
   Authors: Ernesto Colacrai (CENTAI); Federico Cinus (CENTAI); Gianmarco De Francisci
     Morales (CENTAI); Michele Starnini (CENTAI)*
-- Session name: Friday Lightnings
+- Poster board: '20'
   Paper ID: '340'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'Sociodemographic Dimensions of Echo Chambers: Network Analysis of Information
     Sharing on Twitter/X"'
   Authors: Burak Ozturan (Network Science Institute, Northeastern University )*; David
     Lazer (Northeastern University )
-- Session name: Friday Lightnings
+- Poster board: '21'
   Paper ID: '60'
-  Presenter:  
+  Presenter: ' '
   Talk title: Network Effects on Spatially Separated Users in Yelp
   Authors: Shailja Singh (Shiv Nadar University); Satyam Mukherjee (Shiv Nadar University)*
-- Session name: Friday Lightnings
+- Poster board: '22'
   Paper ID: '61'
-  Presenter:  
+  Presenter: ' '
   Talk title: The Evolution and Formation of Indian Political Debate Networks
   Authors: Satyam Mukherjee (Shiv Nadar University)*
-- Session name: Friday Lightnings
-  Paper ID: '39'
-  Presenter:  
-  Talk title: 'Echoes of the Hidden: Modelling Community-Driven Bursty Dynamics'
-  Authors: Shahar Somin (MIT)*; Alex Pentland (MIT); Tom Cohen (MIT); Jeremy Kepner
-    (MIT Lincoln Labs)
-- Session name: Friday Lightnings
-  Paper ID: '178'
-  Presenter:  
-  Talk title: The Costs of Polarization on Online Social Discourse
-  Authors: Alessandro Bellina (Centro Ricerche Enrico Fermi)*; Ruggiero Lo Sardo (Sony
-    CSL); Vittorio Loreto (Sony CSL); Fabio Saracco (Centro Ricerche Enrico Fermi);
-    Pietro Gravino (Sony CSL); Gabriele Di Bona (CNRS); Emanuele Brugnoli (Sony CSL)
-- Session name: Friday Lightnings
+- Poster board: '23'
   Paper ID: '396'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'From segregation to conflict: identifying active and passive polarisation'
   Authors: Pietro Gravino (Sony CSL - Paris)*; Fabrizio Boncoraglio (Sony CSL - Paris);
     Giulio Prevedello (Sony CSL - Paris); Emanuele Brugnoli (Sony CSL - Rome)
-- Session name: Friday Lightnings
-  Paper ID: '319'
-  Presenter:  
-  Talk title: Opinion transition model
-  Authors: Lock Yue Chew (Nanyang Technological University)*; Ning Ning Chung (Singapore
-    University of Social Sciences)
-- Session name: Friday Lightnings
+- Poster board: '24'
   Paper ID: '331'
-  Presenter:  
+  Presenter: ' '
   Talk title: Emergence of scaling and organization in the microblogging platform
     BlueSky
   Authors: Tommaso Bertola (Department of Physics and Astronomy, University of Padua)*;
     Tiago Peixoto (Inverse Complexity Lab, IT:U Interdisciplinary Transformation University
     Austria); Manlio De Domenico (Department of Physics and Astronomy, University
     of Padua)
-- Session name: Friday Lightnings
-  Paper ID: '157'
-  Presenter:  
-  Talk title: Information Diffusion Backbone of Temporal Higher-order Networks
-  Authors: Shilun Zhang (Delft University of Technology); Alberto Ceria (Leiden University);
-    Huijuan Wang (Delft University of Technology)*
-- Session name: Friday Lightnings
+- Poster board: '25'
   Paper ID: '141'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'Leveraging Knowledge Networks: Rethinking Technological Value Distribution
     in mRNA Vaccine Innovations'
   Authors: Rossana Mastrandrea (University of Turin)*; Fabio Montobbio (Catholic University,Milan);
     Gabriele Pellegrino (Catholic University, Milan); Massimo Riccaboni (IMT School
     for Advanced Studies, Lucca); Valerio Sterzi (Bordeaux University,CNRS)
-- Session name: Friday Lightnings
+- Poster board: '26'
   Paper ID: '367'
-  Presenter:  
+  Presenter: ' '
   Talk title: Quantifying Diversity, Equity and Inclusion (DEI) in Scientific Recognition
   Authors: Ching Jin (University of Warwick )*; Diego Fregolente (University of North
     Dakota); Brian Uzzi (Northwestern University)
-- Session name: Friday Lightnings
+- Poster board: '27'
   Paper ID: '548'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'Unraveling two decades of shell company operations in Mexican procurement
     (2002-2022): a networks approach to data-based anti-corruption policy'
   Authors: José Roberto Nicolás-Carlock (National Autonomous University of Mexico)*;
     Ricardo Morales-Martínez (UAM); Alfredo Andrés López-Rivas (UNAM); Issa Luna-Pla
     (UNAM)
-- Session name: Friday Lightnings
-  Paper ID: '441'
-  Presenter:  
-  Talk title: Analyzing the Dynamics of International Collaboration Networks
-  Authors: Hyewon Kim (Korea Institute of Science and Technology Information)*; Sung
-    Wha Hong (Korea Institute of Science and Technology Information)
-- Session name: Friday Lightnings
+- Poster board: '28'
   Paper ID: '100'
-  Presenter:  
+  Presenter: ' '
   Talk title: Mapping of the global semiconductor supply chain - collaboration inter-firm
     network
   Authors: Elma Dervic (CSH Vienna)*; Georg Heiler (CSH Vienna); Hernan Picatto (ASCII);
     Seyda Koese (CSH Vienna); Peter Klimek (ASCII / CSH Vienna)
-- Session name: Friday Lightnings
+- Poster board: '29'
   Paper ID: '86'
-  Presenter:  
+  Presenter: ' '
   Talk title: Optimal promotions on networks
   Authors: Amit Golan (Tel Aviv University)*; Gadi Fibich (Tel Aviv University)
-- Session name: Friday Lightnings
+- Poster board: '30'
   Paper ID: '189'
-  Presenter:  
+  Presenter: ' '
   Talk title: The evolution of global gold and copper trade networks
   Authors: Oleksandr Hulianskyi (Cambridge Centre for International Research)*
-- Session name: Friday Lightnings
+- Poster board: '31'
   Paper ID: '245'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'Resilience and Competitiveness in the Electric Vehicle Industry: A
     Global Corporate Network Analysis'
   Authors: Zsofia Baruwa (University of Kent); Haiyue Yuan (University of Kent); Shujun
     Li (University of Kent); Zhen Zhu (University of Kent)*
-- Session name: Friday Lightnings
+- Poster board: '32'
   Paper ID: '504'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'Trade relationships and IGO ties: a complex network perspective'
   Authors: Michael McCall (Syracuse University)*
-- Session name: Friday Lightnings
+- Poster board: '33'
   Paper ID: '227'
-  Presenter:  
+  Presenter: ' '
   Talk title: Urban Spatial Network Segmentation with Continuous-Time Quantum Walks
   Authors: Jianjia Wang (Xi'an Jiaotong-Liverpool University)*; Zhen Hua (Xi'an Jiaotong-Liverpool
     University); Haoran Zhu ( Xi'an Jiaotong-Liverpool University); Yutong Jiang (Shanghai
     University)
-- Session name: Friday Lightnings
+- Poster board: '34'
   Paper ID: '436'
-  Presenter:  
+  Presenter: ' '
   Talk title: Understanding mobility with recurrence plots
   Authors: Alexander Schmaus (Potsdam Institute for Climate Impact Research)*; Nora
     Molkenthin (Potsdam Institute for Climate Impact Research)
-- Session name: Friday Lightnings
+- Poster board: '35'
   Paper ID: '595'
-  Presenter:  
+  Presenter: ' '
   Talk title: Mobility patterns reveal a "doughnut effect" for activity in large American
     cities
   Authors: Andrew Renninger (University College London)*; Neave O'Clery (University
     College London)
-- Session name: Friday Lightnings
+- Poster board: '36'
   Paper ID: '258'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'Causal Inference in the City: Evaluation of Policy Interventions''
     Impact using Mobility Networks'
   Authors: Bijin Joseph (Northeastern University)*; Hamish Gibbs (Northeastern University);
     Takahiro Yabe (NYU); Esteban Moro (Northeastern University)
-- Session name: Friday Lightnings
+- Poster board: '37'
   Paper ID: '497'
-  Presenter:  
+  Presenter: ' '
   Talk title: Where is my 15-minute city? Developing and applying methods to understand
     neighbourhoods and local liveability
   Authors: Ivann Schlosser (University college London)*; Philyoung Jeong (UCL)
-- Session name: Friday Lightnings
+- Poster board: '38'
   Paper ID: '487'
-  Presenter:  
+  Presenter: ' '
   Talk title: 'A Microscope on AI Adoption: Insights from GitHub Data'
   Authors: Simone Daniotti (Utrecht University)*; Johannes Wachs (Corvinus University);
     Xiangnan Feng (CSH Vienna); Frank Neffke (CSH Vienna)
-- Session name: Friday Lightnings
-  Paper ID: '409'
-  Presenter:  
-  Talk title: Memetic analysis of Big Tech influence over AI research
-  Authors: Stanisław Giziński (University of Warsaw); Paulina Kaczyńska (University
-    of Warsaw); Hubert Ruczyński (Warsaw University of Technology); Emila Wiśnios
-    (NASK National Research Institute); Bartosz Pieliński (University of Warsaw);
-    Przemysław Biecek (Warsaw University of Technology); Julian Sienkiewicz (Warsaw
-    University of Technology)*
-- Session name: Friday Lightnings
+- Poster board: '39'
   Paper ID: '82'
-  Presenter:  
+  Presenter: ' '
   Talk title: Network analysis of mathematicians
   Authors: Juan Pablo Serrano (Cinvestav)*; Carlos Alfaro (Banco de México); Ralihe
     Villagrán (Worcester Polytechnic Institute)
-- Session name: Friday Lightnings
+- Poster board: '40'
   Paper ID: '498'
-  Presenter:  
+  Presenter: ' '
   Talk title: Fractality of Co-Authorship Networks in Physics
   Authors: Pouria Mirelmi (Leiden University)*
-- Session name: Friday Lightnings
+- Poster board: '41'
   Paper ID: '335'
-  Presenter:  
+  Presenter: ' '
   Talk title: The Effect of Incarceration on Criminal Cocaine Networks
   Authors: Frederike Oetker (UvA)*; Rick Quax (Computational Science Lab, University
     of Amsterdam)
-- Session name: Friday Lightnings
+- Poster board: '42'
   Paper ID: '130'
-  Presenter:  
+  Presenter: ' '
   Talk title: Enhancing Criminal Network Disruption Through Forensic Intelligence
   Authors: Dayle Harvey (Ghent University)*; Kuralarasan Kumar (Ghent University);
     Christophe Vandeviver (Ghent University)
-- Session name: Friday Lightnings
+- Poster board: '43'
   Paper ID: '350'
-  Presenter:  
+  Presenter: ' '
   Talk title: Population connectivity shapes chimpanzee cumulative culture
   Authors: Cassandra Gunasekaram (University of Zurich); Federico Battiston (Central
     European University); Onkar Sadekar (Central European University)*; Lucio Vinicius
     (University of Zurich); Andrea Migliano (University of Zurich)
-- Session name: Friday Lightnings
+- Poster board: '44'
   Paper ID: '374'
-  Presenter:  
+  Presenter: ' '
   Talk title: Dynamics of Strategic Group Interactions in Social Networks
   Authors: Amina Azaiez (Paris 1 Panthéon Sorbonne)*; Emile Emery (CEA, CNRS )
-- Session name: Friday Lightnings
+- Poster board: '45'
   Paper ID: '480'
-  Presenter:  
+  Presenter: ' '
   Talk title: Academic publishing culture through higher-order motif analysis
   Authors: Angelika Tsivinskaya (European university at Saint Petersburg)*
-- Session name: Friday Lightnings
+- Poster board: '46'
   Paper ID: '579'
-  Presenter:  
+  Presenter: ' '
   Talk title: Measuring the Chain-Sense of Interactions in a Social Network
   Authors: Adrian Chester Balingit (University of the Philippines Diliman)*; May Lim
     (University of the Philippines Diliman)
-- Session name: Friday Lightnings
+- Poster board: '47'
   Paper ID: '10'
-  Presenter:  
+  Presenter: ' '
   Talk title: Syntactic Graph Co-attention Network for Automatic Short Answer Grading
   Authors: Onkar Sabnis (IIT Kharagpur)*
-- Session name: Friday Lightnings
+- Poster board: '48'
   Paper ID: '576'
   Presenter: Jacob Morra
   Talk title: Using topological features to validate behavior from microscale functional
     connectivity
   Authors: Jacob Morra (Duke University)*; Kaitlyn Fouke (Duke University); Eva Naumann
     (Duke University)
-- Session name: Friday Lightnings
+- Poster board: '49'
   Paper ID: '639'
   Presenter: Yuan Zhang
   Talk title: Quantifying the Spread of Online Incivility in Brazilian Politics
   Authors: Yuan Zhang (University of Zurich)*; Michael Amsler (University of Zurich);
     Laia Castro Herrero (University of Barcelona); Frank Esser (University of Zurich);
     Alexandre Bovet (University of Zurich)
-- Session name: Friday Lightnings
+- Poster board: '50'
   Paper ID: '621'
-  Presenter:  
+  Presenter: Rohan Sampat
   Talk title: Can structural balance reverse polarization?
   Authors: Rohan Sampat (Cornell University)*
-- Session name: Friday Lightnings
+- Poster board: '51'
   Paper ID: '632'
   Presenter: Hannah Gallant
   Talk title: 'Noisy Influencers: A stochastic network synchronisation control model'
   Authors: Hannah Gallant (DSTG)*; Alexander Kalloniatis (DSTG); Dale Roberts (ANU)
-- Session name: Friday Lightnings
+- Poster board: '52'
   Paper ID: '623'
-  Presenter:  
+  Presenter: ' '
   Talk title: Hidden Gender Disparities in Inventor-Evaluator Networks and Missing
     Hit Innovations
   Authors: Tara Sowrirajan (Kellogg School of Management)*; Ryan Whalen (University
     of Hong Kong Faculty of Law, Hong Kong SAR); Brian Uzzi (Kellogg School of Management)
-- Session name: Friday Lightnings
+- Poster board: '53'
   Paper ID: '628'
-  Presenter:  
+  Presenter: ' '
   Talk title: Supply chains network changes and market dynamics under sustainability
     regulation
   Authors: Christian Lemp (Binghamton University)*
-- Session name: Friday Lightnings
+- Poster board: '54'
   Paper ID: '635'
   Presenter: Lorenzo Gregoris
   Talk title: The Cash Drain Game on a Network
   Authors: Lorenzo Gregoris (Eindhoven University of Technology)*; Nelly Litvak (Eindhoven
     University of Technology)
-- Session name: Friday Lightnings
+- Poster board: '55'
   Paper ID: '631'
   Presenter: Siyang Jiang
   Talk title: A neat contribution index of network interaction to collective performance
   Authors: Siyang Jiang (Wuhan University)*; Jin Zhou (Wuhan University); Jun-an Lu
     (Wuhan University)
-- Session name: Friday Lightnings
+- Poster board: '56'
   Paper ID: '630'
-  Presenter:  
+  Presenter: ' '
   Talk title: Copy or Collaborate? How Networks Impact Collective Problem Solving
   Authors: Gülşah Akçakır (University of California, Los Angeles)*; John Lang (Merck
     Canada); PJ Lamberson (University of California, Los Angeles)
-- Session name: Friday Lightnings
+- Poster board: '57'
   Paper ID: '622'
-  Presenter:  
+  Presenter: ' '
   Talk title: The Ripple Effect of Retraction on an Author's Collaboration Network
   Authors: Kiran Sharma (BML Munjal University)*; Satyam Mukherjee (Shiv Nadar Institution
     of Eminence)
-- Session name: Friday Lightnings
+- Poster board: '58'
   Paper ID: '624'
-  Presenter:  
+  Presenter: ' '
   Talk title: Exploring Structural Dynamics in Retracted and Non-Retracted Author's
     Collaboration Networks
   Authors: Ziya Uddin (BML Munjal University, Gurugram)*; Kiran Sharma (BML Munjal
     University)
-- Session name: Friday Lightnings
+- Poster board: '59'
   Paper ID: '625'
-  Presenter:  
+  Presenter: ' '
   Talk title: Leveraging network science to enhance academic research
   Authors: Marcelo de Souza (Universidade do Estado de Santa Catarina)*; Lucas Rayzer
     (Universidade do Estado de Santa Catarina)
-- Session name: Friday Lightnings
+- Poster board: '60'
   Paper ID: '638'
   Presenter: Kimitaka Asatani
   Talk title: Identifying the Dense Collaboration Hubs that Shape International Policy
   Authors: Kimitaka Asatani (University of Tokyo)*; Yurie Iwata (University of Tokyo);
     Masaru Yarime (he Hong Kong University of Science and Technology ); Mahfouz Basil
     (University College London); Ichiro Sakata (University of Tokyo)
-- Session name: Friday Lightnings
+- Poster board: '61'
   Paper ID: '636'
   Presenter: Qiu Liang
   Talk title: Anomaly Detection in Preferential Attachment Networks
   Authors: Qiu Liang (Eindhoven University of Technology)*; Remco van der Hofstad
     (Eindhoven University of Technology); Nelly Litvak (Eindhoven University of Technology)
-- Session name: Friday Lightnings
+- Poster board: '62'
   Paper ID: '634'
   Presenter: Martijn Gösgens
   Talk title: Detecting Small Communities in the Planted Partition Model
   Authors: Martijn Gösgens (CWI)*; Maximilien Dreveton (EPFL)
-- Session name: Friday Lightnings
+- Poster board: '63'
   Paper ID: '641'
   Presenter: Filipi Nascimento Silva
   Talk title: Scale-Dependency of Weighted Network Modularity
@@ -503,18 +423,18 @@ talks:
     of Informatics, Computing, and Engineering, Indiana University, Bloomington);
     Santo Fortunato (Center for Complex Networks and Systems Research, Luddy School
     of Informatics, Computing, and Engineering, Indiana University, Bloomington)
-- Session name: Friday Lightnings
+- Poster board: '64'
   Paper ID: '626'
   Presenter: Xiuxiu Zhan
   Talk title: Measuring and utilizing temporal network dissimilarity
   Authors: Xiuxiu Zhan (Hangzhou Normal University)*
-- Session name: Friday Lightnings
+- Poster board: '65'
   Paper ID: '629'
-  Presenter:  
+  Presenter: ' '
   Talk title: Clustering Does Not Always Imply Latent Geometry
   Authors: Roya Aliakbarisani (Universitat de Barcelona)*; Marián Boguñá (Universitat
     de Barcelona); M. Ángeles Serrano (Universitat de Barcelona)
-- Session name: Friday Lightnings
+- Poster board: '66'
   Paper ID: '627'
   Presenter: Aline Viol
   Talk title: Exploring Maladaptive Resilience in Neural Dynamics via a Bayesian Oscillatory
@@ -523,7 +443,7 @@ talks:
     University)*; Angelica da Mata (Physics Department, Universidade Federal de Lavras);
     Inti Brazil (Donders Institute for Brain, Cognition, and Behaviour - Radboud University);
     Philipp Hoevel (Theoretical Physics and Center for Biophysics, Saarland University)
-- Session name: Friday Lightnings
+- Poster board: '67'
   Paper ID: '633'
   Presenter: Prithvi Arunachalam
   Talk title: Brain structural-functional coupling is differentially affected by age,
@@ -538,9 +458,126 @@ talks:
     Juan Domingo Gispert (Barcelona Beta Research Centre); James Cole (University
     College London); Frederik Barkhof (Amsterdam UMC); Alle Meije Wink (Amsterdam
     UMC)
-- Session name: Friday Lightnings
+- Poster board: '68'
   Paper ID: '640'
   Presenter: hiroko yamano
   Talk title: Distant relationships in the hypergraph of human musculoskeletal system
   Authors: hiroko yamano (IFI)*; Shu Liu (The University of Tokyo); Fujio Toriumi
     (The University of Tokyo)
+- Poster board: '69'
+  Paper ID: '15'
+  Presenter: Ramón Nartallo-Kaluarachchi
+  Talk title: A structural perspective on nonequilibrium brain network dynamics
+  Authors: Ramón Nartallo-Kaluarachchi (University of Oxford)*; Renaud Lambiotte (University
+    of Oxford ); Leonardo Bonetti (Aarhus University); Malbor Asllani (Florida State
+    University); Gustavo Deco (Universitat Pompeu Fabra); Morten Kringelbach (University
+    of Oxford ); Alain Goriely (University of Oxford )
+- Poster board: '70'
+  Paper ID: '33'
+  Presenter: Marco Mancastroppa
+  Talk title: Structural and dynamical characterization of hypergraphs through the
+    lens of hyper-cores
+  Authors: Marco Mancastroppa (CNRS, Centre de physique théorique (CPT), Aix-Marseille
+    Université)*; Iacopo Iacopini (Network Science Institute, Northeastern University
+    London); Giovanni Petri (Network Science Institute, Northeastern University London);
+    Alain Barrat (CNRS, Centre de physique théorique (CPT), Aix-Marseille Université)
+- Poster board: '71'
+  Paper ID: '38'
+  Presenter: Baruch Barzel
+  Talk title: Scale-free topology vs. timescale-free dynamics
+  Authors: Baruch Barzel (Bar-Ilan University)*; Guy Berger (Bar-Ilan University);
+    Simi Haber (Bar-Ilan University)
+- Poster board: '72'
+  Paper ID: '45'
+  Presenter: Lucas Lacasa
+  Talk title: Scalar embedding of temporal networks
+  Authors: Lucas Lacasa (IFISC (CSIC-UIB))*; Naoki Masuda (SUNY); Lluís Arola-Fernández
+    (IFISC (CSIC-UIB))
+- Poster board: '73'
+  Paper ID: '81'
+  Presenter: Guido Caldarelli
+  Talk title: 'Laplacian renormalization group: an introduction to heterogeneous coarse-graining'
+  Authors: Guido Caldarelli (ca’foscari )*; Andrea Gabrielli (University of Rome 3);
+    Tommaso Gili (IMT Lucca); Pablo Villegas (Centro Studi e Ricerche Enrico Fermi)
+- Poster board: '74'
+  Paper ID: '165'
+  Presenter: Thomas Robiglio
+  Talk title: Higher-order ising model on hypergraph
+  Authors: Thomas Robiglio (Central European University )*; Leonardo Di Gaetano (Central
+    European University); Ada Altieri ( Université Paris Cité); Giovanni Petri (Northeastern
+    University London); Federico Battiston (Central European University)
+- Poster board: '75'
+  Paper ID: '212'
+  Presenter: Valeria d'Andrea
+  Talk title: Quantifying biases and limits for topological and statistical ensembles
+    of brain networks
+  Authors: Valeria d'Andrea (University of Padua)*; Alessandra Corso (University of
+    Catania); Manlio De Domenico (University of Padua)
+- Poster board: '76'
+  Paper ID: '232'
+  Presenter: Rahul Singh
+  Talk title: 'Caste and Informal Credit: A Social Network Approach to Rural Finance'
+  Authors: Rahul Singh (IIT Bombay)*; Tom Snijders (University of Groningen ); Christian
+    Steglich (University of Groningen ); Marijtje Van Dujin (University of Groningen
+    ); Sarthak Gaurav (IIT Bombay )
+- Poster board: '77'
+  Paper ID: '291'
+  Presenter: Tiziano Squartini
+  Talk title: Random directed and undirected hypergraphs
+  Authors: Tiziano Squartini (IMT School for Advanced Studies Lucca)*; Fabio Saracco
+    ("Enrico Fermi" Research Center); Anna Gallo (IMT School for Advanced Studies
+    Lucca); Paolo Barucca (University College London); Giovanni Petri (Northeastern
+    University London); Renaud Lambiotte (University of Oxford,)
+- Poster board: '78'
+  Paper ID: '320'
+  Presenter: Marco Grassia
+  Talk title: Machine-enhanced reconstruction of functional connectomes unravels discriminative
+    brain subsystems in health and disease
+  Authors: Marco Grassia (Università degli Studi di Catania)*; Valeria d'Andrea (Università
+    di Padova); Karolina Finc (Centre for Interdisciplinary Technologies NCU); Giuseppe
+    Mangioni ( Università degli Studi di Catania); Manlio De Domenico (Università
+    di Padova)
+- Poster board: '79'
+  Paper ID: '344'
+  Presenter: Chandrakala Meena
+  Talk title: Stability prediction of complex dynamical networks
+  Authors: Chandrakala Meena (IISER TVM)*; Baruch Barzel (Bar-Ilan University); YUVRAJSINGH
+    PATIL (IISER TVM)
+- Poster board: '80'
+  Paper ID: '439'
+  Presenter: Laurent Hébert-Dufresne
+  Talk title: 'Self-reinforcing cascades: A spreading model for beliefs or products
+    of varying intensity or quality'
+  Authors: Laurent Hébert-Dufresne (University of Vermont)*; Juniper Lovato (University
+    of Vermont); Giulio Burgio (University of Vermont); James Gleeson (University
+    of Limerick); S. Redner (Santa Fe Institute); P.L. Krapivsky (Boston University)
+- Poster board: '81'
+  Paper ID: '443'
+  Presenter: Guilherme Ferraz de Arruda
+  Talk title: Contagion dynamics on higher-order networks
+  Authors: Guilherme Ferraz de Arruda (CENTAI Institute)*; Alberto Aleta (Institute
+    for Biocomputation and Physics of Complex Systems (BIFI)); Yamir Moreno (Institute
+    for Biocomputation and Physics of Complex Systems (BIFI))
+- Poster board: '82'
+  Paper ID: '505'
+  Presenter: Matteo Straccamore
+  Talk title: Economic Complexity in geographical space
+  Authors: Matteo Straccamore (Centro Ricerche Enrico Fermi)*; Andrea Tacchella (Centro
+    Ricerche Enrico Fermi)
+- Poster board: '83'
+  Paper ID: '508'
+  Presenter: Giordano De Marzo
+  Talk title: Degree Induced phase transition in LLMs Opinion Dynamics
+  Authors: Giordano De Marzo (Konstanz University)*; David Garcia (Konstanz University);
+    Claudio Castellano (CNR-ISC)
+- Poster board: '84'
+  Paper ID: '591'
+  Presenter: Amir Ghasemian
+  Talk title: The structure and function of antagonistic ties in village social networks
+  Authors: Amir Ghasemian (Yale University)*
+- Poster board: '85'
+  Paper ID: '592'
+  Presenter: Homa Hosseinmardi
+  Talk title: Measuring Diversity in Online News
+  Authors: Homa Hosseinmardi (ucla)*; Samar Haider (University of Pennsylvania); David
+    Rothschild (MSR); Duncan Watts (University of Pennsylvania)
