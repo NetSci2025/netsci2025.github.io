@@ -114,7 +114,7 @@ talks:
     networks that capture temporal and topological multi-scale effects. This is particularly
     valuable for understanding network generation processes and estimating the impact
     of homophily on network dynamics.
-  Time: Thu 15:45 - 16:00
+  Time: Thu 15:15 - 15:30
 - Session name: Algorithms, Measures and Statistics
   Talk Order: '5'
   Abstract ID: '558'
@@ -163,4 +163,4 @@ talks:
     distributions, clustering coefficients, and motif frequencies. Additionally, we
     assess their ability to generate new graphs that are non-isomorphic to the original
     network.
-  Time: Thu 15:15 - 15:30
+  Time: Thu 15:45 - 16:00
