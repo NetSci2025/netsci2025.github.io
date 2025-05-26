@@ -1,138 +1,137 @@
 - Contribution_type: Contributed Oral
   Session_name: Algorithms, Measures and Statistics
-  Time: Thu 14:30 - 16:00
+  Time: Thu 14:30 - 14:45
   Abstract_ID: 354
   Presenter: Tim Evans
   Contribution_title: Longest Path and Main Path Analysis of Directed Acyclic Graphs
 - Contribution_type: Contributed Oral
   Session_name: Algorithms, Measures and Statistics
-  Time: Thu 14:30 - 16:00
+  Time: Thu 14:45 - 15:00
+  Abstract_ID: 457
+  Presenter: Pádraig MacCarron
+  Contribution_title: 'Impact of Incomplete Data on Character Network Extraction:
+    The Case of Comics'
+- Contribution_type: Contributed Oral
+  Session_name: Algorithms, Measures and Statistics
+  Time: Thu 15:00 - 15:15
   Abstract_ID: 468
   Presenter: Rachel de Jong
   Contribution_title: Navigating the privacy vs. utility trade-off in network anonymization
 - Contribution_type: Contributed Oral
   Session_name: Algorithms, Measures and Statistics
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 558
-  Presenter: Helcio Felippe
-  Contribution_title: Network mutual information measures for graph similarity
-- Contribution_type: Contributed Oral
-  Session_name: Algorithms, Measures and Statistics
-  Time: Thu 14:30 - 16:00
+  Time: Thu 15:15 - 15:30
   Abstract_ID: 493
   Presenter: Eline Bouwmeesters
   Contribution_title: A comparison of network sampling techniques that preserve local
     structure
 - Contribution_type: Contributed Oral
   Session_name: Algorithms, Measures and Statistics
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 457
-  Presenter: Vincent Labatut
-  Contribution_title: 'Impact of Incomplete Data on Character Network Extraction:
-    The Case of Comics'
+  Time: Thu 15:30 - 15:45
+  Abstract_ID: 558
+  Presenter: Helcio Felippe
+  Contribution_title: Network mutual information measures for graph similarity
 - Contribution_type: Contributed Oral
   Session_name: Algorithms, Measures and Statistics
-  Time: Thu 14:30 - 16:00
+  Time: Thu 15:45 - 16:00
   Abstract_ID: 597
   Presenter: Yasaman Asgari
   Contribution_title: Multiscale Temporal Node Assortativity in Feature-rich Temporal
     Networks
 - Contribution_type: Contributed Oral
   Session_name: Biological networks
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 549
-  Presenter: Buduka Ogonor
-  Contribution_title: Discovering causal gene subnetworks responsible for complex
-    traits
-- Contribution_type: Contributed Oral
-  Session_name: Biological networks
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 309
-  Presenter: Daan van Beek
-  Contribution_title: Exploring cis gene regulatory patterns in Huntington's Disease
-    using allele-specific expression.
-- Contribution_type: Contributed Oral
-  Session_name: Biological networks
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 73
-  Presenter: Thomas Clegg
-  Contribution_title: Cross-feeding Creates Tipping Points in Microbiome Diversity
-- Contribution_type: Contributed Oral
-  Session_name: Biological networks
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 541
-  Presenter: Kevin Michalewicz
-  Contribution_title: The impact of mutations on protein multiscale structure through
-    persistent homology
-- Contribution_type: Contributed Oral
-  Session_name: Biological networks
-  Time: Wed 11:00 - 13:00
+  Time: Wed 11:00 - 11:15
   Abstract_ID: 43
   Presenter: Marta Niedostatek
   Contribution_title: Mining higher-order triadic interactions in gene-expression
     data
 - Contribution_type: Contributed Oral
   Session_name: Biological networks
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 512
-  Presenter: Marco Fele
-  Contribution_title: More dominant baboons have less and lower quality sleep
-- Contribution_type: Contributed Oral
-  Session_name: Biological networks
-  Time: Wed 11:00 - 13:00
+  Time: Wed 11:15 - 11:30
   Abstract_ID: 46
   Presenter: Katy Borner
   Contribution_title: 'Human Reference Atlas: Multiscale Networks and Knowledge Graphs'
 - Contribution_type: Contributed Oral
   Session_name: Biological networks
-  Time: Wed 11:00 - 13:00
+  Time: Wed 11:30 - 11:45
+  Abstract_ID: 73
+  Presenter: Thomas Clegg
+  Contribution_title: Cross-feeding Creates Tipping Points in Microbiome Diversity
+- Contribution_type: Contributed Oral
+  Session_name: Biological networks
+  Time: Wed 11:45 - 12:00
+  Abstract_ID: 309
+  Presenter: Daan van Beek
+  Contribution_title: Exploring cis gene regulatory patterns in Huntington's Disease
+    using allele-specific expression.
+- Contribution_type: Contributed Oral
+  Session_name: Biological networks
+  Time: Wed 12:00 - 12:15
   Abstract_ID: 423
   Presenter: Igor Branchi
   Contribution_title: 'Measuring plasticity: a network-based approach to anticipate
     transitions in mental health'
 - Contribution_type: Contributed Oral
-  Session_name: Brain networks
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 604
-  Presenter: Jil Meier
-  Contribution_title: The Virtual Brain reveals sweet dynamics of deep brain stimulation
-    in Parkinson’s disease
+  Session_name: Biological networks
+  Time: Wed 12:15 - 12:30
+  Abstract_ID: 512
+  Presenter: Marco Fele
+  Contribution_title: More dominant baboons have less and lower quality sleep
+- Contribution_type: Contributed Oral
+  Session_name: Biological networks
+  Time: Wed 12:30 - 12:45
+  Abstract_ID: 541
+  Presenter: Kevin Michalewicz
+  Contribution_title: The impact of mutations on protein multiscale structure through
+    persistent homology
+- Contribution_type: Contributed Oral
+  Session_name: Biological networks
+  Time: Wed 12:45 - 13:00
+  Abstract_ID: 549
+  Presenter: Buduka Ogonor
+  Contribution_title: Discovering causal gene subnetworks responsible for complex
+    traits
 - Contribution_type: Contributed Oral
   Session_name: Brain networks
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 567
-  Presenter: Carlo Vittorio Cannistraci
-  Contribution_title: Brain-inspired sparse training in deep artificial neural networks
-    with network science modelling via Cannistraci-Hebb rule
-- Contribution_type: Contributed Oral
-  Session_name: Brain networks
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 131
-  Presenter: Balazs Pentek
-  Contribution_title: The exponential distance rule based network model predicts topology
-    and reveals functionally relevant properties of the Drosophila projectome
-- Contribution_type: Contributed Oral
-  Session_name: Brain networks
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 169
-  Presenter: Laia Barjuan Ballabriga
-  Contribution_title: The multiscale self-similarity of the weighted human brain connectome
-- Contribution_type: Contributed Oral
-  Session_name: Brain networks
-  Time: Wed 11:00 - 13:00
+  Time: Wed 11:00 - 11:17
   Abstract_ID: 66
   Presenter: Eckehard Schöll
   Contribution_title: Interplay of synchronization and cortical input in models of
     brain networks
 - Contribution_type: Contributed Oral
   Session_name: Brain networks
-  Time: Wed 11:00 - 13:00
+  Time: Wed 11:17 - 11:34
+  Abstract_ID: 112
+  Presenter: Valentina Sanchez
+  Contribution_title: The Human Brain as a Combinatorial Complex
+- Contribution_type: Contributed Oral
+  Session_name: Brain networks
+  Time: Wed 11:34 - 11:51
+  Abstract_ID: 131
+  Presenter: Balazs Pentek
+  Contribution_title: The exponential distance rule based network model predicts topology
+    and reveals functionally relevant properties of the Drosophila projectome
+- Contribution_type: Contributed Oral
+  Session_name: Brain networks
+  Time: Wed 11:51 - 12:08
+  Abstract_ID: 169
+  Presenter: Laia Barjuan Ballabriga
+  Contribution_title: The multiscale self-similarity of the weighted human brain connectome
+- Contribution_type: Contributed Oral
+  Session_name: Brain networks
+  Time: Wed 12:08 - 12:25
   Abstract_ID: 442
   Presenter: Felipe Xavier Costa
   Contribution_title: The metric backbone of brain networks across lifespan and hemispheres
 - Contribution_type: Contributed Oral
   Session_name: Brain networks
-  Time: Wed 11:00 - 13:00
+  Time: Wed 12:25 - 12:42
+  Abstract_ID: 567
+  Presenter: Carlo Vittorio Cannistraci
+  Contribution_title: Brain-inspired sparse training in deep artificial neural networks
+    with network science modelling via Cannistraci-Hebb rule
+- Contribution_type: Contributed Oral
+  Session_name: Brain networks
+  Time: Wed 12:42 - 12:59
   Abstract_ID: 571
   Presenter: Eunhye Baek
   Contribution_title: Neuromorphic dendritic network computation with silent synapses
@@ -140,373 +139,400 @@
 - Contribution_type: Contributed Oral
   Session_name: Brain Networks
   Time: Wed 11:00 - 13:00
-  Abstract_ID: 112
-  Presenter: Valentina Sanchez
-  Contribution_title: The Human Brain as a Combinatorial Complex
+  Abstract_ID: 604
+  Presenter: Jil Meier
+  Contribution_title: The Virtual Brain reveals sweet dynamics of deep brain stimulation
+    in Parkinson’s disease
 - Contribution_type: Contributed Oral
   Session_name: Contagion and spreading processes
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 253
-  Presenter: David OSullivan
-  Contribution_title: A generating-function approach to modelling complex contagion
-    on clustered networks with multi-type branching processes
-- Contribution_type: Contributed Oral
-  Session_name: Contagion and spreading processes
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 454
-  Presenter: Federico Malizia
-  Contribution_title: Group-Based Modeling Reveals the Critical Role of Heterogeneity
-    and Hyperedge Overlap in Epidemic Processes with Higher-Order Interactions
-- Contribution_type: Contributed Oral
-  Session_name: Contagion and spreading processes
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 605
-  Presenter: Javier Ureña Carrion
-  Contribution_title: 'Votes or pathogens: A framework for detecting spreading phenomena
-    on networks'
-- Contribution_type: Contributed Oral
-  Session_name: Contagion and spreading processes
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:00 - 11:15
   Abstract_ID: 111
   Presenter: Istvan Kiss
   Contribution_title: Decoding how higher-order network interactions shape complex
     contagion dynamics
 - Contribution_type: Contributed Oral
   Session_name: Contagion and spreading processes
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 279
-  Presenter: Takayuki Hiraoka
-  Contribution_title: Disentangling epidemics and percolation
+  Time: Thu 11:15 - 11:30
+  Abstract_ID: 253
+  Presenter: David OSullivan
+  Contribution_title: A generating-function approach to modelling complex contagion
+    on clustered networks with multi-type branching processes
 - Contribution_type: Contributed Oral
   Session_name: Contagion and spreading processes
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:30 - 11:45
   Abstract_ID: 266
   Presenter: Jack Moore
   Contribution_title: Network spreading from network dimension
 - Contribution_type: Contributed Oral
   Session_name: Contagion and spreading processes
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:45 - 12:00
+  Abstract_ID: 279
+  Presenter: Takayuki Hiraoka
+  Contribution_title: Disentangling epidemics and percolation
+- Contribution_type: Contributed Oral
+  Session_name: Contagion and spreading processes
+  Time: Thu 12:00 - 12:15
+  Abstract_ID: 391
+  Presenter: Dominic Arthur
+  Contribution_title: Utility of Synthetic Epidemiological Data For Inferring Simulated
+    SARS-CoV-2 Superspread- ing Event
+- Contribution_type: Contributed Oral
+  Session_name: Contagion and spreading processes
+  Time: Thu 12:15 - 12:30
   Abstract_ID: 399
   Presenter: Marko Lalovic
   Contribution_title: What can we learn from modelling complex contagion on higher-order
     networks using birth-and-death processes?
 - Contribution_type: Contributed Oral
   Session_name: Contagion and spreading processes
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 391
-  Presenter: Dominic Arthur
-  Contribution_title: Utility of Synthetic Epidemiological Data For Inferring Simulated
-    SARS-CoV-2 Superspread- ing Event
+  Time: Thu 12:30 - 12:45
+  Abstract_ID: 454
+  Presenter: Federico Malizia
+  Contribution_title: Group-Based Modeling Reveals the Critical Role of Heterogeneity
+    and Hyperedge Overlap in Epidemic Processes with Higher-Order Interactions
+- Contribution_type: Contributed Oral
+  Session_name: Contagion and spreading processes
+  Time: Thu 12:45 - 13:00
+  Abstract_ID: 605
+  Presenter: Javier Ureña Carrion
+  Contribution_title: 'Votes or pathogens: A framework for detecting spreading phenomena
+    on networks'
 - Contribution_type: Contributed Oral
   Session_name: Critical Phenomena In Networks
-  Time: Thu 16:30 - 17:45
-  Abstract_ID: 617
-  Presenter: Gareth Baxter
-  Contribution_title: Complex Contagion on Random Highly Clustered Networks
-- Contribution_type: Contributed Oral
-  Session_name: Critical Phenomena In Networks
-  Time: Thu 16:30 - 17:45
+  Time: Thu 16:30 - 16:45
   Abstract_ID: 298
   Presenter: Yérali Gandica
   Contribution_title: Exploring Modular-to-Nested Transitions in Social Demonstrations
 - Contribution_type: Contributed Oral
   Session_name: Critical Phenomena In Networks
-  Time: Thu 16:30 - 17:45
+  Time: Thu 16:45 - 17:00
   Abstract_ID: 332
   Presenter: Claudio Castellano
   Contribution_title: 'Percolation in networks: beyond nearest neighbors'
 - Contribution_type: Contributed Oral
   Session_name: Critical Phenomena In Networks
-  Time: Thu 16:30 - 17:45
+  Time: Thu 17:00 - 17:15
   Abstract_ID: 337
   Presenter: Silja Sormunen
   Contribution_title: 'A new look at self-organized criticality in networks: from
     critical points to manifolds'
 - Contribution_type: Contributed Oral
   Session_name: Critical Phenomena In Networks
-  Time: Thu 16:30 - 17:45
+  Time: Thu 17:15 - 17:30
   Abstract_ID: 343
   Presenter: Michael Coughlan
   Contribution_title: Anomalous percolation in a dynamical network model for melt
     ponds on sea ice
 - Contribution_type: Contributed Oral
-  Session_name: Culture & Technology
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 422
-  Presenter: Christopher Blöcker
-  Contribution_title: Software Package Complexity - Modular Structure vs. Modular
-    Design
+  Session_name: Critical Phenomena In Networks
+  Time: Thu 17:30 - 17:45
+  Abstract_ID: 617
+  Presenter: Gareth Baxter
+  Contribution_title: Complex Contagion on Random Highly Clustered Networks
 - Contribution_type: Contributed Oral
   Session_name: Culture & Technology
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 323
-  Presenter: Haiko Lietz
-  Contribution_title: A day on Twitter is a fractal in socio-cultural space-time
-- Contribution_type: Contributed Oral
-  Session_name: Culture & Technology
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 459
-  Presenter: Xiangnan Feng
-  Contribution_title: Learning in a Software Task Space
-- Contribution_type: Contributed Oral
-  Session_name: Culture & Technology
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 496
-  Presenter: Tomomi Kito
-  Contribution_title: 'Technological portfolio strategies: coherence, coreness, and
-    diversification patterns'
-- Contribution_type: Contributed Oral
-  Session_name: Culture & Technology
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 453
-  Presenter: Marcella Tambuscio
-  Contribution_title: 'Digitising History: Network Perspectives of a Medieval Court'
-- Contribution_type: Contributed Oral
-  Session_name: Culture & Technology
-  Time: Wed 11:00 - 13:00
+  Time: Wed 11:00 - 11:15
   Abstract_ID: 57
   Presenter: Michele Coscia
   Contribution_title: The Economic Complexity of the Roman Empire
 - Contribution_type: Contributed Oral
   Session_name: Culture & Technology
-  Time: Wed 11:00 - 13:00
+  Time: Wed 11:15 - 11:30
   Abstract_ID: 106
   Presenter: Dirk Hartung
   Contribution_title: Harnessing Higher-Order Networks to Trace the Development of
     Doctrine
 - Contribution_type: Contributed Oral
   Session_name: Culture & Technology
-  Time: Wed 11:00 - 13:00
+  Time: Wed 11:30 - 11:45
+  Abstract_ID: 323
+  Presenter: Haiko Lietz
+  Contribution_title: A day on Twitter is a fractal in socio-cultural space-time
+- Contribution_type: Contributed Oral
+  Session_name: Culture & Technology
+  Time: Wed 11:45 - 12:00
+  Abstract_ID: 142
+  Presenter: Veronica Mesina
+  Contribution_title: 'Framing the Narrative: How Italian Authorities Dominated COVID-19
+    Twitter Debate'
+- Contribution_type: Contributed Oral
+  Session_name: Culture & Technology
+  Time: Wed 12:00 - 12:15
+  Abstract_ID: 453
+  Presenter: Marcella Tambuscio
+  Contribution_title: 'Digitising History: Network Perspectives of a Medieval Court'
+- Contribution_type: Contributed Oral
+  Session_name: Culture & Technology
+  Time: Wed 12:15 - 12:30
+  Abstract_ID: 459
+  Presenter: Xiangnan Feng
+  Contribution_title: Learning in a Software Task Space
+- Contribution_type: Contributed Oral
+  Session_name: Culture & Technology
+  Time: Wed 12:30 - 12:45
+  Abstract_ID: 496
+  Presenter: Tomomi Kito
+  Contribution_title: 'Technological portfolio strategies: coherence, coreness, and
+    diversification patterns'
+- Contribution_type: Contributed Oral
+  Session_name: Culture & Technology
+  Time: Wed 12:45 - 13:00
   Abstract_ID: 565
   Presenter: Tobias Timofeyev
   Contribution_title: A Sheaf Theoretic Approach to Near Space Network Routing
 - Contribution_type: Contributed Oral
   Session_name: Dynamics 2
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:00 - 11:15
   Abstract_ID: 21
   Presenter: Fragkiskos Papadopoulos
   Contribution_title: Fundamental dynamics of popularity-similarity trajectories in
     real networks
 - Contribution_type: Contributed Oral
   Session_name: Dynamics 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 400
-  Presenter: Alexandra Tits
-  Contribution_title: Fluid flow through the lacunocanalicular network in bone
-- Contribution_type: Contributed Oral
-  Session_name: Dynamics 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 333
-  Presenter: Maja Lindström
-  Contribution_title: Mapping memory-biased random walks reveals overlapping communities
-- Contribution_type: Contributed Oral
-  Session_name: Dynamics 2
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:15 - 11:30
   Abstract_ID: 34
   Presenter: Shilong Yu
   Contribution_title: Using sample cross covariance to potentially improve early warning
     signals for network dynamics
 - Contribution_type: Contributed Oral
   Session_name: Dynamics 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 318
-  Presenter: James Gleeson
-  Contribution_title: Time-dependent influence metric for cascade dynamics on networks
+  Time: Thu 11:30 - 11:45
+  Abstract_ID: 42
+  Presenter: Lluís Torres-Hugas
+  Contribution_title: Interplay Between Structure and Diffusion Dynamics in Random
+    and Multiplex Networks
 - Contribution_type: Contributed Oral
   Session_name: Dynamics 2
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:45 - 12:00
   Abstract_ID: 74
   Presenter: Marvin Lücke
   Contribution_title: Learning interpretable collective variables for dynamical systems
     on networks
 - Contribution_type: Contributed Oral
   Session_name: Dynamics 2
-  Time: Thu 11:00 - 13:00
+  Time: Thu 12:00 - 12:15
   Abstract_ID: 126
   Presenter: Otti D'Huys
   Contribution_title: Excitability and stochastic effects in an experimental spiking
     laser network
 - Contribution_type: Contributed Oral
   Session_name: Dynamics 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 42
-  Presenter: Lluís Torres-Hugas
-  Contribution_title: Interplay Between Structure and Diffusion Dynamics in Random
-    and Multiplex Networks
+  Time: Thu 12:15 - 12:30
+  Abstract_ID: 318
+  Presenter: James Gleeson
+  Contribution_title: Time-dependent influence metric for cascade dynamics on networks
+- Contribution_type: Contributed Oral
+  Session_name: Dynamics 2
+  Time: Thu 12:30 - 12:45
+  Abstract_ID: 333
+  Presenter: Maja Lindström
+  Contribution_title: Mapping memory-biased random walks reveals overlapping communities
+- Contribution_type: Contributed Oral
+  Session_name: Dynamics 2
+  Time: Thu 12:45 - 13:00
+  Abstract_ID: 400
+  Presenter: Alexandra Tits
+  Contribution_title: Fluid flow through the lacunocanalicular network in bone
 - Contribution_type: Contributed Oral
   Session_name: Dynamics 1
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 542
-  Presenter: Ana Barioni
-  Contribution_title: 'Networking drones of different feathers: the secret sauce for
-    flocking'
-- Contribution_type: Contributed Oral
-  Session_name: Dynamics 1
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 35
-  Presenter: Hanlin Sun
-  Contribution_title: Triadic percolation induces dynamical topological patterns in
-    higher-order networks
-- Contribution_type: Contributed Oral
-  Session_name: Dynamics 1
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 191
-  Presenter: Jun Yamamoto
-  Contribution_title: Delocalization of Physical Laplacian Eigenvectors due to Degree-Volume
-    Correlation
-- Contribution_type: Contributed Oral
-  Session_name: Dynamics 1
-  Time: Wed 16:30 - 17:45
+  Time: Wed 16:30 - 16:45
   Abstract_ID: 22
   Presenter: Ramon Nartallo-Kaluarachchi
   Contribution_title: Decomposing nonequilibrium force-fields by reconstructing graphs
     from stochastic trajectories
 - Contribution_type: Contributed Oral
   Session_name: Dynamics 1
-  Time: Wed 16:30 - 17:45
+  Time: Wed 16:45 - 17:00
+  Abstract_ID: 35
+  Presenter: Hanlin Sun
+  Contribution_title: Triadic percolation induces dynamical topological patterns in
+    higher-order networks
+- Contribution_type: Contributed Oral
+  Session_name: Dynamics 1
+  Time: Wed 17:00 - 17:15
   Abstract_ID: 49
   Presenter: Naoki Masuda
   Contribution_title: Fixation dynamics on various networks
 - Contribution_type: Contributed Oral
+  Session_name: Dynamics 1
+  Time: Wed 17:15 - 17:30
+  Abstract_ID: 191
+  Presenter: Jun Yamamoto
+  Contribution_title: Delocalization of Physical Laplacian Eigenvectors due to Degree-Volume
+    Correlation
+- Contribution_type: Contributed Oral
+  Session_name: Dynamics 1
+  Time: Wed 17:30 - 17:45
+  Abstract_ID: 542
+  Presenter: Ana Barioni
+  Contribution_title: 'Networking drones of different feathers: the secret sauce for
+    flocking'
+- Contribution_type: Contributed Oral
   Session_name: Dynamics 3
-  Time: Thu 16:30 - 17:45
+  Time: Thu 16:30 - 16:45
   Abstract_ID: 12
   Presenter: Yu Tian
   Contribution_title: Matrix-weighted networks for modeling multidimensional dynamics
 - Contribution_type: Contributed Oral
   Session_name: Dynamics 3
-  Time: Thu 16:30 - 17:45
-  Abstract_ID: 293
-  Presenter: Pietro Traversa
-  Contribution_title: Rumor propagation on hypergraphs
-- Contribution_type: Contributed Oral
-  Session_name: Dynamics 3
-  Time: Thu 16:30 - 17:45
+  Time: Thu 16:45 - 17:00
   Abstract_ID: 218
   Presenter: Natasa Djurdjevac Conrad
   Contribution_title: Co-evolving Networks for Opinion and Social Dynamics in Agent-Based
     Models
 - Contribution_type: Contributed Oral
   Session_name: Dynamics 3
-  Time: Thu 16:30 - 17:45
+  Time: Thu 17:00 - 17:15
+  Abstract_ID: 293
+  Presenter: Pietro Traversa
+  Contribution_title: Rumor propagation on hypergraphs
+- Contribution_type: Contributed Oral
+  Session_name: Dynamics 3
+  Time: Thu 17:15 - 17:30
+  Abstract_ID: 322
+  Presenter: Lars Schroeder
+  Contribution_title: Stationary distribution of node2vec random walks on household
+    models
+- Contribution_type: Contributed Oral
+  Session_name: Dynamics 3
+  Time: Thu 17:30 - 17:45
   Abstract_ID: 492
   Presenter: Erica Cau
   Contribution_title: Modeling opinion dynamics of LLM populations
 - Contribution_type: Contributed Oral
   Session_name: Ecological networks
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 273
-  Presenter: Luca Allegri
-  Contribution_title: Extinctions in microbiomes are driven by carrying capacities
-    and interaction network density
-- Contribution_type: Contributed Oral
-  Session_name: Ecological networks
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 566
-  Presenter: William Ou
-  Contribution_title: Assortative dispersal facilitates the maintenance of alternative
-    stable states
-- Contribution_type: Contributed Oral
-  Session_name: Ecological networks
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:00 - 11:15
   Abstract_ID: 18
   Presenter: Doina Bucur
   Contribution_title: Microbial co-occurrence networks in soil ecology do not model
     functional links
 - Contribution_type: Contributed Oral
   Session_name: Ecological networks
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:15 - 11:30
   Abstract_ID: 102
   Presenter: Johannes Nauta
   Contribution_title: Species abundance distributions predict maintenance of mobile
     genetic elements in microbial systems
 - Contribution_type: Contributed Oral
   Session_name: Ecological networks
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:30 - 11:45
   Abstract_ID: 233
   Presenter: Heetae Kim
   Contribution_title: How did the energy transfer network of green plants help them
     evolve?
 - Contribution_type: Contributed Oral
   Session_name: Ecological networks
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:45 - 12:00
+  Abstract_ID: 236
+  Presenter: Riccardo Sbarbati
+  Contribution_title: Competition between pathogenic elements using a pathogen-centric
+    framework
+- Contribution_type: Contributed Oral
+  Session_name: Ecological networks
+  Time: Thu 12:00 - 12:15
+  Abstract_ID: 273
+  Presenter: Luca Allegri
+  Contribution_title: Extinctions in microbiomes are driven by carrying capacities
+    and interaction network density
+- Contribution_type: Contributed Oral
+  Session_name: Ecological networks
+  Time: Thu 12:15 - 12:30
+  Abstract_ID: 495
+  Presenter: Aleksandra Puchalska
+  Contribution_title: Pangraphs as models of higher-order interactions
+- Contribution_type: Contributed Oral
+  Session_name: Ecological networks
+  Time: Thu 12:30 - 12:45
+  Abstract_ID: 566
+  Presenter: William Ou
+  Contribution_title: Assortative dispersal facilitates the maintenance of alternative
+    stable states
+- Contribution_type: Contributed Oral
+  Session_name: Ecological networks
+  Time: Thu 12:45 - 13:00
   Abstract_ID: 582
   Presenter: Thilo Gross
   Contribution_title: Functional Motifs in Food Webs and Networks
 - Contribution_type: Contributed Oral
   Session_name: Finance networks and supply chains
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 477
-  Presenter: Giacomo Zelbi
-  Contribution_title: Assessing the systemic risk mitigation potential in supply chains
-    through network rewiring
-- Contribution_type: Contributed Oral
-  Session_name: Finance networks and supply chains
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 287
-  Presenter: Tiziano Squartini
-  Contribution_title: Spectral signatures of structural change in financial networks
-- Contribution_type: Contributed Oral
-  Session_name: Finance networks and supply chains
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 426
-  Presenter: Ariadna Fosch I Muntané
-  Contribution_title: Evolution and robustness of the international trade of food
-    products
-- Contribution_type: Contributed Oral
-  Session_name: Finance networks and supply chains
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 594
-  Presenter: Daekyung Lee
-  Contribution_title: 'From Source to Sink: A Route-Based Approach to Supply Chain
-    Stability'
-- Contribution_type: Contributed Oral
-  Session_name: Finance networks and supply chains
-  Time: Wed 14:30 - 16:00
+  Time: Wed 14:30 - 14:45
   Abstract_ID: 278
   Presenter: Massimiliano Fessina
   Contribution_title: Inferring firm-level supply chain networks with realistic systemic
     risk from industry sector-level data
 - Contribution_type: Contributed Oral
   Session_name: Finance networks and supply chains
-  Time: Wed 14:30 - 16:00
+  Time: Wed 14:45 - 15:00
+  Abstract_ID: 287
+  Presenter: Tiziano Squartini
+  Contribution_title: Spectral signatures of structural change in financial networks
+- Contribution_type: Contributed Oral
+  Session_name: Finance networks and supply chains
+  Time: Wed 15:00 - 15:15
   Abstract_ID: 303
   Presenter: Mattia Marzi
   Contribution_title: Digital twins of economic and financial networks
 - Contribution_type: Contributed Oral
+  Session_name: Finance networks and supply chains
+  Time: Wed 15:15 - 15:30
+  Abstract_ID: 426
+  Presenter: Ariadna Fosch I Muntané
+  Contribution_title: Evolution and robustness of the international trade of food
+    products
+- Contribution_type: Contributed Oral
+  Session_name: Finance networks and supply chains
+  Time: Wed 15:30 - 15:45
+  Abstract_ID: 477
+  Presenter: Giacomo Zelbi
+  Contribution_title: Assessing the systemic risk mitigation potential in supply chains
+    through network rewiring
+- Contribution_type: Contributed Oral
+  Session_name: Finance networks and supply chains
+  Time: Wed 15:45 - 16:00
+  Abstract_ID: 594
+  Presenter: Daekyung Lee
+  Contribution_title: 'From Source to Sink: A Route-Based Approach to Supply Chain
+    Stability'
+- Contribution_type: Contributed Oral
   Session_name: Higher order networks 1
-  Time: Wed 11:00 - 13:00
+  Time: Wed 11:00 - 11:15
+  Abstract_ID: 30
+  Presenter: Giulia Preti
+  Contribution_title: The Effects of Higher-Order Structures in Social Systems
+- Contribution_type: Contributed Oral
+  Session_name: Higher order networks 1
+  Time: Wed 11:15 - 11:30
   Abstract_ID: 89
   Presenter: Annabel Davies
   Contribution_title: Exploiting the higher-order structure of treatment-trial networks
     in network meta-analysis
 - Contribution_type: Contributed Oral
   Session_name: Higher order networks 1
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 358
-  Presenter: Onkar Sadekar
-  Contribution_title: Explosive Cooperation in Social Dilemmas on Higher-Order Networks
+  Time: Wed 11:30 - 11:45
+  Abstract_ID: 188
+  Presenter: Quintino Francesco Lotito
+  Contribution_title: The microscale organization of directed hypergraphs
 - Contribution_type: Contributed Oral
   Session_name: Higher order networks 1
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 348
-  Presenter: Alberto Ceria
-  Contribution_title: The relevance of higher-order ties
-- Contribution_type: Contributed Oral
-  Session_name: Higher order networks 1
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 30
-  Presenter: Giulia Preti
-  Contribution_title: The Effects of Higher-Order Structures in Social Systems
-- Contribution_type: Contributed Oral
-  Session_name: Higher order networks 1
-  Time: Wed 11:00 - 13:00
+  Time: Wed 11:45 - 12:00
   Abstract_ID: 276
   Presenter: Gangmin Son
   Contribution_title: Phase Transitions in the Simplicial Ising Model on Hypergraphs
 - Contribution_type: Contributed Oral
   Session_name: Higher order networks 1
-  Time: Wed 11:00 - 13:00
+  Time: Wed 12:00 - 12:15
+  Abstract_ID: 348
+  Presenter: Alberto Ceria
+  Contribution_title: The relevance of higher-order ties
+- Contribution_type: Contributed Oral
+  Session_name: Higher order networks 1
+  Time: Wed 12:15 - 12:30
+  Abstract_ID: 358
+  Presenter: Onkar Sadekar
+  Contribution_title: Explosive Cooperation in Social Dilemmas on Higher-Order Networks
+- Contribution_type: Contributed Oral
+  Session_name: Higher order networks 1
+  Time: Wed 12:30 - 12:45
   Abstract_ID: 387
   Presenter: Chester Tan
   Contribution_title: Unifying higher-order sequence models with simplicial complexes,
@@ -514,705 +540,713 @@
     their topological neural networks.
 - Contribution_type: Contributed Oral
   Session_name: Higher order networks 1
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 188
-  Presenter: Quintino Francesco Lotito
-  Contribution_title: The microscale organization of directed hypergraphs
-- Contribution_type: Contributed Oral
-  Session_name: Higher order networks 1
-  Time: Wed 11:00 - 13:00
+  Time: Wed 12:45 - 13:00
   Abstract_ID: 585
   Presenter: Anatol Wegner
   Contribution_title: Modeling networks motifs as higher-order interactions
 - Contribution_type: Contributed Oral
   Session_name: Higher order networks 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 393
-  Presenter: Juni Schindler
-  Contribution_title: Topological autocorrelation in multiscale clusterings via 2-parameter
-    persistent homology
+  Time: Thu 11:00 - 11:15
+  Abstract_ID: 62
+  Presenter: Cosimo Agostinelli
+  Contribution_title: Higher-order similarity measures for hypergraphs comparison
 - Contribution_type: Contributed Oral
   Session_name: Higher order networks 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 248
-  Presenter: Chen Zhang
-  Contribution_title: Destination Prediction in Higher-Order Networks using Endpoint-Conditioned
-    Markov Chains
+  Time: Thu 11:15 - 11:30
+  Abstract_ID: 151
+  Presenter: Leonardo Di Gaetano
+  Contribution_title: Dynamical Fluctuations of Random Walks in Higher-Order Networks
 - Contribution_type: Contributed Oral
   Session_name: Higher order networks 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 530
-  Presenter: Helder Pinto
-  Contribution_title: 'Assessment of High-Order Interactions in Dynamic Networks:
-    An Approach based on Conditional Information Rates'
-- Contribution_type: Contributed Oral
-  Session_name: Higher order networks 2
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:30 - 11:45
   Abstract_ID: 171
   Presenter: Samantha Dies
   Contribution_title: Higher-Order Network Effects on Information Access Equality
     & Efficiency
 - Contribution_type: Contributed Oral
   Session_name: Higher order networks 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 151
-  Presenter: Leonardo Di Gaetano
-  Contribution_title: Dynamical Fluctuations of Random Walks in Higher-Order Networks
-- Contribution_type: Contributed Oral
-  Session_name: Higher order networks 2
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:45 - 12:00
   Abstract_ID: 176
   Presenter: Nicholas Landry
   Contribution_title: Efficient sampling from the hypergraph configuration model
 - Contribution_type: Contributed Oral
   Session_name: Higher order networks 2
-  Time: Thu 11:00 - 13:00
+  Time: Thu 12:00 - 12:15
+  Abstract_ID: 248
+  Presenter: Chen Zhang
+  Contribution_title: Destination Prediction in Higher-Order Networks using Endpoint-Conditioned
+    Markov Chains
+- Contribution_type: Contributed Oral
+  Session_name: Higher order networks 2
+  Time: Thu 12:15 - 12:30
   Abstract_ID: 280
   Presenter: Timothy LaRock
   Contribution_title: Exploring the Non-uniqueness of Hypergraph Adjacency Matrices
 - Contribution_type: Contributed Oral
   Session_name: Higher order networks 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 62
-  Presenter: Cosimo Agostinelli
-  Contribution_title: Higher-order similarity measures for hypergraphs comparison
+  Time: Thu 12:30 - 12:45
+  Abstract_ID: 393
+  Presenter: Juni Schindler
+  Contribution_title: Topological autocorrelation in multiscale clusterings via 2-parameter
+    persistent homology
+- Contribution_type: Contributed Oral
+  Session_name: Higher order networks 2
+  Time: Thu 12:45 - 13:00
+  Abstract_ID: 530
+  Presenter: Helder Pinto
+  Contribution_title: 'Assessment of High-Order Interactions in Dynamic Networks:
+    An Approach based on Conditional Information Rates'
 - Contribution_type: Contributed Oral
   Session_name: Machine Learning 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 219
-  Presenter: Malte Lüken
-  Contribution_title: Leveraging Interpretable Network Embeddings to Understand Populist
-    Voting Behavior in Population-Scale Registry Networks
+  Time: Wed 14:30 - 14:45
+  Abstract_ID: 65
+  Presenter: Sadamori Kojaku
+  Contribution_title: Implicit degree bias in link prediction task
 - Contribution_type: Contributed Oral
   Session_name: Machine Learning 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 296
-  Presenter: Lisi Qarkaxhija
-  Contribution_title: Graph Neural Networks for Developer Churn Prediction in OSS
-    Collaboration Networks
-- Contribution_type: Contributed Oral
-  Session_name: Machine Learning 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 202
-  Presenter: Riccardo Milocco
-  Contribution_title: Multi-Scale Node Embeddings for Graph Modeling and Generation
-- Contribution_type: Contributed Oral
-  Session_name: Machine Learning 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 14:45 - 15:00
   Abstract_ID: 147
   Presenter: Runyue Wang
   Contribution_title: 'Dirac-Equation Signal Processing: Physics Boosts Topological
     Machine Learning'
 - Contribution_type: Contributed Oral
   Session_name: Machine Learning 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 15:00 - 15:15
+  Abstract_ID: 202
+  Presenter: Riccardo Milocco
+  Contribution_title: Multi-Scale Node Embeddings for Graph Modeling and Generation
+- Contribution_type: Contributed Oral
+  Session_name: Machine Learning 1
+  Time: Wed 15:15 - 15:30
+  Abstract_ID: 219
+  Presenter: Malte Lüken
+  Contribution_title: Leveraging Interpretable Network Embeddings to Understand Populist
+    Voting Behavior in Population-Scale Registry Networks
+- Contribution_type: Contributed Oral
+  Session_name: Machine Learning 1
+  Time: Wed 15:30 - 15:45
+  Abstract_ID: 296
+  Presenter: Lisi Qarkaxhija
+  Contribution_title: Graph Neural Networks for Developer Churn Prediction in OSS
+    Collaboration Networks
+- Contribution_type: Contributed Oral
+  Session_name: Machine Learning 1
+  Time: Wed 15:45 - 16:00
   Abstract_ID: 583
   Presenter: Olivia Courtney
   Contribution_title: Fast Computation of the Barycenter Graph in the Spectral Domain
 - Contribution_type: Contributed Oral
-  Session_name: Machine Learning 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 65
-  Presenter: Sadamori Kojaku
-  Contribution_title: Implicit degree bias in link prediction task
+  Session_name: Machine Learning 2
+  Time: Wed 14:30 - 14:48
+  Abstract_ID: 164
+  Presenter: Moritz Laber
+  Contribution_title: Generalization and Efficiency of Graph Neural ODEs for Network
+    Dynamical Systems
 - Contribution_type: Contributed Oral
   Session_name: Machine Learning 2
-  Time: Wed 14:30 - 16:00
+  Time: Wed 14:48 - 15:06
   Abstract_ID: 192
-  Presenter: Ingo Scholtes
+  Presenter: Jan von Pichowski
   Contribution_title: Hierarchical Graph Pooling Based on the Map Equation
 - Contribution_type: Contributed Oral
   Session_name: Machine Learning 2
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 577
-  Presenter: Vince Lyzinski
-  Contribution_title: Optimizing the Induced Correlation in Omnibus Joint Graph Embeddings
-- Contribution_type: Contributed Oral
-  Session_name: Machine Learning 2
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 531
-  Presenter: Franziska Heeg
-  Contribution_title: Temporal Graph Isomorphism and Expressivity of Temporal GNNs
-- Contribution_type: Contributed Oral
-  Session_name: Machine Learning 2
-  Time: Wed 14:30 - 16:00
+  Time: Wed 15:06 - 15:24
   Abstract_ID: 307
   Presenter: Maurizio Titz
   Contribution_title: Predicting Dynamic Stability from Static Features in Power Grid
     Models using Machine Learning
 - Contribution_type: Contributed Oral
   Session_name: Machine Learning 2
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 164
-  Presenter: Moritz Laber
-  Contribution_title: Generalization and Efficiency of Graph Neural ODEs for Network
-    Dynamical Systems
+  Time: Wed 15:24 - 15:42
+  Abstract_ID: 531
+  Presenter: Franziska Heeg
+  Contribution_title: Temporal Graph Isomorphism and Expressivity of Temporal GNNs
+- Contribution_type: Contributed Oral
+  Session_name: Machine Learning 2
+  Time: Wed 15:42 - 16:00
+  Abstract_ID: 577
+  Presenter: Vince Lyzinski
+  Contribution_title: Optimizing the Induced Correlation in Omnibus Joint Graph Embeddings
 - Contribution_type: Contributed Oral
   Session_name: Mobiity and spatial networks 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 70
-  Presenter: Rohit Sahasrabuddhe
-  Contribution_title: Concise variable-order networks from path data
+  Time: Wed 14:30 - 14:45
+  Abstract_ID: 599
+  Presenter: Vincent Grande
+  Contribution_title: Topological Trajectory Classification and Landmark Inference
+    on Simplicial Complexes
 - Contribution_type: Contributed Oral
   Session_name: Mobiity and spatial networks 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 210
-  Presenter: Minsuk Kim
-  Contribution_title: Minimum-cost percolation on US air transportation network
-- Contribution_type: Contributed Oral
-  Session_name: Mobiity and spatial networks 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 292
-  Presenter: Erick Elejalde Sierra
-  Contribution_title: Behavioral response to mobile phone evacuation alerts
-- Contribution_type: Contributed Oral
-  Session_name: Mobiity and spatial networks 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 14:45 - 15:00
   Abstract_ID: 170
   Presenter: Esteban Moro
   Contribution_title: Behavior-based contact structure in mobility networks
 - Contribution_type: Contributed Oral
   Session_name: Mobiity and spatial networks 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 15:00 - 15:15
+  Abstract_ID: 210
+  Presenter: Minsuk Kim
+  Contribution_title: Minimum-cost percolation on US air transportation network
+- Contribution_type: Contributed Oral
+  Session_name: Mobiity and spatial networks 1
+  Time: Wed 15:15 - 15:30
+  Abstract_ID: 292
+  Presenter: Erick Elejalde Sierra
+  Contribution_title: Behavioral response to mobile phone evacuation alerts
+- Contribution_type: Contributed Oral
+  Session_name: Mobiity and spatial networks 1
+  Time: Wed 15:30 - 15:45
   Abstract_ID: 463
   Presenter: Eszter Bokanyi
   Contribution_title: Mobility and cohesion of personal networks over the lifecourse
     of an entire population
 - Contribution_type: Contributed Oral
   Session_name: Mobiity and spatial networks 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 15:45 - 16:00
   Abstract_ID: 589
   Presenter: Giovanni Mauro
   Contribution_title: Dynamic models of gentrification
 - Contribution_type: Contributed Oral
   Session_name: Mobiity and spatial networks 2
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 304
-  Presenter: Thomas Robiglio
-  Contribution_title: Inferential clustering reveals administrative boundaries in
-    Austrian migration networks
-- Contribution_type: Contributed Oral
-  Session_name: Mobiity and spatial networks 2
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 207
-  Presenter: Guangyuan Weng
-  Contribution_title: Unsupervised Embedding of Mobility Networks Reveals Invisible
-    Barriers in US Cities
-- Contribution_type: Contributed Oral
-  Session_name: Mobiity and spatial networks 2
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 466
-  Presenter: Andrew Renninger
-  Contribution_title: Spanish heat waves curb discretionary mobility and alter work
-    behavior among the elderly
-- Contribution_type: Contributed Oral
-  Session_name: Mobiity and spatial networks 2
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 521
-  Presenter: Matteo Mazzamurro
-  Contribution_title: A network study of road mobility in the Roman Empire
-- Contribution_type: Contributed Oral
-  Session_name: Mobiity and spatial networks 2
-  Time: Thu 14:30 - 16:00
+  Time: Thu 14:30 - 14:45
   Abstract_ID: 129
   Presenter: Malte Schröder
   Contribution_title: Quantifying link importance and synergies in infrastructure
     networks
 - Contribution_type: Contributed Oral
   Session_name: Mobiity and spatial networks 2
-  Time: Thu 14:30 - 16:00
+  Time: Thu 14:45 - 15:00
+  Abstract_ID: 207
+  Presenter: Guangyuan Weng
+  Contribution_title: Unsupervised Embedding of Mobility Networks Reveals Invisible
+    Barriers in US Cities
+- Contribution_type: Contributed Oral
+  Session_name: Mobiity and spatial networks 2
+  Time: Thu 15:00 - 15:15
   Abstract_ID: 249
   Presenter: Xinhan Liu
   Contribution_title: Probabilistic Model for Shortest Path Distances and Shortest
     Path Field in Random Spatial Networks
 - Contribution_type: Contributed Oral
-  Session_name: Multilayer networks
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 615
-  Presenter: Abbas K. Rizi
-  Contribution_title: Homophily Within and Across Groups
+  Session_name: Mobiity and spatial networks 2
+  Time: Thu 15:15 - 15:30
+  Abstract_ID: 304
+  Presenter: Martina Contisciani
+  Contribution_title: Inferential clustering reveals administrative boundaries in
+    Austrian migration networks
+- Contribution_type: Contributed Oral
+  Session_name: Mobiity and spatial networks 2
+  Time: Thu 15:30 - 15:45
+  Abstract_ID: 466
+  Presenter: Andrew Renninger
+  Contribution_title: Spanish heat waves curb discretionary mobility and alter work
+    behavior among the elderly
+- Contribution_type: Contributed Oral
+  Session_name: Mobiity and spatial networks 2
+  Time: Thu 15:45 - 16:00
+  Abstract_ID: 521
+  Presenter: Matteo Mazzamurro
+  Contribution_title: A network study of road mobility in the Roman Empire
 - Contribution_type: Contributed Oral
   Session_name: Multilayer networks
-  Time: Wed 16:30 - 17:45
+  Time: Wed 16:30 - 16:45
   Abstract_ID: 145
   Presenter: Jean-François de Kemmeter
   Contribution_title: Multigraph reconstruction via nonlinear random walks
 - Contribution_type: Contributed Oral
   Session_name: Multilayer networks
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 560
-  Presenter: Abby Leung
-  Contribution_title: Multilayer Network Clustering to Assess Epidemic Model Dependence
-- Contribution_type: Contributed Oral
-  Session_name: Multilayer networks
-  Time: Wed 16:30 - 17:45
+  Time: Wed 16:45 - 17:00
   Abstract_ID: 187
   Presenter: Luis Rocha
   Contribution_title: 'Multilayer network inference via redundancy removal: linking
     the exposome to multiomics in human health'
 - Contribution_type: Contributed Oral
-  Session_name: Network Epidemics 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 429
-  Presenter: Anna Gamza
-  Contribution_title: Spatial aggregation areas for infectious contact network inferred
-    from pathogen sequence data
+  Session_name: Multilayer networks
+  Time: Wed 17:00 - 17:15
+  Abstract_ID: 401
+  Presenter: Haily Merritt
+  Contribution_title: INFORMED INTER-BRAIN COUPLING IMPROVES PREDICTIONS OF MENTAL
+    HEALTH OUTCOMES
+- Contribution_type: Contributed Oral
+  Session_name: Multilayer networks
+  Time: Wed 17:15 - 17:30
+  Abstract_ID: 560
+  Presenter: Abby Leung
+  Contribution_title: Multilayer Network Clustering to Assess Epidemic Model Dependence
+- Contribution_type: Contributed Oral
+  Session_name: Multilayer networks
+  Time: Wed 17:30 - 17:45
+  Abstract_ID: 615
+  Presenter: Abbas K. Rizi
+  Contribution_title: Homophily Within and Across Groups
 - Contribution_type: Contributed Oral
   Session_name: Network Epidemics 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 281
-  Presenter: Ka Yin Leung
-  Contribution_title: 'Epidemic network model combining sexual and household transmissions:
-    application to the mpox outbreak in the Democratic Republic of Congo'
-- Contribution_type: Contributed Oral
-  Session_name: Network Epidemics 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 14:30 - 14:45
   Abstract_ID: 268
   Presenter: Amanda Perofsky
   Contribution_title: Modelling the effects of COVID-19 mobility disruptions on RSV
     transmission in Seattle, Washington
 - Contribution_type: Contributed Oral
   Session_name: Network Epidemics 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 14:45 - 15:00
+  Abstract_ID: 281
+  Presenter: Ka Yin Leung
+  Contribution_title: 'Epidemic network model combining sexual and household transmissions:
+    application to the mpox outbreak in the Democratic Republic of Congo'
+- Contribution_type: Contributed Oral
+  Session_name: Network Epidemics 1
+  Time: Wed 15:00 - 15:15
   Abstract_ID: 370
   Presenter: Davide Maniscalco
   Contribution_title: Adaptive behavior in response to the 2022 mpox epidemic in the
     Paris region
 - Contribution_type: Contributed Oral
   Session_name: Network Epidemics 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 15:15 - 15:30
+  Abstract_ID: 429
+  Presenter: Anna Gamza
+  Contribution_title: Spatial aggregation areas for infectious contact network inferred
+    from pathogen sequence data
+- Contribution_type: Contributed Oral
+  Session_name: Network Epidemics 1
+  Time: Wed 15:30 - 15:45
   Abstract_ID: 485
   Presenter: Gergely Odor
   Contribution_title: 'Age-infection matrix inference from genetic sequence data:
     a machine learning approach'
 - Contribution_type: Contributed Oral
   Session_name: Network Epidemics 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 15:45 - 16:00
   Abstract_ID: 603
   Presenter: Eugenio Valdano
   Contribution_title: Estimates of the reproduction ratio from epidemic surveillance
     may be biased in spatially structured populations
 - Contribution_type: Contributed Oral
   Session_name: Network epidemics 2
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 347
-  Presenter: Anthony Wood
-  Contribution_title: Placement of monitoring sites on a wastewater network for effective
-    disease surveillance
-- Contribution_type: Contributed Oral
-  Session_name: Network epidemics 2
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 392
-  Presenter: Sámuel Gáspár Balogh
-  Contribution_title: Disease-induced immunization is efficient in dense geometric
-    networks
-- Contribution_type: Contributed Oral
-  Session_name: Network epidemics 2
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 329
-  Presenter: Tommaso Bertola
-  Contribution_title: Critical behavior in multiscale epidemic models based on force
-    of infection
-- Contribution_type: Contributed Oral
-  Session_name: Network epidemics 2
-  Time: Thu 14:30 - 16:00
+  Time: Thu 14:30 - 14:45
   Abstract_ID: 53
   Presenter: Katharina Ledebur
   Contribution_title: Optimal prevention strategies for chronic diseases in a compartmental
     disease trajectory model
 - Contribution_type: Contributed Oral
   Session_name: Network epidemics 2
-  Time: Thu 14:30 - 16:00
+  Time: Thu 14:45 - 15:00
   Abstract_ID: 75
   Presenter: Pavlos Alexandros Dimitriou
   Contribution_title: 'Non-Markovian dynamics and basic reproduction number in COVID-19:
     evidence from Cyprus contact tracing data'
 - Contribution_type: Contributed Oral
   Session_name: Network epidemics 2
-  Time: Thu 14:30 - 16:00
+  Time: Thu 15:00 - 15:15
+  Abstract_ID: 329
+  Presenter: Tommaso Bertola
+  Contribution_title: Critical behavior in multiscale epidemic models based on force
+    of infection
+- Contribution_type: Contributed Oral
+  Session_name: Network epidemics 2
+  Time: Thu 15:15 - 15:30
+  Abstract_ID: 347
+  Presenter: Anthony Wood
+  Contribution_title: Placement of monitoring sites on a wastewater network for effective
+    disease surveillance
+- Contribution_type: Contributed Oral
+  Session_name: Network epidemics 2
+  Time: Thu 15:30 - 15:45
   Abstract_ID: 385
   Presenter: Chris Banks
   Contribution_title: Assessing the potential impact of environmental land management
     schemes on emergent infectious disease risks
 - Contribution_type: Contributed Oral
-  Session_name: Network Geometry
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 389
-  Presenter: Aarathi Parameswaran
-  Contribution_title: Mechanisms of Symmetry Breaking in Optimal Networks
+  Session_name: Network epidemics 2
+  Time: Thu 15:45 - 16:00
+  Abstract_ID: 392
+  Presenter: Sámuel Gáspár Balogh
+  Contribution_title: Disease-induced immunization is efficient in dense geometric
+    networks
 - Contribution_type: Contributed Oral
   Session_name: Network Geometry
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 299
-  Presenter: Jasper Van der Kolk
-  Contribution_title: The enhanced geometry in multiplex networks
-- Contribution_type: Contributed Oral
-  Session_name: Network Geometry
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 213
-  Presenter: ZHIHAO QIU
-  Contribution_title: Predicting shortest path nodes in random geometric graphs
-- Contribution_type: Contributed Oral
-  Session_name: Network Geometry
-  Time: Wed 16:30 - 17:45
+  Time: Wed 16:30 - 16:45
   Abstract_ID: 64
   Presenter: Robert Jankowski
   Contribution_title: Mapping bipartite networks into multidimensional hyperbolic
     spaces
 - Contribution_type: Contributed Oral
   Session_name: Network Geometry
-  Time: Wed 16:30 - 17:45
+  Time: Wed 16:45 - 17:00
+  Abstract_ID: 213
+  Presenter: ZHIHAO QIU
+  Contribution_title: Predicting shortest path nodes in random geometric graphs
+- Contribution_type: Contributed Oral
+  Session_name: Network Geometry
+  Time: Wed 17:00 - 17:15
+  Abstract_ID: 299
+  Presenter: Jasper Van der Kolk
+  Contribution_title: The enhanced geometry in multiplex networks
+- Contribution_type: Contributed Oral
+  Session_name: Network Geometry
+  Time: Wed 17:15 - 17:30
+  Abstract_ID: 389
+  Presenter: Aarathi Parameswaran
+  Contribution_title: Mechanisms of Symmetry Breaking in Optimal Networks
+- Contribution_type: Contributed Oral
+  Session_name: Network Geometry
+  Time: Wed 17:30 - 17:45
   Abstract_ID: 616
   Presenter: Stefano Guarino
   Contribution_title: Random Hyperbolic Graphs with Arbitrary Mesoscale Structures
 - Contribution_type: Contributed Oral
   Session_name: Network models
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 402
-  Presenter: Maxime Lucas
-  Contribution_title: Functional reducibility of higher-order networks
-- Contribution_type: Contributed Oral
-  Session_name: Network models
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 405
-  Presenter: Marcos Oliveira
-  Contribution_title: Stronger together? The homophily trap in networks
-- Contribution_type: Contributed Oral
-  Session_name: Network models
-  Time: Wed 16:30 - 17:45
+  Time: Wed 16:30 - 16:45
   Abstract_ID: 24
   Presenter: Thao Le
   Contribution_title: Community Structure in Markov Influence Graphs with Heterogeneous
     Holding Times
 - Contribution_type: Contributed Oral
   Session_name: Network models
-  Time: Wed 16:30 - 17:45
+  Time: Wed 16:45 - 17:00
+  Abstract_ID: 28
+  Presenter: Perrin Ruth
+  Contribution_title: Cyclic Random Graphs Predicting Giant Molecules in Hydrocarbon
+    Pyrolysis
+- Contribution_type: Contributed Oral
+  Session_name: Network models
+  Time: Wed 17:00 - 17:15
   Abstract_ID: 135
   Presenter: Jun Sun
   Contribution_title: Can driving mechanisms of contact duration distributions be
     distinguished?
 - Contribution_type: Contributed Oral
   Session_name: Network models
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 158
-  Presenter: Charley Presigny
-  Contribution_title: Vector-borne multiscale models encompassing mobility and climate
-    features
+  Time: Wed 17:15 - 17:30
+  Abstract_ID: 402
+  Presenter: Maxime Lucas
+  Contribution_title: Functional reducibility of higher-order networks
+- Contribution_type: Contributed Oral
+  Session_name: Network models
+  Time: Wed 17:30 - 17:45
+  Abstract_ID: 405
+  Presenter: Marcos Oliveira
+  Contribution_title: Stronger together? The homophily trap in networks
 - Contribution_type: Contributed Oral
   Session_name: Science of science
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 272
-  Presenter: Shuang Zhang
-  Contribution_title: Neural Embeddings of Citation Flows Capturing the Narrowing
-    Idea Mobility
-- Contribution_type: Contributed Oral
-  Session_name: Science of science
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 252
-  Presenter: Elizaveta Evmenova
-  Contribution_title: Who are your collaborators? Uncovering collaboration patterns
-    in science
-- Contribution_type: Contributed Oral
-  Session_name: Science of science
-  Time: Wed 16:30 - 17:45
+  Time: Wed 16:30 - 16:45
   Abstract_ID: 59
   Presenter: Kazuki Nakajima
   Contribution_title: Quantitative analysis of citation imbalance in computer science
     using reference models
 - Contribution_type: Contributed Oral
   Session_name: Science of science
-  Time: Wed 16:30 - 17:45
+  Time: Wed 16:45 - 17:00
+  Abstract_ID: 252
+  Presenter: Elizaveta Evmenova
+  Contribution_title: Who are your collaborators? Uncovering collaboration patterns
+    in science
+- Contribution_type: Contributed Oral
+  Session_name: Science of science
+  Time: Wed 17:00 - 17:15
+  Abstract_ID: 272
+  Presenter: Shuang Zhang
+  Contribution_title: Neural Embeddings of Citation Flows Capturing the Narrowing
+    Idea Mobility
+- Contribution_type: Contributed Oral
+  Session_name: Science of science
+  Time: Wed 17:15 - 17:30
   Abstract_ID: 346
   Presenter: Ching Jin
   Contribution_title: Quantifying Scientific Recognition Process in Complex Awarding
     Systems
 - Contribution_type: Contributed Oral
   Session_name: Science of science
-  Time: Wed 16:30 - 17:45
-  Abstract_ID: 367
-  Presenter: Ching Jin
-  Contribution_title: Quantifying Diversity, Equity and Inclusion (DEI) in Scientific
-    Recognition
+  Time: Wed 17:30 - 17:45
+  Abstract_ID: 409
+  Presenter: Julian Sienkiewicz
+  Contribution_title: Memetic analysis of Big Tech influence over AI research
 - Contribution_type: Contributed Oral
   Session_name: Signed networks
-  Time: Thu 16:30 - 17:45
+  Time: Thu 16:30 - 16:45
   Abstract_ID: 11
   Presenter: Fernando Diaz-Diaz
   Contribution_title: Signed graphs in data sciences via communicability geometry
 - Contribution_type: Contributed Oral
   Session_name: Signed networks
-  Time: Thu 16:30 - 17:45
+  Time: Thu 16:45 - 17:00
+  Abstract_ID: 235
+  Presenter: Shazia Ayn Babul
+  Contribution_title: Negative Ties Highlight Hidden Extremes in Social Media Polarization
+- Contribution_type: Contributed Oral
+  Session_name: Signed networks
+  Time: Thu 17:00 - 17:15
+  Abstract_ID: 275
+  Presenter: Anna Gallo
+  Contribution_title: Statistically validated projection of bipartite signed networks
+- Contribution_type: Contributed Oral
+  Session_name: Signed networks
+  Time: Thu 17:15 - 17:30
   Abstract_ID: 397
   Presenter: Rachith Aiyappa
   Contribution_title: Emergence of Shared and Polarized Beliefs from the Dynamics
     of Networked Belief Systems
 - Contribution_type: Contributed Oral
   Session_name: Signed networks
-  Time: Thu 16:30 - 17:45
-  Abstract_ID: 275
-  Presenter: Anna Gallo
-  Contribution_title: Statistically validated projection of bipartite signed networks
-- Contribution_type: Contributed Oral
-  Session_name: Signed networks
-  Time: Thu 16:30 - 17:45
+  Time: Thu 17:30 - 17:45
   Abstract_ID: 546
   Presenter: Piotr Górski
   Contribution_title: Multidimensional attributes make structural balance dynamics
     measurable
 - Contribution_type: Contributed Oral
-  Session_name: Signed networks
-  Time: Thu 16:30 - 17:45
-  Abstract_ID: 235
-  Presenter: Shazia Ayn Babul
-  Contribution_title: Negative Ties Highlight Hidden Extremes in Social Media Polarization
+  Session_name: Social networks 1
+  Time: Wed 11:00 - 11:15
+  Abstract_ID: 25
+  Presenter: Miguel A. González-Casado
+  Contribution_title: An exploration of equilibrium dynamics in social structures
 - Contribution_type: Contributed Oral
   Session_name: Social networks 1
-  Time: Wed 11:00 - 13:00
+  Time: Wed 11:15 - 11:30
+  Abstract_ID: 174
+  Presenter: Giulia De Pasquale
+  Contribution_title: Fairness in Social Influence Maximization via Optimal Transport
+- Contribution_type: Contributed Oral
+  Session_name: Social networks 1
+  Time: Wed 11:30 - 11:45
   Abstract_ID: 208
   Presenter: Robert Goldstone
   Contribution_title: Multi-scale modularity in networks of agents that adapt to increase
     their relevance
 - Contribution_type: Contributed Oral
   Session_name: Social networks 1
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 500
-  Presenter: Chandra Tamang
-  Contribution_title: Estimating network effects and their uncertainty in discrete
-    choice modelling
+  Time: Wed 11:45 - 12:00
+  Abstract_ID: 234
+  Presenter: Mingze Qi
+  Contribution_title: Efficient network intervention with chain-referral sampling
+    data
 - Contribution_type: Contributed Oral
   Session_name: Social networks 1
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 522
-  Presenter: Samuel Martin-Gutierrez
-  Contribution_title: Intersectional inequalities in social networks
-- Contribution_type: Contributed Oral
-  Session_name: Social networks 1
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 550
-  Presenter: Markus Reiter-Haas
-  Contribution_title: Curiosity Priming Shifts Attention to Well-Informed Nodes in
-    Social Ego Networks
-- Contribution_type: Contributed Oral
-  Session_name: Social networks 1
-  Time: Wed 11:00 - 13:00
+  Time: Wed 12:00 - 12:15
   Abstract_ID: 412
   Presenter: Beatriz Arregui Garcia
   Contribution_title: Unveiling emerging moderation dynamics in Mastodon’s federated
     instance network.
 - Contribution_type: Contributed Oral
   Session_name: Social networks 1
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 25
-  Presenter: Miguel A. González-Casado
-  Contribution_title: An exploration of equilibrium dynamics in social structures
+  Time: Wed 12:15 - 12:30
+  Abstract_ID: 500
+  Presenter: Chandra Tamang
+  Contribution_title: Estimating network effects and their uncertainty in discrete
+    choice modelling
 - Contribution_type: Contributed Oral
   Session_name: Social networks 1
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 174
-  Presenter: Giulia De Pasquale
-  Contribution_title: Fairness in Social Influence Maximization via Optimal Transport
+  Time: Wed 12:30 - 12:45
+  Abstract_ID: 522
+  Presenter: Fariba Karimi
+  Contribution_title: Intersectional inequalities in social networks
 - Contribution_type: Contributed Oral
   Session_name: Social networks 1
-  Time: Wed 11:00 - 13:00
-  Abstract_ID: 234
-  Presenter: Mingze Qi
-  Contribution_title: Efficient network intervention with chain-referral sampling
-    data
+  Time: Wed 12:45 - 13:00
+  Abstract_ID: 550
+  Presenter: Markus Reiter-Haas
+  Contribution_title: Curiosity Priming Shifts Attention to Well-Informed Nodes in
+    Social Ego Networks
 - Contribution_type: Contributed Oral
   Session_name: Social networks 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 216
-  Presenter: Javier Garcia-bernardo
-  Contribution_title: Social transmission along multiple pathways promotes information
-    fidelity and reduces divisiveness
-- Contribution_type: Contributed Oral
-  Session_name: Social networks 2
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:00 - 11:15
   Abstract_ID: 186
   Presenter: Henrique Ferraz de Arruda
   Contribution_title: 'From Framework to Insights: The Role of Priority Users in Echo
     Chamber Formation'
 - Contribution_type: Contributed Oral
   Session_name: Social networks 2
-  Time: Thu 11:00 - 13:00
+  Time: Thu 11:15 - 11:30
+  Abstract_ID: 216
+  Presenter: Javier Garcia-Bernardo
+  Contribution_title: Social transmission along multiple pathways promotes information
+    fidelity and reduces divisiveness
+- Contribution_type: Contributed Oral
+  Session_name: Social networks 2
+  Time: Thu 11:30 - 11:45
+  Abstract_ID: 302
+  Presenter: Max Falkenberg
+  Contribution_title: Patterns of partisan toxicity and engagement reveal the common
+    structure of online political communication across countries
+- Contribution_type: Contributed Oral
+  Session_name: Social networks 2
+  Time: Thu 11:45 - 12:00
   Abstract_ID: 386
   Presenter: Ali Salloum
   Contribution_title: 'Political Polarization Patterns on Bluesky: Understanding Political
     Discussion in an Emerging Social Platform'
 - Contribution_type: Contributed Oral
   Session_name: Social networks 2
-  Time: Thu 11:00 - 13:00
+  Time: Thu 12:00 - 12:15
   Abstract_ID: 478
   Presenter: Edoardo Di Martino
   Contribution_title: Characterizing the Fragmentation of the Social Media Ecosystem
 - Contribution_type: Contributed Oral
   Session_name: Social networks 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 555
-  Presenter: Petter Holme
-  Contribution_title: Humans and AI imagining social networks from a distance
-- Contribution_type: Contributed Oral
-  Session_name: Social networks 2
-  Time: Thu 11:00 - 13:00
+  Time: Thu 12:15 - 12:30
   Abstract_ID: 516
   Presenter: Arttu Malkamäki
   Contribution_title: 'Political alliances across relational contexts: a complex coalition
     approach'
 - Contribution_type: Contributed Oral
   Session_name: Social networks 2
-  Time: Thu 11:00 - 13:00
-  Abstract_ID: 302
-  Presenter: Max Falkenberg
-  Contribution_title: Patterns of partisan toxicity and engagement reveal the common
-    structure of online political communication across countries
+  Time: Thu 12:30 - 12:45
+  Abstract_ID: 555
+  Presenter: Petter Holme
+  Contribution_title: Humans and AI imagining social networks from a distance
+- Contribution_type: Contributed Oral
+  Session_name: Social networks 2
+  Time: Thu 12:45 - 13:00
+  Abstract_ID: 543
+  Presenter: Edoardo Loru
+  Contribution_title: A Compression-Based Approach to Detecting Automated and Coordinated
+    Behavior on Social Media
 - Contribution_type: Contributed Oral
   Session_name: Statistical analysis and inference 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 284
-  Presenter: Tiago Peixoto
-  Contribution_title: Network reconstruction via the minimum description length principle
-- Contribution_type: Contributed Oral
-  Session_name: Statistical analysis and inference 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 14:30 - 14:45
   Abstract_ID: 13
   Presenter: Alec Kirkley
   Contribution_title: Parameter-free network sparsification with information theory
 - Contribution_type: Contributed Oral
   Session_name: Statistical analysis and inference 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 419
-  Presenter: Diego Garlaschelli
-  Contribution_title: Description length of canonical and microcanonical models
-- Contribution_type: Contributed Oral
-  Session_name: Statistical analysis and inference 1
-  Time: Wed 14:30 - 16:00
-  Abstract_ID: 417
-  Presenter: Francesca Giuffrida
-  Contribution_title: 'Network Safe Testing: E-Values for Maximum Entropy Models'
-- Contribution_type: Contributed Oral
-  Session_name: Statistical analysis and inference 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 14:45 - 15:00
   Abstract_ID: 159
   Presenter: Maximilien Dreveton
   Contribution_title: Why the Metric Backbone Preserves Community Structure
 - Contribution_type: Contributed Oral
   Session_name: Statistical analysis and inference 1
-  Time: Wed 14:30 - 16:00
+  Time: Wed 15:00 - 15:15
+  Abstract_ID: 284
+  Presenter: Tiago Peixoto
+  Contribution_title: Network reconstruction via the minimum description length principle
+- Contribution_type: Contributed Oral
+  Session_name: Statistical analysis and inference 1
+  Time: Wed 15:15 - 15:30
+  Abstract_ID: 417
+  Presenter: Francesca Giuffrida
+  Contribution_title: 'Network Safe Testing: E-Values for Maximum Entropy Models'
+- Contribution_type: Contributed Oral
+  Session_name: Statistical analysis and inference 1
+  Time: Wed 15:30 - 15:45
+  Abstract_ID: 419
+  Presenter: Diego Garlaschelli
+  Contribution_title: Description length of canonical and microcanonical models
+- Contribution_type: Contributed Oral
+  Session_name: Statistical analysis and inference 1
+  Time: Wed 15:45 - 16:00
   Abstract_ID: 464
   Presenter: Lena Mangold
   Contribution_title: 'Exploring Partition Landscapes in Networks: Bayesian Inference,
     Ambiguity, and Metadata'
 - Contribution_type: Contributed Oral
   Session_name: Statistical analysis and inference 2
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 448
-  Presenter: Yuri Antonacci
-  Contribution_title: Partial Information Decomposition in Networks of Random Processes
-- Contribution_type: Contributed Oral
-  Session_name: Statistical analysis and inference 2
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 121
-  Presenter: Sebastian Morel-Balbi
-  Contribution_title: 'A Non-Parametric Bayesian Approach to Partial Rankings: Parsimonious
-    Inference in Sparse Data Regimes'
-- Contribution_type: Contributed Oral
-  Session_name: Statistical analysis and inference 2
-  Time: Thu 14:30 - 16:00
+  Time: Thu 14:30 - 14:45
   Abstract_ID: 85
   Presenter: Seongmin Kim
   Contribution_title: Inference accuracy of loopy belief propagation in Ising and
     percolation models
 - Contribution_type: Contributed Oral
   Session_name: Statistical analysis and inference 2
-  Time: Thu 14:30 - 16:00
+  Time: Thu 14:45 - 15:00
+  Abstract_ID: 121
+  Presenter: Sebastian Morel-Balbi
+  Contribution_title: 'A Non-Parametric Bayesian Approach to Partial Rankings: Parsimonious
+    Inference in Sparse Data Regimes'
+- Contribution_type: Contributed Oral
+  Session_name: Statistical analysis and inference 2
+  Time: Thu 15:00 - 15:15
+  Abstract_ID: 180
+  Presenter: Emma Crenshaw
+  Contribution_title: Latent Space Network Modeling with Covariate Selection
+- Contribution_type: Contributed Oral
+  Session_name: Statistical analysis and inference 2
+  Time: Thu 15:15 - 15:30
   Abstract_ID: 264
   Presenter: Erik Weis
   Contribution_title: Regionalization via nonparametric community detection in spatially
     embedded networks
 - Contribution_type: Contributed Oral
   Session_name: Statistical analysis and inference 2
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 180
-  Presenter: Emma Crenshaw
-  Contribution_title: Latent Space Network Modeling with Covariate Selection
-- Contribution_type: Contributed Oral
-  Session_name: Statistical analysis and inference 2
-  Time: Thu 14:30 - 16:00
+  Time: Thu 15:30 - 15:45
   Abstract_ID: 288
   Presenter: Tomas Scagliarini
   Contribution_title: Assessing the interdependence of climate tipping elements
 - Contribution_type: Contributed Oral
-  Session_name: Synchronization and Control Theory
-  Time: Thu 16:30 - 17:45
-  Abstract_ID: 375
-  Presenter: Iva Bačić
-  Contribution_title: Synchronization by convex optimization
+  Session_name: Statistical analysis and inference 2
+  Time: Thu 15:45 - 16:00
+  Abstract_ID: 448
+  Presenter: Yuri Antonacci
+  Contribution_title: Partial Information Decomposition in Networks of Random Processes
 - Contribution_type: Contributed Oral
   Session_name: Synchronization and Control Theory
-  Time: Thu 16:30 - 17:45
-  Abstract_ID: 222
-  Presenter: Fabrizio De Vico Fallani
-  Contribution_title: Low-dimensional network controllability
-- Contribution_type: Contributed Oral
-  Session_name: Synchronization and Control Theory
-  Time: Thu 16:30 - 17:45
-  Abstract_ID: 140
-  Presenter: Dohyun Kim
-  Contribution_title: Critical threshold for synchronizability of high-dimensional
-    Kuramoto oscillators under higher-order interactions
-- Contribution_type: Contributed Oral
-  Session_name: Synchronization and Control Theory
-  Time: Thu 16:30 - 17:45
+  Time: Thu 16:30 - 16:45
   Abstract_ID: 116
   Presenter: Joseph Lizier
   Contribution_title: Analytic relationship of relative synchronizability to network
     structure and motifs
 - Contribution_type: Contributed Oral
   Session_name: Synchronization and Control Theory
-  Time: Thu 16:30 - 17:45
+  Time: Thu 16:45 - 17:00
+  Abstract_ID: 140
+  Presenter: Dohyun Kim
+  Contribution_title: Critical threshold for synchronizability of high-dimensional
+    Kuramoto oscillators under higher-order interactions
+- Contribution_type: Contributed Oral
+  Session_name: Synchronization and Control Theory
+  Time: Thu 17:00 - 17:15
+  Abstract_ID: 222
+  Presenter: Fabrizio De Vico Fallani
+  Contribution_title: Low-dimensional network controllability
+- Contribution_type: Contributed Oral
+  Session_name: Synchronization and Control Theory
+  Time: Thu 17:15 - 17:30
   Abstract_ID: 306
   Presenter: Jose Nacher
   Contribution_title: Efficient Identification of Critical Control Nodes in Probabilistic
     Directed Networks and Their Associations with Disease Genes
 - Contribution_type: Contributed Oral
+  Session_name: Synchronization and Control Theory
+  Time: Thu 17:30 - 17:45
+  Abstract_ID: 375
+  Presenter: Iva Bačić
+  Contribution_title: Synchronization by convex optimization
+- Contribution_type: Contributed Oral
   Session_name: Temporal networks
-  Time: Thu 14:30 - 16:00
+  Time: Thu 14:30 - 14:45
   Abstract_ID: 44
   Presenter: Marco Mancastroppa
   Contribution_title: 'Emerging Activity Temporal Hypergraph (EATH): a model for temporally
     and structurally heterogeneous time-varying hypergraphs'
 - Contribution_type: Contributed Oral
   Session_name: Temporal networks
-  Time: Thu 14:30 - 16:00
+  Time: Thu 14:45 - 15:00
+  Abstract_ID: 136
+  Presenter: Andrea Failla
+  Contribution_title: Tracking Community Evolution via Multi-Faceted Events
+- Contribution_type: Contributed Oral
+  Session_name: Temporal networks
+  Time: Thu 15:00 - 15:15
   Abstract_ID: 388
   Presenter: Giulia de Meijere
   Contribution_title: Emergence of stationarity in social and informational temporal
     networks
 - Contribution_type: Contributed Oral
   Session_name: Temporal networks
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 136
-  Presenter: Andrea Failla
-  Contribution_title: Tracking Community Evolution via Multi-Faceted Events
+  Time: Thu 15:15 - 15:30
+  Abstract_ID: 394
+  Presenter: Antonio Longa
+  Contribution_title: Patterns in Temporal Networks with Higher-Order Egocentric Structures
 - Contribution_type: Contributed Oral
   Session_name: Temporal networks
-  Time: Thu 14:30 - 16:00
+  Time: Thu 15:30 - 15:45
   Abstract_ID: 540
   Presenter: Arash Badie-Modiri
   Contribution_title: 'Decentralised federated learning over temporal networks: the
     role of temporal heterogeneity'
 - Contribution_type: Contributed Oral
   Session_name: Temporal networks
-  Time: Thu 14:30 - 16:00
+  Time: Thu 15:45 - 16:00
   Abstract_ID: 600
   Presenter: Samuel Koovely
   Contribution_title: Entropy-Informed Dynamic Community Detection
-- Contribution_type: Contributed Oral
-  Session_name: Temporal networks
-  Time: Thu 14:30 - 16:00
-  Abstract_ID: 394
-  Presenter: Antonio Longa
-  Contribution_title: Patterns in Temporal Networks with Higher-Order Egocentric Structures
 - Contribution_type: Lightning Talk
   Session_name: ''
   Time: Wed 9:45 - 10:30
@@ -1243,7 +1277,7 @@
   Session_name: ''
   Time: Wed 9:45 - 10:30
   Abstract_ID: 211
-  Presenter: Xuanchi Li
+  Presenter: Sadamori Kojaku
   Contribution_title: A Near Linear-time Network Sampling for the Enhanced Configuration
     Models
 - Contribution_type: Lightning Talk
@@ -1282,10 +1316,23 @@
 - Contribution_type: Lightning Talk
   Session_name: ''
   Time: Wed 9:45 - 10:30
+  Abstract_ID: 156
+  Presenter: Robin Persoons
+  Contribution_title: Continuous-time random walker induced temporal graphs
+- Contribution_type: Lightning Talk
+  Session_name: ''
+  Time: Wed 9:45 - 10:30
   Abstract_ID: 286
   Presenter: Victor Brabant
   Contribution_title: Longitudinal Modularity for Uncovering Dynamic Community Structures
     in Link Streams
+- Contribution_type: Lightning Talk
+  Session_name: ''
+  Time: Wed 9:45 - 10:30
+  Abstract_ID: 408
+  Presenter: Gabriele Di Bona
+  Contribution_title: Modeling discovery through the exploration of growing networks
+    of possibility
 - Contribution_type: Lightning Talk
   Session_name: ''
   Time: Thu 9:45 - 10:30
@@ -1362,10 +1409,16 @@
 - Contribution_type: Lightning Talk
   Session_name: ''
   Time: Thu 9:45 - 10:30
-  Abstract_ID: 260
-  Presenter: Katherine Wootton
-  Contribution_title: Bringing the action to social-ecological networks can upend
-    our understanding of cultural-ecological relationships
+  Abstract_ID: 373
+  Presenter: Emanuele Cozzo
+  Contribution_title: Localization Transitions and Autocorrelations in Contact-Based
+    Social Contagion Models on Multiplex Networks
+- Contribution_type: Lightning Talk
+  Session_name: ''
+  Time: Thu 9:45 - 10:30
+  Abstract_ID: 461
+  Presenter: Miroslav Mirchev
+  Contribution_title: Misinformation spreading through chain emails
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
@@ -1414,13 +1467,6 @@
   Presenter: Mar Barrantes Cepas
   Contribution_title: Fiber-specific white matter damage explains cortical atrophy
     in multiple sclerosis
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Wednesday
-  Abstract_ID: 9
-  Presenter: Viktor Stojkoski
-  Contribution_title: 'Development acupuncture: The network structure of multidimensional
-    poverty and its implications'
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
@@ -1575,13 +1621,6 @@
   Presenter: Ruixue Jing
   Contribution_title: Optimising Cryptocurrency Portfolios Through Stable Clustering
     of Price Correlation Networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Wednesday
-  Abstract_ID: 322
-  Presenter: Lars Schroeder
-  Contribution_title: Stationary distribution of node2vec random walks on household
-    models
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
@@ -1783,19 +1822,6 @@
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
-  Abstract_ID: 142
-  Presenter: Veronica Mesina
-  Contribution_title: 'Framing the Narrative: How Italian Authorities Dominated COVID-19
-    Twitter Debate'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Wednesday
-  Abstract_ID: 461
-  Presenter: Kateryna Ponomarenko
-  Contribution_title: Misinformation spreading through chain emails
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Wednesday
   Abstract_ID: 581
   Presenter: Imme Huitema
   Contribution_title: Echo-chambers on Mastodon, Investigating Smaller Instances
@@ -1891,12 +1917,6 @@
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
-  Abstract_ID: 495
-  Presenter: Aleksandra Puchalska
-  Contribution_title: Pangraphs as models of higher-order interactions
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Wednesday
   Abstract_ID: 324
   Presenter: Yanna Kraakman
   Contribution_title: Hypercurveball algorithm for sampling hypergraphs with fixed
@@ -1923,9 +1943,10 @@
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
-  Abstract_ID: 27
-  Presenter: Antonina Khramova
-  Contribution_title: Constructing cospectral hypergraphs and gain graphs
+  Abstract_ID: 78
+  Presenter: Sinan Dede
+  Contribution_title: 'Methodological Advancement in Causal Loops Diagrams Data Collection
+    and Analysis: A Network Approach'
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
@@ -1971,13 +1992,6 @@
   Presenter: Gugyoung Kim
   Contribution_title: 'Exploring Chimera States in Synchronous Oscillators: Focusing
     Solely on Triadic Interactions'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Wednesday
-  Abstract_ID: 599
-  Presenter: Vincent Grande
-  Contribution_title: Topological Trajectory Classification and Landmark Inference
-    on Simplicial Complexes
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
@@ -2110,15 +2124,9 @@
   Session_name: ''
   Time: Wednesday
   Abstract_ID: 355
-  Presenter: Niek Mooij
+  Presenter: ''
   Contribution_title: Finding independent sets in higher-order networks using competitive
     dynamics
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Wednesday
-  Abstract_ID: 156
-  Presenter: Robin Persoons
-  Contribution_title: Continuous-time random walker induced temporal graphs
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
@@ -2144,34 +2152,21 @@
   Session_name: ''
   Time: Wednesday
   Abstract_ID: 421
-  Presenter: Fabrizio Mastrolorito
+  Presenter: ''
   Contribution_title: fragSMILES as chemical language from graph reduction
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
-  Abstract_ID: 569
-  Presenter: Srikanth Iyer
-  Contribution_title: Input Redundancy and Symmetry Enhance Noise Resilience in Top
-    Cellular Automaton Rules for the Density Classification Task
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Wednesday
   Abstract_ID: 570
-  Presenter: Madhvi Ramrakhiyani
+  Presenter: ''
   Contribution_title: Rumor Spread through Farthest-First Traversal
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
   Abstract_ID: 574
-  Presenter: François Meyer
+  Presenter: ''
   Contribution_title: 'When the Metric Matters: a Study on the Location of the Frechet
     Mean Network'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Wednesday
-  Abstract_ID: 561
-  Presenter: Christian Vestergaard
-  Contribution_title: Generative kernel embeddings for weighted directed networks
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
@@ -2182,39 +2177,32 @@
   Session_name: ''
   Time: Wednesday
   Abstract_ID: 606
-  Presenter: Preethi G
+  Presenter: ''
   Contribution_title: 'Frustrated Quantum Magnetism on Complex Networks: What Sets
     the Total Spin'
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
   Abstract_ID: 376
-  Presenter: Miquel Àngel Fiol
+  Presenter: ''
   Contribution_title: On the augmented 2-token graphs of cycles
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
   Abstract_ID: 277
-  Presenter: Mohammad Behbahani
+  Presenter: ''
   Contribution_title: Two-Stage HMM-REM Model for Analyzing Relational Event Data
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
   Abstract_ID: 361
-  Presenter: Mónica Reyes
+  Presenter: ''
   Contribution_title: Exploring Supertoken Graphs
 - Contribution_type: Poster
   Session_name: ''
   Time: Wednesday
-  Abstract_ID: 363
-  Presenter: Mateusz Wilinski
-  Contribution_title: Reversible Dynamic Message Passing equations for Susceptible-Infected-Susceptible
-    model on Networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Wednesday
   Abstract_ID: 381
-  Presenter: Shane Mannion
+  Presenter: Samuel Unicomb
   Contribution_title: Competition-induced criticality with heterogeneous meme fitness
 - Contribution_type: Poster
   Session_name: ''
@@ -2288,13 +2276,6 @@
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
-  Abstract_ID: 467
-  Presenter: Shuichi Kinoshita
-  Contribution_title: 'Comparative Analysis of Bike Sharing System Usage Patterns
-    Across Major Cities: A Weekday-Weekend Comparison'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Thursday
   Abstract_ID: 514
   Presenter: Marlli Zambrano
   Contribution_title: Physical principles of human mobility and routine
@@ -2319,13 +2300,6 @@
   Presenter: Lingbo Li
   Contribution_title: Prominent involvement of acetylcholine dynamics in stable olfactory
     representation across the Drosophila brain
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Thursday
-  Abstract_ID: 401
-  Presenter: Haily Merritt
-  Contribution_title: INFORMED INTER-BRAIN COUPLING IMPROVES PREDICTIONS OF MENTAL
-    HEALTH OUTCOMES
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
@@ -2364,13 +2338,6 @@
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
-  Abstract_ID: 28
-  Presenter: Perrin Ruth
-  Contribution_title: Cyclic Random Graphs Predicting Giant Molecules in Hydrocarbon
-    Pyrolysis
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Thursday
   Abstract_ID: 352
   Presenter: Lucas Chatelain
   Contribution_title: Graph modeling of cellular porosity in dentin
@@ -2382,13 +2349,6 @@
   Contribution_title: A multi-omics, constraint-based modelling approach to predict
     the metabolic mechanisms underlying improved monoclonal antibody production in
     Chinese hamster ovary (CHO) cells
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Thursday
-  Abstract_ID: 236
-  Presenter: Riccardo Sbarbati
-  Contribution_title: Competition between pathogenic elements using a pathogen-centric
-    framework
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
@@ -2440,7 +2400,7 @@
   Session_name: ''
   Time: Thursday
   Abstract_ID: 29
-  Presenter: Tanu Raghav
+  Presenter: Eugene Ang
   Contribution_title: Fragility in Food Supply Chain
 - Contribution_type: Poster
   Session_name: ''
@@ -2560,12 +2520,6 @@
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
-  Abstract_ID: 172
-  Presenter: Zachary Neal
-  Contribution_title: Developing Guidelines for Reporting About Network Data (GRAND)
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Thursday
   Abstract_ID: 204
   Presenter: Loizos Bitsikokos
   Contribution_title: 'Mapping Justice: Data Collection on U.S. District Court Citational
@@ -2654,13 +2608,6 @@
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
-  Abstract_ID: 543
-  Presenter: Edoardo Loru
-  Contribution_title: A Compression-Based Approach to Detecting Automated and Coordinated
-    Behavior on Social Media
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Thursday
   Abstract_ID: 556
   Presenter: Chenyu Li
   Contribution_title: Behavioral Microdynamics and Trends in Online Dating
@@ -2671,13 +2618,6 @@
   Presenter: Julie Bauer
   Contribution_title: Identifying the Presence and Influence of Covert Political Endorsements
     and Advocacy on Social Media
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Thursday
-  Abstract_ID: 607
-  Presenter: Yuan Zhang
-  Contribution_title: 'Echoing But Not in a Chamber: Modeling Dynamic Information
-    Consumption Patterns in Higher-Order Political News Networks'
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
@@ -2779,6 +2719,12 @@
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
+  Abstract_ID: 27
+  Presenter: Antonina Khramova
+  Contribution_title: Constructing cospectral hypergraphs and gain graphs
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Thursday
   Abstract_ID: 499
   Presenter: Cédric Simal
   Contribution_title: Operator Induced distances on graphs and graphons
@@ -2810,21 +2756,8 @@
   Session_name: ''
   Time: Thursday
   Abstract_ID: 316
-  Presenter: Fernando P. Santos
+  Presenter: Elif Erdem
   Contribution_title: Analyzing the Effect of Link Recommenders in Degree Inequality
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Thursday
-  Abstract_ID: 315
-  Presenter: Krishnadas Mohandas
-  Contribution_title: Critical properties of Heider balance on multiplex networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Thursday
-  Abstract_ID: 78
-  Presenter: Sinan Dede
-  Contribution_title: 'Methodological Advancement in Causal Loops Diagrams Data Collection
-    and Analysis: A Network Approach'
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
@@ -2868,7 +2801,7 @@
   Session_name: ''
   Time: Thursday
   Abstract_ID: 475
-  Presenter: Lucia Cavallaro
+  Presenter: Christos Aronis
   Contribution_title: Unraveling the impact of Random Rewiring on Graph Neural Networks
 - Contribution_type: Poster
   Session_name: ''
@@ -2893,7 +2826,7 @@
   Session_name: ''
   Time: Thursday
   Abstract_ID: 123
-  Presenter: Jan von Pichowski
+  Presenter: Ingo Scholtes
   Contribution_title: Inference of Sequential Patterns for Neural Message Passing
     in Temporal Graphs
 - Contribution_type: Poster
@@ -3007,14 +2940,14 @@
   Session_name: ''
   Time: Thursday
   Abstract_ID: 231
-  Presenter: Osnat Mokryn
+  Presenter: ''
   Contribution_title: 'Let the data surprise us: uncovering insights from high-dimensional
     timeline data with information theory'
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
   Abstract_ID: 79
-  Presenter: Lucas Gautheron
+  Presenter: ''
   Contribution_title: '``When her family finds [out] you are using the wrong metric\dots'''':
     investigating dilemmas and trade-offs in the diffusion of conventions with inverse
     problems'
@@ -3022,84 +2955,371 @@
   Session_name: ''
   Time: Thursday
   Abstract_ID: 14
-  Presenter: Samin Aref
+  Presenter: ''
   Contribution_title: Embedding-based Markov stability scale selection for producing
     robust partitions
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
   Abstract_ID: 40
-  Presenter: Baruch Barzel
+  Presenter: ''
   Contribution_title: Dynamic stability of complex networks
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
   Abstract_ID: 36
-  Presenter: Zita Soons
+  Presenter: ''
   Contribution_title: How centrality measures can reduce complexity of Elementary
     Conversion Modes
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
   Abstract_ID: 118
-  Presenter: Guy Rothmann
+  Presenter: ''
   Contribution_title: Exact Explicit Solutions and Phase Transitions in Spreading
     Models on Hypergraphs
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
   Abstract_ID: 206
-  Presenter: Xiaodi Song
+  Presenter: ''
   Contribution_title: On the Algebraic Connectivity of Token Graphs and Graphs under
     Perturbations
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
   Abstract_ID: 214
-  Presenter: Cristina Dalfó
+  Presenter: ''
   Contribution_title: Combined voltage assignments, factored lifts, and their spectra
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
-  Abstract_ID: 506
-  Presenter: José Lages
-  Contribution_title: 'Googling meta-food webs: Identifying key species in meta-communities'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Thursday
   Abstract_ID: 351
-  Presenter: Adrija Datta
+  Presenter: ''
   Contribution_title: Adaptive Regional Management Strategies for Plant-Pollinator
     Networks in the Context of Anthropogenic Warming Scenarios
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
-  Abstract_ID: 523
-  Presenter: Sara Linde Neven
-  Contribution_title: 'Navigating Danger: Behavioural Spreading and Misinformation
-    Suppression in Coral Reef Fish'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Thursday
   Abstract_ID: 524
-  Presenter: Hugo Chenel
+  Presenter: ''
   Contribution_title: Integrating topological data analysis with time series gene
     expression in cellular systems
 - Contribution_type: Poster
   Session_name: ''
   Time: Thursday
   Abstract_ID: 229
-  Presenter: Osnat Mokryn
+  Presenter: ''
   Contribution_title: Evaluating the dynamic interplay of social distancing policies
     regarding airborne pathogens through a temporal interaction-driven model that
     uses real-world and synthetic data
 - Contribution_type: Poster
   Session_name: ''
-  Time: Thursday
-  Abstract_ID: 50
-  Presenter: Shai Pilosof
-  Contribution_title: Inductive link prediction boosts data availability and enables
-    cross-community link prediction in ecological networks
+  Time: Friday
+  Abstract_ID: 224
+  Presenter: ''
+  Contribution_title: Percolation of interlayer feature-correlated multiplex networks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 101
+  Presenter: ''
+  Contribution_title: Zero-shot forecasting of chaotic systems
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 239
+  Presenter: ''
+  Contribution_title: Exponential Random Graphs highlight impaired brain connectivity
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 244
+  Presenter: ''
+  Contribution_title: Perfect Synchronization of Complex Networks in Presence of Higher-Order
+    Interactions
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 83
+  Presenter: ''
+  Contribution_title: Evolutive sandpiles
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 225
+  Presenter: ''
+  Contribution_title: Community-based stance detection
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 110
+  Presenter: ''
+  Contribution_title: If Vanilla Is Enough, Why Do We Need Chocolate and Strawberry?
+    A Neapolitan Approach to Artificial Neural Networks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 338
+  Presenter: ''
+  Contribution_title: Interpretable Machine Learning and Complex Network Analysis
+    for characterizing seizure onset in traumatic brain injury patients
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 205
+  Presenter: ''
+  Contribution_title: Network perspective on the evolution and integration of the
+    hippocampus representation
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 339
+  Presenter: ''
+  Contribution_title: Dynamic Network Analysis for Alzheimer’s Disease Using FAST
+    Functional Connectivity
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 260
+  Presenter: ''
+  Contribution_title: Bringing the action to social-ecological networks can upend
+    our understanding of cultural-ecological relationships
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 362
+  Presenter: ''
+  Contribution_title: 'Dynamical modelling of gene regulatory networks from heterogeneous
+    datasets: one model fits all?'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 308
+  Presenter: ''
+  Contribution_title: Network-Driven Vaccination Strategies for Preventing Rebound
+    Dynamics in Metapopulation Epidemic Control
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 476
+  Presenter: ''
+  Contribution_title: Higher-order interactions in symptom networks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 406
+  Presenter: ''
+  Contribution_title: 'Interactions Between Physical Activity, Sedentary Behaviour,
+    Sleep, and Motor Skills in Brazilian Toddlers: A Network Analysis Approach'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 494
+  Presenter: ''
+  Contribution_title: Modeling the effect of targeted interventions on the spread
+    of Hepatitis C through a network of people who inject drugs in Kenya
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 433
+  Presenter: ''
+  Contribution_title: 'Toxic Timing: Understanding Polarization in Digital Interactions'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 427
+  Presenter: ''
+  Contribution_title: 'Explaining comment thread popularity on Reddit: Structural,
+    temporal and textual features'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 609
+  Presenter: ''
+  Contribution_title: 'Navigating Multidimensional Ideologies with Reddit’s Political
+    Compass: Economic Conflict and Social Affinity'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 340
+  Presenter: ''
+  Contribution_title: 'Sociodemographic Dimensions of Echo Chambers: Network Analysis
+    of Information Sharing on Twitter/X"'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 60
+  Presenter: ''
+  Contribution_title: Network Effects on Spatially Separated Users in Yelp
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 61
+  Presenter: ''
+  Contribution_title: The Evolution and Formation of Indian Political Debate Networks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 396
+  Presenter: ''
+  Contribution_title: 'From segregation to conflict: identifying active and passive
+    polarisation'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 331
+  Presenter: ''
+  Contribution_title: Emergence of scaling and organization in the microblogging platform
+    BlueSky
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 141
+  Presenter: ''
+  Contribution_title: 'Leveraging Knowledge Networks: Rethinking Technological Value
+    Distribution in mRNA Vaccine Innovations'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 367
+  Presenter: ''
+  Contribution_title: Quantifying Diversity, Equity and Inclusion (DEI) in Scientific
+    Recognition
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 548
+  Presenter: ''
+  Contribution_title: 'Unraveling two decades of shell company operations in Mexican
+    procurement (2002-2022): a networks approach to data-based anti-corruption policy'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 100
+  Presenter: ''
+  Contribution_title: Mapping of the global semiconductor supply chain - collaboration
+    inter-firm network
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 86
+  Presenter: ''
+  Contribution_title: Optimal promotions on networks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 189
+  Presenter: ''
+  Contribution_title: The evolution of global gold and copper trade networks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 245
+  Presenter: ''
+  Contribution_title: 'Resilience and Competitiveness in the Electric Vehicle Industry:
+    A Global Corporate Network Analysis'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 504
+  Presenter: ''
+  Contribution_title: 'Trade relationships and IGO ties: a complex network perspective'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 227
+  Presenter: ''
+  Contribution_title: Urban Spatial Network Segmentation with Continuous-Time Quantum
+    Walks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 436
+  Presenter: ''
+  Contribution_title: Understanding mobility with recurrence plots
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 595
+  Presenter: ''
+  Contribution_title: Mobility patterns reveal a "doughnut effect" for activity in
+    large American cities
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 258
+  Presenter: ''
+  Contribution_title: 'Causal Inference in the City: Evaluation of Policy Interventions''
+    Impact using Mobility Networks'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 497
+  Presenter: ''
+  Contribution_title: Where is my 15-minute city? Developing and applying methods
+    to understand neighbourhoods and local liveability
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 487
+  Presenter: ''
+  Contribution_title: 'A Microscope on AI Adoption: Insights from GitHub Data'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 82
+  Presenter: ''
+  Contribution_title: Network analysis of mathematicians
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 498
+  Presenter: ''
+  Contribution_title: Fractality of Co-Authorship Networks in Physics
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 335
+  Presenter: ''
+  Contribution_title: The Effect of Incarceration on Criminal Cocaine Networks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 130
+  Presenter: ''
+  Contribution_title: Enhancing Criminal Network Disruption Through Forensic Intelligence
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 350
+  Presenter: ''
+  Contribution_title: Population connectivity shapes chimpanzee cumulative culture
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 374
+  Presenter: ''
+  Contribution_title: Dynamics of Strategic Group Interactions in Social Networks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 480
+  Presenter: ''
+  Contribution_title: Academic publishing culture through higher-order motif analysis
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 579
+  Presenter: ''
+  Contribution_title: Measuring the Chain-Sense of Interactions in a Social Network
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 10
+  Presenter: ''
+  Contribution_title: Syntactic Graph Co-attention Network for Automatic Short Answer
+    Grading
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
@@ -3129,6 +3349,20 @@
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
+  Abstract_ID: 623
+  Presenter: ''
+  Contribution_title: Hidden Gender Disparities in Inventor-Evaluator Networks and
+    Missing Hit Innovations
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 628
+  Presenter: ''
+  Contribution_title: Supply chains network changes and market dynamics under sustainability
+    regulation
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
   Abstract_ID: 635
   Presenter: Lorenzo Gregoris
   Contribution_title: The Cash Drain Game on a Network
@@ -3139,6 +3373,33 @@
   Presenter: Siyang Jiang
   Contribution_title: A neat contribution index of network interaction to collective
     performance
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 630
+  Presenter: ''
+  Contribution_title: Copy or Collaborate? How Networks Impact Collective Problem
+    Solving
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 622
+  Presenter: ''
+  Contribution_title: The Ripple Effect of Retraction on an Author's Collaboration
+    Network
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 624
+  Presenter: ''
+  Contribution_title: Exploring Structural Dynamics in Retracted and Non-Retracted
+    Author's Collaboration Networks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 625
+  Presenter: ''
+  Contribution_title: Leveraging network science to enhance academic research
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
@@ -3173,6 +3434,12 @@
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
+  Abstract_ID: 629
+  Presenter: ''
+  Contribution_title: Clustering Does Not Always Imply Latent Geometry
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
   Abstract_ID: 627
   Presenter: Aline Viol
   Contribution_title: Exploring Maladaptive Resilience in Neural Dynamics via a Bayesian
@@ -3194,396 +3461,111 @@
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 224
-  Presenter: Yuan Liang
-  Contribution_title: Percolation of interlayer feature-correlated multiplex networks
+  Abstract_ID: 15
+  Presenter: Ramón Nartallo-Kaluarachchi
+  Contribution_title: A structural perspective on nonequilibrium brain network dynamics
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 101
-  Presenter: Yuanzhao Zhang
-  Contribution_title: Zero-shot forecasting of chaotic systems
+  Abstract_ID: 33
+  Presenter: Marco Mancastroppa
+  Contribution_title: Structural and dynamical characterization of hypergraphs through
+    the lens of hyper-cores
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 239
-  Presenter: Nicola Amoroso
-  Contribution_title: Exponential Random Graphs highlight impaired brain connectivity
+  Abstract_ID: 38
+  Presenter: Baruch Barzel
+  Contribution_title: Scale-free topology vs. timescale-free dynamics
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 244
-  Presenter: SANGITA DUTTA
-  Contribution_title: Perfect Synchronization of Complex Networks in Presence of Higher-Order
-    Interactions
+  Abstract_ID: 45
+  Presenter: Lucas Lacasa
+  Contribution_title: Scalar embedding of temporal networks
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 83
-  Presenter: Juan Pablo Serrano
-  Contribution_title: Evolutive sandpiles
+  Abstract_ID: 81
+  Presenter: Guido Caldarelli
+  Contribution_title: 'Laplacian renormalization group: an introduction to heterogeneous
+    coarse-graining'
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 225
-  Presenter: Emanuele Brugnoli
-  Contribution_title: Community-based stance detection
+  Abstract_ID: 165
+  Presenter: Thomas Robiglio
+  Contribution_title: Higher-order ising model on hypergraph
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 110
-  Presenter: Mario Franco
-  Contribution_title: If Vanilla Is Enough, Why Do We Need Chocolate and Strawberry?
-    A Neapolitan Approach to Artificial Neural Networks
+  Abstract_ID: 212
+  Presenter: Valeria d'Andrea
+  Contribution_title: Quantifying biases and limits for topological and statistical
+    ensembles of brain networks
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 338
-  Presenter: Emanuele Amato
-  Contribution_title: Interpretable Machine Learning and Complex Network Analysis
-    for characterizing seizure onset in traumatic brain injury patients
+  Abstract_ID: 232
+  Presenter: Rahul Singh
+  Contribution_title: 'Caste and Informal Credit: A Social Network Approach to Rural
+    Finance'
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 205
-  Presenter: Giulia Lorenzini
-  Contribution_title: Network perspective on the evolution and integration of the
-    hippocampus representation
+  Abstract_ID: 291
+  Presenter: Tiziano Squartini
+  Contribution_title: Random directed and undirected hypergraphs
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 339
-  Presenter: Om Roy
-  Contribution_title: Dynamic Network Analysis for Alzheimer’s Disease Using FAST
-    Functional Connectivity
+  Abstract_ID: 320
+  Presenter: Marco Grassia
+  Contribution_title: Machine-enhanced reconstruction of functional connectomes unravels
+    discriminative brain subsystems in health and disease
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 199
-  Presenter: Lorenzo Buffa
-  Contribution_title: Optimal Transport to understand sub-optimality in mutualistic
+  Abstract_ID: 344
+  Presenter: Chandrakala Meena
+  Contribution_title: Stability prediction of complex dynamical networks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 439
+  Presenter: Laurent Hébert-Dufresne
+  Contribution_title: 'Self-reinforcing cascades: A spreading model for beliefs or
+    products of varying intensity or quality'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 443
+  Presenter: Guilherme Ferraz de Arruda
+  Contribution_title: Contagion dynamics on higher-order networks
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 505
+  Presenter: Matteo Straccamore
+  Contribution_title: Economic Complexity in geographical space
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 508
+  Presenter: Giordano De Marzo
+  Contribution_title: Degree Induced phase transition in LLMs Opinion Dynamics
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Friday
+  Abstract_ID: 591
+  Presenter: Amir Ghasemian
+  Contribution_title: The structure and function of antagonistic ties in village social
     networks
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
-  Abstract_ID: 362
-  Presenter: Malvina Marku
-  Contribution_title: 'Dynamical modelling of gene regulatory networks from heterogeneous
-    datasets: one model fits all?'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 308
-  Presenter: Piergiorgio Castioni
-  Contribution_title: Network-Driven Vaccination Strategies for Preventing Rebound
-    Dynamics in Metapopulation Epidemic Control
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 476
-  Presenter: Eric Dignum
-  Contribution_title: Higher-order interactions in symptom networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 406
-  Presenter: Jessica Mota
-  Contribution_title: 'Interactions Between Physical Activity, Sedentary Behaviour,
-    Sleep, and Motor Skills in Brazilian Toddlers: A Network Analysis Approach'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 494
-  Presenter: Ewan Colman
-  Contribution_title: Modeling the effect of targeted interventions on the spread
-    of Hepatitis C through a network of people who inject drugs in Kenya
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 353
-  Presenter: Zhen Zhu
-  Contribution_title: 'Exploring Diabetics'' Online Food Product Space: A Weighted
-    Bipartite Network Approach'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 433
-  Presenter: Donald Ruggiero Lo Sardo
-  Contribution_title: 'Toxic Timing: Understanding Polarization in Digital Interactions'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 427
-  Presenter: Wang Ngai Yeung
-  Contribution_title: 'Explaining comment thread popularity on Reddit: Structural,
-    temporal and textual features'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 609
-  Presenter: Michele Starnini
-  Contribution_title: 'Navigating Multidimensional Ideologies with Reddit’s Political
-    Compass: Economic Conflict and Social Affinity'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 340
-  Presenter: Burak Ozturan
-  Contribution_title: 'Sociodemographic Dimensions of Echo Chambers: Network Analysis
-    of Information Sharing on Twitter/X"'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 60
-  Presenter: Satyam Mukherjee
-  Contribution_title: Network Effects on Spatially Separated Users in Yelp
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 61
-  Presenter: Satyam Mukherjee
-  Contribution_title: The Evolution and Formation of Indian Political Debate Networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 39
-  Presenter: Shahar Somin
-  Contribution_title: 'Echoes of the Hidden: Modelling Community-Driven Bursty Dynamics'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 178
-  Presenter: Alessandro Bellina
-  Contribution_title: The Costs of Polarization on Online Social Discourse
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 396
-  Presenter: Pietro Gravino
-  Contribution_title: 'From segregation to conflict: identifying active and passive
-    polarisation'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 317
-  Presenter: Ning Ning Chung
-  Contribution_title: Modeling the influence of belief on social behavior
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 319
-  Presenter: Lock Yue Chew
-  Contribution_title: Opinion transition model
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 331
-  Presenter: Tommaso Bertola
-  Contribution_title: Emergence of scaling and organization in the microblogging platform
-    BlueSky
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 157
-  Presenter: Huijuan Wang
-  Contribution_title: Information Diffusion Backbone of Temporal Higher-order Networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 141
-  Presenter: Rossana Mastrandrea
-  Contribution_title: 'Leveraging Knowledge Networks: Rethinking Technological Value
-    Distribution in mRNA Vaccine Innovations'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 548
-  Presenter: José Roberto Nicolás-Carlock
-  Contribution_title: 'Unraveling two decades of shell company operations in Mexican
-    procurement (2002-2022): a networks approach to data-based anti-corruption policy'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 441
-  Presenter: Hyewon Kim
-  Contribution_title: Analyzing the Dynamics of International Collaboration Networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 100
-  Presenter: Elma Dervic
-  Contribution_title: Mapping of the global semiconductor supply chain - collaboration
-    inter-firm network
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 86
-  Presenter: Amit Golan
-  Contribution_title: Optimal promotions on networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 189
-  Presenter: Oleksandr Hulianskyi
-  Contribution_title: The evolution of global gold and copper trade networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 245
-  Presenter: Zhen Zhu
-  Contribution_title: 'Resilience and Competitiveness in the Electric Vehicle Industry:
-    A Global Corporate Network Analysis'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 504
-  Presenter: Michael McCall
-  Contribution_title: 'Trade relationships and IGO ties: a complex network perspective'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 227
-  Presenter: Jianjia Wang
-  Contribution_title: Urban Spatial Network Segmentation with Continuous-Time Quantum
-    Walks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 436
-  Presenter: Alexander Schmaus
-  Contribution_title: Understanding mobility with recurrence plots
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 595
-  Presenter: Andrew Renninger
-  Contribution_title: Mobility patterns reveal a "doughnut effect" for activity in
-    large American cities
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 258
-  Presenter: Bijin Joseph
-  Contribution_title: 'Causal Inference in the City: Evaluation of Policy Interventions''
-    Impact using Mobility Networks'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 497
-  Presenter: Ivann Schlosser
-  Contribution_title: Where is my 15-minute city? Developing and applying methods
-    to understand neighbourhoods and local liveability
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 487
-  Presenter: Simone Daniotti
-  Contribution_title: 'A Microscope on AI Adoption: Insights from GitHub Data'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 409
-  Presenter: Julian Sienkiewicz
-  Contribution_title: Memetic analysis of Big Tech influence over AI research
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 82
-  Presenter: Juan Pablo Serrano
-  Contribution_title: Network analysis of mathematicians
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 498
-  Presenter: Pouria Mirelmi
-  Contribution_title: Fractality of Co-Authorship Networks in Physics
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 335
-  Presenter: Frederike Oetker
-  Contribution_title: The Effect of Incarceration on Criminal Cocaine Networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 130
-  Presenter: Dayle Harvey
-  Contribution_title: Enhancing Criminal Network Disruption Through Forensic Intelligence
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 350
-  Presenter: Onkar Sadekar
-  Contribution_title: Population connectivity shapes chimpanzee cumulative culture
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 374
-  Presenter: Amina Azaiez
-  Contribution_title: Dynamics of Strategic Group Interactions in Social Networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 480
-  Presenter: Angelika Tsivinskaya
-  Contribution_title: Academic publishing culture through higher-order motif analysis
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 579
-  Presenter: Adrian Chester Balingit
-  Contribution_title: Measuring the Chain-Sense of Interactions in a Social Network
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 10
-  Presenter: Onkar Sabnis
-  Contribution_title: Syntactic Graph Co-attention Network for Automatic Short Answer
-    Grading
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 623
-  Presenter: Tara Sowrirajan
-  Contribution_title: Hidden Gender Disparities in Inventor-Evaluator Networks and
-    Missing Hit Innovations
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 628
-  Presenter: Christian Lemp
-  Contribution_title: Supply chains network changes and market dynamics under sustainability
-    regulation
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 630
-  Presenter: Gülşah Akçakır
-  Contribution_title: Copy or Collaborate? How Networks Impact Collective Problem
-    Solving
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 622
-  Presenter: Kiran Sharma
-  Contribution_title: The Ripple Effect of Retraction on an Author's Collaboration
-    Network
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 624
-  Presenter: Ziya Uddin
-  Contribution_title: Exploring Structural Dynamics in Retracted and Non-Retracted
-    Author's Collaboration Networks
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 625
-  Presenter: Marcelo de Souza
-  Contribution_title: Leveraging network science to enhance academic research
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 629
+  Abstract_ID: 592
+  Presenter: Homa Hosseinmardi
+  Contribution_title: Measuring Diversity in Online News
   Presenter: Roya Aliakbarisani
   Contribution_title: Clustering Does Not Always Imply Latent Geometry
