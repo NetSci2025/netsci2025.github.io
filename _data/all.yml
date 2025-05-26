@@ -20,10 +20,10 @@
 - Contribution_type: Contributed Oral
   Session_name: Algorithms, Measures and Statistics
   Time: Thu 15:15 - 15:30
-  Abstract_ID: 493
-  Presenter: Eline Bouwmeesters
-  Contribution_title: A comparison of network sampling techniques that preserve local
-    structure
+  Abstract_ID: 597
+  Presenter: Yasaman Asgari
+  Contribution_title: Multiscale Temporal Node Assortativity in Feature-rich Temporal
+    Networks
 - Contribution_type: Contributed Oral
   Session_name: Algorithms, Measures and Statistics
   Time: Thu 15:30 - 15:45
@@ -33,10 +33,10 @@
 - Contribution_type: Contributed Oral
   Session_name: Algorithms, Measures and Statistics
   Time: Thu 15:45 - 16:00
-  Abstract_ID: 597
-  Presenter: Yasaman Asgari
-  Contribution_title: Multiscale Temporal Node Assortativity in Feature-rich Temporal
-    Networks
+  Abstract_ID: 493
+  Presenter: Eline Bouwmeesters
+  Contribution_title: A comparison of network sampling techniques that preserve local
+    structure
 - Contribution_type: Contributed Oral
   Session_name: Biological networks
   Time: Wed 11:00 - 11:15
@@ -281,6 +281,40 @@
   Presenter: Tobias Timofeyev
   Contribution_title: A Sheaf Theoretic Approach to Near Space Network Routing
 - Contribution_type: Contributed Oral
+  Session_name: Dynamics 1
+  Time: Wed 16:30 - 16:45
+  Abstract_ID: 22
+  Presenter: Ramon Nartallo-Kaluarachchi
+  Contribution_title: Decomposing nonequilibrium force-fields by reconstructing graphs
+    from stochastic trajectories
+- Contribution_type: Contributed Oral
+  Session_name: Dynamics 1
+  Time: Wed 16:45 - 17:00
+  Abstract_ID: 35
+  Presenter: Hanlin Sun
+  Contribution_title: Triadic percolation induces dynamical topological patterns in
+    higher-order networks
+- Contribution_type: Contributed Oral
+  Session_name: Dynamics 1
+  Time: Wed 17:00 - 17:15
+  Abstract_ID: 49
+  Presenter: Naoki Masuda
+  Contribution_title: Fixation dynamics on various networks
+- Contribution_type: Contributed Oral
+  Session_name: Dynamics 1
+  Time: Wed 17:15 - 17:30
+  Abstract_ID: 191
+  Presenter: Jun Yamamoto
+  Contribution_title: Delocalization of Physical Laplacian Eigenvectors due to Degree-Volume
+    Correlation
+- Contribution_type: Contributed Oral
+  Session_name: Dynamics 1
+  Time: Wed 17:30 - 17:45
+  Abstract_ID: 542
+  Presenter: Ana Barioni
+  Contribution_title: 'Networking drones of different feathers: the secret sauce for
+    flocking'
+- Contribution_type: Contributed Oral
   Session_name: Dynamics 2
   Time: Thu 11:00 - 11:15
   Abstract_ID: 21
@@ -333,40 +367,6 @@
   Abstract_ID: 400
   Presenter: Alexandra Tits
   Contribution_title: Fluid flow through the lacunocanalicular network in bone
-- Contribution_type: Contributed Oral
-  Session_name: Dynamics 1
-  Time: Wed 16:30 - 16:45
-  Abstract_ID: 22
-  Presenter: Ramon Nartallo-Kaluarachchi
-  Contribution_title: Decomposing nonequilibrium force-fields by reconstructing graphs
-    from stochastic trajectories
-- Contribution_type: Contributed Oral
-  Session_name: Dynamics 1
-  Time: Wed 16:45 - 17:00
-  Abstract_ID: 35
-  Presenter: Hanlin Sun
-  Contribution_title: Triadic percolation induces dynamical topological patterns in
-    higher-order networks
-- Contribution_type: Contributed Oral
-  Session_name: Dynamics 1
-  Time: Wed 17:00 - 17:15
-  Abstract_ID: 49
-  Presenter: Naoki Masuda
-  Contribution_title: Fixation dynamics on various networks
-- Contribution_type: Contributed Oral
-  Session_name: Dynamics 1
-  Time: Wed 17:15 - 17:30
-  Abstract_ID: 191
-  Presenter: Jun Yamamoto
-  Contribution_title: Delocalization of Physical Laplacian Eigenvectors due to Degree-Volume
-    Correlation
-- Contribution_type: Contributed Oral
-  Session_name: Dynamics 1
-  Time: Wed 17:30 - 17:45
-  Abstract_ID: 542
-  Presenter: Ana Barioni
-  Contribution_title: 'Networking drones of different feathers: the secret sauce for
-    flocking'
 - Contribution_type: Contributed Oral
   Session_name: Dynamics 3
   Time: Thu 16:30 - 16:45
@@ -821,6 +821,37 @@
   Contribution_title: Estimates of the reproduction ratio from epidemic surveillance
     may be biased in spatially structured populations
 - Contribution_type: Contributed Oral
+  Session_name: Network Geometry
+  Time: Wed 16:30 - 16:45
+  Abstract_ID: 64
+  Presenter: Robert Jankowski
+  Contribution_title: Mapping bipartite networks into multidimensional hyperbolic
+    spaces
+- Contribution_type: Contributed Oral
+  Session_name: Network Geometry
+  Time: Wed 16:45 - 17:00
+  Abstract_ID: 213
+  Presenter: ZHIHAO QIU
+  Contribution_title: Predicting shortest path nodes in random geometric graphs
+- Contribution_type: Contributed Oral
+  Session_name: Network Geometry
+  Time: Wed 17:00 - 17:15
+  Abstract_ID: 299
+  Presenter: Jasper Van der Kolk
+  Contribution_title: The enhanced geometry in multiplex networks
+- Contribution_type: Contributed Oral
+  Session_name: Network Geometry
+  Time: Wed 17:15 - 17:30
+  Abstract_ID: 389
+  Presenter: Aarathi Parameswaran
+  Contribution_title: Mechanisms of Symmetry Breaking in Optimal Networks
+- Contribution_type: Contributed Oral
+  Session_name: Network Geometry
+  Time: Wed 17:30 - 17:45
+  Abstract_ID: 616
+  Presenter: Stefano Guarino
+  Contribution_title: Random Hyperbolic Graphs with Arbitrary Mesoscale Structures
+- Contribution_type: Contributed Oral
   Session_name: Network epidemics 2
   Time: Thu 14:30 - 14:45
   Abstract_ID: 53
@@ -862,37 +893,6 @@
   Presenter: Sámuel Gáspár Balogh
   Contribution_title: Disease-induced immunization is efficient in dense geometric
     networks
-- Contribution_type: Contributed Oral
-  Session_name: Network Geometry
-  Time: Wed 16:30 - 16:45
-  Abstract_ID: 64
-  Presenter: Robert Jankowski
-  Contribution_title: Mapping bipartite networks into multidimensional hyperbolic
-    spaces
-- Contribution_type: Contributed Oral
-  Session_name: Network Geometry
-  Time: Wed 16:45 - 17:00
-  Abstract_ID: 213
-  Presenter: ZHIHAO QIU
-  Contribution_title: Predicting shortest path nodes in random geometric graphs
-- Contribution_type: Contributed Oral
-  Session_name: Network Geometry
-  Time: Wed 17:00 - 17:15
-  Abstract_ID: 299
-  Presenter: Jasper Van der Kolk
-  Contribution_title: The enhanced geometry in multiplex networks
-- Contribution_type: Contributed Oral
-  Session_name: Network Geometry
-  Time: Wed 17:15 - 17:30
-  Abstract_ID: 389
-  Presenter: Aarathi Parameswaran
-  Contribution_title: Mechanisms of Symmetry Breaking in Optimal Networks
-- Contribution_type: Contributed Oral
-  Session_name: Network Geometry
-  Time: Wed 17:30 - 17:45
-  Abstract_ID: 616
-  Presenter: Stefano Guarino
-  Contribution_title: Random Hyperbolic Graphs with Arbitrary Mesoscale Structures
 - Contribution_type: Contributed Oral
   Session_name: Network models
   Time: Wed 16:30 - 16:45
@@ -981,23 +981,24 @@
 - Contribution_type: Contributed Oral
   Session_name: Signed networks
   Time: Thu 17:15 - 17:30
-  Abstract_ID: 397
-  Presenter: Rachith Aiyappa
-  Contribution_title: Emergence of Shared and Polarized Beliefs from the Dynamics
-    of Networked Belief Systems
-- Contribution_type: Contributed Oral
-  Session_name: Signed networks
-  Time: Thu 17:30 - 17:45
   Abstract_ID: 546
   Presenter: Piotr Górski
   Contribution_title: Multidimensional attributes make structural balance dynamics
     measurable
 - Contribution_type: Contributed Oral
+  Session_name: Signed networks
+  Time: Thu 17:30 - 17:45
+  Abstract_ID: 397
+  Presenter: Rachith Aiyappa
+  Contribution_title: Emergence of Shared and Polarized Beliefs from the Dynamics
+    of Networked Belief Systems
+- Contribution_type: Contributed Oral
   Session_name: Social networks 1
   Time: Wed 11:00 - 11:15
-  Abstract_ID: 25
-  Presenter: Miguel A. González-Casado
-  Contribution_title: An exploration of equilibrium dynamics in social structures
+  Abstract_ID: 208
+  Presenter: Robert Goldstone
+  Contribution_title: Multi-scale modularity in networks of agents that adapt to increase
+    their relevance
 - Contribution_type: Contributed Oral
   Session_name: Social networks 1
   Time: Wed 11:15 - 11:30
@@ -1007,10 +1008,9 @@
 - Contribution_type: Contributed Oral
   Session_name: Social networks 1
   Time: Wed 11:30 - 11:45
-  Abstract_ID: 208
-  Presenter: Robert Goldstone
-  Contribution_title: Multi-scale modularity in networks of agents that adapt to increase
-    their relevance
+  Abstract_ID: 25
+  Presenter: Miguel A. González-Casado
+  Contribution_title: An exploration of equilibrium dynamics in social structures
 - Contribution_type: Contributed Oral
   Session_name: Social networks 1
   Time: Wed 11:45 - 12:00
@@ -1139,10 +1139,10 @@
 - Contribution_type: Contributed Oral
   Session_name: Statistical analysis and inference 2
   Time: Thu 14:30 - 14:45
-  Abstract_ID: 85
-  Presenter: Seongmin Kim
-  Contribution_title: Inference accuracy of loopy belief propagation in Ising and
-    percolation models
+  Abstract_ID: 264
+  Presenter: Erik Weis
+  Contribution_title: Regionalization via nonparametric community detection in spatially
+    embedded networks
 - Contribution_type: Contributed Oral
   Session_name: Statistical analysis and inference 2
   Time: Thu 14:45 - 15:00
@@ -1159,10 +1159,10 @@
 - Contribution_type: Contributed Oral
   Session_name: Statistical analysis and inference 2
   Time: Thu 15:15 - 15:30
-  Abstract_ID: 264
-  Presenter: Erik Weis
-  Contribution_title: Regionalization via nonparametric community detection in spatially
-    embedded networks
+  Abstract_ID: 85
+  Presenter: Seongmin Kim
+  Contribution_title: Inference accuracy of loopy belief propagation in Ising and
+    percolation models
 - Contribution_type: Contributed Oral
   Session_name: Statistical analysis and inference 2
   Time: Thu 15:30 - 15:45
