@@ -198,9 +198,10 @@ days:
         type: satellite
         url: https://sites.google.com/view/tenet-netsci/home
         row: 5
-      - time: 12:30 - 14:30
-        title: Lunch break
-        category: Break
+      - time: 13:00 - 14:00
+        title: '(Panel) Science as a craft: Balancing career and skill progression'
+        category: Faculty FSE
+        url: https://netplace.site/event/netsci25/panel/
         row: 5
       - time: 10:30 - 11:00
         title: Coffee break
@@ -210,19 +211,12 @@ days:
         title: Coffee break
         category: Break
         row: 5
-      - time: 13:00 - 14:00
-        title: '(Panel) Science as a craft: Balancing career and skill progression'
-        category: Faculty FSE
-        url: https://netplace.site/event/netsci25/panel/
-        row: 6
-        room: FSE Conference hall EPD150
-        room url: https://maps.app.goo.gl/MMmtLs3pW2aWT6DU8
       - time: 08:30 - 10:30
         title: (Satellite) Critical Phenomena In Networks (CPIN)
         category: Faculty FSE
         type: satellite
         url: https://www.gesis.org/cpin
-        row: 7
+        row: 6
         room: FSE C1.005 at PHS1
         room url: https://maps.app.goo.gl/a6kXVCePuZwmpUwRA
       - time: 11:00 - 12:30
@@ -230,37 +224,37 @@ days:
         category: Faculty FSE
         type: satellite
         url: https://www.gesis.org/cpin
-        row: 7
+        row: 6
       - time: 14:30 - 16:00
         title: (Satellite) Physical Networks, III Edition
         category: Faculty FSE
         type: satellite
         url: https://sites.google.com/view/physnet25/physnet25
-        row: 7
+        row: 6
       - time: 16:30 - 18:30
         title: (Satellite) Physical Networks, III Edition
         category: Faculty FSE
         type: satellite
         url: https://sites.google.com/view/physnet25/physnet25
-        row: 7
+        row: 6
       - time: 12:30 - 14:30
         title: Lunch break
         category: Break
-        row: 7
+        row: 6
       - time: 10:30 - 11:00
         title: Coffee break
         category: Break
-        row: 7
+        row: 6
       - time: 16:00 - 16:30
         title: Coffee break
         category: Break
-        row: 7
+        row: 6
       - time: 08:30 - 10:30
         title: (Satellite) Network Renormalization (NetRG)
         category: Faculty FSE
         type: satellite
         url: https://www.d-iep.org/workshoprenormalization
-        row: 8
+        row: 7
         room: FSE C1.015 at PHS1
         room url: https://maps.app.goo.gl/a6kXVCePuZwmpUwRA
       - time: 11:00 - 12:30
@@ -268,37 +262,37 @@ days:
         category: Faculty FSE
         type: satellite
         url: https://www.d-iep.org/workshoprenormalization
-        row: 8
+        row: 7
       - time: 14:30 - 16:00
         title: (Satellite) Network Science for the Sustainable Development Goals
         category: Faculty FSE
         type: satellite
         url: https://sites.google.com/view/netsci4sdgs25/home
-        row: 8
+        row: 7
       - time: 16:30 - 18:30
         title: (Satellite) Network Science for the Sustainable Development Goals
         category: Faculty FSE
         type: satellite
         url: https://sites.google.com/view/netsci4sdgs25/home
-        row: 8
+        row: 7
       - time: 12:30 - 14:30
         title: Lunch break
         category: Break
-        row: 8
+        row: 7
       - time: 10:30 - 11:00
         title: Coffee break
         category: Break
-        row: 8
+        row: 7
       - time: 16:00 - 16:30
         title: Coffee break
         category: Break
-        row: 8
+        row: 7
       - time: 08:30 - 10:30
         title: (Satellite) Networks in Biology and Medicine (NetBioMed)
         category: Faculty FASOS
         type: satellite
         url: https://netbiomed2025.github.io
-        row: 9
+        row: 8
         room: FASoS GG76 1.02
         room url: https://maps.app.goo.gl/Es4gXeNqmXDfCEC47
       - time: 11:00 - 12:30
@@ -306,37 +300,37 @@ days:
         category: Faculty FASOS
         type: satellite
         url: https://netbiomed2025.github.io
-        row: 9
+        row: 8
       - time: 14:30 - 16:00
         title: (Satellite) Networks in Biology and Medicine (NetBioMed)
         category: Faculty FASOS
         type: satellite
         url: https://netbiomed2025.github.io
-        row: 9
+        row: 8
       - time: 16:30 - 18:30
         title: (Satellite) Networks in Biology and Medicine (NetBioMed)
         category: Faculty FASOS
         type: satellite
         url: https://netbiomed2025.github.io
-        row: 9
+        row: 8
       - time: 12:30 - 14:30
         title: Lunch break
         category: Break
-        row: 9
+        row: 8
       - time: 10:30 - 11:00
         title: Coffee break
         category: Break
-        row: 9
+        row: 8
       - time: 16:00 - 16:30
         title: Coffee break
         category: Break
-        row: 9
+        row: 8
       - time: 08:30 - 10:30
         title: (Satellite) Network Neuroscience
         category: Faculty FASOS
         type: satellite
         url: https://networkneuroscience.github.io
-        row: 10
+        row: 9
         room: FASoS GG76S 1.018
         room url: https://maps.app.goo.gl/Es4gXeNqmXDfCEC47
       - time: 11:00 - 12:30
@@ -344,37 +338,37 @@ days:
         category: Faculty FASOS
         type: satellite
         url: https://networkneuroscience.github.io
-        row: 10
+        row: 9
       - time: 14:30 - 16:00
         title: (Satellite) Network Neuroscience
         category: Faculty FASOS
         type: satellite
         url: https://networkneuroscience.github.io
-        row: 10
+        row: 9
       - time: 16:30 - 18:30
         title: (Satellite) Network Neuroscience
         category: Faculty FASOS
         type: satellite
         url: https://networkneuroscience.github.io
-        row: 10
+        row: 9
       - time: 12:30 - 14:30
         title: Lunch break
         category: Break
-        row: 10
+        row: 9
       - time: 10:30 - 11:00
         title: Coffee break
         category: Break
-        row: 10
+        row: 9
       - time: 16:00 - 16:30
         title: Coffee break
         category: Break
-        row: 10
+        row: 9
       - time: 08:30 - 10:30
         title: (Satellite) Higher-Order Network Science meets AI (HONAI)
         category: Faculty FASOS
         type: satellite
         url: https://hons-web.github.io/online/index.html
-        row: 11
+        row: 10
         room: FASoS GG90-92 A0 Turnzaal 
         room url: https://maps.app.goo.gl/Es4gXeNqmXDfCEC47
       - time: 11:00 - 12:30
@@ -382,37 +376,37 @@ days:
         category: Faculty FASOS
         type: satellite
         url: https://hons-web.github.io/online/index.html
-        row: 11
+        row: 10
       - time: 14:30 - 16:00
         title: (Satellite) Higher-Order Network Science meets AI (HONAI)
         category: Faculty FASOS
         type: satellite
         url: https://hons-web.github.io/online/index.html
-        row: 11
+        row: 10
       - time: 16:30 - 18:30
         title: (Satellite) Higher-Order Network Science meets AI (HONAI)
         category: Faculty FASOS
         type: satellite
         url: https://hons-web.github.io/online/index.html
-        row: 11
+        row: 10
       - time: 12:30 - 14:30
         title: Lunch break
         category: Break
-        row: 11
+        row: 10
       - time: 10:30 - 11:00
         title: Coffee break
         category: Break
-        row: 11
+        row: 10
       - time: 16:00 - 16:30
         title: Coffee break
         category: Break
-        row: 11
+        row: 10
       - time: 08:30 - 10:30
         title: (Satellite) A Workshop on Directed Acyclic Graphs (DAGshop)
         category: Faculty FASOS
         type: satellite
         url: https://www.dagshop.xyz/
-        row: 12
+        row: 11
         room: FASoS GG76 0.07 
         room url: https://maps.app.goo.gl/Es4gXeNqmXDfCEC47
       - time: 11:00 - 12:30
@@ -420,37 +414,37 @@ days:
         category: Faculty FASOS
         type: satellite
         url: https://www.dagshop.xyz/
-        row: 12
+        row: 11
       - time: 14:30 - 16:00
         title: (Satellite) Net4Health
         category: Faculty FASOS
         type: satellite
         url: https://sites.google.com/view/netsci-health-2025
-        row: 12
+        row: 11
       - time: 16:30 - 18:30
         title: (Satellite) Net4Health
         category: Faculty FASOS
         type: satellite
         url: https://sites.google.com/view/netsci-health-2025
-        row: 12
+        row: 11
       - time: 12:30 - 14:30
         title: Lunch break
         category: Break
-        row: 12
+        row: 11
       - time: 10:30 - 11:00
         title: Coffee break
         category: Break
-        row: 12
+        row: 11
       - time: 16:00 - 16:30
         title: Coffee break
         category: Break
-        row: 12
+        row: 11
       - time: 14:30 - 16:00
         title: (Satellite) Networking and Clustering Network Scientists
         category: Faculty FASOS
         type: satellite
         url: https://belnets.github.io/satellite_netsci2025.html
-        row: 13
+        row: 12
         room: FASoS GG76 0.16
         room url: https://maps.app.goo.gl/Es4gXeNqmXDfCEC47
         
