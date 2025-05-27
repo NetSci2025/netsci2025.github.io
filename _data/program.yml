@@ -16,32 +16,32 @@ legend:
       color: yellow-6
     - name: Faculty FASOS
       color: pink-4
-      
+
 days:
   - name: Mon 2 June 2025
     events:
       - time: 09:30 - 10:30
-        title: "Manlio De Domenico (School Speaker)" 
+        title: "Manlio De Domenico (School Speaker)"
         type: speaker
         url: https://netsci2025.github.io/school/
         category: Faculty FPN
-        row: 1  
-        room: FPN Heerlen Zaal 
+        row: 1
+        room: FPN Heerlen Zaal
         room url: https://maps.app.goo.gl/yTF7bU3pdtQfGmG78
       - time: 11:00 - 12:30
-        title: "Manlio De Domenico (School Speaker)"   
+        title: "Manlio De Domenico (School Speaker)"
         category: Faculty FPN
         type: speaker
         url: https://netsci2025.github.io/school/
-        row: 1  
+        row: 1
       - time: 14:30 - 16:00
-        title: "Huijuan Wang (School Speaker)"   
+        title: "Huijuan Wang (School Speaker)"
         category: Faculty FPN
         type: speaker
         url: https://netsci2025.github.io/school/
         row: 1
       - time: 16:30 - 17:30
-        title: "Huijuan Wang (School Speaker)"   
+        title: "Huijuan Wang (School Speaker)"
         category: Faculty FPN
         type: speaker
         url: https://netsci2025.github.io/school/
@@ -64,7 +64,7 @@ days:
         type: satellite
         url: https://mobilityhealthnetworks.github.io
         row: 2
-        room: FPN Tongeren zaal 
+        room: FPN Tongeren zaal
         room url: https://maps.app.goo.gl/yTF7bU3pdtQfGmG78
       - time: 11:00 - 12:30
         title: (Satellite) The Science of Connections--Urban Mobility and Health Network
@@ -176,7 +176,7 @@ days:
         title: (Satellite) TEmporal NETworks (TENET)
         category: Faculty FSE
         type: satellite
-        url: https://sites.google.com/view/tenet-netsci/home  
+        url: https://sites.google.com/view/tenet-netsci/home
         row: 5
         room: FSE Conference hall EPD150
         room url: https://maps.app.goo.gl/MMmtLs3pW2aWT6DU8
@@ -369,7 +369,7 @@ days:
         type: satellite
         url: https://hons-web.github.io/online/index.html
         row: 10
-        room: FASoS GG90-92 A0 Turnzaal 
+        room: FASoS GG90-92 A0 Turnzaal
         room url: https://maps.app.goo.gl/Es4gXeNqmXDfCEC47
       - time: 11:00 - 12:30
         title: (Satellite) Higher-Order Network Science meets AI (HONAI)
@@ -407,7 +407,7 @@ days:
         type: satellite
         url: https://www.dagshop.xyz/
         row: 11
-        room: FASoS GG76 0.07 
+        room: FASoS GG76 0.07
         room url: https://maps.app.goo.gl/Es4gXeNqmXDfCEC47
       - time: 11:00 - 12:30
         title: (Satellite) A Workshop on Directed Acyclic Graphs (DAGshop)
@@ -447,31 +447,31 @@ days:
         row: 12
         room: FASoS GG76 0.16
         room url: https://maps.app.goo.gl/Es4gXeNqmXDfCEC47
-        
+
   - name: Tue 3 June 2025
     events:
       - time: 09:30 - 10:30
-        title: "Joseph Lizier (School Speaker)"   
+        title: "Joseph Lizier (School Speaker)"
         category: Faculty FPN
         type: speaker
         url: https://netsci2025.github.io/school/
-        row: 1  
+        row: 1
         room: FPN Heerlen Zaal
         room url: https://maps.app.goo.gl/yTF7bU3pdtQfGmG78
       - time: 11:00 - 12:30
-        title: "Joseph Lizier (School Speaker)"   
+        title: "Joseph Lizier (School Speaker)"
         category: Faculty FPN
         type: speaker
         url: https://netsci2025.github.io/school/
-        row: 1  
+        row: 1
       - time: 14:30 - 16:00
-        title: "Dillon Eastoe (School Speaker)"   
+        title: "Dillon Eastoe (School Speaker)"
         category: Faculty FPN
         type: speaker
         url: https://netsci2025.github.io/school/
         row: 1
       - time: 16:30 - 17:30
-        title: "Dillon Eastoe (School Speaker)"   
+        title: "Dillon Eastoe (School Speaker)"
         category: Faculty FPN
         type: speaker
         url: https://netsci2025.github.io/school/
@@ -494,7 +494,7 @@ days:
         type: satellite
         url: https://sites.google.com/view/flscn2025
         row: 2
-        room: FPN Tongeren zaal  
+        room: FPN Tongeren zaal
         room url: https://maps.app.goo.gl/yTF7bU3pdtQfGmG78
       - time: 11:00 - 12:30
         title: (Satellite) 2nd NetSci Satellite on Firm-Level Supply Chain Networks (FLSCN)
@@ -530,7 +530,7 @@ days:
         title: (Satellite) Between higher-order mechanisms and phenomena (TopoNets25)
         category: Faculty FPN
         type: satellite
-        url: https://sites.google.com/view/toponets2025/home-page 
+        url: https://sites.google.com/view/toponets2025/home-page
         row: 3
         room: FPN Paarse zaal
         room url: https://maps.app.goo.gl/yTF7bU3pdtQfGmG78
@@ -538,7 +538,7 @@ days:
         title: (Satellite) Between higher-order mechanisms and phenomena (TopoNets25)
         category: Faculty FPN
         type: satellite
-        url: https://sites.google.com/view/toponets2025/home-page 
+        url: https://sites.google.com/view/toponets2025/home-page
         row: 3
         room: FPN Paarse zaal
         room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
@@ -546,13 +546,13 @@ days:
         title: (Satellite) Between higher-order mechanisms and phenomena (TopoNets25)
         category: Faculty FPN
         type: satellite
-        url: https://sites.google.com/view/toponets2025/home-page 
+        url: https://sites.google.com/view/toponets2025/home-page
         row: 3
       - time: 16:30 - 18:30
         title: (Satellite) Between higher-order mechanisms and phenomena (TopoNets25)
         category: Faculty FPN
         type: satellite
-        url: https://sites.google.com/view/toponets2025/home-page 
+        url: https://sites.google.com/view/toponets2025/home-page
         row: 3
       - time: 12:30 - 14:30
         title: Lunch break
@@ -572,7 +572,7 @@ days:
         type: satellite
         url: https://mappingcomplexity.net/mainpage/netsci-2025/
         row: 4
-        room: FPN Groene zaal 
+        room: FPN Groene zaal
         room url: https://maps.app.goo.gl/yTF7bU3pdtQfGmG78
       - time: 11:00 - 12:30
         title: (Satellite) Network Geometry--Theory and Applications
@@ -774,13 +774,13 @@ days:
         title: (Satellite) Satellite Symposium on Network Science and Education (NetSciEd 2025)
         category: Faculty FASOS
         type: satellite
-        url: https://sites.google.com/view/netscied-2025 
+        url: https://sites.google.com/view/netscied-2025
         row: 9
       - time: 16:30 - 18:30
         title: (Satellite) Satellite Symposium on Network Science and Education (NetSciEd 2025)
         category: Faculty FASOS
         type: satellite
-        url: https://sites.google.com/view/netscied-2025 
+        url: https://sites.google.com/view/netscied-2025
         row: 9
       - time: 12:30 - 14:30
         title: Lunch break
@@ -820,7 +820,7 @@ days:
         title: Coffee break
         category: Break
         row: 10
-        
+
   - name: Wed 4 June 2025
     events:
       - time: 8:00 - 8:45
@@ -833,20 +833,20 @@ days:
         category: Break
         row: 1
         room: Lobby
-        url: /posters/wednesday-posters/
+        url: /posters/#poster-section-Wednesday
       - time: 13:00 - 14:30
         title: Lunch + posters
         category: Break
         row: 1
         room: Lobby
-        url: /posters/wednesday-posters/
+        url: /posters/#poster-section-Wednesday
       - time: 16:00 - 16:30
         title: Coffee break + posters 
         category: Break
         row: 1
         room: Lobby
-        url: /posters/wednesday-posters/
-      - time: 18:30 - 19:30 
+        url: /posters/#poster-section-Wednesday
+      - time: 18:30 - 19:30
         title: Welcome reception
         category: Other Activities
         row: 1
@@ -888,7 +888,7 @@ days:
         room: Auditorium 1
         url: /parallel/dynamics-1/
       - time: 17:45 - 18:30
-        title: "Jari Saramaki (Plenary Speaker)"   
+        title: "Jari Saramaki (Plenary Speaker)"
         category: Invited Speaker
         row: 2
         room: Auditorium 1
@@ -927,7 +927,7 @@ days:
         title: Multilayer networks
         category: Parallel
         row: 4
-        room: 0.10 Sydney  
+        room: 0.10 Sydney
         url: /parallel/multilayer-networks/
       - time: 11:00 - 13:00
         title: Culture & Technology
@@ -963,11 +963,11 @@ days:
         title: Network Geometry
         category: Parallel
         row: 6
-        room: 0.04 Brussels 
+        room: 0.04 Brussels
         url: /parallel/network-geometry/
 
 
-        
+
   - name: Thu 5 June 2025
     events:
       - time: 8:00 - 9:00
@@ -980,19 +980,19 @@ days:
         category: Break
         row: 1
         room: Lobby
-        url: /posters/thursday-posters/
+        url: /posters/#poster-section-Thursday
       - time: 13:00 - 14:30
         title: Lunch + posters
         category: Break
         row: 1
         room: Lobby
-        url: /posters/thursday-posters/
+        url: /posters/#poster-section-Thursday
       - time: 16:00 - 16:30
         title: Coffee break + posters 
         category: Break
         row: 1
         room: Lobby
-        url: /posters/thursday-posters/
+        url: /posters/#poster-section-Thursday
       - time: 19:00 - 23:00
         title: Conference dinner (meet in parking P4)
         category: Break
@@ -1108,7 +1108,7 @@ days:
         room: 0.04 Brussels
         url: /parallel/synchronization-and-control-theory/
 
-        
+
   - name: Fri 6 June 2025
     events:
       - time: 8:00 - 9:00
@@ -1120,13 +1120,13 @@ days:
         title: Coffee break + posters
         category: Break
         row: 1
-        url: /posters/friday-posters/
+        url: /posters/#poster-section-Friday
         room: Lobby
       - time: 12:30 - 14:00
         title: Lunch + posters
         category: Break
         row: 1
-        url: /posters/friday-posters/
+        url: /posters/#poster-section-Friday
         room: Lobby
       - time: 09:00 - 10:00
         title: "Michael Macy (Plenary Speaker)"
@@ -1141,7 +1141,7 @@ days:
         room: Auditorium 1
       - time: 14:00 - 16:00
         title: Network Dynamical Systems Focus Session
-        category: Invited Speaker 
+        category: Invited Speaker
         row: 2
         room: Auditorium 1
         url: /focus_sessions/
@@ -1152,7 +1152,7 @@ days:
         room: Auditorium 1
       - time: 14:00 - 16:00
         title: Network Psychometrics Focus Session
-        category: Invited Speaker 
+        category: Invited Speaker
         row: 3
         room: 0.11 Cape Town
         url: /focus_sessions/
