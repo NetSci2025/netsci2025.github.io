@@ -85,9 +85,9 @@ talks:
   Talk Order: '4'
   Abstract ID: '120'
   Presenter: Nicholas Kah Yean Low
-  Talk title: .nan
+  Talk title: "Discerning media bias within a network of political allies and opponents: the idealized example of a biased coin"
   Abstract: .nan
-  Time: .nan
+  Time: Thu 17:15 - 17:30
 - Session name: Signed networks
   Talk Order: '5'
   Abstract ID: '546'
@@ -117,4 +117,4 @@ talks:
     transition probabilities better than randomized processes for a similar range
     of tolerance values. Summing up, multidimensional attributes are sufficient to
     measure SBT influence.
-  Time: Thu 17:15 - 17:30
+  Time: Thu 17:30 - 17:45
