@@ -1,31 +1,31 @@
-center: 50.8484, 5.6888
-zoom: 13
+# center: 50.8484, 5.6888
+# zoom: 13
 
-markers:
-  - title: Congress center (MECC)
-    text: Forum 100, 6229 GV Maastricht
-    latlng: 50.8387222, 5.7121196
-  - title: Faculty of Arts and Social Sciences (FASOS)
-    text: Grote Gracht 90, 6211 SZ Maastricht
-    latlng: 50.849332, 5.6865766
-  - title: Faculty of Science and Engineering (FSE)
-    text: Paul-Henri Spaaklaan 1, 6229 EN Maastricht
-    latlng: 50.8398044, 5.7122484
-  - title: Faculty of Psychology and Neuroscience (FPN)
-    text: Universiteitssingel 40, 6229 ER Maastricht
-    latlng: 50.8364751, 5.7169796
+# markers:
+#   - title: Congress center (MECC)
+#     text: Forum 100, 6229 GV Maastricht
+#     latlng: 50.8387222, 5.7121196
+#   - title: Faculty of Arts and Social Sciences (FASOS)
+#     text: Grote Gracht 90, 6211 SZ Maastricht
+#     latlng: 50.849332, 5.6865766
+#   - title: Faculty of Science and Engineering (FSE)
+#     text: Paul-Henri Spaaklaan 1, 6229 EN Maastricht
+#     latlng: 50.8398044, 5.7122484
+#   - title: Faculty of Psychology and Neuroscience (FPN)
+#     text: Universiteitssingel 40, 6229 ER Maastricht
+#     latlng: 50.8364751, 5.7169796
 
-areas:
-  - text:
-      - This is a tooltip with no title...
-      - ...and with multiple lines of text
-    latlng:
-      - 47.81025552661079, 19.02201563177881
-      - 47.80993848992647, 19.024740756084967
-      - 47.812863800415236, 19.026607573523037
-      - 47.811667757419514, 19.038366377615738
-      - 47.804750341957295, 19.035233557547244
-      - 47.80770476752536, 19.021672309031583
+# areas:
+#   - text:
+#       - This is a tooltip with no title...
+#       - ...and with multiple lines of text
+#     latlng:
+#       - 47.81025552661079, 19.02201563177881
+#       - 47.80993848992647, 19.024740756084967
+#       - 47.812863800415236, 19.026607573523037
+#       - 47.811667757419514, 19.038366377615738
+#       - 47.804750341957295, 19.035233557547244
+#       - 47.80770476752536, 19.021672309031583
 
 
 
