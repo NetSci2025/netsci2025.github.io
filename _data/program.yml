@@ -762,15 +762,13 @@ days:
         url: https://fairnetsci.github.io/
         row: 9
         room: FASoS GG76S 1.018
-        room url: https://maps.app.goo.gl/NVxXJbJyiwX8PfDGA
+        room url: https://maps.app.goo.gl/Es4gXeNqmXDfCEC47
       - time: 11:00 - 12:30
         title: (Satellite) Algorithmic Fairness in Network Science
         category: Faculty FASOS
         type: satellite
         url: https://fairnetsci.github.io/
         row: 9
-        room: FASoS GG76S 1.018
-        room url: https://maps.app.goo.gl/Es4gXeNqmXDfCEC47
       - time: 14:30 - 16:00
         title: (Satellite) Satellite Symposium on Network Science and Education (NetSciEd 2025)
         category: Faculty FASOS
