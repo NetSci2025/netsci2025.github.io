@@ -11,25 +11,25 @@ permalink: /practical_info/
 
 Registration and Badge Pick Up
 ------------------------------
-You can pick up your badge at the registration desk on-site during the NetSci satellites or at the start of the main conference, where a NetSci 2025 staff member will assist you. 
-Please wear your badge at all times during the conference.
+You can pick up your badge at the registration desk on-site during the NetSci satellites or at the start of the main conference, where a NetSci 2025 staff member will assist you. If your satellite event is in FSE PHS1 rooms, then please pick up your badge at registration desk located at [FSE EDP150]( https://maps.app.goo.gl/MMmtLs3pW2aWT6DU8). Please wear your badge at all times during the conference.
 
 Wi-Fi
 -----
-Free WIFI is available in the venue. An access code is not necessary. Please note that the provided WIFI connection is suitable for emailing and browsing but not for heavy down- and uploading.
+- Satellite Events: you will have access to EDUROAM network. If not, detailed instruction will be available during satellite events at registration desks.
+- Main Conference: Free WIFI is available in the venue. An access code is not necessary. Please note that the provided WIFI connection is suitable for emailing and browsing but not for heavy down- and uploading.
+
 
 Lunch
 -----
-Please note that the registration fee includes coffee breaks during satellites and the main conference and lunch breaks during the main conference days, as per the program.
-If you have indicated any dietary requirements or allergies, please inform the catering staff. They will be able to assist you further.
+Please note that the registration fee includes coffee breaks during satellites and the main conference and lunch breaks during the main conference days, as per the program. If you have indicated any dietary requirements or allergies, please inform the catering staff. They will be able to assist you further.
 
 Cloakroom
 ---------
-An unattended cloakroom is available for use.
+During the main conference, an unattended cloakroom is available for use.
 
 Childcare
 ---------
-NetSci 2025 provides a childcare service for the conference days. Pre-registration is required and can be completed during the main registration process. Once registered, you will find the childcare facility in room 0.17 (Moscow).
+NetSci 2025 provides a childcare service for the main conference days. Pre-registration is required and can be completed during the main registration process. Once registered, you will find the childcare facility in room 0.17 (Moscow Room).
 
 Timings:  
 - 09:00 to 18:30 on Wednesday and Thursday  
