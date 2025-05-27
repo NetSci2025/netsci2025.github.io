@@ -41,6 +41,15 @@ Organized by NetPlace. NetPlace serves as a welcoming space where researchers ca
 
 
 
+## Peercolation, a social event targeting young researchers
+
+Peercolation, designed by NetPlace, is an ice-breaking event for early-career researchers attending NetSci 2025. It would be a great opportunity for a relaxed social gathering to connect and chat before the conference begins!
+
+- **Date**:  Sunday, 1st June 2025, 6 PM till late
+- **More information**: https://netplace.site/event/netsci25/peercolation_social_event/
+
+
+
 ---
 
 ## 🍺 NetSci 2025 Signature Brew at Stadsherberg de Poshoorn
