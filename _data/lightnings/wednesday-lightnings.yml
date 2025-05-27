@@ -1,240 +1,618 @@
 session: Wednesday Lightnings
 slug: wednesday-lightnings
 talks:
-  - Session name: Wednesday Lightnings
-    Talk Order: '1'
-    Abstract ID: '41'
-    Presenter: Baruch Barzel
-    Talk title: Network resuscitation – reviving failed networks
-    Abstract: 'Complex systems often experience perturbations and disturbances, from
-      overload failures in power systems to species extinction in ecological networks.
-      The impact of such perturbations is often subtle, the system exhibits a minor
-      response, but continues to sustain its global functionality. However, in extreme
-      cases, a large enough perturbation may lead to a large-scale collapse, with
-      the system abruptly transitioning from a functional to a dysfunctional dynamic
-      state. For instance, in cellular dynamics, genetic knockouts, beyond a certain
-      threshold, lead to cell death; in ecological systems, changes in environmental
-      conditions may, in extreme cases, cause mass-extinction; and in infrastructure
-      networks, a cascading failure, at times, results in a major blackout.  When
-      such collapse occurs, the naïve instinct is to reverse the damage, retrieve
-      the failed nodes and reconstruct the lost links. Such response however is seldom
-      efficient, as (i) we rarely have access to all system components; (ii) even
-      if we could reverse the damage, due to hysteresis, in many cases, the system
-      will not spontaneously regain its lost functionality.  To address this challenge,
-      we consider here a two-step recovery process: Step I. Restructuring. Retrieving
-      the network topology to a point where the system can potentially regain functionality
-      • Step II. Reigniting. Introducing dynamic interventions to steer the system
-      back to its functional state.  The challenge in Step II is that we are typically
-      limited in our potential interventions. Hence, we seek to reignite the system
-      via micro-interventions, e.g., controlling just a single or, at most, few nodes.
-      Therefore, in this talk, we present single-node reigniting, unveiling a new
-      dynamic phase of complex systems, in which a failed system can be revived by
-      controlling just a microscopic set of nodes. This helps jolt the network back
-      to functionality – offering a practical network dynamics defibrillator.'
-  - Session name: Wednesday Lightnings
-    Talk Order: '2'
-    Abstract ID: '115'
-    Presenter: Federico Battiston
-    Talk title: Do you have to go to the US to win an ERC?
-    Abstract: "See attachment \n If accepted, I (FB) will be the presenter.\n This\
-      \ is the only contribution I am submitting as presenter.\n My other contributions,\
-      \ if accepted, will be presented by co-authors."
-  - Session name: Wednesday Lightnings
-    Talk Order: '3'
-    Abstract ID: '125'
-    Presenter: Matteo D'Alessandro
-    Talk title: Fractional derivative in continuous-time Markov processes and applications
-      to epidemics in networks
-    Abstract: Since real-world epidemics are very likely characterized by non-exponential
-      infections and curings, non-Markovian models are expected to describe real epidemic
-      processes better. In order to account for memory in Markovian stochastic processes,
-      we replace the standard differential operator in the Markovian equations with
-      the well-known Caputo fractional derivative, an operator which generalizes the
-      notion of standard derivative to non-integer orders (i.e., 0 < α < 1) and which
-      incorporates memory effects “summing” over the past. We apply it to generalize
-      the equations describing Markovian epidemic processes on networks and we prove
-      that is possible to define a microscopic epidemic description that is compatible
-      with the fractional framework.  Without making any assumption on the memory
-      structure of the fractional process we obtain bounds for the average fraction
-      of infected individuals (i.e., prevalence) and we show that for 0 < α < 1 the
-      fractional epidemics is always worse (i.e. more dangerous) than the Markovian
-      epidemics because grows faster in the beginning and survives more in the long-run.  Assuming
-      that the fractional process satisfies the semi-Markov property, which means
-      that the memory of the process is reset every time there is an update in the
-      viral state of the network, we analytically prove that is possible to define
-      a novel microscopic epidemic description that is compatible with the fractional
-      Chapman-Kolmogorov equation. Finally we also show under which conditions any
-      fractional stochastic process can be reduced to a corresponding Markov process
-      via different kinds of time transformations, providing a practical tool to extend
-      the well-known theory of Markovian epidemic process to a more general framework.
-  - Session name: Wednesday Lightnings
-    Talk Order: '4'
-    Abstract ID: '177'
-    Presenter: Joris Bucker
-    Talk title: Interlocking path-dependencies in green industrial strategy networks
-    Abstract: 'Green industrial strategy comprises policies that help steer a country''s
-      economic structure towards sectors that are cleaner and produce green technologies.
-      In both policy practice and the economic literature, green industrial strategy
-      has been growing rapidly in popularity. In this study, we use network science
-      methods to expose underlying patterns of industrial strategy that drive policy
-      innovations. While network science is relatively novel to policy making, existing
-      literature has stressed that policy making is a complex, evolving, path-dependent
-      process. This paper is the first to study industrial strategy using network
-      science and adds to a nascent literature on networks in policymaking.  We introduce
-      a new dataset of green industrial strategy, spanning policies between 2008--2022
-      that target the value chain of three major renewable energy technologies: solar
-      pv, wind energy, and batteries for electric vehicles (EVs). Using this data,
-      we create three separate co-occurrence networks of countries, products, and
-      policy instruments. We find that industrial strategy is a path dependent process,
-      and that the network structure is informative of policy innovation: countries
-      have a tendency to introduce new policies if they are more aligned with the
-      policy instruments that are already in place, the products that it already targets,
-      or if related countries already have that policy in place. We show that the
-      direction of green industrial policy can thus - to some extent - be predicted
-      using our networks. One of the three networks is of industrial policy instruments,
-      where instruments are connected if they are often co-applied to the same product
-      in the same country. Fig. 1 overlays the network with a specific policy innovation
-      in India, which was more than four times more likely to be introduced in 2017
-      than in a situation where no related policy instrument had already been introduced
-      by India on that product before.'
-  - Session name: Wednesday Lightnings
-    Talk Order: '5'
-    Abstract ID: '211'
-    Presenter: Xuanchi Li
-    Talk title: A Near Linear-time Network Sampling for the Enhanced Configuration
-      Models
-    Abstract: referring to the pdf file
-  - Session name: Wednesday Lightnings
-    Talk Order: '6'
-    Abstract ID: '301'
-    Presenter: Guillermo Prol-Castelo
-    Talk title: 'Identifying a Novel Medulloblastoma Subgroup: A Multilayer- and Synthetic-Data-Based
-      Approach'
-    Abstract: 'Medulloblastoma (MB) is a rare childhood brain tumor historically stratified
-      into four molecular subgroups: WNT, SHH, Group 3 (G3), and Group 4 (G4). While
-      SHH and WNT are widely accepted as separate subgroups, G3 and G4 are currently
-      viewed as a continuum within the non-SHH/non-WNT subgroup. The present work
-      focuses on this subgroup continuum, as recent research on various omics datasets
-      has suggested the existence of a putative, additional G3-G4 subgroup with intermediate
-      characteristics. We present findings that identify and characterize the additional
-      G3-G4 subgroup using two distinct omics datasets and two distinct methodologies.
-      First, we characterized the putative subgroup based on genes'' persistent association
-      in multilayer network communities across multi-omics data, and identified patients
-      that do not belong to either the G3 nor the G4 subgroups. Given data scarcity
-      is a common problem in rare disease analyses, including in transcriptomic data,
-      in our second procedure we sought to overcome this limitation by generating
-      new, synthetic patients within the G3-G4 subgroup from a microarray study. By
-      leveraging the Variational Autoencoder generative ability, we were able to overcome
-      the problem of data scarcity and found quantitative support for the G3-G4 subgroup
-      definition. Overall, we found a subset of genes that separate the G3-G4 subgroup,
-      both through our multilayer network and synthetic-data approaches. These approaches
-      show the potential of overcoming dimensionality limitations across different
-      data types, enhancing rare disease subtyping tasks and allowing for a deeper
-      understanding of the underlying biology.'
-  - Session name: Wednesday Lightnings
-    Talk Order: '7'
-    Abstract ID: '372'
-    Presenter: Edward Lee
-    Talk title: Innovation-exnovation dynamics on trees and trusses
-    Abstract: Schumpeterian creative destruction most naturally relates innovation
-      and its complement exnovation in a linear progression of realized possibilities
-      from the past to the present. The phylogenetic tree is a structural variation
-      that represents contingent paths of biological innovations to a species. For
-      a technological capability, paths are manifold, or a “truss.” We propose a simple
-      model for a population of agents innovating while outrunning exnovation to contrast
-      the impact of dynamical parameters with structural ones. We calculate its phase
-      diagram to show how dynamics and structural connectivity conspire to unleash
-      innovative diversity or to drive it extinct.
-  - Session name: Wednesday Lightnings
-    Talk Order: '8'
-    Abstract ID: '444'
-    Presenter: Frank Takes
-    Talk title: Connectivity and Community Structure of Online and Register-based
-      Social Networks
-    Abstract: The dominance of online social media data as a source for large-scale
-      social network studies has recently been challenged by networks constructed
-      from state-curated register data. In this paper, we investigate how the two
-      compare, focusing the Dutch online social network (OSN) Hyves and a register-based
-      social network (RSN) of the Netherlands. First and foremost, we find that the
-      connectivity of the two population-scale networks is strikingly similar, especially
-      between nearby municipalities, with more long-distance ties captured by the
-      OSN. This result holds when correcting for population size and geographical
-      distance, notwithstanding that these two factors appear to be the main drivers
-      of connectivity. Second, we show that the community structure of neither network
-      follows strict administrative geographical delineations (e.g., provinces). Instead,
-      communities appear to either center around large metropolitan areas or, outside
-      of the country's most urbanized area, are comprised of large blocks of interdependent
-      municipalities. Beyond population and distance-related patterns, communities
-      also highlight the persistence of deeply rooted sociocultural communities that
-      can be linked to religion. The findings presented in this work aid in comparing
-      results from future studies in which online social networks and register-based
-      social networks are used to obtain insights into the social network structure
-      of an entire population.
-  - Session name: Wednesday Lightnings
-    Talk Order: '9'
-    Abstract ID: '470'
-    Presenter: Nelly Litvak
-    Talk title: Planted clique detection in geometric network models
-    Abstract: Random geometric graphs (RGGs) are often used to model real-life social,
-      technological and biological networks. An artificial clique may signal anomaly
-      or malicious interventions. We study the problem of detecting such a artificial
-      (or, hidden, planted) clique in RGGs. Formally, we consider a RGG where n vertices
-      are located at random on a finite two-dimensional torus; two vertices are connected
-      if the distance between them is at most r. Then, k vertices are chosen at random
-      to form a planted clique by adding the missing edges between them. Our goal
-      is to design algorithms that find the planted clique with high probability (w.h.p).  We
-      analyze two algorithms. The vertex degree (VD) algorithm declares that the planted
-      clique is the k vertices with highest degrees, just as in the earlier literature
-      for the Erdös-Rényi (ER) random graphs. We prove that the VD algorithm works
-      for k greater than log(n) times the average degree, similarly to the ER model.
-      Interestingly, the largest clique in a RGG is much greater than that. Our main
-      contribution is the common neighbor (CN) algorithm that works as follows. If
-      a pair of vertices has exactly k-2 common neighbors, then CN declares that this
-      pair and its common neighbors are the planted clique. We prove that the CN algorithm
-      finds a planted clique w.h.p. in a large range of regimes, for instance (surprisingly!)
-      when k is finite, while the average degree is of the order log(n).  We conclude
-      that even without knowing the positions of the vertices, we can leverage the
-      hidden geometry to greatly enhance detection, in comparison to non-geometric
-      models.
-  - Session name: Wednesday Lightnings
-    Talk Order: '10'
-    Abstract ID: '619'
-    Presenter: Nelson Aloysio Reis de Almeida Passos
-    Talk title: Benchmarking Algorithmic and Neural Approaches for Temporal Community
-      Detection
-    Abstract: This work presents an experimental evaluation of algorithmic and neural
-      community detection methods for temporal graphs, comparing more established
-      approaches with newly introduced deep learning models designed for node-level
-      clustering. We devise a novel stochastic block model-based approach 3] to generate
-      time-varying attributed temporal graphs with community ground truths, and employ
-      it to compare the performance of distinct state-of-the-art solutions. In this
-      framework, node features are kept fixed, while community structures are dynamic
-      — allowing to study how well differing solutions are able to jointly exploit
-      the feature space and the temporal dynamics of the generated graphs to improve
-      on the detectability threshold of communities and allow better recovering the
-      hidden community structure of the generated networks. In addition, we assess
-      the performance of the models on a set of diverse real-world datasets of various
-      scales, focused on a transductive learning setting, and extending to an inductive
-      learning setting when possible. The main motivation behind this work are the
-      recent advances in network representation learning, which have also sparked
-      a renewed interest in the improvement and development of new strategies for
-      learning on spatio-temporal signals.
-  - Session name: Wednesday Lightnings
-    Talk Order: '11'
-    Abstract ID: '286'
-    Presenter: Victor Brabant
-    Talk title: Longitudinal Modularity for Uncovering Dynamic Community Structures
-      in Link Streams
-    Abstract: 'Complex networks are powerful tools for modeling real-world phenomena,
-      including social interactions, economic transactions, and biological processes.
-      Many of these phenomena are characterized by a continuous flow of interactions
-      occurring at fast time scales, often modeled as stream graphs or link streams,
-      frameworks specifically designed to handle fine-grained temporal data without
-      unnecessary aggregation. Working within this framework necessitates extending
-      methods developed for static networks, including the classic problem of community
-      detection. In previous work we focused on the well-known modularity quality
-      function for community structures in static networks and introduced an extension
-      for link streams: the Longitudinal Modularity. This extension does not require
-      a predefined time scale of analysis or any preprocessing of the natural temporal
-      interactions in the network. In this work, we present an algorithm designed
-      to identify time communities in link streams that maximize Longitudinal Modularity.'
+- Abstract ID: '41'
+  Presenter: Baruch Barzel
+  Talk title: Network resuscitation – reviving failed networks
+  Abstract: 'Complex systems often experience perturbations and disturbances, from
+    overload failures in power systems to species extinction in ecological networks.
+    The impact of such perturbations is often subtle, the system exhibits a minor
+    response, but continues to sustain its global functionality. However, in extreme
+    cases, a large enough perturbation may lead to a large-scale collapse, with the
+    system abruptly transitioning from a functional to a dysfunctional dynamic state.
+    For instance, in cellular dynamics, genetic knockouts, beyond a certain threshold,
+    lead to cell death; in ecological systems, changes in environmental conditions
+    may, in extreme cases, cause mass-extinction; and in infrastructure networks,
+    a cascading failure, at times, results in a major blackout. When such collapse
+    occurs, the naïve instinct is to reverse the damage, retrieve the failed nodes
+    and reconstruct the lost links. Such response however is seldom efficient, as
+    (i) we rarely have access to all system components; (ii) even if we could reverse
+    the damage, due to hysteresis, in many cases, the system will not spontaneously
+    regain its lost functionality. To address this challenge, we consider here a two-step
+    recovery process: Step I. Restructuring. Retrieving the network topology to a
+    point where the system can potentially regain functionality • Step II. Reigniting.
+    Introducing dynamic interventions to steer the system back to its functional state.
+    The challenge in Step II is that we are typically limited in our potential interventions.
+    Hence, we seek to reignite the system via micro-interventions, e.g., controlling
+    just a single or, at most, few nodes. Therefore, in this talk, we present single-node
+    reigniting, unveiling a new dynamic phase of complex systems, in which a failed
+    system can be revived by controlling just a microscopic set of nodes. This helps
+    jolt the network back to functionality – offering a practical network dynamics
+    defibrillator.'
+- Abstract ID: '115'
+  Presenter: Federico Battiston
+  Talk title: Do you have to go to the US to win an ERC?
+  Abstract: "See attachment \nIf accepted, I (FB) will be the presenter.\nThis is\
+    \ the only contribution I am submitting as presenter.\nMy other contributions,\
+    \ if accepted, will be presented by co-authors."
+- Abstract ID: '125'
+  Presenter: Matteo D'Alessandro
+  Talk title: Fractional derivative in continuous-time Markov processes and applications
+    to epidemics in networks
+  Abstract: Since real-world epidemics are very likely characterized by non-exponential
+    infections and curings, non-Markovian models are expected to describe real epidemic
+    processes better. In order to account for memory in Markovian stochastic processes,
+    we replace the standard differential operator in the Markovian equations with
+    the well-known Caputo fractional derivative, an operator which generalizes the
+    notion of standard derivative to non-integer orders (i.e., 0 < α < 1) and which
+    incorporates memory effects “summing” over the past. We apply it to generalize
+    the equations describing Markovian epidemic processes on networks and we prove
+    that is possible to define a microscopic epidemic description that is compatible
+    with the fractional framework. Without making any assumption on the memory structure
+    of the fractional process we obtain bounds for the average fraction of infected
+    individuals (i.e., prevalence) and we show that for 0 < α < 1 the fractional epidemics
+    is always worse (i.e. more dangerous) than the Markovian epidemics because grows
+    faster in the beginning and survives more in the long-run. Assuming that the fractional
+    process satisfies the semi-Markov property, which means that the memory of the
+    process is reset every time there is an update in the viral state of the network,
+    we analytically prove that is possible to define a novel microscopic epidemic
+    description that is compatible with the fractional Chapman-Kolmogorov equation.
+    Finally we also show under which conditions any fractional stochastic process
+    can be reduced to a corresponding Markov process via different kinds of time transformations,
+    providing a practical tool to extend the well-known theory of Markovian epidemic
+    process to a more general framework.
+- Abstract ID: '177'
+  Presenter: Joris Bucker
+  Talk title: Interlocking path-dependencies in green industrial strategy networks
+  Abstract: 'Green industrial strategy comprises policies that help steer a country''s
+    economic structure towards sectors that are cleaner and produce green technologies.
+    In both policy practice and the economic literature, green industrial strategy
+    has been growing rapidly in popularity. In this study, we use network science
+    methods to expose underlying patterns of industrial strategy that drive policy
+    innovations. While network science is relatively novel to policy making, existing
+    literature has stressed that policy making is a complex, evolving, path-dependent
+    process. This paper is the first to study industrial strategy using network science
+    and adds to a nascent literature on networks in policymaking. We introduce a new
+    dataset of green industrial strategy, spanning policies between 2008--2022 that
+    target the value chain of three major renewable energy technologies: solar pv,
+    wind energy, and batteries for electric vehicles (EVs). Using this data, we create
+    three separate co-occurrence networks of countries, products, and policy instruments.
+    We find that industrial strategy is a path dependent process, and that the network
+    structure is informative of policy innovation: countries have a tendency to introduce
+    new policies if they are more aligned with the policy instruments that are already
+    in place, the products that it already targets, or if related countries already
+    have that policy in place. We show that the direction of green industrial policy
+    can thus - to some extent - be predicted using our networks. One of the three
+    networks is of industrial policy instruments, where instruments are connected
+    if they are often co-applied to the same product in the same country. Fig. 1 overlays
+    the network with a specific policy innovation in India, which was more than four
+    times more likely to be introduced in 2017 than in a situation where no related
+    policy instrument had already been introduced by India on that product before.'
+- Abstract ID: '211'
+  Presenter: Sadamori Kojaku
+  Talk title: A Near Linear-time Network Sampling for the Enhanced Configuration Models
+  Abstract: 'The configuration model is a popular random graph model that aims to
+    generate networks with a specific degree
+
+    sequence [1]. Although the Chung-Lu model is the most commonly used approach,
+    it contains inherent biases that make
+
+    it inadequate for accurately representing important network properties. Specifically,
+    it fails to properly model clustering
+
+    patterns and nearest neighbor degree distributions that are predicted by the configuration
+    model [2]. This limitation leads
+
+    to unreliable significance testing and incorrect interpretations of network characteristics.
+    The Enhanced Configuration
+
+    Model (ECM) addresses these issues through maximum entropy principles, providing
+    better theoretical grounding and
+
+    accuracy. However, its adoption remains limited due to the computational complexity
+    of sampling networks from ECM.
+
+    We propose a fast sampling algorithm for ECM, reducing time complexity to O(M
+    ) from O(N 2) for a network with N
+
+    nodes M edges on expectation based on brute force algorithm (BF). We leverage
+    the rejection sampling, which operates
+
+    in two key steps. First, we sample potential edges (i, j) using a proposal probability
+    q larger than the true probability Pij
+
+    (q ≥ Pij ). Second, we accept each proposed edge with probability Pij /q. The
+    first step generates a sparse Erd˝os-R´enyi
+
+    random graph with M ′ ∼ qN 2 edges (where M ′ ≥ E[M ]) in time complexity O(M
+    ′) on expectation. In the second
+
+    step, we only need to examine these M ′ candidate edges, which is significantly
+    fewer than the N 2 possible node pairs,
+
+    thereby achieving substantial computational speedup. This rejection sampling method
+    maintains correct edge probabilities
+
+    (q × Pij /q = Pij ). The efficiency of our approach hinges on choosing q as close
+    as possible to Pij to minimize the
+
+    number M ′ of candidate edges. We do so by sorting Pij in descending order and
+    dynamically setting qij = P ′
+
+    ij where P ′ij ≥ Pij . Sorting is performed based on the degree di of the nodes,
+    as dj′ ≥ di implies Pij′ ≥ Pij .
+
+    Our numerical simulations based on 94 empirical networks of different sizes from
+    multiple domains demonstrate
+
+    10∼1000 times speedup in the network sampling (Fig.1a) while preserving the degree
+    distribution (Fig.1b). We evaluate
+
+    our proposed method (UECM) by comparing it against two established approaches:
+    the BF algorithm for ECM and
+
+    Miller’s algorithm, which implements a biased Chung-Lu model using similar underlying
+    principles as described above
+
+    [3]. The results also manifest that BF is the slowest for all networks in terms
+    of the CPU time, with complexity roughly
+
+    matching O(N 2) (Fig. 1a), whereas Miller and UECM are substantially faster especially
+    for large networks. Miller is
+
+    the fastest algorithm for the Chung-Lu model, and our results indicate that our
+    sampling algorithm matches its speed.
+
+    Our algorithm does not compromise the accuracy, as indicated by nearly perfect
+    correlations between the original degree
+
+    sequence and that of the sampled networks (Fig.1b), with errors being comparable
+    with those for other algorithms.
+
+    Finally, extending this sampling algorithm for the case of directed and weighted
+    networks will be the next task. It is
+
+    promising to see that our efficient sampling algorithm will break the adoption
+    barrier of the ECM for a more accurate
+
+    analysis and characterization of network structure.'
+- Abstract ID: '301'
+  Presenter: Guillermo Prol-Castelo
+  Talk title: 'Identifying a Novel Medulloblastoma Subgroup: A Multilayer- and Synthetic-Data-Based
+    Approach'
+  Abstract: 'Medulloblastoma (MB) is a rare childhood brain tumor historically stratified
+    into four molecular subgroups: WNT, SHH, Group 3 (G3), and Group 4 (G4). While
+    SHH and WNT are widely accepted as separate subgroups, G3 and G4 are currently
+    viewed as a continuum within the non-SHH/non-WNT subgroup. The present work focuses
+    on this subgroup continuum, as recent research on various omics datasets has suggested
+    the existence of a putative, additional G3-G4 subgroup with intermediate characteristics.
+    We present findings that identify and characterize the additional G3-G4 subgroup
+    using two distinct omics datasets and two distinct methodologies. First, we characterized
+    the putative subgroup based on genes'' persistent association in multilayer network
+    communities across multi-omics data, and identified patients that do not belong
+    to either the G3 nor the G4 subgroups. Given data scarcity is a common problem
+    in rare disease analyses, including in transcriptomic data, in our second procedure
+    we sought to overcome this limitation by generating new, synthetic patients within
+    the G3-G4 subgroup from a microarray study. By leveraging the Variational Autoencoder
+    generative ability, we were able to overcome the problem of data scarcity and
+    found quantitative support for the G3-G4 subgroup definition. Overall, we found
+    a subset of genes that separate the G3-G4 subgroup, both through our multilayer
+    network and synthetic-data approaches. These approaches show the potential of
+    overcoming dimensionality limitations across different data types, enhancing rare
+    disease subtyping tasks and allowing for a deeper understanding of the underlying
+    biology.'
+- Abstract ID: '372'
+  Presenter: Edward Lee
+  Talk title: Innovation-exnovation dynamics on trees and trusses
+  Abstract: Schumpeterian creative destruction most naturally relates innovation and
+    its complement exnovation in a linear progression of realized possibilities from
+    the past to the present. The phylogenetic tree is a structural variation that
+    represents contingent paths of biological innovations to a species. For a technological
+    capability, paths are manifold, or a “truss.” We propose a simple model for a
+    population of agents innovating while outrunning exnovation to contrast the impact
+    of dynamical parameters with structural ones. We calculate its phase diagram to
+    show how dynamics and structural connectivity conspire to unleash innovative diversity
+    or to drive it extinct.
+- Abstract ID: '444'
+  Presenter: Frank Takes
+  Talk title: Connectivity and Community Structure of Online and Register-based Social
+    Networks
+  Abstract: The dominance of online social media data as a source for large-scale
+    social network studies has recently been challenged by networks constructed from
+    state-curated register data. In this paper, we investigate how the two compare,
+    focusing the Dutch online social network (OSN) Hyves and a register-based social
+    network (RSN) of the Netherlands. First and foremost, we find that the connectivity
+    of the two population-scale networks is strikingly similar, especially between
+    nearby municipalities, with more long-distance ties captured by the OSN. This
+    result holds when correcting for population size and geographical distance, notwithstanding
+    that these two factors appear to be the main drivers of connectivity. Second,
+    we show that the community structure of neither network follows strict administrative
+    geographical delineations (e.g., provinces). Instead, communities appear to either
+    center around large metropolitan areas or, outside of the country's most urbanized
+    area, are comprised of large blocks of interdependent municipalities. Beyond population
+    and distance-related patterns, communities also highlight the persistence of deeply
+    rooted sociocultural communities that can be linked to religion. The findings
+    presented in this work aid in comparing results from future studies in which online
+    social networks and register-based social networks are used to obtain insights
+    into the social network structure of an entire population.
+- Abstract ID: '470'
+  Presenter: Nelly Litvak
+  Talk title: Planted clique detection in geometric network models
+  Abstract: Random geometric graphs (RGGs) are often used to model real-life social,
+    technological and biological networks. An artificial clique may signal anomaly
+    or malicious interventions. We study the problem of detecting such a artificial
+    (or, hidden, planted) clique in RGGs. Formally, we consider a RGG where n vertices
+    are located at random on a finite two-dimensional torus; two vertices are connected
+    if the distance between them is at most r. Then, k vertices are chosen at random
+    to form a planted clique by adding the missing edges between them. Our goal is
+    to design algorithms that find the planted clique with high probability (w.h.p).
+    We analyze two algorithms. The vertex degree (VD) algorithm declares that the
+    planted clique is the k vertices with highest degrees, just as in the earlier
+    literature for the Erdös-Rényi (ER) random graphs. We prove that the VD algorithm
+    works for k greater than log(n) times the average degree, similarly to the ER
+    model. Interestingly, the largest clique in a RGG is much greater than that. Our
+    main contribution is the common neighbor (CN) algorithm that works as follows.
+    If a pair of vertices has exactly k-2 common neighbors, then CN declares that
+    this pair and its common neighbors are the planted clique. We prove that the CN
+    algorithm finds a planted clique w.h.p. in a large range of regimes, for instance
+    (surprisingly!) when k is finite, while the average degree is of the order log(n).
+    We conclude that even without knowing the positions of the vertices, we can leverage
+    the hidden geometry to greatly enhance detection, in comparison to non-geometric
+    models.
+- Abstract ID: '619'
+  Presenter: Nelson Aloysio Reis de Almeida Passos
+  Talk title: Benchmarking Algorithmic and Neural Approaches for Temporal Community
+    Detection
+  Abstract: This work presents an experimental evaluation of algorithmic and neural
+    community detection methods for temporal graphs, comparing more established approaches
+    with newly introduced deep learning models designed for node-level clustering.
+    We devise a novel stochastic block model-based approach 3] to generate time-varying
+    attributed temporal graphs with community ground truths, and employ it to compare
+    the performance of distinct state-of-the-art solutions. In this framework, node
+    features are kept fixed, while community structures are dynamic — allowing to
+    study how well differing solutions are able to jointly exploit the feature space
+    and the temporal dynamics of the generated graphs to improve on the detectability
+    threshold of communities and allow better recovering the hidden community structure
+    of the generated networks. In addition, we assess the performance of the models
+    on a set of diverse real-world datasets of various scales, focused on a transductive
+    learning setting, and extending to an inductive learning setting when possible.
+    The main motivation behind this work are the recent advances in network representation
+    learning, which have also sparked a renewed interest in the improvement and development
+    of new strategies for learning on spatio-temporal signals.
+- Abstract ID: '156'
+  Presenter: Robin Persoons
+  Talk title: Continuous-time random walker induced temporal graphs
+  Abstract: 'We consider a node-set S , whose elements can be interpreted as locations,
+    and M random walkers moving betweenthe N = |S| nodes. Each walker has its own
+    Markovian mobility process, describing how the walker moves betweenthe nodes of
+    S over time. The Markovian mobility process is equivalent to a random walk on
+    a Markov graph whosestates are the node-set S . The contact graph G(t), which
+    has M nodes, each corresponding to a different walker, isdetermined according
+    to the co-location principle. If two walkers m1 and m2 are in the same state n
+    ∈ S at a timeˆt, there is an edge between nodes m1 and m2 in G(ˆt). The contact
+    graph G(t) has the same clique-structure that iscommon in real-world data: at
+    all times, all walkers are part of a clique.The random walker induced temporal
+    graph model (RWIG) [1], is originally described in discrete-time. The model isconceptually
+    intuitive, analytically tractable and scalable. Here, we extend the discrete-time
+    model from [1] to continuoustime. exponential transition times. We show mathematically
+    that this modelcan be used to retrieve the heavy-tailed inter-meeting times present
+    in the real-world.'
+- Abstract ID: '286'
+  Presenter: Victor Brabant
+  Talk title: Longitudinal Modularity for Uncovering Dynamic Community Structures
+    in Link Streams
+  Abstract: 'Complex networks are powerful tools for modeling real-world phenomena,
+    including social interactions, economic transactions, and biological processes.
+    Many of these phenomena are characterized by a continuous flow of interactions
+    occurring at fast time scales, often modeled as stream graphs or link streams,
+    frameworks specifically designed to handle fine-grained temporal data without
+    unnecessary aggregation. Working within this framework necessitates extending
+    methods developed for static networks, including the classic problem of community
+    detection. In previous work we focused on the well-known modularity quality function
+    for community structures in static networks and introduced an extension for link
+    streams: the Longitudinal Modularity. This extension does not require a predefined
+    time scale of analysis or any preprocessing of the natural temporal interactions
+    in the network. In this work, we present an algorithm designed to identify time
+    communities in link streams that maximize Longitudinal Modularity.'
+- Abstract ID: '408'
+  Presenter: Gabriele Di Bona
+  Talk title: Modeling discovery through the exploration of growing networks of possibility
+  Abstract: Studying how we explore the world in search of novelties is key to understand
+    the mechanisms that can lead to new discoveries. Previous studies analyzed novelties
+    in various exploration processes, defining them as the first appearance of an
+    element. However, novelties can also be generated by combining what is already
+    known. We hence define higher-order novelties as the first time two or more elements
+    appear together, and we introduce higher-order Heaps' exponents as a way to characterize
+    their pace of discovery. Through extensive analysis of real-world data, we find
+    that processes with the same pace of discovery, as measured by the standard Heaps'
+    exponent, can instead differ at higher orders. We then propose to model an exploration
+    process as a random walk on a network in which the possible connections between
+    elements evolve in time. The model reproduces the empirical properties of higher-order
+    novelties, revealing how the network we explore changes over time along with the
+    exploration process.
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: Impact of directionality on the emergence of Turing patterns on m-directed
+    higher-order structures
+  Abstract: 'Turing patterns, hallmarks of self-organized processes, emerge when ordered
+    structures arise from initial disorder due to the complex nonlinear interactions
+    between the elements of a system. Initially studied in continuous settings, these
+    patterns have recently been explored on networks, where nodes represent spatial
+    regions hosting local reactions between two chemical species, the activator and
+    the inhibitor, while edges model the diffusion process. This approach has made
+    it possible to study Turing instability on graphs, but also on undirected hypergraphs.
+    In this work, we develop a theory of Turing instability on m-directed hypergraphs.
+    These structures generalize hypergraphs by dividing the nodes of a hyperedge into
+    two disjoint sets: tail nodes and head nodes. This directionality introduces a
+    privileged mechanism in which the collective action of tail nodes drives the reactions
+    involving head nodes. This generalization thus provides an extended framework
+    compared to traditional directed networks. Using linear stability analysis, we
+    demonstrate that the directionality of m-directed hypergraphs promotes Turing
+    instability, enabling the emergence of stationary or wave-like patterns within
+    parameter regimes inaccessible to symmetric configurations. We also derive two
+    specific Laplace matrices that allow for a rigorous analytical characterization
+    of these patterns. The theoretical findings are validated through simulations
+    using the Brusselator model, applied to a directed m-hyperring and a directed
+    random hypergraph. Our work highlights the crucial role of directionality in the
+    emergence of Turing patterns and broadens the traditional frameworks of network
+    theory.'
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: 'Phase Transition in Particles Aggregates: an Application to Biofilm
+    Formation'
+  Abstract: In this work, we developed a high-performance individual-based simulation
+    to investigate biofilm formation driven by mutualistic interactions. Our results
+    reveal that the system undergoes a sharp phase transition from a planktonic state
+    to a biofilm state as the ratio of mutualistic to competitive interactions increases.
+    Furthermore, we find that the critical point of this transition depends on the
+    specific topology of the interaction network. Using mathematical arguments, we
+    explain this transition as being driven by nucleation processes, characterized
+    by the formation of bacterial clusters of critical size that, once established,
+    can only grow and not be dismantled. This work not only provides a compelling
+    hypothesis that biofilm formation is driven by nucleation processes but also introduces
+    a versatile model capable of generating sharp phase transitions, with broad applicability.
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: Spectral Graph Pruning Against Over-Squashing and Over-Smoothing
+  Abstract: 'Message Passing Graph Neural Networks are known to suffer from two problems
+    that are sometimes believed to be diametrically opposed: over-squashing and over-smoothing.
+    The former results from topological bottlenecks that hamper the information flow
+    from distant nodes and are mitigated by spectral gap maximization, primarily,
+    by means of edge additions. However, such additions often promote over-smoothing
+    that renders nodes of different classes less distinguishable. Inspired by the
+    Braess phenomenon, we argue that deleting edges can address over-squashing and
+    over-smoothing simultaneously. This insight explains how edge deletions can improve
+    generalization, thus connecting spectral gap optimization to a seemingly disconnected
+    objective of reducing computational resources by pruning graphs for lottery tickets.
+    To this end, we propose a computationally effective spectral gap optimization
+    framework to add or delete edges and demonstrate its effectiveness on the long
+    range graph benchmark and on larger heterophilous datasets.'
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: 'Modeling diffusion in networks with communities: a multitype branching
+    process approach'
+  Abstract: 'The dynamics of diffusion in complex networks are widely studied to understand
+    how entities, such as information, diseases, or behaviors, spread in an interconnected
+    environment. Complex networks often present community structure, and tools to
+    analyze diffusion processes on networks with communities are needed. In this paper,
+    we develop theoretical tools using multi-type branching processes to model and
+    analyze diffusion processes, following a simple contagion mechanism, across a
+    broad class of networks with community structure. We show how, by using limited
+    information about the network --- the degree distribution within and between communities
+    --- we can calculate standard statistical characteristics of propagation dynamics,
+    such as the extinction probability, hazard function, and cascade size distribution.
+    These properties can be estimated not only for the entire network but also for
+    each community separately. Furthermore, we estimate the probability of spread
+    crossing from one community to another where it is not currently spreading. We
+    demonstrate the accuracy of our framework by applying it to two specific examples:
+    the Stochastic Block Model and a log-normal network with community structure.
+    We show how the initial seeding location affects the observed cascade size distribution
+    on a heavy-tailed network and that our framework accurately captures this effect.'
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: Distinguishing isomorphic graphs with persistent homology on a chordless
+    cycles filtration
+  Abstract: Persistent homology, a technique from computational topology, has recently
+    gained attention in graph machine learning. Previous work bridges the gap between
+    computational topology and graph machine learning, by analyzing persistent homology
+    expressivity for graph learning tasks. However, they do not provide theoretical
+    foundations in the choice of graph filtration methods in terms of their expressivity
+    as in the k-FWL test. On the other hand, it has been recently shown that a proper
+    graph weighting method based on chordless cycles can help identify the latent
+    dimension of networks. In this work, we propose a new class of filtrations in
+    persistent homology based on the density of edge triangles, squares, and pentagons
+    and its application in graph learning. After choosing a filtration, we expand
+    the graph by filling in all (k + 1)-cliques with filtration values and calculating
+    persistent homology up to dimension k. Our persistent homology calculations result
+    in a set of persistence diagrams for each graph, which we compare in a pairwise
+    manner using the bottleneck distance, to decide if two graphs are different. We
+    address the graph isomorphism problem, aiming to distinguish graphs from various
+    datasets like BREC, strongly regular graphs (SSR), minimal Cayley graphs, or cubic
+    graphs. Our proposed filtration outperforms curvature- or Laplacian-based filtration
+    in the BREC dataset for k = 1 and k = 2. Moreover, for SSRs for k = 1 only our
+    filtration can distinguish non-isomorphic graphs. We also study how expressive
+    different filtrations are by comparing them to the k-FWL test. Our results demonstrate
+    the strength of density-based filtrations in distinguishing non-isomorphic graphs,
+    particularly in challenging datasets. Besides graph learning tasks, our method
+    could find applications in chemistry or biology. For example, in molecular graphs.
+    Density-based filtrations could capture structural variations, complementing existing
+    geometric and chemical approaches.
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: Association between oral microbiota and close-range proximity of children
+    in primary school
+  Abstract: The human microbiota is a complex ecosystem of microorganisms inhabiting
+    the human body and it influences human health and well-being. Recent studies showed
+    its interplay with social behavior, suggesting that part of the microbiota might
+    be socially transmissible [1, 2]. One of the main challenges encountered in these
+    studies is accurately measuring the network of social interactions, typically
+    estimated from known, long-standing relations. While information on these associations
+    is readily available, using such relationships does not allow the study of the
+    microbiota’s similarities among individuals with social contacts reaching beyond
+    their closest social circle. We investigate the association between social interactions
+    and oral microbiota composition in 35 primary school children. This cohort comprises
+    individuals from different families, allowing us to consider interactions beyond
+    the familiar social circle. We characterized the participants’ oral microbiota
+    with saliva sampling during class hours and 16S rRNA gene sequencing. In parallel,
+    we objectively measured a close-range proximity network among children with wearable
+    sensors, developed by the SocioPatterns collaboration [3]. The results summarized
+    in Figure 1 show that prolonged interactions are associated with a significantly
+    higher microbiota similarity. We identify a set of 19 taxa whose distribution
+    across children better correlates with the structure of the proximity network
+    and finally show that the most central children in the proximity network have
+    a higher number of these taxa in their microbiota. In conclusion, our study shows
+    a strong association between oral microbiota and close-range proximity of non-cohabiting
+    children in a primary school setting, complementing the results on cohabiting
+    individuals. This suggests that microbiota might be transmitted in social settings,
+    and it motivates further research on the interplay between the social network
+    structure and the microbiota composition.
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: Exact probability of a link between two nodes in an Erdős-Rényi random
+    graph given their degrees
+  Abstract: The probability of a link between two nodes is commonly said to be $d_i
+    d_j / (2L-1)$, but this is demonstrably false since it is based on an approximation.
+    This probability appears in the formula of Newman’s modularity, which plays a
+    crucial rule in detecting community structures in networks. We derive an exact
+    analytic form for the probability in simple graphs and show that correcting Newman’s
+    modularity formula with our exact probability can lead to different communities
+    being detected.
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: 'Legal Networks: An Invitation'
+  Abstract: 'Social networks, ecological networks, technological networks, financial
+    networks, cultural and historical networks, linguistic networks, ...: Among the
+    many applied domains listed in the call for abstracts at NetSci 2025, legal networks
+    are a notable absence. In this work, we review how network methods have been used
+    in the legal domain, clarify how legal networks differ from social networks and
+    other domain-specific networks, and introduce our conceptual framework for studying
+    networks in law – laying the foundation for our living survey of legal network
+    science. Building on our extensive prior research, we highlight what challenges
+    researchers face in modeling and measuring legal networks, and we discuss how
+    joint efforts to tackle these challenges can inspire methodological innovation
+    in the broader network-science community. In legal systems, individuals and institutions
+    that operate in different branches of the public or the private sector, at different
+    levels of the legal hierarchy (above, on, or below the national level), continuously
+    create, modify, and interpret legal texts in response to system-internal and system-external
+    stimuli – "the law" emerges from these myriad interactions. As such, legal systems
+    are naturally higher-order, multilayer, temporal, adaptive, and intricately coupled
+    with other systems (e.g., social, ecological, and technological systems), combining
+    features from multiple advanced network models. By demonstrating how legal networks
+    are distinct from, yet closely connected to, other topics of interest to network
+    scientists, we hope to draw more researchers into this exciting field – and to
+    help bring together those already active in the area. Thus, we also argue the
+    case for including legal networks in future NetSci calls as a separate category.'
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: The Temporal Event Graph as a Tool for Modelling Spreading Processes
+  Abstract: Understanding how an epidemic spreads through a network is crucial for
+    devising effective mitigation strategies. While there exists a large body of literature
+    concerning the spread of epidemics on static networks, our understanding of how
+    the dynamics of epidemic spreading interact with the temporal properties of a
+    network is limited. Although, temporal characteristics, such as burstiness or
+    causal temporal motifs, have been shown to fundamentally alter the spread of an
+    epidemic, an accessible method of analysing such phenomena is missing. One promising
+    approach to tackle this problem has been presented through mapping temporal networks
+    to static graphs, which encode the relevant temporal information and unlock static
+    network tools for the analysis of temporal networks. The temporal event graph
+    representation takes this approach by mapping temporal events into nodes and connecting
+    them via links directed forward in time, if they represent temporally adjacent
+    event pairs. The result is a causal directed acyclic graph (DAG), which encodes
+    all time-respecting paths in the network and allows for advantages computing the
+    reachable sets of events. In a temporal network, an event - or node - can be reached
+    from a source through time-respecting paths. The set of reachable nodes, or out-component,
+    forms an upper bound for a spreading process. This representation maps into a
+    reinforcing susceptible-infected-susceptible (rSIS) model evolving on the temporal
+    structure, where each event will re-infect an already infected node, thus restarting
+    its recovery clock. Importantly, this model appears as an upper bound approximation
+    for a conventional SIS process. Our goal in this research is to explore this mapping
+    and approximation to understand how we can use the event graph representation
+    to study epidemic processes without performing costly simulations.
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: Geometric separability of mesoscale patterns in embedding representation
+    and visualization of multidimensional data and complex networks
+  Abstract: A feature of complexity in connected systems is the emergence of mesoscale
+    patterns in a geometric space, such as groupings in bird flocks. These patterns
+    are formed by groups of points that tend to separate from each other, creating
+    mesoscale structures. When multidimensional data or complex networks are embedded
+    in a geometric space, some mesoscale patterns can appear respectively as clusters
+    or communities, and their geometric separability is a feature according to which
+    the performance of an algorithm for network embedding can be evaluated. Here,
+    we introduce a framework for the definition and measure of the geometric separability
+    (linear and nonlinear) of mesoscale patterns by solving the travelling salesman
+    problem (TSP), and we offer experimental evidence on embedding and visualization
+    of multidimensional data or complex networks, which are generated artificially
+    or are derived from real complex systems. For the first time in literature the
+    TSP’s solution is used to define a criterion of nonlinear separability of points
+    in a geometric space, hence redefining the separability problem in terms of the
+    travelling salesman problem is an innovation which impacts both computer science
+    and complexity theory.
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: Temporal Graph Reproduction with RWIG
+  Abstract: We examine the Random Walkers Induced temporal Graph (RWIG) model, which
+    generates temporal graphs based on the co-location principle of $M$ independent
+    walkers that traverse the underlying Markov graph with different transition probabilities.
+    Given the assumption that each random walker is in the steady state, we determine
+    the steady-state vector $\Tilde{s}$ and the Markov transition matrix $P_i$ of
+    each walker $w_i$ that can reproduce the observed temporal network \(G_0,{...},G_{K{-}1}\)
+    with the lowest mean squared error. We also show how to identify the number of
+    states $N$ and the initial Markov graph of $M$ walkers from the $K$-length contact
+    sequence of the random walkers. Finally, we examine the performance of RWIG for
+    periodic temporal graph sequences.
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: Localization Transitions and Autocorrelations in Contact-Based Social
+    Contagion Models on Multiplex Networks
+  Abstract: 'Understanding localization transitions in multiplex networks is crucial
+    for characterizing the interplay between structure and dynamics in real techno-social
+    systems. In this work[1], we study a class of contact-based social contagion models
+    that interpolate between contact processes and fully reactive SIS dynamics, depending
+    on a tunable parameter. Our approach enable the exploration of two key transitions:
+    the localized-to-delocalized regimes transition and the dominance switching between
+    network layers.Using perturbative analysis, we derive an analytical expression
+    for the coupling parameter p* that governs the localized-to-delocalized transition.
+    Our analytical results match previous numerical findings, including the universal
+    scaling laws in the Inverse Participation Ratio (IPR)[2], which further validate
+    the robustness of our approach across different network models.Expanding on these
+    findings[3], we explore the role of autocorrelations in time-series data as early
+    warning signals for these transitions. This approach bridges spectral and temporal
+    analyses, offering a unified framework to anticipate regime changes in multiplex
+    systems.By combining spectral and temporal indicators, our results provide a deeper
+    understanding of structural and dynamical transitions in multiplex networks, with
+    broad applications in studying information spreading in online social media.1.
+    Eigenvector Localization and Universal Regime Transitions in Multiplex Networks:
+    A Perturbative Approach. JH Tey, E Cozzo - arXiv preprint arXiv:2408.04784, 20242.
+    Universality of eigenvector delocalization and the nature of the SIS phase transition
+    in multiplex networks. G de Arruda Ferraz et al. - Journal of Statistical Mechanics:
+    Theory and Experiment 2020.10 (2020): 103405.3. JH Tey, E Cozzo (in preparation)'
+- Abstract ID: ' '
+  Presenter: ' '
+  Talk title: Misinformation spreading through chain emails
+  Abstract: Nowadays, it is challenging to check the information circulating among
+    people, which often contains misinformation. Misinformation spreads through a
+    diverse set of channels, so its understanding requires investigating diverse channels,
+    including email communication. For example, in Czechia misinformation spreads
+    through chain emails, which has been observed by about 33% of the population.
+    In this work, we have explored a curated dataset of chain emails circulating in
+    Czech cyberspace related to the conflict in Ukraine from January 2020 until July
+    2024 and cross-referenced them with raw email communication records. First, we
+    have investigated the typical information sources and mentioned entities with
+    different sentiments. To get a better insight into the relationships among the
+    mentioned entities, we studied a sentiment co-occurrence network. Its maximal
+    spanning tree reveals three major communities surrounding Russia, USA, and Czech
+    politics, with USA having the most central role. We have also identified the most
+    common topics in the chain emails by combining BERTopic and GPT-4o mini, and characterized
+    their sentiment. Because the sentiment was mostly negative, we analyzed the toxicity,
+    which showed significant toxicity scores. To investigate how much these chain
+    emails are spread in the population, we have cross-referenced them with pseudonymized
+    emails based on the subject, links, and hashes of the email body and examined
+    the number of matches and unique senders and receivers. For example, by considering
+    the number of subject&hash matches, the topics 'media and propaganda' and 'military
+    conflict' appear as most prevalent, while 'demonstrations' and 'energy policy'
+    are least prevalent. We are also studying the spreading dynamics of the chain
+    emails over the users’ network. Overall, our study demonstrates how misinformation
+    on various topics, different sentiments, and toxicity spreads among people through
+    chain emails, which is the first of this kind.
+
