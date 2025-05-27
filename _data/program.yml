@@ -211,7 +211,7 @@ days:
         category: Break
         row: 5
       - time: 13:00 - 14:00
-        title: (Panel) Science as a craft: Balancing career and skill progression
+        title: '(Panel) Science as a craft: Balancing career and skill progression'
         category: Faculty FSE
         url: https://netplace.site/event/netsci25/panel/
         row: 6
