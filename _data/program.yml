@@ -72,24 +72,18 @@ days:
         type: satellite
         url: https://mobilityhealthnetworks.github.io
         row: 2
-        room: FPN Tongeren zaal 
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 14:30 - 16:00
         title: (Satellite) The future of Network Science--WiNS @ NetSci
         category: Faculty FPN
         type: satellite
         url: https://tinyurl.com/tpajjdz9
         row: 2
-        room: FPN Tongeren zaal 
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 16:30 - 18:30
         title: (Satellite) The future of Network Science--WiNS @ NetSci
         category: Faculty FPN
         type: satellite
         url: https://tinyurl.com/tpajjdz9
         row: 2
-        room: FPN Tongeren zaal
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 12:30 - 14:30
         title: Lunch break
         category: Break
@@ -109,31 +103,25 @@ days:
         url: https://netscisci.github.io
         row: 3
         room: FPN Aken zaal
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
+        room url: https://maps.app.goo.gl/yTF7bU3pdtQfGmG78
       - time: 11:00 - 12:30
         title: (Satellite) Networks in Science of Science
         category: Faculty FPN
         type: satellite
         url: https://netscisci.github.io
         row: 3
-        room: FPN Aken zaal
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 14:30 - 16:00
         title: (Satellite) Networks in Science of Science
         category: Faculty FPN
         type: satellite
         url: https://netscisci.github.io
         row: 3
-        room: FPN Aken zaal
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 16:30 - 18:30
         title: (Satellite) Networks in Science of Science
         category: Faculty FPN
         type: satellite
         url: https://netscisci.github.io
         row: 3
-        room: FPN Aken zaal
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 12:30 - 14:30
         title: Lunch break
         category: Break
@@ -153,31 +141,25 @@ days:
         url: https://netsci.nascol.net
         row: 4
         room: FPN Groene zaal
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
+        room url: https://maps.app.goo.gl/yTF7bU3pdtQfGmG78
       - time: 11:00 - 12:30
         title: (Satellite) Software and Data for Supporting Network Science
         category: Faculty FPN
         type: satellite
         url: https://netsci.nascol.net
         row: 4
-        room: FPN Groene zaal
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 14:30 - 16:00
         title: (Satellite) Software and Data for Supporting Network Science
         category: Faculty FPN
         type: satellite
         url: https://netsci.nascol.net
         row: 4
-        room: FPN Groene zaal
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 16:30 - 18:30
         title: (Satellite) Software and Data for Supporting Network Science
         category: Faculty FPN
         type: satellite
         url: https://netsci.nascol.net
         row: 4
-        room: FPN Groene zaal
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 12:30 - 14:30
         title: Lunch break
         category: Break
@@ -197,31 +179,25 @@ days:
         url: https://sites.google.com/view/tenet-netsci/home  
         row: 5
         room: FSE Conference hall EPD150
-        room url: https://maps.app.goo.gl/rqy3Vewj6tbC8QjL7
+        room url: https://maps.app.goo.gl/MMmtLs3pW2aWT6DU8
       - time: 11:00 - 12:30
         title: (Satellite) TEmporal NETworks (TENET)
         category: Faculty FSE
         type: satellite
         url: https://sites.google.com/view/tenet-netsci/home
         row: 5
-        room: FSE Conference hall EPD150
-        room url: https://maps.app.goo.gl/rqy3Vewj6tbC8QjL7
       - time: 14:30 - 16:00
         title: (Satellite) TEmporal NETworks (TENET)
         category: Faculty FSE
         type: satellite
         url: https://sites.google.com/view/tenet-netsci/home
         row: 5
-        room: FSE Conference hall EPD150
-        room url: https://maps.app.goo.gl/rqy3Vewj6tbC8QjL7
       - time: 16:30 - 18:30
         title: (Satellite) TEmporal NETworks (TENET)
         category: Faculty FSE
         type: satellite
         url: https://sites.google.com/view/tenet-netsci/home
         row: 5
-        room: FSE Conference hall EPD150
-        room url: https://maps.app.goo.gl/rqy3Vewj6tbC8QjL7
       - time: 12:30 - 14:30
         title: Lunch break
         category: Break
@@ -241,15 +217,13 @@ days:
         url: https://www.gesis.org/cpin
         row: 6
         room: FSE C1.005 at PHS1
-        room url: https://maps.app.goo.gl/miyQLvWukxrTFPfK6
+        room url: https://maps.app.goo.gl/a6kXVCePuZwmpUwRA
       - time: 11:00 - 12:30
         title: (Satellite) Critical Phenomena In Networks (CPIN)
         category: Faculty FSE
         type: satellite
         url: https://www.gesis.org/cpin
         row: 6
-        room: FSE C1.005 at PHS1
-        room url: https://maps.app.goo.gl/miyQLvWukxrTFPfK6
       - time: 14:30 - 16:00
         title: (Satellite) Physical Networks, III Edition
         category: Faculty FSE
