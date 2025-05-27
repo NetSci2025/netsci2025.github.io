@@ -18,7 +18,7 @@ A full downloadable program will be available soon.
 
 Click on the Room name to view the entrance location of the venue on the map.
 
-Registrations take place at each location. If your event in in FSE PHS1 rooms, then please go to the registration desk located at [FSE EDP150]( https://maps.app.goo.gl/MMmtLs3pW2aWT6DU8).
+Registrations take place at each location. If your event is in FSE PHS1 rooms, then please go to the registration desk located at [FSE EDP150]( https://maps.app.goo.gl/MMmtLs3pW2aWT6DU8).
 
 All Parallels, Lightning Talks, and Posters can be found on [this page](https://netsci2025.github.io/all/). Instructions on how to prepare your contribution are available on the [landing page](https://netsci2025.github.io).
 
