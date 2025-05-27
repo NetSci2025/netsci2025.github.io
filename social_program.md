@@ -22,7 +22,7 @@ To kick off the conference, join us for the Welcome Reception on Wednesday, 4 Ju
 On Thursday 5th June 2025, immerse yourself in an unforgettable evening at the enchanting Château Neercanne. Perched gracefully on the border of Belgium and the Netherlands, this historic château offers the perfect setting to connect with colleagues and friends, both old and new. Savor a culinary journey of exquisite dishes, complemented by lively entertainment in a truly unique atmosphere. With its rich heritage and breathtaking surroundings, Château Neercanne promises to make this social dinner an event to remember. Tickets for this extraordinary evening can be bought via the [conference registration system](https://insight.klinkhamergroup.com/netsci2025/login){:target="_blank"}. 
 
 
-A shuttle service is available. Buses will depart from MECC Maastricht (parking P4 at the main entrance) and from the Maasboulevard at 19:00. Return buses will depart from Château Neercanne starting at 22:00.
+A shuttle service is available. Buses will depart from MECC Maastricht (parking P4 at the main entrance) at 19:00. Return buses will depart from Château Neercanne starting at 22:00.
 
 
 <img src="/assets/images/chateau.jpeg" style="width:100%; max-width:600px;" alt="Château Neercanne">
