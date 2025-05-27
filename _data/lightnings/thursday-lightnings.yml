@@ -1,261 +1,288 @@
 session: Thursday Lightnings
 slug: thursday-lightnings
 talks:
-  - Session name: Thursday Lightnings
-    Talk Order: '1'
-    Abstract ID: '51'
-    Presenter: Wilfried SEGNOU
-    Talk title: Impact of directionality on the emergence of Turing patterns on m-directed
-      higher-order structures
-    Abstract: 'Turing patterns, hallmarks of self-organized processes, emerge when
-      ordered structures arise from initial disorder due to the complex nonlinear
-      interactions between the elements of a system. Initially studied in continuous
-      settings, these patterns have recently been explored on networks, where nodes
-      represent spatial regions hosting local reactions between two chemical species,
-      the activator and the inhibitor, while edges model the diffusion process. This
-      approach has made it possible to study Turing instability on graphs, but also
-      on undirected hypergraphs. In this work, we develop a theory of Turing instability
-      on m-directed hypergraphs. These structures generalize hypergraphs by dividing
-      the nodes of a hyperedge into two disjoint sets: tail nodes and head nodes.
-      This directionality introduces a privileged mechanism in which the collective
-      action of tail nodes drives the reactions involving head nodes. This generalization
-      thus provides an extended framework compared to traditional directed networks.
-      Using linear stability analysis, we demonstrate that the directionality of m-directed
-      hypergraphs promotes Turing instability, enabling the emergence of stationary
-      or wave-like patterns within parameter regimes inaccessible to symmetric configurations.
-      We also derive two specific Laplace matrices that allow for a rigorous analytical
-      characterization of these patterns. The theoretical findings are validated through
-      simulations using the Brusselator model, applied to a directed m-hyperring and
-      a directed random hypergraph. Our work highlights the crucial role of directionality
-      in the emergence of Turing patterns and broadens the traditional frameworks
-      of network theory.'
-  - Session name: Thursday Lightnings
-    Talk Order: '2'
-    Abstract ID: '76'
-    Presenter: Mattia Mattei
-    Talk title: 'Phase Transition in Particles Aggregates: an Application to Biofilm
-      Formation'
-    Abstract: In this work, we developed a high-performance individual-based simulation
-      to investigate biofilm formation driven by mutualistic interactions. Our results
-      reveal that the system undergoes a sharp phase transition from a planktonic
-      state to a biofilm state as the ratio of mutualistic to competitive interactions
-      increases. Furthermore, we find that the critical point of this transition depends
-      on the specific topology of the interaction network. Using mathematical arguments,
-      we explain this transition as being driven by nucleation processes, characterized
-      by the formation of bacterial clusters of critical size that, once established,
-      can only grow and not be dismantled. This work not only provides a compelling
-      hypothesis that biofilm formation is driven by nucleation processes but also
-      introduces a versatile model capable of generating sharp phase transitions,
-      with broad applicability.
-  - Session name: Thursday Lightnings
-    Talk Order: '3'
-    Abstract ID: '127'
-    Presenter: Celia Rubio Madrigal
-    Talk title: Spectral Graph Pruning Against Over-Squashing and Over-Smoothing
-    Abstract: 'Message Passing Graph Neural Networks are known to suffer from two
-      problems that are sometimes believed to be diametrically opposed: over-squashing
-      and over-smoothing. The former results from topological bottlenecks that hamper
-      the information flow from distant nodes and are mitigated by spectral gap maximization,
-      primarily, by means of edge additions. However, such additions often promote
-      over-smoothing that renders nodes of different classes less distinguishable.
-      Inspired by the Braess phenomenon, we argue that deleting edges can address
-      over-squashing and over-smoothing simultaneously. This insight explains how
-      edge deletions can improve generalization, thus connecting spectral gap optimization
-      to a seemingly disconnected objective of reducing computational resources by
-      pruning graphs for lottery tickets. To this end, we propose a computationally
-      effective spectral gap optimization framework to add or delete edges and demonstrate
-      its effectiveness on the long range graph benchmark and on larger heterophilous
-      datasets.'
-  - Session name: Thursday Lightnings
-    Talk Order: '4'
-    Abstract ID: '161'
-    Presenter: Caroline Pena
-    Talk title: 'Modeling diffusion in networks with communities: a multitype branching
-      process approach'
-    Abstract: 'The dynamics of diffusion in complex networks are widely studied to
-      understand how entities, such as information, diseases, or behaviors, spread
-      in an interconnected environment. Complex networks often present community structure,
-      and tools to analyze diffusion processes on networks with communities are needed.
-      In this paper, we develop theoretical tools using multi-type branching processes
-      to model and analyze diffusion processes, following a simple contagion mechanism,
-      across a broad class of networks with community structure. We show how, by using
-      limited information about the network --- the degree distribution within and
-      between communities --- we can calculate standard statistical characteristics
-      of propagation dynamics, such as the extinction probability, hazard function,
-      and cascade size distribution. These properties can be estimated not only for
-      the entire network but also for each community separately. Furthermore, we estimate
-      the probability of spread crossing from one community to another where it is
-      not currently spreading. We demonstrate the accuracy of our framework by applying
-      it to two specific examples: the Stochastic Block Model and a log-normal network
-      with community structure. We show how the initial seeding location affects the
-      observed cascade size distribution on a heavy-tailed network and that our framework
-      accurately captures this effect.'
-  - Session name: Thursday Lightnings
-    Talk Order: '5'
-    Abstract ID: '242'
-    Presenter: Meritxell Vila Miñana
-    Talk title: Distinguishing isomorphic graphs with persistent homology on a chordless
-      cycles filtration
-    Abstract: Persistent homology, a technique from computational topology, has recently
-      gained attention in graph machine learning. Previous work bridges the gap between
-      computational topology and graph machine learning, by analyzing persistent homology
-      expressivity for graph learning tasks. However, they do not provide theoretical
-      foundations in the choice of graph filtration methods in terms of their expressivity
-      as in the k-FWL test. On the other hand, it has been recently shown that a proper
-      graph weighting method based on chordless cycles can help identify the latent
-      dimension of networks. In this work, we propose a new class of filtrations in
-      persistent homology based on the density of edge triangles, squares, and pentagons
-      and its application in graph learning. After choosing a filtration, we expand
-      the graph by filling in all (k + 1)-cliques with filtration values and calculating
-      persistent homology up to dimension k. Our persistent homology calculations
-      result in a set of persistence diagrams for each graph, which we compare in
-      a pairwise manner using the bottleneck distance, to decide if two graphs are
-      different. We address the graph isomorphism problem, aiming to distinguish graphs
-      from various datasets like BREC, strongly regular graphs (SSR), minimal Cayley
-      graphs, or cubic graphs. Our proposed filtration outperforms curvature- or Laplacian-based
-      filtration in the BREC dataset for k = 1 and k = 2. Moreover, for SSRs for k
-      = 1 only our filtration can distinguish non-isomorphic graphs. We also study
-      how expressive different filtrations are by comparing them to the k-FWL test.
-      Our results demonstrate the strength of density-based filtrations in distinguishing
-      non-isomorphic graphs, particularly in challenging datasets. Besides graph learning
-      tasks, our method could find applications in chemistry or biology. For example,
-      in molecular graphs. Density-based filtrations could capture structural variations,
-      complementing existing geometric and chemical approaches.
-  - Session name: Thursday Lightnings
-    Talk Order: '6'
-    Abstract ID: '300'
-    Presenter: Lorenzo Dall'Amico
-    Talk title: Association between oral microbiota and close-range proximity of children
-      in primary school
-    Abstract: The human microbiota is a complex ecosystem of microorganisms inhabiting
-      the human body and it influences human health and well-being. Recent studies
-      showed its interplay with social behavior, suggesting that part of the microbiota
-      might be socially transmissible [1, 2]. One of the main challenges encountered
-      in these studies is accurately measuring the network of social interactions,
-      typically estimated from known, long-standing relations. While information on
-      these associations is readily available, using such relationships does not allow
-      the study of the microbiota’s similarities among individuals with social contacts
-      reaching beyond their closest social circle. We investigate the association
-      between social interactions and oral microbiota composition in 35 primary school
-      children. This cohort comprises individuals from different families, allowing
-      us to consider interactions beyond the familiar social circle. We characterized
-      the participants’ oral microbiota with saliva sampling during class hours and
-      16S rRNA gene sequencing. In parallel, we objectively measured a close-range
-      proximity network among children with wearable sensors, developed by the SocioPatterns
-      collaboration [3]. The results summarized in Figure 1 show that prolonged interactions
-      are associated with a significantly higher microbiota similarity. We identify
-      a set of 19 taxa whose distribution across children better correlates with the
-      structure of the proximity network and finally show that the most central children
-      in the proximity network have a higher number of these taxa in their microbiota.  In
-      conclusion, our study shows a strong association between oral microbiota and
-      close-range proximity of non-cohabiting children in a primary school setting,
-      complementing the results on cohabiting individuals. This suggests that microbiota
-      might be transmitted in social settings, and it motivates further research on
-      the interplay between the social network structure and the microbiota composition.
-  - Session name: Thursday Lightnings
-    Talk Order: '7'
-    Abstract ID: '390'
-    Presenter: Brian Chang
-    Talk title: Exact probability of a link between two nodes in an Erdős-Rényi random
-      graph given their degrees
-    Abstract: The probability of a link between two nodes is commonly said to be $d_i
-      d_j / (2L-1)$, but this is demonstrably false since it is based on an approximation.
-      This probability appears in the formula of Newman’s modularity, which plays
-      a crucial rule in detecting community structures in networks. We derive an exact
-      analytic form for the probability in simple graphs and show that correcting
-      Newman’s modularity formula with our exact probability can lead to different
-      communities being detected.
-  - Session name: Thursday Lightnings
-    Talk Order: '8'
-    Abstract ID: '395'
-    Presenter: Corinna Coupette
-    Talk title: 'Legal Networks: An Invitation'
-    Abstract: 'Social networks, ecological networks, technological networks, financial
-      networks, cultural and historical networks, linguistic networks, ...: Among
-      the many applied domains listed in the call for abstracts at NetSci 2025, legal
-      networks are a notable absence. In this work, we review how network methods
-      have been used in the legal domain, clarify how legal networks differ from social
-      networks and other domain-specific networks, and introduce our conceptual framework
-      for studying networks in law – laying the foundation for our living survey of
-      legal network science. Building on our extensive prior research, we highlight
-      what challenges researchers face in modeling and measuring legal networks, and
-      we discuss how joint efforts to tackle these challenges can inspire methodological
-      innovation in the broader network-science community. In legal systems, individuals
-      and institutions that operate in different branches of the public or the private
-      sector, at different levels of the legal hierarchy (above, on, or below the
-      national level), continuously create, modify, and interpret legal texts in response
-      to system-internal and system-external stimuli – "the law" emerges from these
-      myriad interactions. As such, legal systems are naturally higher-order, multilayer,
-      temporal, adaptive, and intricately coupled with other systems (e.g., social,
-      ecological, and technological systems), combining features from multiple advanced
-      network models. By demonstrating how legal networks are distinct from, yet closely
-      connected to, other topics of interest to network scientists, we hope to draw
-      more researchers into this exciting field – and to help bring together those
-      already active in the area. Thus, we also argue the case for including legal
-      networks in future NetSci calls as a separate category.'
-  - Session name: Thursday Lightnings
-    Talk Order: '9'
-    Abstract ID: '518'
-    Presenter: Omar Henderson
-    Talk title: The Temporal Event Graph as a Tool for Modelling Spreading Processes
-    Abstract: Understanding how an epidemic spreads through a network is crucial for
-      devising effective mitigation strategies. While there exists a large body of
-      literature concerning the spread of epidemics on static networks, our understanding
-      of how the dynamics of epidemic spreading interact with the temporal properties
-      of a network is limited. Although, temporal characteristics, such as burstiness
-      or causal temporal motifs, have been shown to fundamentally alter the spread
-      of an epidemic, an accessible method of analysing such phenomena is missing.
-      One promising approach to tackle this problem has been presented through mapping
-      temporal networks to static graphs, which encode the relevant temporal information
-      and unlock static network tools for the analysis of temporal networks. The temporal
-      event graph representation takes this approach by mapping temporal events into
-      nodes and connecting them via links directed forward in time, if they represent
-      temporally adjacent event pairs. The result is a causal directed acyclic graph
-      (DAG), which encodes all time-respecting paths in the network and allows for
-      advantages computing the reachable sets of events. In a temporal network, an
-      event - or node - can be reached from a source through time-respecting paths.
-      The set of reachable nodes, or out-component, forms an upper bound for a spreading
-      process. This representation maps into a reinforcing susceptible-infected-susceptible
-      (rSIS) model evolving on the temporal structure, where each event will re-infect
-      an already infected node, thus restarting its recovery clock. Importantly, this
-      model appears as an upper bound approximation for a conventional SIS process.
-      Our goal in this research is to explore this mapping and approximation to understand
-      how we can use the event graph representation to study epidemic processes  without
-      performing costly simulations.
-  - Session name: Thursday Lightnings
-    Talk Order: '10'
-    Abstract ID: '598'
-    Presenter: Yue Wu
-    Talk title: Geometric separability of mesoscale patterns in embedding representation
-      and visualization of multidimensional data and complex networks
-    Abstract: A feature of complexity in connected systems is the emergence of mesoscale
-      patterns in a geometric space, such as groupings in bird flocks. These patterns
-      are formed by groups of points that tend to separate from each other, creating
-      mesoscale structures. When multidimensional data or complex networks are embedded
-      in a geometric space, some mesoscale patterns can appear respectively as clusters
-      or communities, and their geometric separability is a feature according to which
-      the performance of an algorithm for network embedding can be evaluated. Here,
-      we introduce a framework for the definition and measure of the geometric separability
-      (linear and nonlinear) of mesoscale patterns by solving the travelling salesman
-      problem (TSP), and we offer experimental evidence on embedding and visualization
-      of multidimensional data or complex networks, which are generated artificially
-      or are derived from real complex systems. For the first time in literature the
-      TSP’s solution is used to define a criterion of nonlinear separability of points
-      in a geometric space, hence redefining the separability problem in terms of
-      the travelling salesman problem is an innovation which impacts both computer
-      science and complexity theory.
-  - Session name: Thursday Lightnings
-    Talk Order: '11'
-    Abstract ID: '313'
-    Presenter: David Almasan
-    Talk title: Temporal Graph Reproduction with RWIG
-    Abstract: We examine the Random Walkers Induced temporal Graph (RWIG) model, which
-      generates temporal graphs based on the co-location principle of $M$ independent
-      walkers that traverse the underlying Markov graph with different transition
-      probabilities. Given the assumption that each random walker is in the steady
-      state, we determine the steady-state vector $\Tilde{s}$ and the Markov transition
-      matrix $P_i$ of each walker $w_i$ that can reproduce the observed temporal network
-      \(G_0,{...},G_{K{-}1}\) with the lowest mean squared error. We also show how
-      to identify the number of states $N$ and the initial Markov graph of $M$ walkers
-      from the $K$-length contact sequence of the random walkers. Finally, we examine
-      the performance of RWIG for periodic temporal graph sequences.
+- Abstract ID: '51'
+  Presenter: Wilfried SEGNOU
+  Talk title: Impact of directionality on the emergence of Turing patterns on m-directed
+    higher-order structures
+  Abstract: 'Turing patterns, hallmarks of self-organized processes, emerge when ordered
+    structures arise from initial disorder due to the complex nonlinear interactions
+    between the elements of a system. Initially studied in continuous settings, these
+    patterns have recently been explored on networks, where nodes represent spatial
+    regions hosting local reactions between two chemical species, the activator and
+    the inhibitor, while edges model the diffusion process. This approach has made
+    it possible to study Turing instability on graphs, but also on undirected hypergraphs.
+    In this work, we develop a theory of Turing instability on m-directed hypergraphs.
+    These structures generalize hypergraphs by dividing the nodes of a hyperedge into
+    two disjoint sets: tail nodes and head nodes. This directionality introduces a
+    privileged mechanism in which the collective action of tail nodes drives the reactions
+    involving head nodes. This generalization thus provides an extended framework
+    compared to traditional directed networks. Using linear stability analysis, we
+    demonstrate that the directionality of m-directed hypergraphs promotes Turing
+    instability, enabling the emergence of stationary or wave-like patterns within
+    parameter regimes inaccessible to symmetric configurations. We also derive two
+    specific Laplace matrices that allow for a rigorous analytical characterization
+    of these patterns. The theoretical findings are validated through simulations
+    using the Brusselator model, applied to a directed m-hyperring and a directed
+    random hypergraph. Our work highlights the crucial role of directionality in the
+    emergence of Turing patterns and broadens the traditional frameworks of network
+    theory.'
+- Abstract ID: '76'
+  Presenter: Mattia Mattei
+  Talk title: 'Phase Transition in Particles Aggregates: an Application to Biofilm
+    Formation'
+  Abstract: In this work, we developed a high-performance individual-based simulation
+    to investigate biofilm formation driven by mutualistic interactions. Our results
+    reveal that the system undergoes a sharp phase transition from a planktonic state
+    to a biofilm state as the ratio of mutualistic to competitive interactions increases.
+    Furthermore, we find that the critical point of this transition depends on the
+    specific topology of the interaction network. Using mathematical arguments, we
+    explain this transition as being driven by nucleation processes, characterized
+    by the formation of bacterial clusters of critical size that, once established,
+    can only grow and not be dismantled. This work not only provides a compelling
+    hypothesis that biofilm formation is driven by nucleation processes but also introduces
+    a versatile model capable of generating sharp phase transitions, with broad applicability.
+- Abstract ID: '127'
+  Presenter: Celia Rubio Madrigal
+  Talk title: Spectral Graph Pruning Against Over-Squashing and Over-Smoothing
+  Abstract: 'Message Passing Graph Neural Networks are known to suffer from two problems
+    that are sometimes believed to be diametrically opposed: over-squashing and over-smoothing.
+    The former results from topological bottlenecks that hamper the information flow
+    from distant nodes and are mitigated by spectral gap maximization, primarily,
+    by means of edge additions. However, such additions often promote over-smoothing
+    that renders nodes of different classes less distinguishable. Inspired by the
+    Braess phenomenon, we argue that deleting edges can address over-squashing and
+    over-smoothing simultaneously. This insight explains how edge deletions can improve
+    generalization, thus connecting spectral gap optimization to a seemingly disconnected
+    objective of reducing computational resources by pruning graphs for lottery tickets.
+    To this end, we propose a computationally effective spectral gap optimization
+    framework to add or delete edges and demonstrate its effectiveness on the long
+    range graph benchmark and on larger heterophilous datasets.'
+- Abstract ID: '161'
+  Presenter: Caroline Pena
+  Talk title: 'Modeling diffusion in networks with communities: a multitype branching
+    process approach'
+  Abstract: 'The dynamics of diffusion in complex networks are widely studied to understand
+    how entities, such as information, diseases, or behaviors, spread in an interconnected
+    environment. Complex networks often present community structure, and tools to
+    analyze diffusion processes on networks with communities are needed. In this paper,
+    we develop theoretical tools using multi-type branching processes to model and
+    analyze diffusion processes, following a simple contagion mechanism, across a
+    broad class of networks with community structure. We show how, by using limited
+    information about the network --- the degree distribution within and between communities
+    --- we can calculate standard statistical characteristics of propagation dynamics,
+    such as the extinction probability, hazard function, and cascade size distribution.
+    These properties can be estimated not only for the entire network but also for
+    each community separately. Furthermore, we estimate the probability of spread
+    crossing from one community to another where it is not currently spreading. We
+    demonstrate the accuracy of our framework by applying it to two specific examples:
+    the Stochastic Block Model and a log-normal network with community structure.
+    We show how the initial seeding location affects the observed cascade size distribution
+    on a heavy-tailed network and that our framework accurately captures this effect.'
+- Abstract ID: '242'
+  Presenter: Meritxell Vila Miñana
+  Talk title: Distinguishing isomorphic graphs with persistent homology on a chordless
+    cycles filtration
+  Abstract: Persistent homology, a technique from computational topology, has recently
+    gained attention in graph machine learning. Previous work bridges the gap between
+    computational topology and graph machine learning, by analyzing persistent homology
+    expressivity for graph learning tasks. However, they do not provide theoretical
+    foundations in the choice of graph filtration methods in terms of their expressivity
+    as in the k-FWL test. On the other hand, it has been recently shown that a proper
+    graph weighting method based on chordless cycles can help identify the latent
+    dimension of networks. In this work, we propose a new class of filtrations in
+    persistent homology based on the density of edge triangles, squares, and pentagons
+    and its application in graph learning. After choosing a filtration, we expand
+    the graph by filling in all (k + 1)-cliques with filtration values and calculating
+    persistent homology up to dimension k. Our persistent homology calculations result
+    in a set of persistence diagrams for each graph, which we compare in a pairwise
+    manner using the bottleneck distance, to decide if two graphs are different. We
+    address the graph isomorphism problem, aiming to distinguish graphs from various
+    datasets like BREC, strongly regular graphs (SSR), minimal Cayley graphs, or cubic
+    graphs. Our proposed filtration outperforms curvature- or Laplacian-based filtration
+    in the BREC dataset for k = 1 and k = 2. Moreover, for SSRs for k = 1 only our
+    filtration can distinguish non-isomorphic graphs. We also study how expressive
+    different filtrations are by comparing them to the k-FWL test. Our results demonstrate
+    the strength of density-based filtrations in distinguishing non-isomorphic graphs,
+    particularly in challenging datasets. Besides graph learning tasks, our method
+    could find applications in chemistry or biology. For example, in molecular graphs.
+    Density-based filtrations could capture structural variations, complementing existing
+    geometric and chemical approaches.
+- Abstract ID: '300'
+  Presenter: Lorenzo Dall'Amico
+  Talk title: Association between oral microbiota and close-range proximity of children
+    in primary school
+  Abstract: The human microbiota is a complex ecosystem of microorganisms inhabiting
+    the human body and it influences human health and well-being. Recent studies showed
+    its interplay with social behavior, suggesting that part of the microbiota might
+    be socially transmissible [1, 2]. One of the main challenges encountered in these
+    studies is accurately measuring the network of social interactions, typically
+    estimated from known, long-standing relations. While information on these associations
+    is readily available, using such relationships does not allow the study of the
+    microbiota’s similarities among individuals with social contacts reaching beyond
+    their closest social circle. We investigate the association between social interactions
+    and oral microbiota composition in 35 primary school children. This cohort comprises
+    individuals from different families, allowing us to consider interactions beyond
+    the familiar social circle. We characterized the participants’ oral microbiota
+    with saliva sampling during class hours and 16S rRNA gene sequencing. In parallel,
+    we objectively measured a close-range proximity network among children with wearable
+    sensors, developed by the SocioPatterns collaboration [3]. The results summarized
+    in Figure 1 show that prolonged interactions are associated with a significantly
+    higher microbiota similarity. We identify a set of 19 taxa whose distribution
+    across children better correlates with the structure of the proximity network
+    and finally show that the most central children in the proximity network have
+    a higher number of these taxa in their microbiota. In conclusion, our study shows
+    a strong association between oral microbiota and close-range proximity of non-cohabiting
+    children in a primary school setting, complementing the results on cohabiting
+    individuals. This suggests that microbiota might be transmitted in social settings,
+    and it motivates further research on the interplay between the social network
+    structure and the microbiota composition.
+- Abstract ID: '390'
+  Presenter: Brian Chang
+  Talk title: Exact probability of a link between two nodes in an Erdős-Rényi random
+    graph given their degrees
+  Abstract: The probability of a link between two nodes is commonly said to be $d_i
+    d_j / (2L-1)$, but this is demonstrably false since it is based on an approximation.
+    This probability appears in the formula of Newman’s modularity, which plays a
+    crucial rule in detecting community structures in networks. We derive an exact
+    analytic form for the probability in simple graphs and show that correcting Newman’s
+    modularity formula with our exact probability can lead to different communities
+    being detected.
+- Abstract ID: '395'
+  Presenter: Corinna Coupette
+  Talk title: 'Legal Networks: An Invitation'
+  Abstract: 'Social networks, ecological networks, technological networks, financial
+    networks, cultural and historical networks, linguistic networks, ...: Among the
+    many applied domains listed in the call for abstracts at NetSci 2025, legal networks
+    are a notable absence. In this work, we review how network methods have been used
+    in the legal domain, clarify how legal networks differ from social networks and
+    other domain-specific networks, and introduce our conceptual framework for studying
+    networks in law – laying the foundation for our living survey of legal network
+    science. Building on our extensive prior research, we highlight what challenges
+    researchers face in modeling and measuring legal networks, and we discuss how
+    joint efforts to tackle these challenges can inspire methodological innovation
+    in the broader network-science community. In legal systems, individuals and institutions
+    that operate in different branches of the public or the private sector, at different
+    levels of the legal hierarchy (above, on, or below the national level), continuously
+    create, modify, and interpret legal texts in response to system-internal and system-external
+    stimuli – "the law" emerges from these myriad interactions. As such, legal systems
+    are naturally higher-order, multilayer, temporal, adaptive, and intricately coupled
+    with other systems (e.g., social, ecological, and technological systems), combining
+    features from multiple advanced network models. By demonstrating how legal networks
+    are distinct from, yet closely connected to, other topics of interest to network
+    scientists, we hope to draw more researchers into this exciting field – and to
+    help bring together those already active in the area. Thus, we also argue the
+    case for including legal networks in future NetSci calls as a separate category.'
+- Abstract ID: '518'
+  Presenter: Omar Henderson
+  Talk title: The Temporal Event Graph as a Tool for Modelling Spreading Processes
+  Abstract: Understanding how an epidemic spreads through a network is crucial for
+    devising effective mitigation strategies. While there exists a large body of literature
+    concerning the spread of epidemics on static networks, our understanding of how
+    the dynamics of epidemic spreading interact with the temporal properties of a
+    network is limited. Although, temporal characteristics, such as burstiness or
+    causal temporal motifs, have been shown to fundamentally alter the spread of an
+    epidemic, an accessible method of analysing such phenomena is missing. One promising
+    approach to tackle this problem has been presented through mapping temporal networks
+    to static graphs, which encode the relevant temporal information and unlock static
+    network tools for the analysis of temporal networks. The temporal event graph
+    representation takes this approach by mapping temporal events into nodes and connecting
+    them via links directed forward in time, if they represent temporally adjacent
+    event pairs. The result is a causal directed acyclic graph (DAG), which encodes
+    all time-respecting paths in the network and allows for advantages computing the
+    reachable sets of events. In a temporal network, an event - or node - can be reached
+    from a source through time-respecting paths. The set of reachable nodes, or out-component,
+    forms an upper bound for a spreading process. This representation maps into a
+    reinforcing susceptible-infected-susceptible (rSIS) model evolving on the temporal
+    structure, where each event will re-infect an already infected node, thus restarting
+    its recovery clock. Importantly, this model appears as an upper bound approximation
+    for a conventional SIS process. Our goal in this research is to explore this mapping
+    and approximation to understand how we can use the event graph representation
+    to study epidemic processes without performing costly simulations.
+- Abstract ID: '598'
+  Presenter: Yue Wu
+  Talk title: Geometric separability of mesoscale patterns in embedding representation
+    and visualization of multidimensional data and complex networks
+  Abstract: A feature of complexity in connected systems is the emergence of mesoscale
+    patterns in a geometric space, such as groupings in bird flocks. These patterns
+    are formed by groups of points that tend to separate from each other, creating
+    mesoscale structures. When multidimensional data or complex networks are embedded
+    in a geometric space, some mesoscale patterns can appear respectively as clusters
+    or communities, and their geometric separability is a feature according to which
+    the performance of an algorithm for network embedding can be evaluated. Here,
+    we introduce a framework for the definition and measure of the geometric separability
+    (linear and nonlinear) of mesoscale patterns by solving the travelling salesman
+    problem (TSP), and we offer experimental evidence on embedding and visualization
+    of multidimensional data or complex networks, which are generated artificially
+    or are derived from real complex systems. For the first time in literature the
+    TSP’s solution is used to define a criterion of nonlinear separability of points
+    in a geometric space, hence redefining the separability problem in terms of the
+    travelling salesman problem is an innovation which impacts both computer science
+    and complexity theory.
+- Abstract ID: '313'
+  Presenter: David Almasan
+  Talk title: Temporal Graph Reproduction with RWIG
+  Abstract: We examine the Random Walkers Induced temporal Graph (RWIG) model, which
+    generates temporal graphs based on the co-location principle of $M$ independent
+    walkers that traverse the underlying Markov graph with different transition probabilities.
+    Given the assumption that each random walker is in the steady state, we determine
+    the steady-state vector $\Tilde{s}$ and the Markov transition matrix $P_i$ of
+    each walker $w_i$ that can reproduce the observed temporal network \(G_0,{...},G_{K{-}1}\)
+    with the lowest mean squared error. We also show how to identify the number of
+    states $N$ and the initial Markov graph of $M$ walkers from the $K$-length contact
+    sequence of the random walkers. Finally, we examine the performance of RWIG for
+    periodic temporal graph sequences.
+- Abstract ID: '373'
+  Presenter: Emanuele Cozzo
+  Talk title: Localization Transitions and Autocorrelations in Contact-Based Social
+    Contagion Models on Multiplex Networks
+  Abstract: 'Understanding localization transitions in multiplex networks is crucial
+    for characterizing the interplay between structure and dynamics in real techno-social
+    systems. In this work[1], we study a class of contact-based social contagion models
+    that interpolate between contact processes and fully reactive SIS dynamics, depending
+    on a tunable parameter. Our approach enable the exploration of two key transitions:
+    the localized-to-delocalized regimes transition and the dominance switching between
+    network layers.Using perturbative analysis, we derive an analytical expression
+    for the coupling parameter p* that governs the localized-to-delocalized transition.
+    Our analytical results match previous numerical findings, including the universal
+    scaling laws in the Inverse Participation Ratio (IPR)[2], which further validate
+    the robustness of our approach across different network models.Expanding on these
+    findings[3], we explore the role of autocorrelations in time-series data as early
+    warning signals for these transitions. This approach bridges spectral and temporal
+    analyses, offering a unified framework to anticipate regime changes in multiplex
+    systems.By combining spectral and temporal indicators, our results provide a deeper
+    understanding of structural and dynamical transitions in multiplex networks, with
+    broad applications in studying information spreading in online social media.1.
+    Eigenvector Localization and Universal Regime Transitions in Multiplex Networks:
+    A Perturbative Approach. JH Tey, E Cozzo - arXiv preprint arXiv:2408.04784, 20242.
+    Universality of eigenvector delocalization and the nature of the SIS phase transition
+    in multiplex networks. G de Arruda Ferraz et al. - Journal of Statistical Mechanics:
+    Theory and Experiment 2020.10 (2020): 103405.3. JH Tey, E Cozzo (in preparation)'
+- Abstract ID: '461'
+  Presenter: Miroslav Mirchev
+  Talk title: Misinformation spreading through chain emails
+  Abstract: Nowadays, it is challenging to check the information circulating among
+    people, which often contains misinformation. Misinformation spreads through a
+    diverse set of channels, so its understanding requires investigating diverse channels,
+    including email communication. For example, in Czechia misinformation spreads
+    through chain emails, which has been observed by about 33% of the population.
+    In this work, we have explored a curated dataset of chain emails circulating in
+    Czech cyberspace related to the conflict in Ukraine from January 2020 until July
+    2024 and cross-referenced them with raw email communication records. First, we
+    have investigated the typical information sources and mentioned entities with
+    different sentiments. To get a better insight into the relationships among the
+    mentioned entities, we studied a sentiment co-occurrence network. Its maximal
+    spanning tree reveals three major communities surrounding Russia, USA, and Czech
+    politics, with USA having the most central role. We have also identified the most
+    common topics in the chain emails by combining BERTopic and GPT-4o mini, and characterized
+    their sentiment. Because the sentiment was mostly negative, we analyzed the toxicity,
+    which showed significant toxicity scores. To investigate how much these chain
+    emails are spread in the population, we have cross-referenced them with pseudonymized
+    emails based on the subject, links, and hashes of the email body and examined
+    the number of matches and unique senders and receivers. For example, by considering
+    the number of subject&hash matches, the topics 'media and propaganda' and 'military
+    conflict' appear as most prevalent, while 'demonstrations' and 'energy policy'
+    are least prevalent. We are also studying the spreading dynamics of the chain
+    emails over the users’ network. Overall, our study demonstrates how misinformation
+    on various topics, different sentiments, and toxicity spreads among people through
+    chain emails, which is the first of this kind.
