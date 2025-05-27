@@ -5,6 +5,7 @@ talks:
   Talk Order: '1'
   Abstract ID: '18'
   Presenter: Doina Bucur
+  Authors: Timo van der Kuil (Utrecht University,); Doina Bucur (University of Twente)*
   Talk title: Microbial co-occurrence networks in soil ecology do not model functional
     links
   Abstract: 'Ecological networks model species-to-species interactions, and are intended
@@ -36,6 +37,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '102'
   Presenter: Johannes Nauta
+  Authors: Johannes Nauta (University of Padova)*; Manlio De Domenico (University
+    of Padova)
   Talk title: Species abundance distributions predict maintenance of mobile genetic
     elements in microbial systems
   Abstract: Mobile genetic elements appear in nearly all microbial systems and affect
@@ -52,6 +55,7 @@ talks:
   Talk Order: '3'
   Abstract ID: '233'
   Presenter: Heetae Kim
+  Authors: Heetae Kim (Korea Institute of Energy Technology)*
   Talk title: How did the energy transfer network of green plants help them evolve?
   Abstract: In green plants, there exist two diﬀerent types of chlorophylls, chlorophyll-a
     and chlorophyll-b, in light-harvesting proteins. Although the characteristics
@@ -75,6 +79,8 @@ talks:
   Talk Order: '4'
   Abstract ID: '236'
   Presenter: Riccardo Sbarbati
+  Authors: Riccardo Sbarbati (University of Padua)*; Johannes Nauta (University of
+    Padua); Manlio De Domenico (University of Padua)
   Talk title: Competition between pathogenic elements using a pathogen-centric framework
   Abstract: Natural ecosystems exhibit remarkable diversity and stability, yet the
     underlying mechanisms remain unclear. Pathogens, often overlooked in ecological
@@ -91,6 +97,8 @@ talks:
   Talk Order: '5'
   Abstract ID: '273'
   Presenter: Luca Allegri
+  Authors: Luca Allegri (University of Padua)*; Johannes Nauta (University of Padua);
+    Manlio De Domenico (University of Padua)
   Talk title: Extinctions in microbiomes are driven by carrying capacities and interaction
     network density
   Abstract: Mean abundance distributions (MADs) are important observables to understand
@@ -114,6 +122,9 @@ talks:
   Talk Order: '6'
   Abstract ID: '495'
   Presenter: Aleksandra Puchalska
+  Authors: Mateusz Iskrzyński (Polish Academy of Sciences); Aleksandra Puchalska (University
+    of Warsaw)*; Aleksandra Grzelik (Polish Academy of Sciences); Gokhan Mutlu (Grazi
+    University)
   Talk title: Pangraphs as models of higher-order interactions
   Abstract: Graphs have long served as effective models for pairwise interactions,
     providing insights into fundamental properties of trophic and mutualistic networks.
@@ -141,6 +152,8 @@ talks:
   Talk Order: '7'
   Abstract ID: '566'
   Presenter: William Ou
+  Authors: William Ou (University of British Columbia)*; Rachel Germain (University
+    of British Columbia)
   Talk title: Assortative dispersal facilitates the maintenance of alternative stable
     states
   Abstract: Many ecological communities exhibit alternative stable states where the
@@ -173,6 +186,8 @@ talks:
   Talk Order: '8'
   Abstract ID: '582'
   Presenter: Thilo Gross
+  Authors: Thilo Gross (HIFMB Helmholtz Institute for Functional Marine Biodiversity)*;
+    Melanie Habermann (HIFMB Helmholtz Institute for Functional Marine Biodiversity)
   Talk title: Functional Motifs in Food Webs and Networks
   Abstract: When studying a complex system it is often useful to think of the system
     as a network of interacting units. One can then ask if some properties of the

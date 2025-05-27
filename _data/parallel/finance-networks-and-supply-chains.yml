@@ -5,6 +5,11 @@ talks:
   Talk Order: '1'
   Abstract ID: '278'
   Presenter: Massimiliano Fessina
+  Authors: Massimiliano Fessina (IMT School for Advanced Studies Lucca)*; Giulio Cimini
+    (Tor Vergata University of Rome); Tiziano Squartini (IMT School for Advanced Studies
+    Lucca); Pablo Astudillo-Estévez (Universidad San Francisco de Quito); Stefan Thurner
+    (Complexity Science Hub Vienna); Diego Garlaschelli (IMT School for Advanced Studies
+    Lucca)
   Talk title: Inferring firm-level supply chain networks with realistic systemic risk
     from industry sector-level data
   Abstract: 'Inter-firm networks have been shown to play a crucial role in the propagation
@@ -33,6 +38,10 @@ talks:
   Talk Order: '2'
   Abstract ID: '287'
   Presenter: Tiziano Squartini
+  Authors: Tiziano Squartini (IMT School for Advanced Studies Lucca)*; Valentina Macchiati
+    (Scuola Normale Superiore di Pisa); Emiliano Marchese (IMT School for Advanced
+    Studies Lucca); Piero Mazzarisi (University of Siena); Diego Garlaschelli (IMT
+    School for Advanced Studies Lucca)
   Talk title: Spectral signatures of structural change in financial networks
   Abstract: The level of systemic risk in economic and financial systems is strongly
     determined by the structure of the underlying networks of interdependent entities
@@ -59,6 +68,9 @@ talks:
   Talk Order: '3'
   Abstract ID: '303'
   Presenter: Mattia Marzi
+  Authors: Mattia Marzi (IMT School for Advanced Studies Lucca)*; Tiziano Squartini
+    (IMT School for Advanced Studies Lucca); Giulio Cimini (Tor Vergata University
+    of Rome); Diego Garlaschelli (IMT School for Advanced Studies Lucca)
   Talk title: Digital twins of economic and financial networks
   Abstract: Digital twins are virtual replicas of real-world systems, enabling the
     study of economic and financial systems while preserving data confidentiality.
@@ -89,6 +101,8 @@ talks:
   Talk Order: '4'
   Abstract ID: '426'
   Presenter: Ariadna Fosch I Muntané
+  Authors: Ariadna Fosch (CENTAI Institute)*; Alberto Aleta (BIFI Institute); Roger
+    Cremades (University of Leeds); Yamir Moreno (BIFI Institute)
   Talk title: Evolution and robustness of the international trade of food products
   Abstract: The international trade of food products plays an important role in maintaining
     food security across the globe. However, food trade has changed over time, adapting
@@ -119,6 +133,8 @@ talks:
   Talk Order: '5'
   Abstract ID: '477'
   Presenter: Giacomo Zelbi
+  Authors: Giacomo Zelbi (Complexity Science Hub)*; Leonardo Ialongo (Complexity Science
+    Hub); Stefan Thurner (Complexity Science Hub)
   Talk title: Assessing the systemic risk mitigation potential in supply chains through
     network rewiring
   Abstract: The network structure of real-world supply chains inherently carries a
@@ -143,6 +159,10 @@ talks:
   Talk Order: '6'
   Abstract ID: '594'
   Presenter: Daekyung Lee
+  Authors: Daekyung Lee (Supply Chain Intelligence Institute Austria)*; Jakob Haussteiner
+    (Supply Chain Intelligence Institute Austria); Ladislav Bartuska ( Supply Chain
+    Intelligence Institute Austria); Markus Gerschberger (Supply Chain Intelligence
+    Institute Austria); Peter Klimek (Supply Chain Intelligence Institute Austria)
   Talk title: 'From Source to Sink: A Route-Based Approach to Supply Chain Stability'
   Abstract: Modern global trade networks are characterized by complex interdependencies,
     making supply chain stability for critical commodities a key concern. Expanding

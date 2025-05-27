@@ -5,6 +5,8 @@ talks:
   Talk Order: '1'
   Abstract ID: '145'
   Presenter: Jean-François de Kemmeter
+  Authors: Jean-François de Kemmeter (Consiglio nazionale delle ricerche)*; Timoteo
+    Carletti (University of Namur)
   Talk title: Multigraph reconstruction via nonlinear random walks
   Abstract: Network science provides a powerful framework for modeling complex systems,
     where the intricate interplay between structure and dynamics often leads to the
@@ -33,6 +35,7 @@ talks:
   Talk Order: '2'
   Abstract ID: '187'
   Presenter: Luis Rocha
+  Authors: Luis Rocha (Binghamton University)*
   Talk title: 'Multilayer network inference via redundancy removal: linking the exposome
     to multiomics in human health'
   Abstract: 'Due to the widespread digitization of biomedical and behavioral data,
@@ -109,6 +112,8 @@ talks:
   Talk Order: '3'
   Abstract ID: '401'
   Presenter: Haily Merritt
+  Authors: Haily Merritt (Indiana University)*; Richard Betzel (University of Minnesota);
+    Giovanni Petri (Northeastern University London)
   Talk title: INFORMED INTER-BRAIN COUPLING IMPROVES PREDICTIONS OF MENTAL HEALTH
     OUTCOMES
   Abstract: Multilayer networks are an effective tool for studying variability across
@@ -141,6 +146,10 @@ talks:
   Talk Order: '4'
   Abstract ID: '560'
   Presenter: Abby Leung
+  Authors: Abby Leung (Northeastern University)*; Guillaume St-Onge (Northeastern
+    University); Andreia Sofia Teixeira (Northeastern University London); Matteo Chinazzi
+    (Northeastern University); Manlio De Domenico (University of Padua); Alessandro
+    Vespignani (Northeastern University)
   Talk title: Multilayer Network Clustering to Assess Epidemic Model Dependence
   Abstract: Each year, the CDC hosts the FluSight Forecast Challenge, where over 40
     teams contribute to the flu forecasts. To create an ensemble forecast, the CDC
@@ -172,6 +181,8 @@ talks:
   Talk Order: '5'
   Abstract ID: '615'
   Presenter: Abbas K. Rizi
+  Authors: Abbas K. Rizi (DTU)*; Riccardo Michielan (University of Twente); Clara
+    Stegehuis (University of Twente); Mikko Kivelä (Aalto University)
   Talk title: Homophily Within and Across Groups
   Abstract: Traditional social network analysis often reduces homophily—the tendency
     of similar individuals to connect—to a single parameter, neglecting nuanced biases

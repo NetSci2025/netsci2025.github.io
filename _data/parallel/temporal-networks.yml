@@ -5,6 +5,10 @@ talks:
   Talk Order: '1'
   Abstract ID: '44'
   Presenter: Marco Mancastroppa
+  Authors: Marco Mancastroppa (CNRS, Centre de physique théorique (CPT), Aix-Marseille
+    Université)*; Giulia Cencetti (CNRS, Centre de physique théorique (CPT), Aix-Marseille
+    Université); Alain Barrat (CNRS, Centre de physique théorique (CPT), Aix-Marseille
+    Université)
   Talk title: 'Emerging Activity Temporal Hypergraph (EATH): a model for temporally
     and structurally heterogeneous time-varying hypergraphs'
   Abstract: 'We analyze several empirical temporal hypergraphs, uncovering non-trivial
@@ -36,6 +40,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '136'
   Presenter: Andrea Failla
+  Authors: Andrea Failla (University of Pisa)*; Remy Cazabet (University of Lyon 1);
+    Giulio Rossetti (ISTI-CNR); Salvatore Citraro (ISTI-CNR)
   Talk title: Tracking Community Evolution via Multi-Faceted Events
   Abstract: Many real-world networks come as evolving topologies whose nodes and edges
     appear/vanish as time goes by. Similarly, the meso-scale substructures within
@@ -65,6 +71,8 @@ talks:
   Talk Order: '3'
   Abstract ID: '388'
   Presenter: Giulia de Meijere
+  Authors: Giulia de Meijere (Tampere University)*; Marton Karsai (Central European
+    University); Gerardo Iniguez (Tampere University)
   Talk title: Emergence of stationarity in social and informational temporal networks
   Abstract: 'Temporal networks of social contact and information transfer often exhibit
     striking levels of stationarity at the system level, which emerge from bursty
@@ -95,6 +103,9 @@ talks:
   Talk Order: '4'
   Abstract ID: '394'
   Presenter: Antonio Longa
+  Authors: Beatriz Arregui-García (IFISC)*; Antonio Longa (Università di Trento);
+    Francesco Quintino Lotito (Università di Trento); Sandro Meloni (CREF); Giulia
+    Cencetti (Aix-Marseille Université)
   Talk title: Patterns in Temporal Networks with Higher-Order Egocentric Structures
   Abstract: Classical network representations often fail to fully capture the complexity
     of real-world systems. While more sophisticated frameworks, such as temporal networks,
@@ -121,6 +132,10 @@ talks:
   Talk Order: '5'
   Abstract ID: '540'
   Presenter: Arash Badie-Modiri
+  Authors: Arash Badie-Modiri (Central European University)*; Chiara Boldrini (National
+    Research Council (CNR) ); Lorenzo Valerio (National Research Council (CNR)); János
+    Kertész (Central European University); Márton Karsai (Central European University
+    )
   Talk title: 'Decentralised federated learning over temporal networks: the role of
     temporal heterogeneity'
   Abstract: Moving beyond previous assumptions of static, fully synchronous communication
@@ -143,6 +158,8 @@ talks:
   Talk Order: '6'
   Abstract ID: '600'
   Presenter: Samuel Koovely
+  Authors: Samuel Koovely (University of Zurich)*; Alexandre Bovet (University of
+    Zurich)
   Talk title: Entropy-Informed Dynamic Community Detection
   Abstract: 'Temporal network evolution is characterised by archetypal structural
     changes. One of the main difficulties of community discovery in temporal networks

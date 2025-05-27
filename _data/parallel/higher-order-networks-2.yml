@@ -5,6 +5,9 @@ talks:
   Talk Order: '1'
   Abstract ID: '62'
   Presenter: Cosimo Agostinelli
+  Authors: Cosimo Agostinelli (Centre de Physique Théorique, Marseille)*; Marco Mancastroppa
+    (Centre de Physique Théorique, Marseille); Alain Barrat (Centre de Physique Théorique,
+    Marseille)
   Talk title: Higher-order similarity measures for hypergraphs comparison
   Abstract: 'Higher-order networks have attracted significant interest for their capacity
     to model systems beyond pairwise interactions, offering a more flexible and comprehensive
@@ -25,6 +28,9 @@ talks:
   Talk Order: '2'
   Abstract ID: '151'
   Presenter: Leonardo Di Gaetano
+  Authors: Leonardo Di Gaetano (Central European University)*; Giorgio Carugno (King's
+    College London); Federico Battiston (Central European University ); Francesco
+    Coghi (University of Nottingham)
   Talk title: Dynamical Fluctuations of Random Walks in Higher-Order Networks
   Abstract: Although higher-order interactions are known to affect the typical state
     of dynamical processes giving rise to new collective behavior, how they drive
@@ -43,6 +49,9 @@ talks:
   Talk Order: '3'
   Abstract ID: '171'
   Presenter: Samantha Dies
+  Authors: Samantha Dies (Northeastern University)*; Moritz Laber (Network Science
+    Institute - Northeastern University); Joseph Ehlert (Network Science Institute
+    - Northeastern University); Tina Eliassi-Rad (Northeastern University)
   Talk title: Higher-Order Network Effects on Information Access Equality & Efficiency
   Abstract: Early access to important information such as job opportunities and emergent
     threats can provide large advantages to the person receiving the information.
@@ -74,6 +83,8 @@ talks:
   Talk Order: '4'
   Abstract ID: '176'
   Presenter: Nicholas Landry
+  Authors: Yifei Luo (Middlebury College); Phil Chodrow (Middlebury College); Nicholas
+    Landry (University of Virginia)*
   Talk title: Efficient sampling from the hypergraph configuration model
   Abstract: 'Many empirical complex systems such as social interactions, email networks,
     chemical reaction networks, and co-authorship networks contain interactions of
@@ -102,6 +113,7 @@ talks:
   Talk Order: '5'
   Abstract ID: '248'
   Presenter: Chen Zhang
+  Authors: Chen Zhang (Princeton University)*; Jürgen Hackl (Princeton University)
   Talk title: Destination Prediction in Higher-Order Networks using Endpoint-Conditioned
     Markov Chains
   Abstract: Transportation systems are designed to address daily mobility needs, making
@@ -124,6 +136,8 @@ talks:
   Talk Order: '6'
   Abstract ID: '280'
   Presenter: Timothy LaRock
+  Authors: Timothy LaRock (University of Oxford)*; Renaud Lambiotte (University of
+    Oxford)
   Talk title: Exploring the Non-uniqueness of Hypergraph Adjacency Matrices
   Abstract: Hypergraphs are a common representation for network data featuring group
     interactions. Researchers sometimes simplify hypergraph data by projecting it
@@ -144,6 +158,7 @@ talks:
   Talk Order: '7'
   Abstract ID: '393'
   Presenter: Juni Schindler
+  Authors: Dominik Schindler (Imperial College London)*
   Talk title: Topological autocorrelation in multiscale clusterings via 2-parameter
     persistent homology
   Abstract: In many areas of data science, networks have an intrinsic multiscale structure,
@@ -170,6 +185,12 @@ talks:
   Talk Order: '8'
   Abstract ID: '530'
   Presenter: Helder Pinto
+  Authors: Hélder Pinto (CMUP & Faculdade de Ciências, Universidade do Porto)*; Gorana
+    Mijatovatic (Faculty of Technical Sciences, University of Novi Sad); Yuri Antonacci
+    (Department of Engineering of University of Palermo); Sebastiano Stramaglia (Department
+    of Physics, University of Bari Aldo Moro, and INFN Sezione di Bari); Luca Faes
+    (Department of Engineering of University of Palermo); Ana Paula Rocha (CMUP &
+    Faculdade de Ciências, Universidade do Porto)
   Talk title: 'Assessment of High-Order Interactions in Dynamic Networks: An Approach
     based on Conditional Information Rates'
   Abstract: The traditional approach to network representation in complex systems

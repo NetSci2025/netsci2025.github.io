@@ -5,6 +5,8 @@ talks:
   Talk Order: '1'
   Abstract ID: '186'
   Presenter: Henrique Ferraz de Arruda
+  Authors: Henrique Ferraz de Arruda (CENTAI Institute)*; Kleber Oliveira (Munster
+    Technological University); Yamir Moreno (Universidad de Zaragoza)
   Talk title: 'From Framework to Insights: The Role of Priority Users in Echo Chamber
     Formation'
   Abstract: We present a Python library for simulating an opinion model that abstracts
@@ -36,6 +38,10 @@ talks:
   Talk Order: '2'
   Abstract ID: '216'
   Presenter: Javier Garcia-Bernardo
+  Authors: Javier Garcia-bernardo (Utrecht University)*; Zohar Neu (University of
+    Bristol); Mathew Hardy (Princeton University); Andrea Santoro (EPFL); Allison
+    Morgan (University of Colorado, Boulder); Aleksandra Aloric (University of Belgrade);
+    Thomas Griffiths (Princeton University); Peaks Krafft (University of Edinburgh)
   Talk title: Social transmission along multiple pathways promotes information fidelity
     and reduces divisiveness
   Abstract: 'As people increasingly turn to online platforms for learning and information
@@ -68,6 +74,9 @@ talks:
   Talk Order: '3'
   Abstract ID: '302'
   Presenter: Max Falkenberg
+  Authors: Max Falkenberg (Central European University)*; Walter Quattrociocchi (Sapienza
+    Rome); Fabiana Zollo (Ca'Foscari Venice); Juergen Pfeffer (TU Munich); Andrea
+    Baronchelli (City University of London)
   Talk title: Patterns of partisan toxicity and engagement reveal the common structure
     of online political communication across countries
   Abstract: Existing studies of political polarization are often limited to a single
@@ -91,6 +100,9 @@ talks:
   Talk Order: '4'
   Abstract ID: '386'
   Presenter: Ali Salloum
+  Authors: Ali Salloum (Aalto University)*; Dorian Quelle (University of Zurich);
+    Letizia Iannucci (Aalto University); Alexandre Bovet (University of Zurich); Mikko
+    Kivelä (Aalto University)
   Talk title: 'Political Polarization Patterns on Bluesky: Understanding Political
     Discussion in an Emerging Social Platform'
   Abstract: 'Political polarization has become an increasingly concerning societal
@@ -121,6 +133,9 @@ talks:
   Talk Order: '5'
   Abstract ID: '478'
   Presenter: Edoardo Di Martino
+  Authors: Edoardo Di Martino (Sapienza University of Rome)*; Alessandro Galeazzi
+    (University of Padova); Michele Starnini (Universitat Pompeu Fabra); Walter Quattrociocchi
+    (Sapienza University of Rome); Matteo Cinelli (Sapienza University of Rome)
   Talk title: Characterizing the Fragmentation of the Social Media Ecosystem
   Abstract: 'The entertainment-driven dynamics of social media platforms encourage
     users to engage with like-minded individuals and consume content aligned with
@@ -150,6 +165,9 @@ talks:
   Talk Order: '6'
   Abstract ID: '516'
   Presenter: Arttu Malkamäki
+  Authors: Arttu Malkamäki (Aalto University)*; Ted Chen (George Mason University);
+    Antti Gronow (University of Helsinki); Mikko Kivelä (Aalto University); Juho Vesa
+    (University of Helsinki); Tuomas Ylä-Anttila (University of Helsinki)
   Talk title: 'Political alliances across relational contexts: a complex coalition
     approach'
   Abstract: Coalitions are social mechanisms for political actors to organise joint
@@ -180,6 +198,8 @@ talks:
   Talk Order: '7'
   Abstract ID: '555'
   Presenter: Petter Holme
+  Authors: Chenyu Li (Aalto University); Petter Holme (Aalto University)*; Mikko Kivelä
+    (Aalto University); Manuel Cebrian (Spanish National Research Council)
   Talk title: Humans and AI imagining social networks from a distance
   Abstract: A tenet of the last century of social science is that the wiring of social
     networks explains their function. It has been argued that people are not merely
@@ -211,6 +231,9 @@ talks:
   Talk Order: '8'
   Abstract ID: '543'
   Presenter: Edoardo Loru
+  Authors: Edoardo Loru (Sapienza University of Rome)*; Niccolò Di Marco (Sapienza
+    University of Rome); Matteo Cinelli (Sapienza University of Rome); Walter Quattrociocchi
+    (Sapienza University of Rome)
   Talk title: A Compression-Based Approach to Detecting Automated and Coordinated
     Behavior on Social Media
   Abstract: Social media platforms are frequently targeted by entities engaging in

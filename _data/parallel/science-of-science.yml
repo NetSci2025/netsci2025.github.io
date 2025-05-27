@@ -5,6 +5,9 @@ talks:
   Talk Order: '1'
   Abstract ID: '59'
   Presenter: Kazuki Nakajima
+  Authors: Kazuki Nakajima (Tokyo Metropolitan University)*; Yuya Sasaki (Osaka University);
+    Sohei Tokuno (Nara Institute of Science and Technology); George Fletcher (Eindhoven
+    University of Technology)
   Talk title: Quantitative analysis of citation imbalance in computer science using
     reference models
   Abstract: Citation analysis is a standard bibliometric tool for assessing the impact
@@ -24,6 +27,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '252'
   Presenter: Elizaveta Evmenova
+  Authors: Elizaveta Evmenova (TU Delft University of Technology)*; Maksim Kitsak
+    (TU Delft University of Technology)
   Talk title: Who are your collaborators? Uncovering collaboration patterns in science
   Abstract: 'Scientific collaborations are shaped by many factors: common scientific
     interests, background, social interactions, availability, and so on. But what
@@ -44,6 +49,8 @@ talks:
   Talk Order: '3'
   Abstract ID: '272'
   Presenter: Shuang Zhang
+  Authors: Shuang Zhang (Dalian University of Technology); Feifan Liu (East China
+    University of Science and Technology); Haoxiang Xia (Dalian University of Technology)*
   Talk title: Neural Embeddings of Citation Flows Capturing the Narrowing Idea Mobility
   Abstract: Scientific citations track the circulation of ideas and reflect the collective
     attention of the academic community. However, our understanding of how scientific
@@ -75,6 +82,9 @@ talks:
   Talk Order: '4'
   Abstract ID: '346'
   Presenter: Ching Jin
+  Authors: Ching Jin (University of Warwick )*; Yifang Ma (Southern University of
+    Science and Technology); Anthony Olejniczak (AARC); Brian Uzzi (Northwestern University
+    )
   Talk title: Quantifying Scientific Recognition Process in Complex Awarding Systems
   Abstract: 'Prizes confer credibility to individuals, ideas, and disciplines; provide
     financial incentives; and foster community-building celebrations. Despite considerable
@@ -101,6 +111,11 @@ talks:
   Talk Order: '5'
   Abstract ID: '409'
   Presenter: Julian Sienkiewicz
+  Authors: Stanisław Giziński (University of Warsaw); Paulina Kaczyńska (University
+    of Warsaw); Hubert Ruczyński (Warsaw University of Technology); Emila Wiśnios
+    (NASK National Research Institute); Bartosz Pieliński (University of Warsaw);
+    Przemysław Biecek (Warsaw University of Technology); Julian Sienkiewicz (Warsaw
+    University of Technology)*
   Talk title: Memetic analysis of Big Tech influence over AI research
   Abstract: 'There exists a growing discourse around the domination of Big Tech on
     the landscape of artificial intelligence (AI) research, yet our comprehension

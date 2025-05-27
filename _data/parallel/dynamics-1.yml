@@ -5,6 +5,7 @@ talks:
   Talk Order: '1'
   Abstract ID: '22'
   Presenter: Ramon Nartallo-Kaluarachchi
+  Authors: Ramón Nartallo-Kaluarachchi (University of Oxford)*
   Talk title: Decomposing nonequilibrium force-fields by reconstructing graphs from
     stochastic trajectories
   Abstract: The stochastic dynamics of real-world processes are often far from equilibrium,
@@ -37,6 +38,9 @@ talks:
   Talk Order: '2'
   Abstract ID: '35'
   Presenter: Hanlin Sun
+  Authors: Ana P Millan (University of Granada); Hanlin Sun (NORDITA, Stockholm University)*;
+    Joaquín J Torres (University of Granada); Ginestra Bianconi (Queen Mary University
+    of London)
   Talk title: Triadic percolation induces dynamical topological patterns in higher-order
     networks
   Abstract: Triadic interactions are higher-order interactions which occur when a
@@ -65,6 +69,9 @@ talks:
   Talk Order: '3'
   Abstract ID: '49'
   Presenter: Naoki Masuda
+  Authors: Ruodan Liu (State University of New York at Buffalo); Jnanajyoti Bhaumik
+    (State University of New York at Buffalo); Naoki Masuda (State University of New
+    York at Buffalo)*
   Talk title: Fixation dynamics on various networks
   Abstract: 'Many real-life ecosystems experience sudden changes, also referred to
     as regime shifts. These systems can be modeled
@@ -145,6 +152,8 @@ talks:
   Talk Order: '4'
   Abstract ID: '191'
   Presenter: Jun Yamamoto
+  Authors: Jun Yamamoto (Central European University)*; Ivan Bonamassa (Central European
+    University); Márton Pósfai (Central European University)
   Talk title: Delocalization of Physical Laplacian Eigenvectors due to Degree-Volume
     Correlation
   Abstract: Physical networks, embedded in three-dimensional space under physical
@@ -170,6 +179,9 @@ talks:
   Talk Order: '5'
   Abstract ID: '542'
   Presenter: Ana Barioni
+  Authors: Ana Barioni (Northwestern University)*; Arthur Montanari (Northwestern
+    University); Chao Duan (Xi'an Jiaotong University); Adilson Motter (Northwestern
+    University)
   Talk title: 'Networking drones of different feathers: the secret sauce for flocking'
   Abstract: The study of flocking in biological systems has identified conditions
     for self-organized collective behavior, inspiring the development of decentralized

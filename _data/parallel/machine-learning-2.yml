@@ -5,6 +5,8 @@ talks:
   Talk Order: '1'
   Abstract ID: '164'
   Presenter: Moritz Laber
+  Authors: Moritz Laber (Network Science Institute, Northeastern University)*; Brennan
+    Klein (Network Science Institute, Northeastern University)
   Talk title: Generalization and Efficiency of Graph Neural ODEs for Network Dynamical
     Systems
   Abstract: Complex systems from many domains, such as epidemiology or neuroscience,
@@ -37,6 +39,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '192'
   Presenter: Jan von Pichowski
+  Authors: Christopher Blöcker (University of Würzburg)*; Jan von Pichowski (University
+    of Würzburg); Ingo Scholtes (University of Würzburg)
   Talk title: Hierarchical Graph Pooling Based on the Map Equation
   Abstract: We develop a hierarchical graph pooling objective for optimisation through
     gradient descent based on the map equation, an information-theoretic objective
@@ -54,6 +58,7 @@ talks:
   Talk Order: '3'
   Abstract ID: '307'
   Presenter: Maurizio Titz
+  Authors: Maurizio Titz (Forschungszentrum Jülich)*
   Talk title: Predicting Dynamic Stability from Static Features in Power Grid Models
     using Machine Learning
   Abstract: The Kuramoto model is a foundational framework for understanding synchronization
@@ -85,6 +90,9 @@ talks:
   Talk Order: '4'
   Abstract ID: '531'
   Presenter: Franziska Heeg
+  Authors: Franziska Heeg (Julius-Maximilians-Universität Würzburg)*; Ingo Scholtes
+    (Julius-Maximilians-Universität Würzburg); Petra Mutzel (Rheinische Friedrich-Wilhelms-Universität
+    Bonn); Jonas Sauer (Rheinische Friedrich-Wilhelms-Universität Bonn)
   Talk title: Temporal Graph Isomorphism and Expressivity of Temporal GNNs
   Abstract: Graph Neural Networks (GNNs) are a powerful approach to deep learning
     on networks, but studies of their expressivity, often based on the Weisfeiler-Lehman
@@ -115,6 +123,10 @@ talks:
   Talk Order: '5'
   Abstract ID: '577'
   Presenter: Vince Lyzinski
+  Authors: Konstantinos Pantazis (Johns Hopkins University (now with Deus Ex Machina));
+    Michael Trosset (Indiana University, Bloomington); William Frost (Rosalind Franklin
+    University of Medicine and Science); Carey Priebe (Johns Hopkins University);
+    Vince Lyzinski (University of Maryland, College Park)*
   Talk title: Optimizing the Induced Correlation in Omnibus Joint Graph Embeddings
   Abstract: 'Network embeddings provide low-dimensional vertex representations which
     are amenable to classical inferential methods. Embedding multiple networks is

@@ -5,6 +5,11 @@ talks:
   Talk Order: '1'
   Abstract ID: '43'
   Presenter: Marta Niedostatek
+  Authors: Marta Niedostatek (Queen Mary University London)*; Anthony Baptista ( Queen
+    Mary University of London); Jun Yamamoto (Central European University); Ben MacArthur
+    (The Alan Turing Institute); Jürgen Kurths (Humboldt University of Berlin); Ruben
+    Sanchez-Garcia (The Alan Turing Institute); Ginestra Bianconi (Queen Mary University
+    London)
   Talk title: Mining higher-order triadic interactions in gene-expression data
   Abstract: Higher-order networks are attracting large scientific interest in recent
     years. However, a key challenge is to infer higher-order interactions from data.
@@ -27,6 +32,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '46'
   Presenter: Katy Borner
+  Authors: Katy Borner (IU)*; Andreas Bueckle (IU); Bruce W Herr II (IU); Josef Hardi
+    (Stanford U); Mark A Musen (Stanford U); Ellen M Quardokus (IU)
   Talk title: 'Human Reference Atlas: Multiscale Networks and Knowledge Graphs'
   Abstract: 'The HuBMAP Human Reference Atlas (HRA) effort [1-3] aims to develop a
     common coordinate framework (CCF) for the healthy human body, see HRA Portal at
@@ -57,6 +64,8 @@ talks:
   Talk Order: '3'
   Abstract ID: '73'
   Presenter: Thomas Clegg
+  Authors: Tom Clegg (Helmholtz Institute for Marine Functional Biodiversity)*; Thilo
+    Gross (Helmholtz Institute for Marine Functional Biodiversity)
   Talk title: Cross-feeding Creates Tipping Points in Microbiome Diversity
   Abstract: How the extraordinary diversity of microbiomes emerges from the interactions
     between individual populations is a important unanswered question in microbial
@@ -84,6 +93,9 @@ talks:
   Talk Order: '4'
   Abstract ID: '309'
   Presenter: Daan van Beek
+  Authors: Aishwarya Iyer (Maastricht University)*; Martina Kutmon (Maastricht University);
+    Daan van Beek (Maastricht University); Michiel Adriaens (Maastricht University);
+    Friederike Ehrhart (Maastricht University)
   Talk title: Exploring cis gene regulatory patterns in Huntington's Disease using
     allele-specific expression.
   Abstract: Huntington’s disease (HD) is a monogenic neurodegenerative disorder caused
@@ -110,6 +122,7 @@ talks:
   Talk Order: '5'
   Abstract ID: '423'
   Presenter: Igor Branchi
+  Authors: Igor Branchi (Italian Institute of Health)*
   Talk title: 'Measuring plasticity: a network-based approach to anticipate transitions
     in mental health'
   Abstract: The seminal works by Denny Borsboom on the network theory of psychopathology,
@@ -141,6 +154,11 @@ talks:
   Talk Order: '6'
   Abstract ID: '512'
   Presenter: Marco Fele
+  Authors: Marco Fele (Swansea University)*; Charlotte Christensen (Department of
+    Evolutionary Biology and Environmental Science, University of Zurich, Zurich,
+    Switzerland); Anna Bracken (University of Glasgow); Justin Riain (University of
+    Cape Town); Miguel Lurgi (Swansea University); Marina Papadopoulou (Swansea University);
+    Ines Furtbauer (Swansea University); Andrew King (Swansea University)
   Talk title: More dominant baboons have less and lower quality sleep
   Abstract: The amount and quality of sleep individuals get can impact various aspects
     of human and non-human animal health,ultimately affecting fitness. For wild animals
@@ -168,6 +186,8 @@ talks:
   Talk Order: '7'
   Abstract ID: '541'
   Presenter: Kevin Michalewicz
+  Authors: Kevin Michalewicz (Imperial College London)*; Dominik Schindler (Imperial
+    College London); Mauricio Barahona (Imperial College London)
   Talk title: The impact of mutations on protein multiscale structure through persistent
     homology
   Abstract: Protein function and structure are tightly linked. Proteins have a multiscale
@@ -198,6 +218,9 @@ talks:
   Talk Order: '8'
   Abstract ID: '549'
   Presenter: Buduka Ogonor
+  Authors: Buduka Ogonor (Northwestern University)*; Adilson Motter (Northwestern
+    University); Benjamin Kuznets-Speck (Northwestern University); Thomas Wytock (Northwestern
+    University)
   Talk title: Discovering causal gene subnetworks responsible for complex traits
   Abstract: The relationship between genotype and phenotype remains an outstanding
     question for organism-level traits because these traits are generally complex.

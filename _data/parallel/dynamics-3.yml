@@ -5,6 +5,9 @@ talks:
   Talk Order: '1'
   Abstract ID: '12'
   Presenter: Yu Tian
+  Authors: Yu Tian (Max Planck Institute for Physics of Complex Systems | Cell Biology
+    and Genetics)*; Sadamori Kojaku (Binghamton University); Hiroki Sayama (Binghamton
+    University, State University of New York); Renaud Lambiotte (University of Oxford)
   Talk title: Matrix-weighted networks for modeling multidimensional dynamics
   Abstract: 'Networks are powerful tools for modeling interactions in complex systems.
     While traditional networks use scalar edge weights, many real-world systems involve
@@ -21,6 +24,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '218'
   Presenter: Natasa Djurdjevac Conrad
+  Authors: Natasa Djurdjevac Conrad (Zuse Institute Berlin)*; Nhu Quang Vu (Freie
+    Universitaet Berlin); Soeren Nagel (Zuse Institute Berlin )
   Talk title: Co-evolving Networks for Opinion and Social Dynamics in Agent-Based
     Models
   Abstract: Digital media has fundamentally transformed social interactions and reshaped
@@ -44,6 +49,9 @@ talks:
   Talk Order: '3'
   Abstract ID: '293'
   Presenter: Pietro Traversa
+  Authors: Kleber Oliveira (Munster Technological University)*; Pietro Traversa (CENTAI
+    Institute); Guilherme Ferraz de Arruda (CENTAI Institute); Yamir Moreno (Universidad
+    de Zaragoza)
   Talk title: Rumor propagation on hypergraphs
   Abstract: While much of research done on rumor and information propagation focuses
     on settings which are adequately described by traditional dyadic networks, namely
@@ -75,6 +83,8 @@ talks:
   Talk Order: '4'
   Abstract ID: '322'
   Presenter: Lars Schroeder
+  Authors: Lars Schroeder (University of Twente)*; Clara Stegehuis (University of
+    Twente)
   Talk title: Stationary distribution of node2vec random walks on household models
   Abstract: node2vec random walks are tuneable random walks that come from the popular
     algorithm node2vec which is used for network embedding. The transition prob`abilities
@@ -103,6 +113,8 @@ talks:
   Talk Order: '5'
   Abstract ID: '492'
   Presenter: Erica Cau
+  Authors: Erica Cau (University of Pisa)*; Valentina Pansanella (ISTI-CNR); Giulio
+    Rossetti (ISTI-CNR)
   Talk title: Modeling opinion dynamics of LLM populations
   Abstract: As inherently social beings, humans possess the ability to form opinions
     based on their beliefs and communicate them with others. Opinion evolution in

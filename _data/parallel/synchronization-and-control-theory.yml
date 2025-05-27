@@ -5,6 +5,9 @@ talks:
   Talk Order: '1'
   Abstract ID: '116'
   Presenter: Joseph Lizier
+  Authors: Joseph Lizier (The University of Sydney)*; Frank Bauer (Harvard University);
+    Fatihcan Atay (Bilkent University); Juergen Jost (Max Planck Institute for Mathematics
+    in the Sciences)
   Talk title: Analytic relationship of relative synchronizability to network structure
     and motifs
   Abstract: 'We recently presented (doi:10.1073/pnas.2303332120) an analytic technique
@@ -37,6 +40,7 @@ talks:
   Talk Order: '2'
   Abstract ID: '140'
   Presenter: Dohyun Kim
+  Authors: Hyungjin Huh (Chung-Ang University); Dohyun Kim (Sungkyunkwan University)*
   Talk title: Critical threshold for synchronizability of high-dimensional Kuramoto
     oscillators under higher-order interactions
   Abstract: Collective synchronization of the Kuramoto model has been extensively
@@ -62,6 +66,7 @@ talks:
   Talk Order: '3'
   Abstract ID: '222'
   Presenter: Fabrizio De Vico Fallani
+  Authors: fabrizio De Vico Fallani (Inria-ICM)*
   Talk title: Low-dimensional network controllability
   Abstract: Identifying the driver nodes of a network has crucial implications in
     complex systems from unveiling causal interactions to informing effective intervention
@@ -82,6 +87,8 @@ talks:
   Talk Order: '4'
   Abstract ID: '306'
   Presenter: Jose Nacher
+  Authors: Jose Nacher (Toho University)*; Yusuke Tokuhara (Toho University); Jean-Marc
+    Schwartz (Manchester University); Tatsuya Akutsu (Kyoto University)
   Talk title: Efficient Identification of Critical Control Nodes in Probabilistic
     Directed Networks and Their Associations with Disease Genes
   Abstract: Network controllability integrates classical control theory with structural
@@ -112,6 +119,10 @@ talks:
   Talk Order: '5'
   Abstract ID: '375'
   Presenter: Iva Bačić
+  Authors: Iva Bačić (Forschungszentrum Jülich)*; Carsten Hartmann ( Forschungszentrum
+    Jülich); Philipp Böttcher (Forschungszentrum Jülich); David Gross (University
+    of Cologne); Andrea Benigni (Forschungszentrum Jülich); Dirk Witthaut (Forschungszentrum
+    Jülich)
   Talk title: Synchronization by convex optimization
   Abstract: Synchronization is relevant in a wide range of disciplines. This phenomenon
     is commonly studied using the Kuramoto model, which describes the dynamics of

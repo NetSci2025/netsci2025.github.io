@@ -5,6 +5,10 @@ talks:
   Talk Order: '1'
   Abstract ID: '129'
   Presenter: Malte Schröder
+  Authors: Christoph Steinacker (TUD Dresden University of Technology); Henrik Wolf
+    ( TUD Dresden University of Technology); Mads Paulsen (Technical University of
+    Denmark); Jeppe Rich (Technical University of Denmark); Malte Schröder (TUD Dresden
+    University of Technology)*
   Talk title: Quantifying link importance and synergies in infrastructure networks
   Abstract: Infrastructure networks are crucial for enabling human mobility across
     almost all modes of transport. However, designing efficient transport networks
@@ -36,6 +40,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '207'
   Presenter: Guangyuan Weng
+  Authors: Guangyuan Weng (Northeastern University)*; Minsuk Kim (Indiana University);
+    Yong-Yeol Ahn (Indiana University); Esteban Moro (Northeastern University)
   Talk title: Unsupervised Embedding of Mobility Networks Reveals Invisible Barriers
     in US Cities
   Abstract: Borders are prevalent in cities, conditioning mobility and shaping people's
@@ -58,6 +64,7 @@ talks:
   Talk Order: '3'
   Abstract ID: '249'
   Presenter: Xinhan Liu
+  Authors: Xinhan Liu (Technische Universiteit Delft)*; Piet Van Mieghem (Tu Delft)
   Talk title: Probabilistic Model for Shortest Path Distances and Shortest Path Field
     in Random Spatial Networks
   Abstract: Random Spatial Networks (RSNs), including Random Geometric Graphs (RGG),
@@ -81,6 +88,9 @@ talks:
   Talk Order: '4'
   Abstract ID: '304'
   Presenter: Martina Contisciani
+  Authors: Thomas Robiglio (Central European University )*; Martina Contisiciani (Central
+    European University); Márton Karsai (Central European University); Tiago Peixoto
+    (Interdisciplinary Transformation University Austria)
   Talk title: Inferential clustering reveals administrative boundaries in Austrian
     migration networks
   Abstract: Migration drives urbanization, segregation, and socioeconomic change,
@@ -102,6 +112,7 @@ talks:
   Talk Order: '5'
   Abstract ID: '466'
   Presenter: Andrew Renninger
+  Authors: Andrew Renninger (University College London)*
   Talk title: Spanish heat waves curb discretionary mobility and alter work behavior
     among the elderly
   Abstract: Extreme heat is a growing problem in European countries with rising temperatures
@@ -127,6 +138,9 @@ talks:
   Talk Order: '6'
   Abstract ID: '521'
   Presenter: Matteo Mazzamurro
+  Authors: Matteo Mazzamurro (Aarhus University)*; Tom Brughmans (Aarhus University);
+    Pau de Soto (Universitat Autonoma de Barcelona ); Adam Pazout (Universitat Autonoma
+    de Barcelona)
   Talk title: A network study of road mobility in the Roman Empire
   Abstract: This study presents the first network analysis of a spatially detailed
     model of Roman roads, based on the most comprehensive and granular dataset to

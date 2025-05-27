@@ -5,6 +5,8 @@ talks:
   Talk Order: '1'
   Abstract ID: '21'
   Presenter: Fragkiskos Papadopoulos
+  Authors: FRAGKISKOS PAPADOPOULOS (Cyprus University of Technology)*; Evangelos Papaefthymiou
+    (Cyprus Institute); Costas Iordanou (Cyprus University of Technology)
   Talk title: Fundamental dynamics of popularity-similarity trajectories in real networks
   Abstract: Real networks are complex dynamical systems, evolving over time with the
     addition and deletion of nodes and links. Currently, there exists no principled
@@ -34,6 +36,9 @@ talks:
   Talk Order: '2'
   Abstract ID: '34'
   Presenter: Shilong Yu
+  Authors: Shilong Yu (State University of New York at Buffalo); Neil MacLaren (U.S.
+    Army Research Institute for the Behavioral and Social Sciences); Naoki Masuda
+    (State University of New York at Buffalo)*
   Talk title: Using sample cross covariance to potentially improve early warning signals
     for network dynamics
   Abstract: 'Many real-life ecosystems experience sudden changes, also referred to
@@ -115,6 +120,8 @@ talks:
   Talk Order: '3'
   Abstract ID: '42'
   Presenter: Lluís Torres-Hugas
+  Authors: Lluís Torres-Hugas (Universitat Rovira i Virgili)*; Jordi Duch (Universitat
+    Rovira i Virgili); Sergio Gómez (Universitat Rovira i Virgili)
   Talk title: Interplay Between Structure and Diffusion Dynamics in Random and Multiplex
     Networks
   Abstract: 'Network structure and dynamical processes on networks are highly correlated
@@ -146,6 +153,9 @@ talks:
   Talk Order: '4'
   Abstract ID: '74'
   Presenter: Marvin Lücke
+  Authors: Marvin Lücke (Zuse Institute Berlin)*; Stefanie Winkelmann (Zuse Institute
+    Berlin); Jobst Heitzig (Potsdam Institute of Climate Impact Research); Nora Molkenthin
+    (Potsdam Institute of Climate Impact Research); Péter Koltai (University of Bayreuth)
   Talk title: Learning interpretable collective variables for dynamical systems on
     networks
   Abstract: Collective variables (CVs) are low-dimensional projections of high-dimensional
@@ -162,6 +172,9 @@ talks:
   Talk Order: '5'
   Abstract ID: '126'
   Presenter: Otti D'Huys
+  Authors: Otti D'Huys (Maastricht University)*; Valentin Kotolup (Maastricht University);
+    Romain Veltz (Inria Sophia-Antipolis); Stephane Barland (Universite Cote d'Azur
+    - CNRS)
   Talk title: Excitability and stochastic effects in an experimental spiking laser
     network
   Abstract: 'The collective dynamics of spiking elements is of particular interest
@@ -192,6 +205,8 @@ talks:
   Talk Order: '6'
   Abstract ID: '318'
   Presenter: James Gleeson
+  Authors: James Gleeson (University of Limerick)*; Ailbhe Cassidy (University of
+    Limerick); Daniel Giles (University College London); Ali Faqeeh (Aalto University)
   Talk title: Time-dependent influence metric for cascade dynamics on networks
   Abstract: An algorithm for efficiently calculating the expected size of single-seed
     cascade dynamics on networks is proposed and tested. The expected size is a time-dependent
@@ -205,6 +220,9 @@ talks:
   Talk Order: '7'
   Abstract ID: '333'
   Presenter: Maja Lindström
+  Authors: Maja Lindström (Umeå University)*; Anton Holmgren (Umeå University); Christopher
+    Blöcker (Julius-Maximilians-Universität Würzburg); Rohit Sahasrabuddhe (University
+    of Oxford); Tommy Löfstedt (Umeå University); Martin Rosvall (Umeå University)
   Talk title: Mapping memory-biased random walks reveals overlapping communities
   Abstract: Overlapping communities capture the complexity of real-world networks,
     where nodes often play diverse roles across various contexts. However, identifying
@@ -224,6 +242,10 @@ talks:
   Talk Order: '8'
   Abstract ID: '400'
   Presenter: Alexandra Tits
+  Authors: Alexandra Tits (Max Planck Institute of Colloids and Interfaces)*; Jana
+    Ciecierska-Holmes (Max Planck Institute of Colloids and Interfaces); Maximilian
+    Rummler (Max Planck Institute of Colloids and Interfaces); Richard Weinkamer (Max
+    Planck Institute of Colloids and Interfaces)
   Talk title: Fluid flow through the lacunocanalicular network in bone
   Abstract: The bones of most animals, including humans, are permeated by two nested
     network structures. The lacunocanalicular network (LCN) consists of pores, called

@@ -5,6 +5,8 @@ talks:
   Talk Order: '1'
   Abstract ID: '24'
   Presenter: Thao Le
+  Authors: Thao Le (Vrije Universiteit Amsterdam)*; Bernd Heidergott (Vrije University
+    Amsterdam); Ines Lindner (Vrije University Amsterdam)
   Talk title: Community Structure in Markov Influence Graphs with Heterogeneous Holding
     Times
   Abstract: Uncovering the community structure within complex networks is key to understanding
@@ -28,6 +30,7 @@ talks:
   Talk Order: '2'
   Abstract ID: '28'
   Presenter: Perrin Ruth
+  Authors: Perrin Ruth (University of Maryland, College Park)*
   Talk title: Cyclic Random Graphs Predicting Giant Molecules in Hydrocarbon Pyrolysis
   Abstract: Various structures arising in nature can be modeled using random graphs.
     We propose to use random graphs for describing the molecular composition in the
@@ -59,6 +62,8 @@ talks:
   Talk Order: '3'
   Abstract ID: '135'
   Presenter: Jun Sun
+  Authors: Jun Sun (GESIS Leibniz Institut für Sozialwissenschaften)*; Maximilian
+    Linde (GESIS Leibniz Institut für Sozialwissenschaften)
   Talk title: Can driving mechanisms of contact duration distributions be distinguished?
   Abstract: 'Human contact networks such as face-to-face interaction, email exchange,
     and phone communication often display power-law contact duration distributions
@@ -90,6 +95,13 @@ talks:
   Talk Order: '4'
   Abstract ID: '402'
   Presenter: Maxime Lucas
+  Authors: Maxime Lucas (Namur Institute for Complex Systems (naXys), UNamur)*; Luca
+    Gallo (ANETI Lab, Corvinus Institute for Advanced Studies (CIAS), Corvinus University,
+    1093 Budapest, Hungary); Arsham Ghavasieh (Department of Physics and Astronomy
+    “Galileo Galilei”, University of Padua, Via F. Marzolo 8, 315126 Padova, Italy);
+    Federico Battiston (Department of Network and Data Science, Central European University,
+    1100 Vienna, Austria); Manlio De Domenico (Department of Physics and Astronomy
+    “Galileo Galilei”, University of Padua, Via F. Marzolo 8, 315126 Padova, Italy)
   Talk title: Functional reducibility of higher-order networks
   Abstract: '(Full abstract in PDF) Higher-order networks encode more information
     than pairwise interactions: for example, some metabolic reactions can only take
@@ -119,6 +131,8 @@ talks:
   Talk Order: '5'
   Abstract ID: '405'
   Presenter: Marcos Oliveira
+  Authors: Marcos Oliveira (University of Exeter)*; Leonie Neuhäuser (RWTH Aachen
+    University,); Fariba Karimi (Graz University of Technology)
   Talk title: Stronger together? The homophily trap in networks
   Abstract: 'While homophily---the tendency to link with similar others---may nurture
     a sense of belonging and shared values, it can also hinder diversity and widen

@@ -5,6 +5,7 @@ talks:
   Talk Order: '1'
   Abstract ID: '66'
   Presenter: Eckehard Schöll
+  Authors: Eckehard Schöll (TU Berlin)*; Jakub Sawicki (Universität der Künste Berlin)
   Talk title: Interplay of synchronization and cortical input in models of brain networks
   Abstract: It is well known that synchronization patterns and coherence play a major
     role in the functioning of brain networks,both in pathological and in healthy
@@ -26,6 +27,9 @@ talks:
   Talk Order: '2'
   Abstract ID: '112'
   Presenter: Valentina Sanchez
+  Authors: Valentina Sanchez (Tilburg University)*; Çiçek Güven (Tilburg University);
+    Gonzalo Nápoles (Tilburg University); Marie Postma (Tilburg University); Koen
+    Haak (Tilburg University)
   Talk title: The Human Brain as a Combinatorial Complex
   Abstract: Understanding the brain's complex network structure requires innovative
     mathematical frameworks that can capture its multiscale nature. Higher-order mathematical
@@ -57,6 +61,8 @@ talks:
   Talk Order: '3'
   Abstract ID: '131'
   Presenter: Balazs Pentek
+  Authors: Balazs Pentek (Babes-Bolyai University)*; Maria Ercsey-Ravasz (Babes-Bolyai
+    University)
   Talk title: The exponential distance rule based network model predicts topology
     and reveals functionally relevant properties of the Drosophila projectome
   Abstract: Studying structural brain networks has witnessed significant advancement
@@ -85,6 +91,8 @@ talks:
   Talk Order: '4'
   Abstract ID: '169'
   Presenter: Laia Barjuan Ballabriga
+  Authors: Laia Barjuan Ballabriga (Universitat de Barcelona)*; Muhua Zheng (Jiangsu
+    University); Maria Ángeles Serrano Moral (Universitat de Barcelona)
   Talk title: The multiscale self-similarity of the weighted human brain connectome
   Abstract: Anatomical connectivity between different brain regions can be mapped
     to a network representation, the connectome, where the intensities of the links,
@@ -105,6 +113,8 @@ talks:
   Talk Order: '5'
   Abstract ID: '442'
   Presenter: Felipe Xavier Costa
+  Authors: Felipe Costa (Católica Biomedical Research Center)*; Olaf Sporns (Indiana
+    University); Luis Rocha (Binghamton University)
   Talk title: The metric backbone of brain networks across lifespan and hemispheres
   Abstract: 'Communication pathways in the brain are represented by a network of structural
     connectivity between regions. This representation, referred to as a connectome,
@@ -135,6 +145,7 @@ talks:
   Talk Order: '6'
   Abstract ID: '567'
   Presenter: Carlo Vittorio Cannistraci
+  Authors: Carlo Cannistraci (Tsinghua University)*; Yingtao Zhang (Tsinghua University)
   Talk title: Brain-inspired sparse training in deep artificial neural networks with
     network science modelling via Cannistraci-Hebb rule
   Abstract: 'The prevalent fully connected architecture of neural network models is
@@ -167,6 +178,7 @@ talks:
   Talk Order: '7'
   Abstract ID: '571'
   Presenter: Eunhye Baek
+  Authors: Carlo Cannistraci (Tsinghua University)*; Eunhye Baek (Tsinghua University)
   Talk title: Neuromorphic dendritic network computation with silent synapses for
     visual motion perception
   Abstract: Neuromorphic technologies often employ a point-neuron model, neglecting
@@ -190,6 +202,13 @@ talks:
   Talk Order: '8'
   Abstract ID: '604'
   Presenter: Jil Meier
+  Authors: Jil Meier (Charité-Universitätsmedizin Berlin)*; Marius Pille (Charité-Universitätsmedizin
+    Berlin); Leon Martin (Charité-Universitätsmedizin Berlin); Timo Hofsähs (Charité-Universitätsmedizin
+    Berlin); Anaïs Halimi (Charité-Universitätsmedizin Berlin); Johannes Busch (Charité-Universitätsmedizin
+    Berlin); Lucia Feldmann (Charité-Universitätsmedizin Berlin); Roxanne Lofredi
+    (Charité-Universitätsmedizin Berlin); Patricia Krause (Charité-Universitätsmedizin
+    Berlin); Andrea Kühn (Charité-Universitätsmedizin Berlin); Petra Ritter (Charité-Universitätsmedizin
+    Berlin)
   Talk title: The Virtual Brain reveals sweet dynamics of deep brain stimulation in
     Parkinson’s disease
   Abstract: Deep brain stimulation (DBS) is a successful symptom-relieving treatment

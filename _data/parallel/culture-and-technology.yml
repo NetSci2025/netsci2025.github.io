@@ -5,6 +5,8 @@ talks:
   Talk Order: '1'
   Abstract ID: '57'
   Presenter: Michele Coscia
+  Authors: Michele Coscia (IT University of Copenhagen)*; Matteo Mazzamurro (Aarhus
+    University); Petra Heřmánková (Aarhus University); Tom Brughmans (Aarhus University)
   Talk title: The Economic Complexity of the Roman Empire
   Abstract: Economic complexity is a key concept allowing us to forecast the growth
     of a country. Given its relevance for economic development, much attention has
@@ -29,6 +31,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '106'
   Presenter: Dirk Hartung
+  Authors: Corinna Coupette (Aalto University)*; Dirk Hartung (Singapore Management
+    University)
   Talk title: Harnessing Higher-Order Networks to Trace the Development of Doctrine
   Abstract: 'Modeling collections of historical documents as temporal citation networks
     allows us to investigate a wide range of dynamic phenomena, such as the diffusion
@@ -60,6 +64,9 @@ talks:
   Talk Order: '3'
   Abstract ID: '323'
   Presenter: Haiko Lietz
+  Authors: Haiko Lietz (GESIS - Leibniz Institute for the Social Sciences)*; Leon
+    Fröhling (GESIS - Leibniz Institute for the Social Sciences); Dennis Assenmacher
+    (GESIS - Leibniz Institute for the Social Sciences)
   Talk title: A day on Twitter is a fractal in socio-cultural space-time
   Abstract: The day-on-Twitter dataset covers a complete day of communication. The
     weighted social network of reciprocated mentions contains 7.2M nodes and 9.2M
@@ -91,6 +98,8 @@ talks:
   Talk Order: '4'
   Abstract ID: '142'
   Presenter: Veronica Mesina
+  Authors: Veronica Mesina (Univeristy of Pisa)*; Andrea Failla (University of Pisa);
+    Virginia Morini (University of Pisa); Giulio Rossetti (ISTI - CNR)
   Talk title: 'Framing the Narrative: How Italian Authorities Dominated COVID-19 Twitter
     Debate'
   Abstract: 'The COVID-19 pandemic was an unprecedented event that redefined societal
@@ -117,6 +126,8 @@ talks:
   Talk Order: '5'
   Abstract ID: '453'
   Presenter: Marcella Tambuscio
+  Authors: Marcella Tambuscio (University of Graz)*; Suzana Sagadin (University of
+    Graz); Richard Hadden (University of Graz); Georg Vogeler (University of Graz)
   Talk title: 'Digitising History: Network Perspectives of a Medieval Court'
   Abstract: 'Networks offer a powerful lens for historians, allowing them to analyze
     the complex interplay of individuals, groups, and institutions over time. Our
@@ -148,6 +159,8 @@ talks:
   Talk Order: '6'
   Abstract ID: '459'
   Presenter: Xiangnan Feng
+  Authors: Xiangnan Feng (Complexity Science Hub)*; Johannes Wachs (Corvinus University);
+    Simone Daniotti ( Utrecht University); Frank Neffke (Complexity Science Hub)
   Talk title: Learning in a Software Task Space
   Abstract: In the rapidly evolving global economy, the computer science and software
     industry represents one of the fastest-developing sectors. Today, the software
@@ -169,6 +182,7 @@ talks:
   Talk Order: '7'
   Abstract ID: '496'
   Presenter: Tomomi Kito
+  Authors: Tomomi Kito (Waseda University)*; Kaito Hosoi (Waseda University)
   Talk title: 'Technological portfolio strategies: coherence, coreness, and diversification
     patterns'
   Abstract: 'Globalization and rapid technological advancements have heightened competition
@@ -201,6 +215,10 @@ talks:
   Talk Order: '8'
   Abstract ID: '565'
   Presenter: Tobias Timofeyev
+  Authors: Tobias Timofeyev (University of Vermont)*; Alan Hylton (NASA Goddard);
+    Oliver Chiriac (University of Oxford); Jacob Cleveland (NASA Glenn); Jihun Hwang
+    (Purdue University); Daniel Koizumi (University of Texas Austin); Karuna Petwe
+    (University of Washington)
   Talk title: A Sheaf Theoretic Approach to Near Space Network Routing
   Abstract: Delay Tolerant Networking (DTN), as a protocol suite for networked communications
     in space, is maturing into a viable enabling technology for the Solar System Internet

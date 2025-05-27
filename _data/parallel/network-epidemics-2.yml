@@ -5,6 +5,9 @@ talks:
   Talk Order: '1'
   Abstract ID: '53'
   Presenter: Katharina Ledebur
+  Authors: Katharina Ledebur (Complexity Science Hub Vienna)*; Peter Klimek (Complexity
+    Science Hub); Stefan Thurner (Complexity Science Hub); Alexandra Kautzky-Willer
+    (Medical University of Vienna)
   Talk title: Optimal prevention strategies for chronic diseases in a compartmental
     disease trajectory model
   Abstract: In countries with growing elderly populations, multimorbidity poses a
@@ -32,6 +35,11 @@ talks:
   Talk Order: '2'
   Abstract ID: '75'
   Presenter: Pavlos Alexandros Dimitriou
+  Authors: Pavlos Alexandros Dimitriou (University of Cyprus)*; Matteo D'Alessandro
+    (Delft University of Technology); Brian Chang (Delft University of Technology
+    ); Valentinos Silvestros (Cyprus Ministry of Health); Constantinos Pitris (University
+    of Cyprus ); Panayiotis Kolios (University of Cyprus ); Piet Van Mieghem (Delft
+    University of Technology)
   Talk title: 'Non-Markovian dynamics and basic reproduction number in COVID-19: evidence
     from Cyprus contact tracing data'
   Abstract: Using contact tracing data provided by the Cyprus Ministry of Health,
@@ -64,6 +72,9 @@ talks:
   Talk Order: '3'
   Abstract ID: '329'
   Presenter: Tommaso Bertola
+  Authors: Tommaso Bertola (Department of Physics and Astronomy, University of Padua)*;
+    Valeria d'Andrea (Department of Physics and Astronomy, University of Padua); Manlio
+    De Domenico (Department of Physics and Astronomy, University of Padua)
   Talk title: Critical behavior in multiscale epidemic models based on force of infection
   Abstract: The spread of epidemics when coupled with human behavior dynamics presents
     a challenge for accurate modeling and prediction.Leveraging on previous studies,
@@ -84,6 +95,9 @@ talks:
   Talk Order: '4'
   Abstract ID: '347'
   Presenter: Anthony Wood
+  Authors: Anthony Wood (University of Edinburgh); Ewan Colman (University of Bristol);
+    Jessica Enright (University of Glasgow); Aeron Sanchez (University of Edinburgh);
+    Rowland Kao (University of Edinburgh)*
   Talk title: Placement of monitoring sites on a wastewater network for effective
     disease surveillance
   Abstract: Wastewater-based epidemiology (WWBE) emerged as a method for monitoring
@@ -115,6 +129,9 @@ talks:
   Talk Order: '5'
   Abstract ID: '385'
   Presenter: Chris Banks
+  Authors: Christopher Banks (Roslin Institute, University of Edinburgh)*; Katherine
+    Simpson (University of Glasgow); Nick Hanley (University of Glasgow); Rowland
+    Kao (Roslin Institute, University of Edinburgh)
   Talk title: Assessing the potential impact of environmental land management schemes
     on emergent infectious disease risks
   Abstract: In this paper, we develop a network model for disease transmission risk
@@ -144,6 +161,9 @@ talks:
   Talk Order: '6'
   Abstract ID: '392'
   Presenter: Sámuel Gáspár Balogh
+  Authors: Sámuel Balogh (Alfréd Rényi Institute of Mathematics)*; Gergely Ódor (Institute
+    for Hygiene and Applied Immunology, Medical University of Vienna); Márton Karsai
+    (Department of Network and Data Science, Central European University)
   Talk title: Disease-induced immunization is efficient in dense geometric networks
   Abstract: Herd immunity depends heavily on the structure of contact networks, and
     also on the mechanism through which individuals have gained immunity. Extending

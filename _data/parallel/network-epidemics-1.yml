@@ -5,6 +5,14 @@ talks:
   Talk Order: '1'
   Abstract ID: '268'
   Presenter: Amanda Perofsky
+  Authors: Amanda Perofsky (Fogarty International Center, National Institutes of Health)*;
+    Chelsea Hansen (Fogarty International Center, National Institutes of Health);
+    Giulia Pullano (Georgetown University); Samantha Bents (Fogarty International
+    Center, National Institutes of Health); Atchuta Srinivas Duddu (Indian Institute
+    of Science); Islam Elgamal (Technical University of Munich); Jose Camacho-Mateu
+    (Universidad Carlos III de Madrid); Olena Holubowska (KU Leuven); Simon Rella
+    (Institute of Science and Technology); Cecile Viboud (Fogarty International Center,
+    National Institutes of Health)
   Talk title: Modelling the effects of COVID-19 mobility disruptions on RSV transmission
     in Seattle, Washington
   Abstract: Respiratory Syncytial Virus (RSV) infection is a major cause of acute
@@ -37,6 +45,7 @@ talks:
   Talk Order: '2'
   Abstract ID: '281'
   Presenter: Ka Yin Leung
+  Authors: Ka Yin Leung (RIVM)*; Fuminari Miura (RIVM); Jacco Wallinga (RIVM)
   Talk title: 'Epidemic network model combining sexual and household transmissions:
     application to the mpox outbreak in the Democratic Republic of Congo'
   Abstract: A new strain of the mpox virus (clade Ib) emerged in the eastern Democratic
@@ -68,6 +77,11 @@ talks:
   Talk Order: '3'
   Abstract ID: '370'
   Presenter: Davide Maniscalco
+  Authors: davide maniscalco (Sorbonne Université)*; Olivier Robineau (IPLESP); Pierre-Yves
+    Boëlle (IPLESP); Mattia Mazzoli (INSERM); Anne-Sophie Barret (santé publique france);
+    Emilie Chazelle (santé publique france); Alexandra Mailles (santé publique france);
+    Harold Noël (santé publique france); Arnaud Tarantola (santé publique france);
+    Annie Velter (santé publique france); Vittoria Colizza (INSERM)
   Talk title: Adaptive behavior in response to the 2022 mpox epidemic in the Paris
     region
   Abstract: Background. The 2022 mpox outbreak saw a rapid case surge among men-who-have-sex-with-men
@@ -97,6 +111,9 @@ talks:
   Talk Order: '4'
   Abstract ID: '429'
   Presenter: Anna Gamza
+  Authors: Anna Gamza (The Roslin Institute)*; Samantha Lycett (The Roslin Institute);
+    Aeron Sanchez (The Roslin Institute); Stephen Vickers (Royal Veterinary College);
+    Will Harvey (The Roslin Institute); Rowland Kao (The Roslin Institute)
   Talk title: Spatial aggregation areas for infectious contact network inferred from
     pathogen sequence data
   Abstract: As contact tracing is costly and usually provides subjective and fragmented
@@ -129,6 +146,9 @@ talks:
   Talk Order: '5'
   Abstract ID: '485'
   Presenter: Gergely Odor
+  Authors: Gergely Odor (Medical University of Vienna, Austria)*; Domonkos Czifra
+    (Artificial Intelligence Group, HUN-REN Alfred Renyi Institute of Mathematics
+    ); Marton Karsai (Central European University)
   Talk title: 'Age-infection matrix inference from genetic sequence data: a machine
     learning approach'
   Abstract: Epidemic models are indispensable tools for operational tasks, for instance
@@ -160,6 +180,8 @@ talks:
   Talk Order: '6'
   Abstract ID: '603'
   Presenter: Eugenio Valdano
+  Authors: Eugenio Valdano (INSERM)*; Piero Birello (CEU); Michele Re Fiorentin (Polito);
+    Vittoria Colizza (INSERM); Boxuan Wang (Sorbonne University)
   Talk title: Estimates of the reproduction ratio from epidemic surveillance may be
     biased in spatially structured populations
   Abstract: 'Accurate estimates of the reproduction ratio (Rt) are crucial for projecting

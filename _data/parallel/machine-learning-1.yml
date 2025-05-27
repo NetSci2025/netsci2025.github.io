@@ -5,6 +5,10 @@ talks:
   Talk Order: '1'
   Abstract ID: '65'
   Presenter: Sadamori Kojaku
+  Authors: Sadamori Kojaku (Binghamton University)*; Xin Wang (Binghamton University);
+    Rachith Aiyappa (Indiana University); Ozgur Seckin (Indiana University); Jisung
+    Yoon (Indiana University); Munjung Kim (Indiana University); Ahn Yong-Yeol (Indiana
+    University)
   Talk title: Implicit degree bias in link prediction task
   Abstract: Link prediction---a task of distinguishing actual hidden edges from random
     unconnected node pairs---is one of the quintessential tasks in graph machine learning.
@@ -25,6 +29,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '147'
   Presenter: Runyue Wang
+  Authors: Runyue Wang (Queen Mary University of London)*; Yu Tian (Nordita); Pietro
+    Liò (University of Cambridge); Ginestra Bianconi (Queen Mary University of London)
   Talk title: 'Dirac-Equation Signal Processing: Physics Boosts Topological Machine
     Learning'
   Abstract: Topological signals are variables or features associated with both nodes
@@ -56,6 +62,8 @@ talks:
   Talk Order: '3'
   Abstract ID: '202'
   Presenter: Riccardo Milocco
+  Authors: Riccardo Milocco (IMT Scuola Alti Studi Lucca)*; Fabian Jansen (ING Bank
+    N.V.); Diego Garlaschelli (IMT Scuola Alti Studi Lucca)
   Talk title: Multi-Scale Node Embeddings for Graph Modeling and Generation
   Abstract: 'Lying at the interface between Network Science and Machine Learning,
     node embedding algorithms take a graph as input and encode its structure onto
@@ -87,6 +95,10 @@ talks:
   Talk Order: '4'
   Abstract ID: '219'
   Presenter: Malte Lüken
+  Authors: Malte Lüken (Netherlands eScience Center)*; Javier Garcia-Bernardo (Department
+    of Methodology and Statistics, Utrecht University); Sreeparna Deb (Delft University
+    of Technology); Flavio Hafner (Netherlands eScience Center); Megha Khosla (Delft
+    University of Technology)
   Talk title: Leveraging Interpretable Network Embeddings to Understand Populist Voting
     Behavior in Population-Scale Registry Networks
   Abstract: 'Complex social phenomena, such as polarization, often emerge from the
@@ -118,6 +130,8 @@ talks:
   Talk Order: '5'
   Abstract ID: '296'
   Presenter: Lisi Qarkaxhija
+  Authors: Lisi Qarkaxhija (University of Würzburg)*; Christoph Gote (University of
+    Würzburg); Ingo Scholtes (University of Würzburg)
   Talk title: Graph Neural Networks for Developer Churn Prediction in OSS Collaboration
     Networks
   Abstract: 'Open Source Software (OSS) communities are key to innovation but often
@@ -146,6 +160,8 @@ talks:
   Talk Order: '6'
   Abstract ID: '583'
   Presenter: Olivia Courtney
+  Authors: Olivia Courtney (University of California, Santa Cruz)*; François Meyer
+    (University of Colorado, Boulder)
   Talk title: Fast Computation of the Barycenter Graph in the Spectral Domain
   Abstract: The barycenter graph (or sample Fréchet mean) of a set of networks is
     an essential location parameter at the core of almost every machine learning algorithm

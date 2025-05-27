@@ -5,6 +5,9 @@ talks:
   Talk Order: '1'
   Abstract ID: '11'
   Presenter: Fernando Diaz-Diaz
+  Authors: 'Fernando Diaz-Diaz (Institute for Cross-Disciplinary Physics and Complex
+    Systems, IFISC (UIB-CSIC))*; Ernesto Estrada Roger (IFISC: Instituto de Fisica
+    Interdisciplinar y Sistemas Complejos)'
   Talk title: Signed graphs in data sciences via communicability geometry
   Abstract: Signed networks, consisting of both positive and negative edges, offer
     a powerful framework for modeling complex systems with antagonistic interactions.
@@ -32,6 +35,9 @@ talks:
   Talk Order: '2'
   Abstract ID: '235'
   Presenter: Shazia Ayn Babul
+  Authors: Shazia Ayn Babul (University of Oxford)*; Elena Candellone (Utrecht University
+    ); Javier Garcia-Bernardo (Utrecht University ); Alexandre Bovet (University of
+    Zurich); Özgür Togay (Utrecht University)
   Talk title: Negative Ties Highlight Hidden Extremes in Social Media Polarization
   Abstract: Human interactions in the online world are made of a combination of positive
     and negative exchanges. These diverse interactions can be captured using signed
@@ -56,6 +62,9 @@ talks:
   Talk Order: '3'
   Abstract ID: '275'
   Presenter: Anna Gallo
+  Authors: Anna Gallo (IMT School for Advanced Studies Lucca)*; Fabio Saracco (‘Enrico
+    Fermi’ Research Center, Rome); Tiziano Squartini (IMT School for Advanced Studies
+    Lucca)
   Talk title: Statistically validated projection of bipartite signed networks
   Abstract: 'Bipartite networks provide a major insight into the organisation of many
     real-world systems, unveiling the mechanisms that drive the interactions occurring
@@ -85,13 +94,18 @@ talks:
   Talk Order: '4'
   Abstract ID: '120'
   Presenter: Nicholas Kah Yean Low
-  Talk title: "Discerning media bias within a network of political allies and opponents: the idealized example of a biased coin"
+  Authors: Nicholas Kah Yean Low (University of Melbourne)*
+  Talk title: 'Discerning media bias within a network of political allies and opponents:
+    the idealized example of a biased coin'
   Abstract: .nan
   Time: Thu 17:15 - 17:30
 - Session name: Signed networks
   Talk Order: '5'
   Abstract ID: '546'
   Presenter: Piotr Górski
+  Authors: Joanna Linczuk (Warsaw University of Technology); Piotr Górski (Warsaw
+    University of Technology)*; Janusz Hołyst (Warsaw University of Technology); Boleslaw
+    Szymanski (Rensselaer Polytechnic Institute)
   Talk title: Multidimensional attributes make structural balance dynamics measurable
   Abstract: We study a social network where each agent possesses a set of attributes.
     Following the homophily principle, using agents’ attributes, we denote relations

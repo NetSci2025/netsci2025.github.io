@@ -5,6 +5,9 @@ talks:
   Talk Order: '1'
   Abstract ID: '111'
   Presenter: Istvan Kiss
+  Authors: Istvan Kiss (Northeastern University London)*; Christian Bick (Department
+    of Mathematics, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands); Peter
+    Simon (Institute of Mathematics, E¨otv¨os Lor´and University, Budapest, Hungary)
   Talk title: Decoding how higher-order network interactions shape complex contagion
     dynamics
   Abstract: Complex contagion models that involve contagion along higher-order structures,
@@ -32,6 +35,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '253'
   Presenter: David OSullivan
+  Authors: Leah Keating (UCLA); James Gleeson (University of Limerick); David O'Sullivan
+    (University of Limerick)*
   Talk title: A generating-function approach to modelling complex contagion on clustered
     networks with multi-type branching processes
   Abstract: Understanding cascading processes on complex network topologies is paramount
@@ -53,6 +58,10 @@ talks:
   Talk Order: '3'
   Abstract ID: '266'
   Presenter: Jack Moore
+  Authors: Jack Moore (Tongji University)*; Michael Small (The University of Western
+    Australia); Gang Yan (Tongji University); Huijie Yang (University of Shanghai
+    for Science and Technology); Changgui Gu (University of Shanghai for Science and
+    Technology); Haiying Wang (University of Shanghai for Science and Technology)
   Talk title: Network spreading from network dimension
   Abstract: Many network spreading models are challenged by the global structural
     correlations typical of real complex networks. We consider mitigating this challenge
@@ -68,6 +77,7 @@ talks:
   Talk Order: '4'
   Abstract ID: '279'
   Presenter: Takayuki Hiraoka
+  Authors: Takayuki Hiraoka (Aalto University)*; Jari Saramäki (Aalto University )
   Talk title: Disentangling epidemics and percolation
   Abstract: The susceptible-infectious-recovered (SIR) epidemic model and the bond
     percolation model are often treated as equivalent. However, this assumption is
@@ -88,6 +98,8 @@ talks:
   Talk Order: '5'
   Abstract ID: '391'
   Presenter: Dominic Arthur
+  Authors: Dominic Arthur (University of Edinburgh)*; Rowland Kao (University of Edinburgh);
+    Christopher Banks (University of Edinburgh)
   Talk title: Utility of Synthetic Epidemiological Data For Inferring Simulated SARS-CoV-2
     Superspread- ing Event
   Abstract: Superspreading events [1] have profoundly influenced the transmission
@@ -115,6 +127,8 @@ talks:
   Talk Order: '6'
   Abstract ID: '399'
   Presenter: Marko Lalovic
+  Authors: Marko Lalovic (Northeastern University London)*; Istvan Kiss (Northeastern
+    University London)
   Talk title: What can we learn from modelling complex contagion on higher-order networks
     using birth-and-death processes?
   Abstract: Recent advances in network science have highlighted the importance of
@@ -143,6 +157,9 @@ talks:
   Talk Order: '7'
   Abstract ID: '454'
   Presenter: Federico Malizia
+  Authors: Federico Malizia (Northeastern University London)*; Andrés Guzmán (Northeastern
+    University London); Iacopo Iacopini (Northeastern University London); István Z.
+    Kiss (Northeastern University London)
   Talk title: Group-Based Modeling Reveals the Critical Role of Heterogeneity and
     Hyperedge Overlap in Epidemic Processes with Higher-Order Interactions
   Abstract: In recent years, research has increasingly focused on understanding how
@@ -175,6 +192,8 @@ talks:
   Talk Order: '8'
   Abstract ID: '605'
   Presenter: Javier Ureña Carrion
+  Authors: Javier Ureña-Carrion (Tampere University )*; Tiago P. Peixoto (Interdisciplinary
+    Transformation University Austria)
   Talk title: 'Votes or pathogens: A framework for detecting spreading phenomena on
     networks'
   Abstract: 'Models of spreading processes have been crucial for tackling a wide array

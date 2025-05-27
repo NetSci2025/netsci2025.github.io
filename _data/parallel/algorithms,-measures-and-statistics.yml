@@ -5,6 +5,7 @@ talks:
   Talk Order: '1'
   Abstract ID: '354'
   Presenter: Tim Evans
+  Authors: Tim Evans (Imperial College London )*; Henry Price (Imperial College London)
   Talk title: Longest Path and Main Path Analysis of Directed Acyclic Graphs
   Abstract: (Abbreviated abstract, see pdf for figure and full text) Innovation leaves
     its marks in many documents. For technical innovations, academic papers, patents,
@@ -36,6 +37,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '457'
   Presenter: Pádraig MacCarron
+  Authors: Pádraig Mac Carron (University of Limerick)*; Vincent Labatut (Avignon
+    Université); Jochen Garcke (Bonn University)
   Talk title: 'Impact of Incomplete Data on Character Network Extraction: The Case
     of Comics'
   Abstract: 'Most of humanity’s literature has been lost .For example, of the eight
@@ -65,6 +68,8 @@ talks:
   Talk Order: '3'
   Abstract ID: '468'
   Presenter: Rachel de Jong
+  Authors: Rachel de Jong (Leiden University)*; Mark van der Loo (Statistics Netherlands);
+    Frank Takes (Leiden University)
   Talk title: Navigating the privacy vs. utility trade-off in network anonymization
   Abstract: Data on social connectivity and human interaction is frequently used in
     social network analysis and network science research. However, since these network
@@ -92,6 +97,8 @@ talks:
   Talk Order: '4'
   Abstract ID: '597'
   Presenter: Yasaman Asgari
+  Authors: Yasaman Asgari (University of Zurich)*; Leto Peel (Maastricht university);
+    Alexandre Bovet (University of Zurich)
   Talk title: Multiscale Temporal Node Assortativity in Feature-rich Temporal Networks
   Abstract: The assortativity coefficient in static networks measures the tendency
     of nodes to connect to other nodes with similar or dissimilar attributes, such
@@ -119,6 +126,8 @@ talks:
   Talk Order: '5'
   Abstract ID: '558'
   Presenter: Helcio Felippe
+  Authors: Helcio Felippe (Central European University)*; Federico Battiston (Central
+    European University); Alec Kirkley (University of Hong Kong)
   Talk title: Network mutual information measures for graph similarity
   Abstract: A wide range of tasks in network analysis, such as clustering network
     populations or identifying anomalies in temporal graph streams, require a measure
@@ -139,6 +148,8 @@ talks:
   Talk Order: '6'
   Abstract ID: '493'
   Presenter: Eline Bouwmeesters
+  Authors: Brennan Klein (Northeastern University); Eline Bouwmeesters (Eindhoven
+    University of Technology)*; Pim van der Hoorn (Eindhoven University of Technology)
   Talk title: A comparison of network sampling techniques that preserve local structure
   Abstract: Preserving important structural properties is a fundamental challenge
     in constructing robust null models for networks. The dk-series framework provides

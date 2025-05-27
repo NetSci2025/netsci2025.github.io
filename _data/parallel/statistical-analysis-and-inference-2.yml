@@ -5,6 +5,9 @@ talks:
   Talk Order: '1'
   Abstract ID: '264'
   Presenter: Erik Weis
+  Authors: Erik Weis (Network Science Institute, Northeastern University)*; Moritz
+    Laber (Network Science Institute, Northeastern University); Alec Kirkley (University
+    of Hong Kong); Brennan Klein (Network Science Institute, Northeastern University)
   Talk title: Regionalization via nonparametric community detection in spatially embedded
     networks
   Abstract: A central question in the study of human mobility concerns how spatial
@@ -36,6 +39,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '121'
   Presenter: Sebastian Morel-Balbi
+  Authors: Sebastian Morel-Balbi (The University of Hong Kong)*; Alec Kirkley (The
+    University of Hong Kong)
   Talk title: 'A Non-Parametric Bayesian Approach to Partial Rankings: Parsimonious
     Inference in Sparse Data Regimes'
   Abstract: Pairwise ranking models are widely used in domains such as sports analytics,
@@ -67,6 +72,8 @@ talks:
   Talk Order: '3'
   Abstract ID: '180'
   Presenter: Emma Crenshaw
+  Authors: Emma Crenshaw (Harvard TH Chan School of Public Health)*; Jukka-Pekka Onnela
+    (Harvard TH Chan School of Public Health)
   Talk title: Latent Space Network Modeling with Covariate Selection
   Abstract: 'Latent space (LS) modeling provides a framework for analyzing networks
     in which nodes are positioned in LS, and the distance between nodes determines
@@ -98,6 +105,7 @@ talks:
   Talk Order: '4'
   Abstract ID: '85'
   Presenter: Seongmin Kim
+  Authors: Seongmin Kim (The University of Hong Kong)*
   Talk title: Inference accuracy of loopy belief propagation in Ising and percolation
     models
   Abstract: Belief propagation (BP) is a message passing algorithm widely employed
@@ -129,6 +137,9 @@ talks:
   Talk Order: '5'
   Abstract ID: '288'
   Presenter: Tomas Scagliarini
+  Authors: Tomas Scagliarini (University of Padova)*; Lorenzo Gamba (University of
+    Padova); Antonello Provenzale (Consiglio nazionale delle ricerche); Manlio De
+    Domenico (University of Padua)
   Talk title: Assessing the interdependence of climate tipping elements
   Abstract: The study of Earth’s dynamics poses significant challenges from methodological
     and experimental viewpoints. Network science provides an ideal framework to gain
@@ -155,6 +166,9 @@ talks:
   Talk Order: '6'
   Abstract ID: '448'
   Presenter: Yuri Antonacci
+  Authors: Laura Sparacino (University of Palermo)*; Yuri Antonacci (University of
+    Palermo); Daniele Marinazzo (University of Ghent); Sebastiano Stramaglia (University
+    of Bari); Luca Faes (University of Palermo)
   Talk title: Partial Information Decomposition in Networks of Random Processes
   Abstract: Understanding how information is distributed in network systems composed
     by multiple interacting nodes is a crucial problem in many scientific fields.

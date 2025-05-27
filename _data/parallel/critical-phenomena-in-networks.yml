@@ -5,6 +5,7 @@ talks:
   Talk Order: '1'
   Abstract ID: '298'
   Presenter: Yérali Gandica
+  Authors: Yérali Gandica (Valencian International University)*
   Talk title: Exploring Modular-to-Nested Transitions in Social Demonstrations
   Abstract: 'Social demonstrations are collective phenomena centred around a shared
     demand. From the perspective of the fields of complex systems and network science,
@@ -37,6 +38,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '332'
   Presenter: Claudio Castellano
+  Authors: Claudio Castellano (Istituto dei Sistemi Complessi (ISC-CNR))*; Lorenzo
+    Cirigliano (Sapienza University)
   Talk title: 'Percolation in networks: beyond nearest neighbors'
   Abstract: Standard percolation theory assumes that two active nodes belong to the
     same cluster if there is a path of adjacent active nodes between them. More general
@@ -67,6 +70,8 @@ talks:
   Talk Order: '3'
   Abstract ID: '337'
   Presenter: Silja Sormunen
+  Authors: Silja Sormunen (Aalto University)*; Thilo Gross (HIFMB at the University
+    of Oldenburg); Jari Saramäki (Aalto University)
   Talk title: 'A new look at self-organized criticality in networks: from critical
     points to manifolds'
   Abstract: Self-organized criticality has often been depicted as a one-dimensional
@@ -99,6 +104,8 @@ talks:
   Talk Order: '4'
   Abstract ID: '343'
   Presenter: Michael Coughlan
+  Authors: Michael Coughlan (University of Oxford)*; Ian Hewitt (University of Oxford);
+    Sam Howison (University of Oxford); Andrew Wells (University of Oxford)
   Talk title: Anomalous percolation in a dynamical network model for melt ponds on
     sea ice
   Abstract: We examine bond percolation in a dynamic network model for the evolution
@@ -126,6 +133,7 @@ talks:
   Talk Order: '5'
   Abstract ID: '617'
   Presenter: Gareth Baxter
+  Authors: Gareth Baxter (University of Aveiro)*
   Talk title: Complex Contagion on Random Highly Clustered Networks
   Abstract: We study complex contagion on random networks with high clustering. We
     focus on the homogeneous contagion rule, in which a node is infected if at least

@@ -5,6 +5,9 @@ talks:
   Talk Order: '1'
   Abstract ID: '64'
   Presenter: Robert Jankowski
+  Authors: Robert Jankowski (University of Barcelona)*; Roya Aliakbarisani (University
+    of Barcelona); Marián Boguñá (University of Barcelona ); M. Ángeles Serrano (University
+    of Barcelona)
   Talk title: Mapping bipartite networks into multidimensional hyperbolic spaces
   Abstract: 'When nodes can be divided into two disjoint sets and no links connect
     two nodes in the same set a network is called bipartite. There are many examples
@@ -31,6 +34,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '213'
   Presenter: ZHIHAO QIU
+  Authors: Zhihao Qiu (Delft University of Technology)*; Piet Van Mieghem (Delft University
+    of Technology); Maksim Kitsak (Delft University of Technology)
   Talk title: Predicting shortest path nodes in random geometric graphs
   Abstract: 'Conventional network-based algorithms may not work efficiently in certain
     circumstances, including when facing enormous network sizes and incomplete or
@@ -62,6 +67,9 @@ talks:
   Talk Order: '3'
   Abstract ID: '299'
   Presenter: Jasper Van der Kolk
+  Authors: Jasper van der Kolk (Central European University)*; Dmitri Krioukov (Network
+    Science Institute at Northeastern University); Marián Boguñá (Universitat de Barcelona);
+    M. Ángeles Serrano (Univesitat de Barcelona)
   Talk title: The enhanced geometry in multiplex networks
   Abstract: Multiplex networks provide a powerful multilayer framework for modeling
     complex systems with diverse interaction types. The different layers are expected
@@ -76,6 +84,9 @@ talks:
   Talk Order: '4'
   Abstract ID: '389'
   Presenter: Aarathi Parameswaran
+  Authors: Aarathi Parameswaran (Forschungszentrum Jülich)*; Dirk Witthaut (Forschungszentrum
+    Jülich); Iva Bačić (Forschungszentrum Jülich); Andrea Benigni (Forschungszentrum
+    Jülich)
   Talk title: Mechanisms of Symmetry Breaking in Optimal Networks
   Abstract: Finding the optimal flow through a given network is relevant in a wide
     range of systems, including urban transportation, power grids, river basins, plant
@@ -101,6 +112,10 @@ talks:
   Talk Order: '5'
   Abstract ID: '616'
   Presenter: Stefano Guarino
+  Authors: Stefano Guarino (Consiglio Nazionale delle Ricerche)*; Enrico Mastrostefano
+    (Istituto per la Applicazioni del Calcolo "Mauro Picone", Consiglio Nazionale
+    delle Ricerche (IAC-CNR)); Davide Torre (Libera Università degli Studi Sociali
+    "Guido Carli" (LUISS))
   Talk title: Random Hyperbolic Graphs with Arbitrary Mesoscale Structures
   Abstract: Key features of real-world networks include sparsity, the small-world
     property, inhomogeneous degree distribution, high clustering coefficients, and

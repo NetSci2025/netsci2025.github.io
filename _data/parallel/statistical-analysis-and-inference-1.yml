@@ -5,6 +5,7 @@ talks:
   Talk Order: '1'
   Abstract ID: '13'
   Presenter: Alec Kirkley
+  Authors: Alec Kirkley (University of Hong Kong)*
   Talk title: Parameter-free network sparsification with information theory
   Abstract: Network backboning is a widely studied task which aims to reduce the number
     of edges in a weighted network to distill the most essential links. Network backboning
@@ -36,6 +37,8 @@ talks:
   Talk Order: '2'
   Abstract ID: '159'
   Presenter: Maximilien Dreveton
+  Authors: Maximilien Dreveton (EPFL)*; Charbel Chucri (EPFL); Patrick Thiran (EPFL);
+    Matthias Grossglauser (EPFL)
   Talk title: Why the Metric Backbone Preserves Community Structure
   Abstract: The metric backbone of a weighted graph is the union of all-pairs shortest
     paths. It is obtained by removing all edges (u,v) that are not the shortest path
@@ -57,6 +60,7 @@ talks:
   Talk Order: '3'
   Abstract ID: '284'
   Presenter: Tiago Peixoto
+  Authors: Tiago Peixoto (IT:U Interdisciplinary Transformation University)*
   Talk title: Network reconstruction via the minimum description length principle
   Abstract: A fundamental problem associated with the task of network reconstruction
     from dynamical or behavioral data consists in determining the most appropriate
@@ -88,6 +92,8 @@ talks:
   Talk Order: '4'
   Abstract ID: '417'
   Presenter: Francesca Giuffrida
+  Authors: Francesca Giuffrida (IMT Lucca and Leiden University)*; Diego Garlaschelli
+    (IMT Lucca ); Peter Grünwald (CWI Amsterdam)
   Talk title: 'Network Safe Testing: E-Values for Maximum Entropy Models'
   Abstract: 'In recent years, the scientific interest in network modeling has surged,
     thanks also to the increasing availability of global-scale data. At the same time,
@@ -112,6 +118,8 @@ talks:
   Talk Order: '5'
   Abstract ID: '419'
   Presenter: Diego Garlaschelli
+  Authors: Francesca Giuffrida (IMT Lucca and Leiden University)*; Tiziano Squartini
+    (IMT Lucca); Peter Grünwald (CWI Amsterdam); Diego Garlaschelli (IMT Lucca)
   Talk title: Description length of canonical and microcanonical models
   Abstract: 'The (non-)equivalence of canonical and microcanonical ensembles is a
     central concept in statistical physics. Non-equivalence has recently been established
@@ -137,6 +145,7 @@ talks:
   Talk Order: '6'
   Abstract ID: '464'
   Presenter: Lena Mangold
+  Authors: Lena Mangold (CNRS / CMB / EHESS)*; Camille Roth (CAMS (EHESS/CNRS))
   Talk title: 'Exploring Partition Landscapes in Networks: Bayesian Inference, Ambiguity,
     and Metadata'
   Abstract: The study of block structure in networks often focuses on identifying
