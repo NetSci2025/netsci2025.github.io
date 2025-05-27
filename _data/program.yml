@@ -34,24 +34,18 @@ days:
         type: speaker
         url: https://netsci2025.github.io/school/
         row: 1  
-        room: FPN Heerlen Zaal 
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 14:30 - 16:00
         title: "Huijuan Wang (School Speaker)"   
         category: Faculty FPN
         type: speaker
         url: https://netsci2025.github.io/school/
         row: 1
-        room: FPN Heerlen Zaal 
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 16:30 - 17:30
         title: "Huijuan Wang (School Speaker)"   
         category: Faculty FPN
         type: speaker
         url: https://netsci2025.github.io/school/
         row: 1
-        room: FPN Heerlen Zaal 
-        room url: https://maps.app.goo.gl/BJ6aLFSEL2VH51Lk9
       - time: 12:30 - 14:30
         title: Lunch break
         category: Break
