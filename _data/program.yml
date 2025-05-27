@@ -213,7 +213,6 @@ days:
       - time: 13:00 - 14:00
         title: (Panel) Science as a craft: Balancing career and skill progression
         category: Faculty FSE
-        type: Panel
         url: https://netplace.site/event/netsci25/panel/
         row: 6
         room: FSE Conference hall EPD150
