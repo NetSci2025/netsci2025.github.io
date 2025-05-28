@@ -204,25 +204,5 @@ talks:
   Presenter: Anatol Wegner
   Authors: Anatol Wegner (Julius-Maximilians-Universität of Würzburg)*
   Talk title: Modeling networks motifs as higher-order interactions
-  Abstract: Synchronization is relevant in a wide range of disciplines. This phenomenon
-    is commonly studied using the Kuramoto model, which describes the dynamics of
-    a system of coupled oscillators with varying natural frequencies and sinusoidal
-    coupling. In electric power systems, the synchronization of generators is essential
-    for ensuring a reliable supply of electricity. The generator's dynamics is described
-    by a second order Kuramoto model where the sinusoidal coupling term gives the
-    flow of real power across transmission lines. Stable operation requires that phases
-    are locked and phase differences across lines must be below a certain bound $\gamma$,
-    a condition referred to as phase cohesiveness. Hence, it is of utmost interest
-    to understand when a network supports a phase cohesive state and when it does
-    not.In this contribution we introduce a novel approach to the synchronization
-    and phase cohesiveness problem based on mapping the fixed point equations to a
-    convex optimization problem. This approach allows us to systematically compute
-    all synchronized states where the phase difference across an edge does not exceed
-    $\pi/2$, including exotic states with loop flows. Furthermore, our approach sheds
-    light onto the commonly used ``DC'' approximation, where the sinusoidal coupling
-    function is linearized. We derive rigorous bounds on the error introduced by the
-    linear approximation, obtaining a region of trust for individual lines. Based
-    on these results, we find a rigorous sufficient condition on the existence of
-    phase cohesive states that holds regardless of the underlying network topology.
-    We demonstrate our results for an adapted Matpower 30-bus test case.
+  Abstract: Many real-world networks contain a surprising number of triangles and other 2-connected subgraphs commonly referred to as network motifs. Although network motifs are believed to play an important role in the structural and functional organization of networks, methods and models for quantifying the subgraph structure of networks remain under-developed for instance compared to community detection methods. <br/>In order to address this problem we formulate a nonparametric Bayesian method that uses generative models that assume that networks are made not only of edges but also higher-order interactions that can take the form of arbitrary simply connected motifs. The assumption that networks are made of recurring small subgraphs naturally leads us to consider objects called subgraph configurations that correspond to a decomposition of the network into subgraphs added to the network during the generation process. For the inference procedure we adopt a Bayesian approach which relies on a hierarchical nonparametric prior for the model parameters resulting in a closed form expression for the posterior that can be evaluated efficiently. Based on this posterior the method finds a subgraph configuration with maximum posterior probability. We tested our method on synthetic data sets with known underlying higher-order patterns and various real-world data sets. For the synthetic networks, we find that the method is able to recover the underlying configuration to a high degree of accuracy. For real-world networks, the method is able to infer subgraph configurations made of concise and plausible sets of higher-order subgraphs from within thousands of candidates that include patterns of known structural and functional significance. 
   Time: Wed 12:45 - 13:00
