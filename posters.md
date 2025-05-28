@@ -4,6 +4,10 @@ title: Posters
 parent: Program
 navorder: 5
 permalink: /posters/
+sessions:
+  wednesday: Wednesday
+  thursday: Thursday
+  friday: Friday
 categories:
   biology: Biology
   dynamic networks: Dynamic Networks
