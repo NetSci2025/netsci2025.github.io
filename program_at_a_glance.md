@@ -18,7 +18,12 @@ A full downloadable program will be available soon.
 
 Click on the Room name to view the entrance location of the venue on the map.
 
-Registrations take place at each location. If your event is in FSE PHS1 rooms, then please go to the registration desk located at [FSE EDP150]( https://maps.app.goo.gl/MMmtLs3pW2aWT6DU8).
+Registrations take place at the following location:
+- FASoS: [GG90-92](https://maps.app.goo.gl/Es4gXeNqmXDfCEC47)
+- FSE (PHS1 and EPD150): [EDP150](https://maps.app.goo.gl/MMmtLs3pW2aWT6DU8)
+- FPN: [UNS40](https://maps.app.goo.gl/yTF7bU3pdtQfGmG78)
+
+If you come directly to the main conference, your registration will be at [MECC Maastricht](https://www.google.com/maps/dir//Forum+100,+6229+GS+Maastricht/@50.8378029,5.7106924,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47c0e984d23c2ceb:0x632331a6bf613f76!2m2!1d5.713183!2d50.837747?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D).
 
 All Parallels, Lightning Talks, and Posters can be found on [this page](https://netsci2025.github.io/all/). Instructions on how to prepare your contribution are available on the [landing page](https://netsci2025.github.io).
 
