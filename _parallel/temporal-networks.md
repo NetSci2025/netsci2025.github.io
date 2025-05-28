@@ -1,6 +1,6 @@
 ---
 layout: parallel
-title: "Temporal networks"
+title: "Temporal networks (Chair: CAROLINA MATTSSON)"
 slug: temporal-networks
 permalink: /parallel/temporal-networks/
 ---
