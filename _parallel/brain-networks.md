@@ -1,6 +1,6 @@
 ---
 layout: parallel
-title: "Brain networks"
+title: "Brain networks (Chair: EMMA TOWLSON)"
 slug: brain-networks
 permalink: /parallel/brain-networks/
 ---
