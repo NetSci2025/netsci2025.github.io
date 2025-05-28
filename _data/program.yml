@@ -833,19 +833,19 @@ days:
         category: Break
         row: 1
         room: Lobby
-        url: /posters/#poster-section-Wednesday
+        url: /posters/#poster-section-wednesday
       - time: 13:00 - 14:30
         title: Lunch + posters
         category: Break
         row: 1
         room: Lobby
-        url: /posters/#poster-section-Wednesday
+        url: /posters/#poster-section-wednesday
       - time: 16:00 - 16:30
         title: Coffee break + posters 
         category: Break
         row: 1
         room: Lobby
-        url: /posters/#poster-section-Wednesday
+        url: /posters/#poster-section-wednesday
       - time: 18:30 - 19:30
         title: Welcome reception
         category: Other Activities
@@ -980,19 +980,19 @@ days:
         category: Break
         row: 1
         room: Lobby
-        url: /posters/#poster-section-Thursday
+        url: /posters/#poster-section-thursday
       - time: 13:00 - 14:30
         title: Lunch + posters
         category: Break
         row: 1
         room: Lobby
-        url: /posters/#poster-section-Thursday
+        url: /posters/#poster-section-thursday
       - time: 16:00 - 16:30
         title: Coffee break + posters 
         category: Break
         row: 1
         room: Lobby
-        url: /posters/#poster-section-Thursday
+        url: /posters/#poster-section-thursday
       - time: 19:00 - 23:00
         title: Conference dinner (meet in parking P4)
         category: Break
@@ -1120,13 +1120,13 @@ days:
         title: Coffee break + posters
         category: Break
         row: 1
-        url: /posters/#poster-section-Friday
+        url: /posters/#poster-section-friday
         room: Lobby
       - time: 12:30 - 14:00
         title: Lunch + posters
         category: Break
         row: 1
-        url: /posters/#poster-section-Friday
+        url: /posters/#poster-section-friday
         room: Lobby
       - time: 09:00 - 10:00
         title: "Michael Macy (Plenary Speaker)"
