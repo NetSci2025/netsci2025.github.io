@@ -60,35 +60,6 @@ layout: default
     font-weight: 600;
     margin-bottom: 0.25rem;
   }
-
-.search-box {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  max-width: 400px;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  padding: 4px 12px;
-  background-color: #fff;
-  margin-bottom: 20px;
-}
-
-.search-icon {
-  font-size: 1.2rem;
-  color: #666;
-  margin-right: 10px;
-}
-
-.search-box input {
-  border: none;
-  outline: none;
-  width: 100%;
-  padding: 8px 4px;
-  font-size: 1rem;
-  font-family: inherit;
-  background: transparent;
-}
-
 </style>
 
 <main class="my-4 {{ page.class }}"> 
@@ -96,10 +67,6 @@ layout: default
     <h1 class="display-5">{{ title }}</h1>
     <hr class="my-4">
 
-    <div class="search-box">
-      <span class="search-icon"><i class="fas fa-search"></i></span>
-      <input type="text" id="searchInput" placeholder="Search...">
-    </div>
 
     {% assign session = site.data.parallel[page.slug] %}
     {% if session %}
@@ -124,17 +91,6 @@ layout: default
     </div>
 
   
-  <script>
-    document.getElementById('searchInput').addEventListener('input', function () {
-      var filter = this.value.toLowerCase();
-      var rows = document.querySelectorAll('.custom-table tbody tr');
-
-      rows.forEach(function (row) {
-        var text = row.textContent.toLowerCase();
-        row.style.display = text.includes(filter) ? '' : 'none';
-      });
-    });
-  </script>
   
 </main>
 
