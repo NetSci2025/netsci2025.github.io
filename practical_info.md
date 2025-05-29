@@ -48,7 +48,7 @@ Certificate of Attendance
 The certificate of attendance will be available in your registration portal a few days after the conference concludes.
 
 Speakers Presentations
-======================
+----------------------
 Please note that speakers are required to bring their final PowerPoint presentation on a USB stick to the conference venue. The USB can be handed over to the AV staff before your session begins in the room where you will be speaking. Kindly ensure that you submit your presentation well in advance to the staff. Personal laptops cannot be used. All presentations must be run from the symposium laptop.
 
 Accepted File Formats:
@@ -61,8 +61,7 @@ Mac Users:
 - Convert files to PowerPoint or PDF before arriving.  
 - Use JPG images (not TIF, PNG, or PICT).
 
-Oral Contributed Talks
-----------------------
+### Oral Contributed Talks
 Slide Recommendations:
 - Language: English only  
 - Aspect ratio: 16:9 (PowerPoint 2010 or higher recommended).  
@@ -71,8 +70,7 @@ Slide Recommendations:
 - Use common fonts (Arial, Times New Roman, Verdana) to prevent formatting changes.  
 - Embed videos instead of linking them (if using media).
 
-Lightning Talks
-----------------
+### Lightning Talks
 Slide Recommendations:
 - Prepare your presentation using Google Slides with a 16:9 aspect ratio.
 - 1 slide per min, total 3 slides.
