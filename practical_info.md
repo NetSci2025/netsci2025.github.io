@@ -61,7 +61,7 @@ Mac Users:
 - Convert files to PowerPoint or PDF before arriving.  
 - Use JPG images (not TIF, PNG, or PICT).
 
-#### Oral Contributed Talks instructions
+#### Oral Contributed Talks Instructions
 - 12 min + 3 minutes for questions
 - Language: English only  
 - Aspect ratio: 16:9 (PowerPoint 2010 or higher recommended).  
