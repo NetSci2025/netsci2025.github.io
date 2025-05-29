@@ -47,8 +47,8 @@ Certificate of Attendance
 -------------------------
 The certificate of attendance will be available in your registration portal a few days after the conference concludes.
 
-Oral Contributed Instructions 
------------------------------
+Oral Contributed Presentation Instructions 
+------------------------------------------
 Please note that speakers are required to bring their final PowerPoint presentation on a USB stick to the conference venue. The USB can be handed over to the AV staff before your session begins in the room where you will be speaking. Kindly ensure that you submit your presentation well in advance to the staff. Personal laptops cannot be used. All presentations must be run from the symposium laptop.
 
 Accepted File Formats:
