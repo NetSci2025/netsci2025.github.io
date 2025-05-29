@@ -62,7 +62,6 @@ Mac Users:
 - Use JPG images (not TIF, PNG, or PICT).
 
 #### Oral Contributed Talks
-Slide Recommendations:
 - Language: English only  
 - Aspect ratio: 16:9 (PowerPoint 2010 or higher recommended).  
 - Minimize text—use bullet points instead of paragraphs.  
@@ -71,12 +70,11 @@ Slide Recommendations:
 - Embed videos instead of linking them (if using media).
 
 #### Lightning Talks
-Slide Recommendations:
 - Prepare your presentation using Google Slides with a 16:9 aspect ratio.
 - 1 slide per min, total 3 slides.
 - No animations.
-- Share your slides with lightningnetsci2025@gmail.com before Monday, June 2nd, noon (Maastricht time).
-- Email lightningnetsci2025@gmail.com with your submission ID in the subject to confirm that you shared the slides with us (also before Monday, June 2nd, noon).
+- Share your slides with [lightningnetsci2025@gmail.com](mailto:lightningnetsci2025@gmail.com) before Monday, June 2nd, noon (Maastricht time).
+- Email [lightningnetsci2025@gmail.com](mailto:lightningnetsci2025@gmail.com) with your submission ID in the subject to confirm that you shared the slides with us (also before Monday, June 2nd, noon).
 
 In case more than three slides are sent to us, only the first three slides will be used.
 
