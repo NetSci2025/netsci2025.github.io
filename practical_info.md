@@ -61,7 +61,7 @@ Mac Users:
 - Convert files to PowerPoint or PDF before arriving.  
 - Use JPG images (not TIF, PNG, or PICT).
 
-### Oral Contributed Talks
+#### Oral Contributed Talks
 Slide Recommendations:
 - Language: English only  
 - Aspect ratio: 16:9 (PowerPoint 2010 or higher recommended).  
@@ -70,7 +70,7 @@ Slide Recommendations:
 - Use common fonts (Arial, Times New Roman, Verdana) to prevent formatting changes.  
 - Embed videos instead of linking them (if using media).
 
-### Lightning Talks
+#### Lightning Talks
 Slide Recommendations:
 - Prepare your presentation using Google Slides with a 16:9 aspect ratio.
 - 1 slide per min, total 3 slides.
