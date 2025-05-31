@@ -190,7 +190,7 @@ If you have any questions, please do not hesitate to contact us: [helpdesk@klink
 
 </div>
 
-
+<br><br>
 
 #### NetSci 2025 adopts the following code of conduct: 
 - The NetSci 2025 conference and related events are professional scientific meetings that provide a respectful, harassment-free and inclusive environment for all participants, regardless of gender identity, sexual orientation, disability, appearance, ethnicity, race, national origin, age or religion.
