@@ -64,7 +64,7 @@ If your country of residence is outside of The Netherlands, you may qualify for 
 
 ATMs & Credit Cards
 -------------------
-ATMs are widely available throughout Maastricht and most are open 24 hours a day. Souvenir and clothing stores generally accept major credit cards, but many grocery stores, cafes, and smaller restaurants may only accept debit cards or cash.
+ATMs ("Geldmaat" in Dutch) are available throughout Maastricht, however, in the central area they are not open 24 hours a day, with some closing after 10pm. You can check the specific operating times on Google maps. Souvenir and clothing stores generally accept major credit cards, but many grocery stores, cafes, and smaller restaurants may only accept debit cards or cash.
 
 Tipping
 -------
