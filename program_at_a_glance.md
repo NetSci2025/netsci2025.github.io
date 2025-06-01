@@ -14,7 +14,7 @@ The NetSci School and Satellite meetings (June 2–3) will be held at various Ma
 
 Click on individual events (e.g., satellite or parallel sessions) for more details on the talks.
 
-A full downloadable program will be available soon.
+You can download the programs here: [Main Program (PDF)](https://netsci2025.github.io/programme-NetSci2025.pdf), [Satellite Sessions (PDF)](https://netsci2025.github.io/satellites-NetSci2025.pdf).
 
 Click on the Room name to view the entrance location of the venue on the map.
 
