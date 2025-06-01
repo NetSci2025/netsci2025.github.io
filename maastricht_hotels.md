@@ -19,6 +19,10 @@ Maastricht is located in the southeast of the Netherlands, near the borders of B
     <iframe width="560" height="315" src="https://www.youtube.com/embed/dqqNR1oU-hc?si=ZBZFivyJq6jpPTLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen alt_video="LSauVD3F2Dk?si=6zBj0PfHFmjPAxB-"></iframe>
 </div>
 
+----
+### Venue: Maastricht University
+
+The NetSci School and Satellite meetings (June 2–3) will be held at various Maastricht University faculties. For the exact locations of these meetings please see the [Program at a Glance](/Program/) section and click on the room name for a link to google maps. 
 
 ----
 ### Venue: MECC Maastricht
