@@ -8,7 +8,7 @@ permalink: /code-of-conduct/
 ---
 
 
-#### NetSci 2025 adopts the following code of conduct: 
+### NetSci 2025 adopts the following code of conduct: 
 - The NetSci 2025 conference and related events are professional scientific meetings that provide a respectful, harassment-free and inclusive environment for all participants, regardless of gender identity, sexual orientation, disability, appearance, ethnicity, race, national origin, age or religion.
 - Harassment in any form is not tolerated at NetSci 2025 and its related meetings. Participants are encouraged to report immediately any observed or experienced harassment by emailing [helpdesk@klinkhamergroup.com](mailto:helpdesk@klinkhamergroup.com).
 - No harassing photography or audio/video recording are permitted.
