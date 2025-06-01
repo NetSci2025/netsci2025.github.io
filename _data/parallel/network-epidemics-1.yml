@@ -176,35 +176,3 @@ talks:
     and important step towards a new generation of operational epidemic models, which
     integrate genetic sequence data in addition to traditional surveillance reports.
   Time: Wed 15:30 - 15:45
-- Session name: Network Epidemics 1
-  Talk Order: '6'
-  Abstract ID: '603'
-  Presenter: Eugenio Valdano
-  Authors: Eugenio Valdano (INSERM)*; Piero Birello (CEU); Michele Re Fiorentin (Polito);
-    Vittoria Colizza (INSERM); Boxuan Wang (Sorbonne University)
-  Talk title: Estimates of the reproduction ratio from epidemic surveillance may be
-    biased in spatially structured populations
-  Abstract: 'Accurate estimates of the reproduction ratio (Rt) are crucial for projecting
-    the evolution of an infectious disease epidemic and for guiding the public health
-    response. During epidemics, estimates of Rt typically come from surveillance data,
-    e.g., time series ofrecorded cases. However, we prove that estimates of the reproduction
-    ratio based on inference from surveillance data can be inaccurate if the population
-    is made up of a network of spatially distinct communities, as the space–mobility
-    interplay may hide the true evolution of the epidemic from surveillance data.
-    Consequently, we prove that traditional epidemiological surveillance may underestimate
-    the reproduction ratio over long periods, even to the points of mistaking growing
-    epidemics as subsiding ones. To address this, we use the spectral properties of
-    the operator describing the epidemic coupling among spatialcommunities to quantify
-    this error, and to propose a correction that removes it across all epidemic phases,
-    by reweighing surveillance data by the leading eigenvector of this operator. We
-    validate this correction against simulated epidemics and use COVID-19 in France
-    as a case study. Specifically, we find evidence that biased estimates of Rt during
-    the rise of the Alpha variant in early 2021 might have contributed to delaying
-    public health interventions, ultimately making it necessary to enforce the third
-    national lockdown. We show that our correction, if available, would have correctly
-    indicated the growth of the Alpha variant. Beyond this retrospective case study,
-    however, our results apply to any epidemic in which mobility is a driver of circulation.
-    Our findings may help improve epidemic monitoring and surveillance and inform
-    strategies for public health responses.Ref: Birello P, et.al. Nature Physics 20,
-    1204-1210 (2024) doi:10.1038/s41567-024-02471-7'
-  Time: Wed 15:45 - 16:00
