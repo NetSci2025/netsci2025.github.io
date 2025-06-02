@@ -15,7 +15,7 @@ The NetSci School is a two-day educational program just before the main NetSci c
 
 
 
-The school will take place at the room "FPN Heerlen Zaal" of the [Faculty of Psychology and Neuroscience](https://www.google.co.uk/maps/place/Universiteitssingel+40,+6229+ER+Maastricht/@50.8358356,5.7138384,17z/data=!3m1!4b1!4m6!3m5!1s0x47c0e9838bb71633:0xf86151ae38f3c588!8m2!3d50.8358322!4d5.7164133!16s%2Fg%2F11kfbv0hys?entry=tts&g_ep=EgoyMDI1MDQyMy4wIPu8ASoASAFQAw%3D%3D&skid=5a2ab926-26e3-4e0c-8b0d-a4f66d23dd9a). For exact times, please check the [Program](https://netsci2025.github.io/program_at_a_glance/)
+The school will take place at the room "FPN Heerlen Zaal" of the [Faculty of Psychology and Neuroscience](https://maps.app.goo.gl/yTF7bU3pdtQfGmG78). For exact times, please check the [Program](https://netsci2025.github.io/program_at_a_glance/)
 
 
 
