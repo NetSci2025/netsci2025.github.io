@@ -19,9 +19,9 @@ You can download the programs here: [Main Program (PDF)](https://netsci2025.gith
 Click on the Room name to view the entrance location of the venue on the map.
 
 Registrations take place at the following location:
-- FASoS: [GG90-92](https://maps.app.goo.gl/Es4gXeNqmXDfCEC47)
-- FSE (PHS1 and EPD150): [EDP150](https://maps.app.goo.gl/MMmtLs3pW2aWT6DU8)
-- FPN: [UNS40](https://maps.app.goo.gl/yTF7bU3pdtQfGmG78)
+- Faculty of Arts and Social Sciences (FASoS): [room GG90-92](https://maps.app.goo.gl/Es4gXeNqmXDfCEC47)
+- Faculty of Science and Engineering (FSE) (rooms: PHS1 and EPD150): [EDP150](https://maps.app.goo.gl/MMmtLs3pW2aWT6DU8)
+- Faculty of Psychology and Neuroscience (FPN): [room UNS40](https://maps.app.goo.gl/yTF7bU3pdtQfGmG78)
 
 If you come directly to the main conference, your registration will be at [MECC Maastricht](https://www.google.com/maps/dir//Forum+100,+6229+GS+Maastricht/@50.8378029,5.7106924,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x47c0e984d23c2ceb:0x632331a6bf613f76!2m2!1d5.713183!2d50.837747?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D).
 
