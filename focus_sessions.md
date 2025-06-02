@@ -77,7 +77,7 @@ Networks of interacting dynamical units—or simply network dynamical systems—
 ### Organizers:
 Christian Bick (Vrije Universiteit Amsterdam), Nataša Djurdjevac Conrad (Zuse Institute Berlin), Timoteo Carletti (University of Namur), Ivan Kryven (Utrecht University)
 
-### Program
+### Program and Speakers
 
 - **14:00-14:10** Introduction by the Organizers
 - **14:10-14:40** Ginestra Bianconi "Topology and geometry shape the dynamics of higher-order networks"
@@ -85,7 +85,7 @@ Christian Bick (Vrije Universiteit Amsterdam), Nataša Djurdjevac Conrad (Zuse I
 - **15:20-15:50** Tiago Pereira "Emergent hypernetworks in weakly coupled oscillators". 
 
 
-### Speakers
+
 #### Speaker: Ginestra Bianconi (Queen Mary University of London)
 ##### Title: Topology and geometry shape the dynamics of higher-order networks
 Abstract: -
@@ -99,7 +99,7 @@ Abstract: This talk explores emergence in social networks by extending classical
 Abstract: Networks of weakly coupled oscillators have significantly advanced our understanding of complex systems. Studies on model reconstruction have revealed that hypernetworks with  triplet and higher-order interactions frequently arise, despite initial models assuming pairwise interactions. We demonstrate that hypernetworks can spontaneously emerge from pairwise nonlinear coupling under certain resonance conditions. This is supported by experiments with electrochemical oscillators and simulations with integrate-and-fire neurons. Our theory uncovers the mechanism behind emergent hypernetworks and shows that microscopic linear coupling leads to nonlinear mean fields, facilitating hypernetwork formation. These findings help explain the prevalence of hypernetworks and offer a method for predicting and engineering their emergence. 
 
 
-### Spakers
+
 
 <div class="card-container">
           
