@@ -35,36 +35,6 @@ talks:
     synthetic production networks, able to capture the systemic risk of an economy.'
   Time: Wed 14:30 - 14:45
 - Session name: Finance networks and supply chains
-  Talk Order: '2'
-  Abstract ID: '287'
-  Presenter: Tiziano Squartini
-  Authors: Tiziano Squartini (IMT School for Advanced Studies Lucca)*; Valentina Macchiati
-    (Scuola Normale Superiore di Pisa); Emiliano Marchese (IMT School for Advanced
-    Studies Lucca); Piero Mazzarisi (University of Siena); Diego Garlaschelli (IMT
-    School for Advanced Studies Lucca)
-  Talk title: Spectral signatures of structural change in financial networks
-  Abstract: The level of systemic risk in economic and financial systems is strongly
-    determined by the structure of the underlying networks of interdependent entities
-    that can propagate shocks and stresses. Since changes in network structure imply
-    changes in risk levels, it is important to identify structural transitions potentially
-    leading to system-wide crises. Methods have been proposed to assess whether a
-    real-world network is in a (quasi-)stationary state by checking the consistency
-    of its structural evolution with appropriate maximum-entropy ensembles of graphs.
-    While previous analyses of this kind have focused on dyadic and triadic motifs,
-    hence disregarding higher-order structures, here we consider closed walks of any
-    length. Specifically, we study the ensemble properties of the spectral radius
-    of random graph models calibrated on real-world evolving networks. Our approach
-    is shown to work remarkably well for directed networks, both binary and weighted.
-    As illustrative examples, we consider the Electronic Market for Interbank Deposit
-    (e-MID), the Dutch Interbank Network (DIN) and the International Trade Network
-    (ITN) in their evolution across the 2008 crisis. By monitoring the deviation of
-    the spectral radius from its ensemble expectation, we find that the ITN remains
-    in a (quasi-)equilibrium state throughout the period considered, while both the
-    DIN and e-MID exhibit a clear out-of-equilibrium behaviour. The spectral deviation
-    therefore captures ongoing topological changes, extending over all length scales,
-    to provide a compact proxy of the resilience of economic and financial networks.
-  Time: Wed 14:45 - 15:00
-- Session name: Finance networks and supply chains
   Talk Order: '3'
   Abstract ID: '303'
   Presenter: Mattia Marzi
