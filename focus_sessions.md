@@ -77,6 +77,15 @@ Networks of interacting dynamical units—or simply network dynamical systems—
 ### Organizers:
 Christian Bick (Vrije Universiteit Amsterdam), Nataša Djurdjevac Conrad (Zuse Institute Berlin), Timoteo Carletti (University of Namur), Ivan Kryven (Utrecht University)
 
+### Program
+
+- **14:00-14:10** Introduction by the Organizers
+- **14:10-14:40** Ginestra Bianconi "Topology and geometry shape the dynamics of higher-order networks"
+- **14:45-15:15** Christof Schütte "Emergence in multiscale social networks"
+- **15:20-15:50** Tiago Pereira "Emergent hypernetworks in weakly coupled oscillators". 
+
+
+### Speakers
 #### Speaker: Ginestra Bianconi (Queen Mary University of London)
 ##### Title: Topology and geometry shape the dynamics of higher-order networks
 Abstract: -
