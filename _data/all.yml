@@ -173,7 +173,7 @@
   Session_name: Contagion and spreading processes
   Time: Thu 12:00 - 12:15
   Abstract_ID: 391
-  Presenter: Dominic Arthur
+  Presenter: Christopher Banks
   Contribution_title: Utility of Synthetic Epidemiological Data For Inferring Simulated
     SARS-CoV-2 Superspread- ing Event
 - Contribution_type: Contributed Oral
@@ -775,10 +775,10 @@
 - Contribution_type: Contributed Oral
   Session_name: Network Epidemics 1
   Time: Wed 14:30 - 14:45
-  Abstract_ID: 268
-  Presenter: Amanda Perofsky
-  Contribution_title: Modelling the effects of COVID-19 mobility disruptions on RSV
-    transmission in Seattle, Washington
+  Abstract_ID: 429
+  Presenter: Anna Gamza
+  Contribution_title: Spatial aggregation areas for infectious contact network inferred
+    from pathogen sequence data
 - Contribution_type: Contributed Oral
   Session_name: Network Epidemics 1
   Time: Wed 14:45 - 15:00
@@ -796,10 +796,10 @@
 - Contribution_type: Contributed Oral
   Session_name: Network Epidemics 1
   Time: Wed 15:15 - 15:30
-  Abstract_ID: 429
-  Presenter: Anna Gamza
-  Contribution_title: Spatial aggregation areas for infectious contact network inferred
-    from pathogen sequence data
+  Abstract_ID: 268
+  Presenter: Amanda Perofsky
+  Contribution_title: Modelling the effects of COVID-19 mobility disruptions on RSV
+    transmission in Seattle, Washington
 - Contribution_type: Contributed Oral
   Session_name: Network Epidemics 1
   Time: Wed 15:30 - 15:45
@@ -2185,6 +2185,19 @@
   Contribution_title: Competition-induced criticality with heterogeneous meme fitness
 - Contribution_type: Poster
   Session_name: ''
+  Time: Wednesday
+  Abstract_ID: 467
+  Presenter: Shu-ichi Kinoshita
+  Contribution_title: 'Comparative Analysis of Bike Sharing System Usage Patterns Across Major Cities: A Weekday-Weekend Comparison'
+- Contribution_type: Poster
+  Session_name: ''
+  Time: Thursday
+  Abstract_ID: 331
+  Presenter: Tommaso Bertola
+  Contribution_title: Emergence of scaling and organization in the microblogging platform
+    BlueSky
+- Contribution_type: Poster
+  Session_name: ''
   Time: Thursday
   Abstract_ID: 99
   Presenter: Giulia Rotundo
@@ -3131,13 +3144,6 @@
   Presenter: ''
   Contribution_title: 'From segregation to conflict: identifying active and passive
     polarisation'
-- Contribution_type: Poster
-  Session_name: ''
-  Time: Friday
-  Abstract_ID: 331
-  Presenter: ''
-  Contribution_title: Emergence of scaling and organization in the microblogging platform
-    BlueSky
 - Contribution_type: Poster
   Session_name: ''
   Time: Friday
