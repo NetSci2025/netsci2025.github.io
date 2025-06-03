@@ -66,8 +66,6 @@ For more information, please visit [NS](https://www.ns.nl/){:target="_blank"}.
 
 A bus runs every five minutes from Maastricht city center or Maastricht Central Station to MECC Maastricht (bus stop Forum MECC).
 
-Show your NetSci 2025 conference badge when getting on the bus and you can use the public transport for free. This is only valid during the NetSci 2025 conference (June 4-6).
-
 [Plan your public transportation here**](https://9292.nl){:target="_blank"}
 
 
