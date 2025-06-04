@@ -1,5 +1,9 @@
 ---
 layout: all
-title: "All Parallels, Lightning Talks, and Posters"
+title: "Searchable Program"
+parent: Program
+navorder: 7
 permalink: /all/
 ---
+
+
