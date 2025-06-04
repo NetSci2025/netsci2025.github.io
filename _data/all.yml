@@ -631,33 +631,33 @@
   Contribution_title: Fast Computation of the Barycenter Graph in the Spectral Domain
 - Contribution_type: Contributed Oral
   Session_name: Machine Learning 2
-  Time: Wed 14:30 - 14:48
+  Time: Thu 16:30 - 16:45
   Abstract_ID: 164
   Presenter: Moritz Laber
   Contribution_title: Generalization and Efficiency of Graph Neural ODEs for Network
     Dynamical Systems
 - Contribution_type: Contributed Oral
   Session_name: Machine Learning 2
-  Time: Wed 14:48 - 15:06
+  Time: Thu 16:45 - 17:00
   Abstract_ID: 192
   Presenter: Jan von Pichowski
   Contribution_title: Hierarchical Graph Pooling Based on the Map Equation
 - Contribution_type: Contributed Oral
   Session_name: Machine Learning 2
-  Time: Wed 15:06 - 15:24
+  Time: Thu 17:00 - 17:15
   Abstract_ID: 307
   Presenter: Maurizio Titz
   Contribution_title: Predicting Dynamic Stability from Static Features in Power Grid
     Models using Machine Learning
 - Contribution_type: Contributed Oral
   Session_name: Machine Learning 2
-  Time: Wed 15:24 - 15:42
+  Time: Thu 17:15 - 17:30
   Abstract_ID: 531
   Presenter: Franziska Heeg
   Contribution_title: Temporal Graph Isomorphism and Expressivity of Temporal GNNs
 - Contribution_type: Contributed Oral
   Session_name: Machine Learning 2
-  Time: Wed 15:42 - 16:00
+  Time: Thu 17:30 - 17:45
   Abstract_ID: 577
   Presenter: Vince Lyzinski
   Contribution_title: Optimizing the Induced Correlation in Omnibus Joint Graph Embeddings
