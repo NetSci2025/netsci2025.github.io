@@ -80,15 +80,15 @@ Christian Bick (Vrije Universiteit Amsterdam), Nataša Djurdjevac Conrad (Zuse I
 ### Program and Speakers
 
 - **14:00-14:10** Introduction by the Organizers
-- **14:10-14:40** Ginestra Bianconi "Topology and geometry shape the dynamics of higher-order networks"
+- **14:10-14:40** Ginestra Bianconi  "Triadic interactions turn percolation into a fully fledged dynamical process"
 - **14:45-15:15** Christof Schütte "Emergence in multiscale social networks"
 - **15:20-15:50** Tiago Pereira "Emergent hypernetworks in weakly coupled oscillators". 
 
 
 
 #### Speaker: Ginestra Bianconi (Queen Mary University of London)
-##### Title: Topology and geometry shape the dynamics of higher-order networks
-Abstract: -
+##### Title: Triadic interactions turn percolation into a fully fledged dynamical process
+Abstract: Complex systems like the brain, climate, and next-generation artificial intelligence rely on higher-order interactions that extend beyond simple pairwise relationships. This talk reveals the critical role of higher-order networks, structures that capture multi-body interactions, in shaping the dynamics of such systems. We will focus on the role of triadic interactions that occur when one or more nodes modulate the interactions between two other nodes. Triadic interactions are pivotal to describe scenarios in which the giant component is a dynamical entity that can fluctuate over time as it happens in brain functional connectivity or in climate. To this end,  we reveal that triadic interactions can turn percolation into a fully fledged dynamical process changing drastically our understanding of this critical process and opening new scenarios to capture dynamical changes in the giant component of networks and hypergraphs.
 
 #### Speaker: Christof Schütte (Freie Universitaet Berlin and Zuse Institute Berlin) 
 ##### Title: Emergence in multiscale social networks
