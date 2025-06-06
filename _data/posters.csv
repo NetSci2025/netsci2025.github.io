@@ -182,7 +182,7 @@ id,board_number,session,title,authors,category,poster_uploaded
 267,65,thursday,Structural stability of mutualistic social networks on a live streaming platform,"Makoto Takeuchi (CyberAgent, Inc.); Yukie Sano (University of Tsukuba)*",opinion dynamics and social media,1
 55,66,thursday,Evidential Reasoning-based Early-stage Inference of Information Propagation Source in Large-scale Social Networks,Tao Wen (The University of Manchester)*; Yu-wang Chen (The University of Manchester),opinion dynamics and social media,0
 465,67,thursday,Switching for cospectral graphs: new methods and enumeration,Nils Van de Berg (Eindhoven University of Technology)*; Aida Abiad (Eindhoven University of Technology); Robin Simoens (Ghent University),theory,1
-527,68,thursday,Network load reduction through betweenness equalization,Rogier Noldus (Ericsson)*; Zhihao Qiu (TU Delft),theory,0
+527,68,thursday,Network load reduction through betweenness equalization,Rogier Noldus (Ericsson)*; Zhihao Qiu (TU Delft),theory,1
 538,69,thursday,Response to synchronization in distance-dependent coupled heterogeneous oscillators,"Gonzalo Marcelo Ramirez-Avila (naXys, UNamur)*; Timoteo Carletti (naXys, UNamur)",theory,1
 435,70,thursday,Configuring Networks with Semi-Randomized Location Data,Carolyn Fiore (United States Military Academy)*; Sebastian Neumann (United States Military Academy); Geoffrey Moores (United States Military Academy),theory,0
 529,71,thursday,Markovian ε-SIR on the complete graph,Benedetta Giovannelli (Delft University of Technology)*; Piet Van Mieghem (Delft University of Technology),theory,0
