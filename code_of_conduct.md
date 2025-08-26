@@ -3,7 +3,7 @@ layout: page
 title: Code of Conduct
 description: List of code of conduct
 parent: About NetSci2025
-navorder: 3
+navorder: 4
 permalink: /code-of-conduct/
 ---
 
