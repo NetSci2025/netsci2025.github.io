@@ -7,7 +7,7 @@ navorder: 3
 permalink: /conference-awards/
 ---
 
-###Best Student Lightning Talk
+## Best Student Lightning Talk
 
 Meritxell Vila Miñana
 Distinguishing isomorphic graphs with persistent homology on a chordless cycles filtration
@@ -17,7 +17,7 @@ Benchmarking Algorithmic and Neural Approaches for Temporal Community Detection
 
 ----
 
-###Best Student Talk
+## Best Student Talk
 
 Ariadna Fosch i Muntané
 Evolution and robustness of the international trade of food products
@@ -33,7 +33,7 @@ Network Safe Testing: E-Values for Maximum Entropy Models
 
 ----
 
-###Best Poster Awards: Wednesday
+## Best Poster Awards: Wednesday
 
 Niloofar Kheirkhahan
 Data-Driven Resilience Analysis of the Foggia Road Network under Targeted Bridge Attack Scenarios Using Complex Network Theory
@@ -46,7 +46,7 @@ Optimising Cryptocurrency Portfolios Through Stable Clustering of Price Correlat
 
 ----
 
-###Best Poster Awards: Thursday
+## Best Poster Awards: Thursday
 
 Yuliia Kazmina
 Pathways to Upward Mobility in a Longitudinal Population-scale Social Network
@@ -59,7 +59,7 @@ Firm-level Supply Networks and Shock Resilience: A GNN Approach
 
 ----
 
-###Best Poster Awards: Friday
+## Best Poster Awards: Friday
 
 Yuan Zhang
 Quantifying the Spread of Online Incivility in Brazilian Politics
