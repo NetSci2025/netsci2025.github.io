@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Code of Conduct
-description: List of code of conduct
+title: Conference Awards
+description: List of conference awards
 parent: About NetSci2025
-navorder: 4
+navorder: 3
 permalink: /conference-awards/
 ---
