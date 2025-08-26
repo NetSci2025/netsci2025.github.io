@@ -1,0 +1,291 @@
+---
+layout: default
+---
+
+{% include metadata.liquid %}
+{% include header.html %}
+
+<style>
+  /* Base spacing */
+  main {
+    padding-top: 70px;
+  }
+
+  main h2,
+  main h3,
+  main h4,
+  main h5,
+  main h6 {
+    margin-top: 1.25em;
+    margin-bottom: 1em;
+  }
+
+  /* Speakers section */
+  .speakers-section {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #f9f9f9;
+  }
+
+  .speakers-section h2 {
+    margin-bottom: 30px;
+    font-family: "Open Sauce", sans-serif;
+    color: #030305;
+  }
+
+  /* Generic card grid */
+  .card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 35px 15px;
+    padding: 0 40px;
+    justify-items: center;
+  }
+
+  @media (min-width: 1200px) {
+    .card-container {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .speaker-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 450px;
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+
+  .speaker-card img {
+    height: 220px;
+    max-width: 220px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+  }
+
+  .speaker-card .speaker-name {
+    margin-bottom: 15px;
+    font-family: "Open Sauce", sans-serif;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #fc1b06;
+  }
+
+  .speaker-card .red-line {
+    width: 50px;
+    height: 3px;
+    margin: 10px auto;
+    background-color: #fc1b06;
+  }
+
+  .speaker-card .title {
+    width: 100%;
+    margin-bottom: 5px;
+    font-family: "Open Sauce", sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #030305;
+    text-align: left;
+  }
+
+  .speaker-card .subtitle {
+    width: 100%;
+    margin-bottom: 15px;
+    font-family: "Open Sauce", sans-serif;
+    font-size: 1rem;
+    color: #353535;
+    text-align: left;
+  }
+
+  .speaker-card .description {
+    margin-top: 10px;
+    font-family: "Open Sauce", sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: #353535;
+    text-align: left;
+  }
+
+  .session-title {
+    margin: 60px 0 25px;
+    font-family: "Open Sauce", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #555;
+  }
+
+  .session-title:first-of-type {
+    margin-top: 20px;
+  }
+
+  /* Awards cards */
+  .awards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 22px;
+  }
+
+  .award-card {
+    background: #fff;
+    border: 1px solid rgba(3, 3, 5, 0.06);
+    border-radius: 14px;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+  }
+
+  .award-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 18px;
+    background: linear-gradient(180deg, rgba(252, 27, 6, 0.08), rgba(252, 27, 6, 0.02));
+    border-bottom: 1px solid rgba(252, 27, 6, 0.18);
+  }
+
+  .award-icon {
+    display: grid;
+    place-items: center;
+    width: 34px;
+    height: 34px;
+    font-size: 18px;
+    line-height: 1;
+    color: #fff;
+    background: #fc1b06;
+    border-radius: 50%;
+  }
+
+  .award-title {
+    margin: 0;
+    font-family: "Open Sauce", sans-serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #030305;
+  }
+
+  .award-body {
+    padding: 16px 18px 18px;
+  }
+
+  .award-list {
+    display: grid;
+    gap: 14px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .award-item .name {
+    margin-bottom: 2px;
+    font-weight: 700;
+    color: #030305;
+  }
+
+  .award-item .paper {
+    font-size: 0.98rem;
+    line-height: 1.45;
+    color: #444;
+  }
+</style>
+
+
+<main class="my-4 {{ page.class }}">
+    <div class="container">
+        <h1 class="display-5">{{ title }}</h1>
+        <hr class="my-4">
+        <div id="md-awards-source">
+            {{ content }}
+        </div>
+
+      
+        <section aria-labelledby="awards-heading" style="margin-top:28px;">
+            <h2 id="awards-heading" class="session-title">Conference Awards (Card View)</h2>
+            <div class="awards-grid" id="awards-grid"></div>
+        </section>
+    </div>
+</main>
+
+<script>
+
+(function () {
+    const source = document.getElementById('md-awards-source');
+    const grid   = document.getElementById('awards-grid');
+    if (!source || !grid) return;
+
+
+    const nodes = Array.from(source.children);
+
+
+    function pickIcon(title) {
+        if (/Lightning/i.test(title)) return '⚡';
+        if (/Poster/i.test(title))    return '📌';
+        if (/Student Talk/i.test(title)) return '🏆';
+        return '⭐';
+    }
+
+
+    let i = 0;
+    while (i < nodes.length) {
+        const n = nodes[i];
+
+        if (n.tagName === 'H3') {
+            const cardTitle = n.textContent.trim();
+            const icon = pickIcon(cardTitle);
+            const items = [];
+
+            i++;
+
+            while (i < nodes.length && nodes[i].tagName !== 'H3' && nodes[i].tagName !== 'HR') {
+                if (nodes[i].tagName === 'H4') {
+                    const name = nodes[i].textContent.trim();
+                    let paper = '';
+                    let j = i + 1;
+                    while (j < nodes.length && nodes[j].tagName !== 'H4' && nodes[j].tagName !== 'H3' && nodes[j].tagName !== 'HR') {
+                        if (nodes[j].tagName === 'P') {
+                            paper = nodes[j].textContent.trim();
+                            break;
+                        }
+                        j++;
+                    }
+                    items.push({ name, paper });
+                }
+                i++;
+            }
+
+            if (i < nodes.length && nodes[i].tagName === 'HR') i++;
+
+            const article = document.createElement('article');
+            article.className = 'award-card';
+            article.innerHTML = `
+                <header class="award-header">
+                    <div class="award-icon" aria-hidden="true">${icon}</div>
+                    <h3 class="award-title">${cardTitle}</h3>
+                </header>
+                <div class="award-body">
+                    <ul class="award-list">
+                        ${items.map(it => `
+                            <li class="award-item">
+                                <div class="name">${it.name}</div>
+                                <div class="paper">${it.paper || ''}</div>
+                            </li>
+                        `).join('')}
+                    </ul>
+                </div>
+            `;
+            grid.appendChild(article);
+            continue;
+        } else {
+            i++;
+        }
+    }
+
+    source.style.display = 'none';
+})();
+</script>
+
+{% include footer.html %}
