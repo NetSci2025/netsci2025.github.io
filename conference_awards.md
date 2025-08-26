@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: award
 title: Conference Awards
 description: List of conference awards
 parent: About NetSci2025
